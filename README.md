@@ -1,5 +1,9 @@
 # Atkinson Hyperlegible Pro
 
+With Alternative Flipped Zero
+
+---
+
 ![Brochure Overview](docs/BIA_Brochure-Overview.jpg)
 
 ## Learn more at [brailleinstitute.org/freefont](https://brailleinstitute.org/freefont)
