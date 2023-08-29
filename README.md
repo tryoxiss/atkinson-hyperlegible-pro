@@ -1,10 +1,10 @@
-# Atkinson Hyperlegible Font Project
+# Atkinson Hyperlegible Pro
 
 ![Brochure Overview](docs/BIA_Brochure-Overview.jpg)
 
 ## Learn more at [brailleinstitute.org/freefont](https://brailleinstitute.org/freefont)
 
-Atkinson Hyperlegible is a new typeface, offering greater legibility and readability for low vision readers. 
+Atkinson Hyperlegible is a new typeface, offering greater legibility and readability for low vision readers.
 The font is named after Braille Institute founder, J. Robert Atkinson.
 What makes it different from traditional typography design is that it focuses on letterform distinction to increase character recognition, ultimately improving readability.
 
@@ -22,9 +22,9 @@ Informational sheet about Atkinson Hyperlegible font, with samples of informatio
 
 "Download the Font …and change the world!"
 
-#### Instructions for Installing the Font
+### Instructions for Installing the Font
 
-* Download the .zip file [from Github](https://github.com/googlefonts/atkinson-hyperlegible/archive/main.zip) (for now, and in future, from Google Fonts)
+* Download the .zip file [from Github](https://github.com/googlefonts/atkinson-hyperlegible/archive/main.zip)
 * Extract the file to reveal additional folders inside. Find the Open Type Format (.otf) files for the four Atkinson Hyperlegible fonts (regular, italic, bold, bold italic) inside the “fonts/otf” folder.
 * Note that only the otf files are needed to install the font on a computer, and there are five additional font formats in the “Web Fonts” folder for use on the web.
 * On Windows 10: Double-click the font file, then click the “Install” button in the font preview window that opens. The font will be installed. Alternatively, right-click on the file and choose “Install” from the pop-up menu that appears.
