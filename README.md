@@ -9,8 +9,9 @@ With Alternative Flipped Zero
 ## Learn more at [brailleinstitute.org/freefont](https://brailleinstitute.org/freefont)
 
 Atkinson Hyperlegible is a new typeface, offering greater legibility and readability for low vision readers.
-The font is named after Braille Institute founder, J. Robert Atkinson.
-What makes it different from traditional typography design is that it focuses on letterform distinction to increase character recognition, ultimately improving readability.
+The font is named after Braille Institute founder, J. Robert Atkinson. What makes it different from traditional
+typography design is that it focuses on letterform distinction to increase character recognition, ultimately
+improving readability.
 
 The Braille Institute has made this free for anyone to use, under the SIL Open Font License.
 
@@ -34,7 +35,7 @@ Informational sheet about Atkinson Hyperlegible font, with samples of informatio
 * On Windows 10: Double-click the font file, then click the “Install” button in the font preview window that opens. The font will be installed. Alternatively, right-click on the file and choose “Install” from the pop-up menu that appears.
 * On Mac: Double-click the font file in the Finder, then click “Install Font” in the font preview window that opens. After your Mac validates the font and opens the Font Book app, the font is installed and available for use.
 
-### Change Log
+## Change Log
 
 * Added alternative reversed number zero
 * Added copyleft glyph
