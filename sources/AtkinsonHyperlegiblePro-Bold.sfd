@@ -1,5 +1,5 @@
 SplineFontDB: 3.2
-FontName: AtkHyperlegiblePro-Bold
+FontName: AtkinsonHyperPro-Bold
 FullName: Atkinson Hyperlegible Pro Bold
 FamilyName: Atkinson Hyperlegible Pro
 Weight: Bold
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1693211313
+ModificationTime: 1693288797
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
