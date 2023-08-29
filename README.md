@@ -37,7 +37,8 @@ Informational sheet about Atkinson Hyperlegible font, with samples of informatio
 
 ### Flipping the Zero
 
-On your CSS add `font-variant-numeric: slashed-zero;`
+By default the zero remains as it is however you can flip the zero by adding
+`font-variant-numeric: slashed-zero;` to your CSS file.
 
     body {
       font-size: 100%;
@@ -45,6 +46,8 @@ On your CSS add `font-variant-numeric: slashed-zero;`
       font-weight: 400;
       font-variant-numeric: slashed-zero;
     }
+
+And thats it the zero has been flipped
 
 ## Change Log
 
