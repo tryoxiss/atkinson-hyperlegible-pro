@@ -29,11 +29,22 @@ Informational sheet about Atkinson Hyperlegible font, with samples of informatio
 
 ### Instructions for Installing the Font
 
-* Download the font [from Github](https://github.com/jacobxperez/atkinson-hyperlegible-pro/archive/refs/heads/main.zip)
+* [Download](https://github.com/jacobxperez/atkinson-hyperlegible-pro/archive/refs/heads/main.zip) the font from Github
 * Extract the file to reveal additional folders inside. Find the Open Type Format (.otf) files for the four Atkinson Hyperlegible fonts (regular, italic, bold, bold italic) inside the “fonts/otf” folder.
 * Note that only the otf files are needed to install the font on a computer, and there are five additional font formats in the “Web Fonts” folder for use on the web.
 * On Windows 10: Double-click the font file, then click the “Install” button in the font preview window that opens. The font will be installed. Alternatively, right-click on the file and choose “Install” from the pop-up menu that appears.
 * On Mac: Double-click the font file in the Finder, then click “Install Font” in the font preview window that opens. After your Mac validates the font and opens the Font Book app, the font is installed and available for use.
+
+### Flipping the Zero
+
+On your CSS add `font-variant-numeric: slashed-zero;`
+
+    body {
+      font-size: 100%;
+      font-family: "Atkinson Hyperlegible Pro", sans-serif;
+      font-weight: 400;
+      font-variant-numeric: slashed-zero;
+    }
 
 ## Change Log
 
