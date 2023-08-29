@@ -22,8 +22,6 @@ The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
 
 Informational sheet about Atkinson Hyperlegible font, with samples of informational brochures, business card, and more with text in the font: [Download Summary Document [.pdf]](docs/BIA_AtkinsonHyerlegible-Specimen_2020-02-10.pdf)
 
-"Download the Font …and change the world!"
-
 ### Installing the Font
 
 * [Download](https://github.com/jacobxperez/atkinson-hyperlegible-pro/archive/refs/heads/main.zip) the font from Github
