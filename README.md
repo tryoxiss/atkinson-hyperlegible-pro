@@ -47,7 +47,7 @@ By default the zero remains as it is however you can flip the zero by adding
       font-variant-numeric: slashed-zero;
     }
 
-And thats it the zero has been flipped
+And thats it the zero has been flipped!!
 
 ## Change Log
 
