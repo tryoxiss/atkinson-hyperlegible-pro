@@ -25,8 +25,8 @@ Informational sheet about Atkinson Hyperlegible font, with samples of informatio
 ### Installing the Font
 
 * [Download](https://github.com/jacobxperez/atkinson-hyperlegible-pro/archive/refs/heads/main.zip) the font from Github
-* Extract the file to reveal additional folders inside. Find the Open Type Format (.otf) files for the four Atkinson Hyperlegible fonts (regular, italic, bold, bold italic) inside the “fonts/otf” folder.
-* Note that only the otf files are needed to install the font on a computer, and there are five additional font formats in the “Web Fonts” folder for use on the web.
+* Extract the file to reveal additional folders inside. Find the Open Type Format (.otf) files for the four Atkinson Hyperlegible Prro fonts (regular, italic, bold, bold italic) inside the “fonts/otf” folder.
+* Note that only the otf files are needed to install the font on a computer.
 * On Windows 10: Double-click the font file, then click the “Install” button in the font preview window that opens. The font will be installed. Alternatively, right-click on the file and choose “Install” from the pop-up menu that appears.
 * On Mac: Double-click the font file in the Finder, then click “Install Font” in the font preview window that opens. After your Mac validates the font and opens the Font Book app, the font is installed and available for use.
 
