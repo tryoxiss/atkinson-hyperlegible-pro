@@ -11,10 +11,7 @@ With Alternative Flipped Zero `0`
 Atkinson Hyperlegible is a new typeface, offering greater legibility and readability for low vision readers.
 The font is named after Braille Institute founder, J. Robert Atkinson. What makes it different from traditional
 typography design is that it focuses on letterform distinction to increase character recognition, ultimately
-improving readability.
-
-The Braille Institute has made this free for anyone to use, under the SIL Open Font License.
-
+improving readability. The Braille Institute has made this free for anyone to use, under the SIL Open Font License.
 The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
 
 * Four fonts, including two weights (regular, bold, italics, italics bold)
@@ -27,7 +24,7 @@ Informational sheet about Atkinson Hyperlegible font, with samples of informatio
 
 "Download the Font …and change the world!"
 
-### Instructions for Installing the Font
+### Installing the Font
 
 * [Download](https://github.com/jacobxperez/atkinson-hyperlegible-pro/archive/refs/heads/main.zip) the font from Github
 * Extract the file to reveal additional folders inside. Find the Open Type Format (.otf) files for the four Atkinson Hyperlegible fonts (regular, italic, bold, bold italic) inside the “fonts/otf” folder.
@@ -54,10 +51,6 @@ And thats it the zero has been flipped!!
 * Added alternative reversed number zero
 * Added copyleft glyph
 
-## License
-
-SIL Open Font License, v1.1. See [OFL.txt](OFL.txt) for details.
-
 ## Unique design features
 
 For Low vision readers, certain letters and numbers can be hard to distinguish from one another.
@@ -83,3 +76,7 @@ Opened Counterspace: Open areas of certain letters are expanded to provide great
 Angled spurs and differentiated tails: Increase recognition and define distinctive style
 
 Circular Details: Links to the history of Braille Institute and braille dots
+
+## License
+
+SIL Open Font License, v1.1. See [OFL.txt](OFL.txt) for details.
