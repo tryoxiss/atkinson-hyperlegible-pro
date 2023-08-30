@@ -57,6 +57,7 @@ OS2XHeight: 496
 OS2Vendor: 'NONE'
 OS2CodePages: 20000003.00000000
 OS2UnicodeRanges: 800000ef.0000204b.00000000.00000000
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0" { "'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'MOL ' 'dflt' > ) ]
 Lookup: 1 0 0 "'zero' Slashed Zero lookup 0" { "'zero' Slashed Zero lookup 0-1"  } ['zero' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'MOL ' 'dflt' > ) ]
 Lookup: 1 0 0 "'aalt' Access All Alternates lookup 0" { "'aalt' Access All Alternates lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 3 0 0 "'aalt' Access All Alternates lookup 1" { "'aalt' Access All Alternates lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
@@ -27160,6 +27161,7 @@ SplineSet
  735 631 735 631 709 604.5 c 128,-1,38
  683 578 683 578 645 578 c 0,29,30
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f i
 EndChar
 
 StartChar: f_f
@@ -27210,6 +27212,7 @@ SplineSet
  552 0 l 1,47,-1
  397 0 l 1,0,-1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f
 EndChar
 
 StartChar: f_f_i
@@ -27273,6 +27276,7 @@ SplineSet
  1114 631 1114 631 1088 604.5 c 128,-1,60
  1062 578 1062 578 1024 578 c 0,51,52
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f i
 EndChar
 
 StartChar: f_l
@@ -27318,6 +27322,7 @@ SplineSet
  623 0 l 1,42,-1
  526 0 l 2,0,1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f l
 EndChar
 EndChars
 EndSplineFont
