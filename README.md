@@ -1,6 +1,6 @@
 # Atkinson Hyperlegible Pro
 
-With Alternative Flipped Zero `0`
+With Ligatures and Alternative Flipped Zero `0`
 
 ---
 
@@ -46,9 +46,9 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
-* Added alternative reversed number zero
+* Added alternative reversed number zero `0`
 * Added copyleft glyph
-* Added ligatures for fi ff ffi fl ffl
+* Added ligatures for `fi ff ffi fl ffl`
 
 ## Unique design features
 
