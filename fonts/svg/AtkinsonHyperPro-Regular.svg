@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20230101 at Tue Aug 29 22:48:24 2023
+Created by FontForge 20230101 at Thu Aug 31 00:13:04 2023
  By jacob
 Copyright 2020 Braille Institute of America, Inc.
 </metadata>
@@ -25,6 +25,18 @@ Copyright 2020 Braille Institute of America, Inc.
   />
 <missing-glyph horiz-adv-x="527" 
 d="M50 0v700h427v-700h-427zM263 371l186 309h-371zM457 47v605l-181 -302zM71 49l180 301l-180 300v-601zM79 21h370l-185 308z" />
+    <glyph glyph-name="f_i" unicode="fi" horiz-adv-x="589" 
+d="M425 0v429h-242v-429h-84v429h-84v67h84v74q0 51 10 81t39 42.5t84 12.5h54v-71h-52q-32 0 -41.5 -13t-9.5 -51v-75h326v-496h-84zM467 590q-25 0 -43.5 18.5t-18.5 44.5t18.5 44t43.5 18q26 0 44.5 -18t18.5 -44t-18.5 -44.5t-44.5 -18.5z" />
+    <glyph glyph-name="f_f" unicode="ff" horiz-adv-x="622" 
+d="M410 0v429h-227v-429h-84v429h-84v67h84v74q0 51 10 81t39 42.5t84 12.5h54v-71h-52q-32 0 -41.5 -13t-9.5 -51v-75h227v74q0 51 10 81t39 42.5t84 12.5h54v-71h-52q-32 0 -41.5 -13t-9.5 -51v-75h103v-67h-103v-429h-84z" />
+    <glyph glyph-name="f_f_i" unicode="ffi" horiz-adv-x="900" 
+d="M736 0v429h-242v-429h-84v429h-227v-429h-84v429h-84v67h84v74q0 51 10 81t39 42.5t84 12.5h54v-71h-52q-32 0 -41.5 -13t-9.5 -51v-75h227v74q0 51 10 81t39 42.5t84 12.5h54v-71h-52q-32 0 -41.5 -13t-9.5 -51v-75h326v-496h-84zM778 590q-25 0 -43.5 18.5t-18.5 44.5
+t18.5 44t43.5 18q26 0 44.5 -18t18.5 -44t-18.5 -44.5t-44.5 -18.5z" />
+    <glyph glyph-name="f_l" unicode="fl" horiz-adv-x="550" 
+d="M498 0q-47 0 -72.5 9.5t-35 36.5t-9.5 78v305h-198v-429h-84v429h-84v67h84v74q0 51 10 81t39 42.5t84 12.5h54v-71h-52q-32 0 -41.5 -13t-9.5 -51v-75h198v171h84v-529q0 -38 8 -51t43 -13h19v-74h-37z" />
+    <glyph glyph-name="f_f_l" unicode="ffl" horiz-adv-x="861" 
+d="M410 0v429h-227v-429h-84v429h-84v67h84v74q0 51 10 81t39 42.5t84 12.5h54v-71h-52q-32 0 -41.5 -13t-9.5 -51v-75h227v74q0 51 10 81t39 42.5t84 12.5h54v-71h-52q-32 0 -41.5 -13t-9.5 -51v-75h198v171h84v-529q0 -38 8 -51t43 -13h19v-74h-37q-47 0 -72.5 9.5
+t-35 36.5t-9.5 78v305h-198v-429h-84z" />
     <glyph glyph-name=".notdef" horiz-adv-x="527" 
 d="M50 0v700h427v-700h-427zM263 371l186 309h-371zM457 47v605l-181 -302zM71 49l180 301l-180 300v-601zM79 21h370l-185 308z" />
     <glyph glyph-name="NULL" horiz-adv-x="600" 
