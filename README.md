@@ -48,6 +48,7 @@ And thats it the zero has been flipped!!
 
 * Added alternative reversed number zero
 * Added copyleft glyph
+* Added ligatures for fi ff ffi fl ffl
 
 ## Unique design features
 
