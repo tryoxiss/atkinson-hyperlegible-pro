@@ -17,17 +17,17 @@ The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
 * Four fonts, including two weights (regular, bold, italics, italics bold)
 * 1,340 total glyphs across all fonts, 335 per font
 * Accent characters supporting 27 languages
-* For designers and anyone interested in making written materials easier to read across the entire visual-ability spectrum
+* For designers and anyone interested in making written materials easier to read across the visual-ability spectrum
 * Improve legibility and readability for low vision readers
 
 Informational sheet about Atkinson Hyperlegible font, with samples of informational brochures, business card, and more with text in the font: [Download Summary Document [.pdf]](docs/BIA_AtkinsonHyerlegible-Specimen_2020-02-10.pdf)
 
 ### Installing the Font
 
-* [Download](https://github.com/jacobxperez/atkinson-hyperlegible-pro/archive/refs/heads/main.zip) the font from Github
-* Extract the file to reveal additional folders inside. Find the Open Type Format (.otf) files for the four Atkinson Hyperlegible Prro fonts (regular, italic, bold, bold italic) inside the “fonts/otf” folder.
+* **[Download](https://github.com/jacobxperez/atkinson-hyperlegible-pro/archive/refs/heads/main.zip)** the font from this Github repository.
+* Extract the file to reveal additional folders inside. Find the Open Type Format (.otf) files for the four Atkinson Hyperlegible Pro fonts (regular, italic, bold, bold italic) inside the “fonts/otf” folder.
 * Note that only the otf files are needed to install the font on a computer.
-* On Windows 10: Double-click the font file, then click the “Install” button in the font preview window that opens. The font will be installed. Alternatively, right-click on the file and choose “Install” from the pop-up menu that appears.
+* On Windows 10: Double-click the font file, then click the “Install” button in the font preview window that opens. The font will be installed. Alternatively, right-click on the file and choose “Install” from the pop-up menu.
 * On Mac: Double-click the font file in the Finder, then click “Install Font” in the font preview window that opens. After your Mac validates the font and opens the Font Book app, the font is installed and available for use.
 
 ### Flipping the Zero
