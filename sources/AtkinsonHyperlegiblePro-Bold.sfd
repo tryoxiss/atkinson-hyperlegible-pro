@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1693464006
+ModificationTime: 1693464286
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -28152,7 +28152,7 @@ SplineSet
  1045 0 l 1,50,-1
  948 0 l 2,0,1
 EndSplineSet
-LCarets2: 2 0 0
+LCarets2: 2 390 746
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f l
 EndChar
 EndChars
