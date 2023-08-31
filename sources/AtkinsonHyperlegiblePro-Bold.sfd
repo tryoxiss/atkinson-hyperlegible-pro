@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1693452564
+ModificationTime: 1693464006
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -4004,7 +4004,7 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "" "" "Version 1.006; ttfautohint (v1.8.3)" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-Encoding: ISO8859-1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -4014,7 +4014,7 @@ WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 3 subtable"
-BeginChars: 437 373
+BeginChars: 438 374
 
 StartChar: .notdef
 Encoding: 256 -1 0
@@ -28097,6 +28097,63 @@ SplineSet
 EndSplineSet
 LCarets2: 1 378
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f l
+EndChar
+
+StartChar: f_f_l
+Encoding: 437 64260 373
+Width: 1048
+LayerCount: 2
+Fore
+SplineSet
+948 0 m 2,0,1
+ 887 0 887 0 851 10.5 c 128,-1,2
+ 815 21 815 21 799.5 51.5 c 128,-1,3
+ 784 82 784 82 784 140 c 2,4,-1
+ 784 380 l 1,5,-1
+ 606 380 l 1,6,-1
+ 606 0 l 1,7,-1
+ 454 0 l 1,8,-1
+ 454 380 l 1,9,-1
+ 239 380 l 1,10,-1
+ 239 0 l 1,11,-1
+ 87 0 l 1,12,-1
+ 87 380 l 1,13,-1
+ 5 380 l 1,14,-1
+ 5 496 l 1,15,-1
+ 87 496 l 1,16,-1
+ 87 577 l 2,17,18
+ 87 636 87 636 107 669 c 128,-1,19
+ 127 702 127 702 169 715 c 128,-1,20
+ 211 728 211 728 278 728 c 2,21,-1
+ 347 728 l 1,22,-1
+ 347 608 l 1,23,-1
+ 305 608 l 2,24,25
+ 265 608 265 608 252 600 c 128,-1,26
+ 239 592 239 592 239 563 c 2,27,-1
+ 239 496 l 1,28,-1
+ 454 496 l 1,29,-1
+ 454 577 l 2,30,31
+ 454 636 454 636 474 669 c 128,-1,32
+ 494 702 494 702 536 715 c 128,-1,33
+ 578 728 578 728 645 728 c 2,34,-1
+ 714 728 l 1,35,-1
+ 714 608 l 1,36,-1
+ 672 608 l 2,37,38
+ 632 608 632 608 619 600 c 128,-1,39
+ 606 592 606 592 606 563 c 2,40,-1
+ 606 496 l 1,41,-1
+ 784 496 l 1,42,-1
+ 784 668 l 1,43,-1
+ 936 668 l 1,44,-1
+ 936 180 l 2,45,46
+ 936 145 936 145 950 134.5 c 128,-1,47
+ 964 124 964 124 1002 124 c 2,48,-1
+ 1045 124 l 1,49,-1
+ 1045 0 l 1,50,-1
+ 948 0 l 2,0,1
+EndSplineSet
+LCarets2: 2 0 0
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f l
 EndChar
 EndChars
 EndSplineFont
