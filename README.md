@@ -53,10 +53,7 @@ And thats it the zero has been flipped!!
 ## Unique design features
 
 For Low vision readers, certain letters and numbers can be hard to distinguish from one another.
-
-Atkinson Hyperlegible differentiates common misinterpreted letters and numbers using various design techniques: B vs 8, 1 vs L vs l vs I.
-
-Recognizable Footprints: Character boundaries clearly defined, ensuring understanding across the visual-ability spectrum.
+Atkinson Hyperlegible differentiates common misinterpreted letters and numbers using various design techniques: B vs 8, 1 vs L vs l vs I. Recognizable Footprints: Character boundaries clearly defined, ensuring understanding across the visual-ability spectrum.
 
 Differentiated letterforms: Similar letter pairs are differentiated from each other to dramatically increase legibility.
 
