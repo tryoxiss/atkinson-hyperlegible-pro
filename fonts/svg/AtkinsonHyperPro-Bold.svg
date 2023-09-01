@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20230101 at Thu Aug 31 00:44:46 2023
+Created by FontForge 20230101 at Fri Sep 01 02:31:09 2023
  By jacob
 Copyright 2020 Braille Institute of America, Inc.
 </metadata>
@@ -25,17 +25,17 @@ Copyright 2020 Braille Institute of America, Inc.
   />
 <missing-glyph horiz-adv-x="527" 
 d="M50 0v700h427v-700h-427zM263 371l186 309h-371zM457 47v605l-181 -302zM71 49l180 301l-180 300v-601zM79 21h370l-185 308z" />
-    <glyph glyph-name="f_i" unicode="fi" horiz-adv-x="682" 
-d="M485 0v380h-246v-380h-152v380h-82v116h82v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h399v-496h-153zM562 578q-37 0 -63.5 26.5t-26.5 63.5q0 38 26.5 64t63.5 26q38 0 64 -26t26 -64q0 -37 -26 -63.5t-64 -26.5z" />
-    <glyph glyph-name="f_f" unicode="ff" horiz-adv-x="734" 
-d="M454 0v380h-215v-380h-152v380h-82v116h82v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h215v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h108v-116h-108v-380h-152z" />
-    <glyph glyph-name="f_f_i" unicode="ffi" horiz-adv-x="1049" 
-d="M852 0v380h-246v-380h-152v380h-215v-380h-152v380h-82v116h82v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h215v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h399v-496h-153zM929 578q-37 0 -63.5 26.5t-26.5 63.5
+    <glyph glyph-name="f_i" unicode="fi" horiz-adv-x="636" 
+d="M439 0v380h-200v-380h-152v380h-82v116h82v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h353v-496h-153zM516 578q-37 0 -63.5 26.5t-26.5 63.5q0 38 26.5 64t63.5 26q38 0 64 -26t26 -64q0 -37 -26 -63.5t-64 -26.5z" />
+    <glyph glyph-name="f_f" unicode="ff" horiz-adv-x="719" 
+d="M439 0v380h-200v-380h-152v380h-82v116h82v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h200v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h108v-116h-108v-380h-152z" />
+    <glyph glyph-name="f_f_i" unicode="ffi" horiz-adv-x="973" 
+d="M791 0v380h-200v-380h-152v380h-200v-380h-152v380h-82v116h82v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h200v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h353v-496h-153zM868 578q-37 0 -63.5 26.5t-26.5 63.5
 q0 38 26.5 64t63.5 26q38 0 64 -26t26 -64q0 -37 -26 -63.5t-64 -26.5z" />
-    <glyph glyph-name="f_l" unicode="fl" horiz-adv-x="681" 
-d="M581 0q-61 0 -97 10.5t-51.5 41t-15.5 88.5v240h-178v-380h-152v380h-82v116h82v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h178v172h152v-488q0 -35 14 -45.5t52 -10.5h43v-124h-97z" />
-    <glyph glyph-name="f_f_l" unicode="ffl" horiz-adv-x="1048" 
-d="M948 0q-61 0 -97 10.5t-51.5 41t-15.5 88.5v240h-178v-380h-152v380h-215v-380h-152v380h-82v116h82v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h215v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h178v172h152v-488
+    <glyph glyph-name="f_l" unicode="fl" horiz-adv-x="718" 
+d="M618 0q-61 0 -97 10.5t-51.5 41t-15.5 88.5v240h-215v-380h-152v380h-82v116h82v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h215v172h152v-488q0 -35 14 -45.5t52 -10.5h43v-124h-97z" />
+    <glyph glyph-name="f_f_l" unicode="ffl" horiz-adv-x="1085" 
+d="M985 0q-61 0 -97 10.5t-51.5 41t-15.5 88.5v240h-215v-380h-152v380h-215v-380h-152v380h-82v116h82v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h215v81q0 59 20 92t62 46t109 13h69v-120h-42q-40 0 -53 -8t-13 -37v-67h215v172h152v-488
 q0 -35 14 -45.5t52 -10.5h43v-124h-97z" />
     <glyph glyph-name=".notdef" horiz-adv-x="527" 
 d="M50 0v700h427v-700h-427zM263 371l186 309h-371zM457 47v605l-181 -302zM71 49l180 301l-180 300v-601zM79 21h370l-185 308z" />
