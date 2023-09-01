@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1693555653
+ModificationTime: 1693560207
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4004,7 +4004,7 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "" "" "Version 1.006; ttfautohint (v1.8.3)" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-Encoding: ISO8859-1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -4021,6 +4021,8 @@ Encoding: 256 -1 0
 Width: 527
 GlyphClass: 1
 Flags: W
+HStem: 0 21<79 449> 680 20<78 449>
+VStem: 50 21<49 650> 457 20<47 652>
 TtInstrs:
 NPUSHB
  51
@@ -4150,6 +4152,8 @@ Encoding: 48 48 5
 Width: 648
 GlyphClass: 1
 Flags: W
+HStem: -12 74<241.969 405.767> 606 74<241.757 406.031>
+VStem: 60 91<178.169 483.765> 497 91<191.274 491.112>
 TtInstrs:
 NPUSHB
  50
@@ -4243,6 +4247,8 @@ Encoding: 49 49 6
 Width: 402
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<220 304> 504 67<42 180.157> 648 20G<241 304>
+VStem: 220 84<0 504> 248 56<627.278 668>
 TtInstrs:
 NPUSHB
  32
@@ -4306,6 +4312,8 @@ Encoding: 50 50 7
 Width: 549
 GlyphClass: 1
 Flags: W
+HStem: 0 77<147 515> 498 21G<73 149> 610 70<201.781 362.328>
+VStem: 59 84<520 554.102> 408 89<409.826 565.402>
 TtInstrs:
 NPUSHB
  45
@@ -4394,6 +4402,8 @@ Encoding: 51 51 8
 Width: 574
 GlyphClass: 1
 Flags: W
+HStem: -12 70<187.288 363.101> 314 76<218 352.88> 498 21G<65.6667 139> 610 70<193.073 359.619>
+VStem: 52 82<519.951 551.747> 407 88<436.237 567.259> 424 90<112.819 257.456>
 TtInstrs:
 NPUSHB
  65
@@ -4515,6 +4525,8 @@ Encoding: 52 52 9
 Width: 614
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<370 454> 165 79<129 370 454 576> 648 20G<353.387 454>
+VStem: 370 84<0 165 244 553>
 TtInstrs:
 NPUSHB
  48
@@ -4600,6 +4612,8 @@ Encoding: 53 53 10
 Width: 583
 GlyphClass: 1
 Flags: W
+HStem: -12 70<196.477 362.063> 378 72<202.016 363.328> 587 81<181 496>
+VStem: 433 88<130.176 308.978>
 TtInstrs:
 NPUSHB
  62
@@ -4711,6 +4725,8 @@ Encoding: 54 54 11
 Width: 598
 GlyphClass: 1
 Flags: W
+HStem: -12 71<222.029 382.168> 371 74<222.535 383.03> 610 70<236.756 388.36>
+VStem: 60 87<352 479.422> 448 90<127.166 302.577>
 TtInstrs:
 NPUSHB
  65
@@ -4827,6 +4843,7 @@ Encoding: 55 55 12
 Width: 510
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<93 207.472> 587 81<15 383>
 TtInstrs:
 NPUSHB
  33
@@ -4888,6 +4905,8 @@ Encoding: 56 56 13
 Width: 615
 GlyphClass: 1
 Flags: W
+HStem: -12 74<212.304 402.64> 317 74<243.125 371.303> 606 74<242.601 371.16>
+VStem: 60 91<117.132 260.196> 126 74<433.675 563.728> 414 75<433.675 563.728> 464 91<117.132 260.196>
 TtInstrs:
 NPUSHB
  66
@@ -5013,6 +5032,8 @@ Encoding: 57 57 14
 Width: 598
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<213 336> 201 86<221.381 351.605> 594 85<220.409 379.282>
+VStem: 60 86<362.409 519.493> 454 84<363.204 518.967>
 TtInstrs:
 NPUSHB
  51
@@ -5118,6 +5139,7 @@ Encoding: 65 65 15
 Width: 626
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<10 116.986 509.014 616> 146 81<190 436> 649 20G<253.496 373.474>
 TtInstrs:
 NPUSHB
  41
@@ -5195,6 +5217,8 @@ Encoding: 66 66 16
 Width: 619
 GlyphClass: 1
 Flags: W
+HStem: 0 79<170 439.227> 308 74<170 421.746> 589 79<170 418.424>
+VStem: 76 94<79 308 382 589> 457 95<419.201 550.964> 484 97<124.835 264.711>
 TtInstrs:
 NPUSHB
  54
@@ -5300,6 +5324,8 @@ Encoding: 67 67 17
 Width: 656
 GlyphClass: 2
 Flags: W
+HStem: -12 79<266.437 456.941> 499 21G<521 586.667> 601 79<264.995 453.332>
+VStem: 50 96<203.92 465.835>
 TtInstrs:
 NPUSHB
  46
@@ -5388,6 +5414,8 @@ Encoding: 68 68 18
 Width: 673
 GlyphClass: 2
 Flags: W
+HStem: 0 79<170 402.419> 589 79<170 402.419>
+VStem: 76 94<79 589> 527 96<199.956 469.077>
 TtInstrs:
 NPUSHB
  36
@@ -5468,6 +5496,8 @@ Encoding: 69 69 19
 Width: 567
 GlyphClass: 2
 Flags: W
+HStem: 0 81<170 529> 303 81<170 435> 587 81<170 529>
+VStem: 76 94<81 303 384 587>
 TtInstrs:
 NPUSHB
  44
@@ -5546,6 +5576,8 @@ Encoding: 70 70 20
 Width: 548
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<76 170> 303 81<170 510> 587 81<170 510>
+VStem: 76 94<0 303 384 587>
 TtInstrs:
 NPUSHB
  38
@@ -5613,6 +5645,8 @@ Encoding: 71 71 21
 Width: 710
 GlyphClass: 2
 Flags: W
+HStem: -12 79<264.472 463.329> 0 21G<582.048 642> 264 81<358 553> 499 21G<521 587.333> 601 79<264.995 453.332>
+VStem: 50 96<202.944 465.835> 553 89<149.752 264> 588 54<0 23.52>
 TtInstrs:
 NPUSHB
  11
@@ -5775,6 +5809,8 @@ Encoding: 72 72 22
 Width: 690
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<76 170 520 614> 303 81<170 520> 648 20G<76 170 520 614>
+VStem: 76 94<0 303 384 668> 520 94<0 303 384 668>
 TtInstrs:
 NPUSHB
  36
@@ -5843,6 +5879,8 @@ Encoding: 73 73 23
 Width: 414
 GlyphClass: 2
 Flags: W
+HStem: 0 74<66 160 254 348> 594 74<66 160 254 348>
+VStem: 160 94<74 594>
 TtInstrs:
 NPUSHB
  38
@@ -5915,6 +5953,8 @@ Encoding: 74 74 24
 Width: 510
 GlyphClass: 1
 Flags: W
+HStem: -12 77<155.786 294.051> 648 20G<340 434>
+VStem: 15 87<118.428 189> 340 94<115.875 668>
 TtInstrs:
 NPUSHB
  37
@@ -5984,6 +6024,8 @@ Encoding: 75 75 25
 Width: 627
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<76 170 487.5 617> 648 20G<76 170 453.083 588>
+VStem: 76 94<0 210 332 668>
 TtInstrs:
 NPUSHB
  35
@@ -6052,6 +6094,8 @@ Encoding: 76 76 26
 Width: 539
 GlyphClass: 2
 Flags: W
+HStem: 0 81<170 529> 648 20G<76 170>
+VStem: 76 94<81 668>
 TtInstrs:
 NPUSHB
  28
@@ -6107,6 +6151,8 @@ Encoding: 77 77 27
 Width: 820
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<76 170 357.193 463.772 650 744> 648 20G<76 238.52 581.48 744>
+VStem: 76 94<0 570> 650 94<0 570>
 TtInstrs:
 NPUSHB
  36
@@ -6174,6 +6220,8 @@ Encoding: 78 78 28
 Width: 689
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<76 170 464.317 613> 648 20G<76 225.704 519 613>
+VStem: 76 94<0 571> 519 94<100 668>
 TtInstrs:
 NPUSHB
  33
@@ -6237,6 +6285,8 @@ Encoding: 79 79 29
 Width: 727
 GlyphClass: 2
 Flags: W
+HStem: -12 79<270.869 455.999> 601 79<270.069 456.802>
+VStem: 50 96<206.269 463.005> 581 96<206.269 463.005>
 TtInstrs:
 NPUSHB
  42
@@ -6328,6 +6378,8 @@ Encoding: 80 80 30
 Width: 601
 GlyphClass: 1
 Flags: W
+HStem: 1 21G<76 170> 266 81<170 421.611> 589 79<170 417.61>
+VStem: 76 94<1 266 347 589> 467 96<389.347 544.733>
 TtInstrs:
 NPUSHB
  40
@@ -6408,6 +6460,8 @@ Encoding: 81 81 31
 Width: 753
 GlyphClass: 1
 Flags: W
+HStem: -12 79<270.869 458.377> 601 79<270.069 456.802>
+VStem: 50 96<206.269 463.005> 581 96<206.804 463.005>
 TtInstrs:
 NPUSHB
  50
@@ -6509,6 +6563,8 @@ Encoding: 82 82 32
 Width: 618
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<76 170 458.552 588> 281 79<170 270> 589 79<170 422.615>
+VStem: 76 94<0 281 360 589> 470 96<400.729 547.976>
 TtInstrs:
 NPUSHB
  48
@@ -6601,6 +6657,8 @@ Encoding: 83 83 33
 Width: 596
 GlyphClass: 2
 Flags: W
+HStem: -12 79<202.055 396.012> 601 79<194.892 383.377>
+VStem: 46 97<441.857 555.489> 457 99<120.557 242.874>
 TtInstrs:
 NPUSHB
  46
@@ -6707,6 +6765,8 @@ Encoding: 84 84 34
 Width: 558
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<232 326> 587 81<10 232 326 548>
+VStem: 232 94<0 587>
 TtInstrs:
 NPUSHB
  30
@@ -6766,6 +6826,8 @@ Encoding: 85 85 35
 Width: 690
 GlyphClass: 2
 Flags: W
+HStem: -12 81<244.786 443.715> 648 20G<76 170 520 614>
+VStem: 76 94<151.941 668> 520 94<151.941 668>
 TtInstrs:
 NPUSHB
  33
@@ -6834,6 +6896,7 @@ Encoding: 86 86 36
 Width: 589
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<232.144 355.886> 648 20G<10 119.487 469.477 579>
 TtInstrs:
 NPUSHB
  30
@@ -6890,6 +6953,7 @@ Encoding: 87 87 37
 Width: 840
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<172.97 295.674 544.326 668> 648 20G<10 117.71 360.58 479.42 722.29 830>
 TtInstrs:
 NPUSHB
  36
@@ -6958,6 +7022,7 @@ Encoding: 88 88 38
 Width: 623
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<10 137.189 485.736 613> 648 20G<24 150.286 471.714 599>
 TtInstrs:
 NPUSHB
  35
@@ -7024,6 +7089,8 @@ Encoding: 89 89 39
 Width: 595
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<251 345> 648 20G<10 124.455 470.607 585>
+VStem: 251 94<0 259>
 TtInstrs:
 NPUSHB
  32
@@ -7086,6 +7153,7 @@ Encoding: 90 90 40
 Width: 607
 GlyphClass: 2
 Flags: W
+HStem: 0 81<156 563> 587 81<59 438>
 TtInstrs:
 NPUSHB
  42
@@ -7158,6 +7226,8 @@ Encoding: 97 97 41
 Width: 526
 GlyphClass: 2
 Flags: W
+HStem: -12 67<156.655 315.341> 0 21G<392.118 475> 239 67<238.409 373> 437 67<185.82 335.099>
+VStem: 38 93<79.8849 180.792> 373 85<303.504 397.836> 380 78<117.75 239>
 TtInstrs:
 NPUSHB
  10
@@ -7309,6 +7379,8 @@ Encoding: 98 98 42
 Width: 566
 GlyphClass: 1
 Flags: W
+HStem: -12 72<220.386 366.294> 0 21G<70 137.867> 432 72<220.386 367.029> 648 20G<70 154>
+VStem: 70 84<132.304 360.343 418 668> 70 62<0 23.8636> 434 94<136.359 356.96>
 TtInstrs:
 PUSHB_7
  8
@@ -7455,6 +7527,8 @@ Encoding: 99 99 43
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: -12 74<200.156 347.997> 430 74<198.473 347.022>
+VStem: 38 91<141.024 354.173>
 TtInstrs:
 NPUSHB
  46
@@ -7544,6 +7618,8 @@ Encoding: 100 100 44
 Width: 564
 GlyphClass: 2
 Flags: W
+HStem: -12 72<200.01 346.113> 0 21G<428.133 513> 432 72<198.452 346.113> 648 20G<412 496>
+VStem: 38 94<136.359 356.96> 412 84<132.304 360.343 418 668>
 TtInstrs:
 PUSHB_7
  19
@@ -7694,6 +7770,8 @@ Encoding: 101 101 45
 Width: 539
 GlyphClass: 2
 Flags: W
+HStem: -12 74<202.004 366.328> 225 67<129 421> 432 72<193.941 356.518>
+VStem: 38 90<136.406 225 292 362.849> 421 89<292 363.93>
 TtInstrs:
 NPUSHB
  56
@@ -7799,6 +7877,8 @@ Encoding: 102 102 46
 Width: 311
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<99 183> 429 67<15 99 183 286> 635 71<192.802 286>
+VStem: 99 84<0 429 496 621.588>
 TtInstrs:
 MPPEM
 PUSHB_1
@@ -7919,6 +7999,8 @@ Encoding: 103 103 47
 Width: 560
 GlyphClass: 2
 Flags: W
+HStem: -192 74<195.502 362.951> 9 70<195.824 342.498> 432 72<195.019 341.891> 476 20G<423.103 490>
+VStem: 38 91<152.416 359.779> 406 84<-70.2194 94 144.578 367.414> 429 61<472.261 496>
 TtInstrs:
 NPUSHB
  12
@@ -8091,6 +8173,8 @@ Encoding: 104 104 48
 Width: 546
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<70 154 394 478> 432 72<217.066 356.916> 648 20G<70 154>
+VStem: 70 84<0 370.501 421 668> 394 84<0 393.016>
 TtInstrs:
 NPUSHB
  42
@@ -8171,6 +8255,8 @@ Encoding: 105 105 49
 Width: 278
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<114 198> 429 67<45 114> 590 125<113.08 199.92>
+VStem: 94 125<609.08 696.436> 114 84<0 429>
 TtInstrs:
 MPPEM
 PUSHB_1
@@ -8292,6 +8378,8 @@ Encoding: 106 106 50
 Width: 254
 GlyphClass: 1
 Flags: W
+HStem: -161 74<-58 74.4272> 476 20G<90 174> 590 125<88.08 175.436>
+VStem: 69 125<609.08 696.436> 90 84<-70.7935 496>
 TtInstrs:
 MPPEM
 PUSHB_1
@@ -8418,6 +8506,8 @@ Encoding: 107 107 51
 Width: 490
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<70 154 362.59 480> 476 20G<336.063 455> 648 20G<70 154>
+VStem: 70 84<0 166 273 668>
 TtInstrs:
 NPUSHB
  39
@@ -8490,6 +8580,8 @@ Encoding: 108 108 52
 Width: 239
 GlyphClass: 2
 Flags: W
+HStem: 0 74<162.257 224> 647 20G<70 154>
+VStem: 70 84<87.4124 667>
 TtInstrs:
 NPUSHB
  30
@@ -8552,6 +8644,8 @@ Encoding: 109 109 53
 Width: 841
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<70 154 380 464 689 773> 432 72<214.833 342.983 516.169 651.864> 476 20G<70 137.867>
+VStem: 70 84<0 373.584> 70 62<472.136 496> 380 84<0 373.584> 689 84<0 393.016>
 TtInstrs:
 PUSHB_7
  9
@@ -8685,6 +8779,8 @@ Encoding: 110 110 54
 Width: 546
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<70 154 394 478> 432 72<217.066 356.916> 476 20G<70 137.867>
+VStem: 70 84<0 370.501> 70 62<472.136 496> 394 84<0 393.016>
 TtInstrs:
 PUSHB_6
  3
@@ -8796,6 +8892,8 @@ Encoding: 111 111 55
 Width: 552
 GlyphClass: 2
 Flags: W
+HStem: -12 74<203.063 349.349> 430 74<203.063 349.349>
+VStem: 38 90<142.02 349.98> 424 90<142.02 349.98>
 TtInstrs:
 NPUSHB
  42
@@ -8890,6 +8988,8 @@ Encoding: 112 112 56
 Width: 566
 GlyphClass: 1
 Flags: W
+HStem: -161 21G<70 154> -12 72<220.386 366.294> 432 72<220.386 367.029> 476 20G<70 136.897>
+VStem: 70 84<-161 75 132.304 360.343> 70 61<472.261 496> 434 94<135.694 356.96>
 TtInstrs:
 PUSHB_7
  17
@@ -9033,6 +9133,8 @@ Encoding: 113 113 57
 Width: 576
 GlyphClass: 1
 Flags: W
+HStem: -173 79<513.015 627.157> -12 72<199.457 345.84> 432 72<198.717 345.84> 476 20G<429.103 496>
+VStem: 38 93<136.688 355.969> 412 84<-71.8268 75 132.304 360.343> 435 61<472.261 496>
 TtInstrs:
 NPUSHB
  15
@@ -9252,6 +9354,8 @@ Encoding: 114 114 58
 Width: 340
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<70 154> 417 87<239.543 335> 476 20G<70 136.87>
+VStem: 70 84<0 334.225> 70 61<472.148 496>
 TtInstrs:
 PUSHB_6
  3
@@ -9355,6 +9459,8 @@ Encoding: 115 115 59
 Width: 471
 GlyphClass: 2
 Flags: W
+HStem: -12 71<157.069 322.393> 434 71<149.902 306.712>
+VStem: 41 85<324.32 410.717> 356 85<89.6953 183.453>
 TtInstrs:
 NPUSHB
  46
@@ -9456,6 +9562,8 @@ Encoding: 116 116 60
 Width: 324
 GlyphClass: 2
 Flags: W
+HStem: 0 74<195.741 284> 429 67<20 104 188 284>
+VStem: 104 84<87.4124 429 496 621>
 TtInstrs:
 NPUSHB
  50
@@ -9545,6 +9653,8 @@ Encoding: 117 117 61
 Width: 536
 GlyphClass: 2
 Flags: W
+HStem: -12 74<186.659 321.348> 0 21G<397.167 466> 477 20G<68 152 382 466>
+VStem: 68 84<98.818 497> 382 84<121.907 497> 403 63<0 24>
 TtInstrs:
 PUSHB_6
  19
@@ -9661,6 +9771,7 @@ Encoding: 118 118 62
 Width: 441
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<169.863 271.137> 476 20G<0 97.7358 343.316 441>
 TtInstrs:
 NPUSHB
  30
@@ -9717,6 +9828,7 @@ Encoding: 119 119 63
 Width: 654
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<137.234 224.414 429.586 517.726> 476 20G<0 95.1771 278.605 376.341 558.823 654>
 TtInstrs:
 NPUSHB
  36
@@ -9785,6 +9897,7 @@ Encoding: 120 120 64
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<0 113.162 347.73 461> 476 20G<9 122.186 338.698 452>
 TtInstrs:
 NPUSHB
  35
@@ -9851,6 +9964,7 @@ Encoding: 121 121 65
 Width: 429
 GlyphClass: 2
 Flags: W
+HStem: -161 74<37 149.938> 475 20G<0 99.3874 330.613 429>
 TtInstrs:
 NPUSHB
  37
@@ -9924,6 +10038,7 @@ Encoding: 122 122 66
 Width: 460
 GlyphClass: 2
 Flags: W
+HStem: 0 74<135 430> 422 74<49 325>
 TtInstrs:
 NPUSHB
  42
@@ -9996,6 +10111,8 @@ Encoding: 258 710 67
 Width: 429
 GlyphClass: 1
 Flags: W
+HStem: 575 120
+VStem: 53 323
 TtInstrs:
 PUSHB_2
  6
@@ -10058,6 +10175,8 @@ Encoding: 259 711 68
 Width: 429
 GlyphClass: 1
 Flags: W
+HStem: 569 120
+VStem: 53 323
 TtInstrs:
 PUSHB_2
  6
@@ -10122,6 +10241,8 @@ Encoding: 260 728 69
 Width: 399
 GlyphClass: 1
 Flags: W
+HStem: 569 67<143.784 255.493>
+VStem: 53 294
 TtInstrs:
 PUSHB_2
  6
@@ -10196,6 +10317,8 @@ Encoding: 261 729 70
 Width: 214
 GlyphClass: 1
 Flags: W
+HStem: 590 108<69.5015 145.014>
+VStem: 53 108<606.501 682.014>
 TtInstrs:
 PUSHB_2
  6
@@ -10258,6 +10381,8 @@ Encoding: 262 730 71
 Width: 253
 GlyphClass: 1
 Flags: W
+HStem: 559 58<84.3475 163.728> 719 58<84.3475 163.728>
+VStem: 15 57<629.61 706.718> 176 57<629.673 706.327>
 TtInstrs:
 PUSHB_2
  6
@@ -10349,6 +10474,8 @@ Encoding: 263 731 72
 Width: 263
 GlyphClass: 1
 Flags: W
+HStem: -173 58<132.236 209.313> -20 20G<114.5 210>
+VStem: 53 70<-107.034 -34.266>
 TtInstrs:
 PUSHB_2
  6
@@ -10469,6 +10596,8 @@ Encoding: 264 8216 73
 Width: 235
 GlyphClass: 1
 Flags: W
+HStem: 418 250<120 127.504>
+VStem: 53 129<437.08 529.641>
 TtInstrs:
 NPUSHB
  29
@@ -10526,6 +10655,8 @@ Encoding: 265 8217 74
 Width: 235
 GlyphClass: 1
 Flags: W
+HStem: 429 251<107.496 115>
+VStem: 53 129<568.219 660.404>
 TtInstrs:
 NPUSHB
  28
@@ -10582,6 +10713,8 @@ Encoding: 266 8218 75
 Width: 235
 GlyphClass: 1
 Flags: W
+HStem: -134 251<107.496 115>
+VStem: 53 129<5.21875 97.4043>
 TtInstrs:
 NPUSHB
  33
@@ -10643,6 +10776,8 @@ Encoding: 267 8220 76
 Width: 398
 GlyphClass: 1
 Flags: W
+HStem: 418 250<120 127.504 283 290.504>
+VStem: 53 129<437.08 529.344> 216 129<437.08 529.344>
 TtInstrs:
 NPUSHB
  41
@@ -10725,6 +10860,8 @@ Encoding: 268 8221 77
 Width: 398
 GlyphClass: 1
 Flags: W
+HStem: 429 251<107.496 115 270.361 279>
+VStem: 53 129<568.219 660.404> 216 129<568.219 660.404>
 TtInstrs:
 NPUSHB
  40
@@ -10804,6 +10941,8 @@ Encoding: 269 8222 78
 Width: 398
 GlyphClass: 1
 Flags: W
+HStem: -134 251<107.496 115 270.361 279>
+VStem: 53 129<5.21875 97.4043> 216 129<5.21875 97.4043>
 TtInstrs:
 NPUSHB
  46
@@ -10889,6 +11028,8 @@ Encoding: 270 8224 79
 Width: 541
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<230 311> 416 80<40 230 311 501> 648 20G<230 311>
+VStem: 230 81<0 416 496 668>
 TtInstrs:
 NPUSHB
  38
@@ -10957,6 +11098,8 @@ Encoding: 271 8225 80
 Width: 541
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<230 311> 172 79<40 230 311 501> 416 80<40 230 311 501> 648 20G<230 311>
+VStem: 230 81<0 172 251 416 496 668>
 TtInstrs:
 NPUSHB
  52
@@ -11047,6 +11190,8 @@ Encoding: 272 8226 81
 Width: 438
 GlyphClass: 1
 Flags: W
+HStem: 88 332<136.674 301.326>
+VStem: 53 332<172.189 336.326>
 TtInstrs:
 NPUSHB
  28
@@ -11105,6 +11250,8 @@ Encoding: 273 8230 82
 Width: 696
 GlyphClass: 1
 Flags: W
+HStem: -12 129<72.5955 162.404 303.08 393.404 533.596 623.405>
+VStem: 53 129<7.59546 97.4043> 284 129<7.59546 97.4043> 514 129<7.59546 97.4043>
 TtInstrs:
 NPUSHB
  45
@@ -11194,6 +11341,8 @@ Encoding: 274 8240 83
 Width: 1328
 GlyphClass: 1
 Flags: W
+HStem: -12 74<642.997 772.399 1044 1173.4> 0 21G<186 288.012> 277 74<642.997 772.399 1044 1173.4> 316 75<155.311 284.399> 605 75<155.311 284.399> 648 20G<639.988 742>
+VStem: 38 74<434.173 561.827> 327 74<433.482 562.518> 526 74<104.601 234.336> 815 74<104.601 234.336> 927 74<104.601 234.336> 1216 74<104.601 234.336>
 TtInstrs:
 MPPEM
 PUSHB_1
@@ -11460,6 +11609,7 @@ Encoding: 275 8249 84
 Width: 353
 GlyphClass: 1
 Flags: W
+VStem: 53 247
 TtInstrs:
 NPUSHB
  34
@@ -11518,6 +11668,7 @@ Encoding: 276 8250 85
 Width: 353
 GlyphClass: 1
 Flags: W
+VStem: 53 247
 TtInstrs:
 NPUSHB
  34
@@ -11576,6 +11727,7 @@ Encoding: 277 8260 86
 Width: 586
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<15 117.012> 648 20G<468.988 571>
 TtInstrs:
 NPUSHB
  22
@@ -11620,6 +11772,8 @@ Encoding: 170 170 87
 Width: 371
 GlyphClass: 1
 Flags: W
+HStem: 397 51<131.665 223.128> 527 49<133.746 239> 643 49<135.07 227.406>
+VStem: 53 70<455.091 511.257> 239 68<469.188 530 578 633.202>
 TtInstrs:
 NPUSHB
  60
@@ -11810,6 +11964,8 @@ Encoding: 172 172 89
 Width: 602
 GlyphClass: 1
 Flags: W
+HStem: 317 79<53 468>
+VStem: 468 81<90 317>
 TtInstrs:
 NPUSHB
  33
@@ -11867,6 +12023,8 @@ Encoding: 174 174 90
 Width: 798
 GlyphClass: 1
 Flags: W
+HStem: -12 61<289.396 508.604> 301 58<340 382> 469 61<340 449.247> 619 61<290.197 507.803>
+VStem: 53 62<224.376 442.762> 264 76<162 301 359 469> 474 76<372.484 456.897> 683 62<224.376 442.762>
 TtInstrs:
 PUSHB_2
  6
@@ -12043,6 +12201,8 @@ Encoding: 175 175 91
 Width: 382
 GlyphClass: 1
 Flags: W
+HStem: 601 67<53 329>
+VStem: 53 276<601 668>
 TtInstrs:
 PUSHB_2
  6
@@ -12100,6 +12260,8 @@ Encoding: 176 176 92
 Width: 352
 GlyphClass: 1
 Flags: W
+HStem: 408 63<125.033 227.555> 617 63<124.524 228.061>
+VStem: 40 63<493.033 595.555> 249 63<492.524 596.061>
 TtInstrs:
 PUSHB_2
  6
@@ -12193,6 +12355,8 @@ Encoding: 177 177 93
 Width: 579
 GlyphClass: 1
 Flags: W
+HStem: 0 79<53 526> 270 79<53 250 329 526> 476 20G<250 329>
+VStem: 250 79<124 270 349 496>
 TtInstrs:
 NPUSHB
  55
@@ -12283,6 +12447,8 @@ Encoding: 178 178 94
 Width: 382
 GlyphClass: 1
 Flags: W
+HStem: 403 58<134 329> 677 21G<65 131> 736 50<147.895 237.226>
+VStem: 250 70<620.541 723.863>
 TtInstrs:
 NPUSHB
  45
@@ -12363,6 +12529,8 @@ Encoding: 179 179 95
 Width: 383
 GlyphClass: 1
 Flags: W
+HStem: 397 51<135.479 242.23> 484 20G<53 119> 572 54<151 229.309> 736 50<135.491 237.73>
+VStem: 58 61<698.934 718.789> 252 69<640.047 723.818> 261 69<464.38 556.465>
 TtInstrs:
 NPUSHB
  65
@@ -12476,6 +12644,8 @@ Encoding: 180 180 96
 Width: 268
 GlyphClass: 1
 Flags: W
+HStem: 571 136<141.116 148.74>
+VStem: 53 162
 TtInstrs:
 PUSHB_2
  6
@@ -12541,6 +12711,8 @@ Encoding: 278 956 97
 Width: 538
 GlyphClass: 1
 Flags: W
+HStem: -162 21G<70 154> -12 74<190.279 329.995> 0 21G<399.167 468> 477 20G<70 154 384 468>
+VStem: 70 84<-162 41 97.1094 497> 384 84<121.907 497> 405 63<0 24>
 TtInstrs:
 NPUSHB
  10
@@ -12669,6 +12841,8 @@ Encoding: 182 182 98
 Width: 508
 GlyphClass: 1
 Flags: W
+HStem: -161 21G<187 268 362 443> 601 67<268 362 443 483>
+VStem: 38 230<390.174 567.226> 187 81<-161 300.016> 362 81<-161 601>
 TtInstrs:
 NPUSHB
  38
@@ -12741,6 +12915,8 @@ Encoding: 183 183 99
 Width: 235
 GlyphClass: 1
 Flags: W
+HStem: 183 129<72.5955 162.404>
+VStem: 53 129<202.596 292.405>
 TtInstrs:
 NPUSHB
  28
@@ -12795,6 +12971,8 @@ Encoding: 184 184 100
 Width: 291
 GlyphClass: 1
 Flags: W
+HStem: -181 41<87.5306 183.106> -81 40<159.123 192.202>
+VStem: 196 62<-131.512 -85.7319>
 TtInstrs:
 PUSHB_2
  6
@@ -12947,6 +13125,8 @@ Encoding: 185 185 101
 Width: 256
 GlyphClass: 1
 Flags: W
+HStem: 683 47<53 129.661>
+VStem: 136 67<403 683>
 TtInstrs:
 NPUSHB
  32
@@ -13005,6 +13185,8 @@ Encoding: 186 186 102
 Width: 381
 GlyphClass: 1
 Flags: W
+HStem: 398 54<147.439 241.511> 638 54<147.439 241.511>
+VStem: 57 69<474.919 615.081> 263 69<474.919 615.081>
 TtInstrs:
 NPUSHB
  40
@@ -13163,6 +13345,8 @@ Encoding: 188 188 104
 Width: 826
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<115 217.982 640 708> 86 57<528 640 708 773> 571 48<53 129.661> 648 20G<142 204 568.988 671>
+VStem: 136 68<292 571> 640 68<0 86 143 289>
 TtInstrs:
 PUSHB_2
  6
@@ -13314,6 +13498,8 @@ Encoding: 189 189 105
 Width: 812
 GlyphClass: 1
 Flags: W
+HStem: 0 58<565 759> 332 50<578.816 668.226> 571 48<53 129.661> 648 20G<142 203 568.988 671>
+VStem: 136 67<292 571> 681 70<216.726 320.004>
 TtInstrs:
 PUSHB_2
  6
@@ -13466,6 +13652,8 @@ Encoding: 190 190 106
 Width: 868
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<157 259.042 682 751> 86 57<570 682 751 815> 291 51<134.568 242.23> 466 53<151 236.761> 629 51<136.548 237.271> 648 20G<611.958 714>
+VStem: 252 69<532.919 616.658> 261 69<358.38 450.465> 682 69<0 86 143 289>
 TtInstrs:
 PUSHB_2
  6
@@ -13741,6 +13929,7 @@ Encoding: 60 60 107
 Width: 553
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<468.587 513> 476 20G<468.587 513>
 TtInstrs:
 PUSHB_4
  3
@@ -13769,6 +13958,7 @@ Encoding: 61 61 108
 Width: 602
 GlyphClass: 1
 Flags: W
+HStem: 121 79<53 549> 307 79<53 549>
 TtInstrs:
 NPUSHB
  44
@@ -13840,6 +14030,7 @@ Encoding: 62 62 109
 Width: 553
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<40 84.4131> 476 20G<40 84.4131>
 TtInstrs:
 PUSHB_4
  4
@@ -13868,6 +14059,8 @@ Encoding: 63 63 110
 Width: 520
 GlyphClass: 1
 Flags: W
+HStem: -12 129<182.626 271.92> 501 21G<50.6957 124.5> 610 70<176.591 339.457>
+VStem: 40 82<522.037 554.064> 162 129<6.56494 96.889> 182 86<190 286.554> 382 88<443.093 570.409>
 TtInstrs:
 NPUSHB
  57
@@ -13977,6 +14170,8 @@ Encoding: 64 64 111
 Width: 780
 GlyphClass: 1
 Flags: W
+HStem: -12 61<286.985 503.617> 155 74<322.423 418.584 540.64 628.779> 445 74<338.263 451> 618 62<286.896 506.294>
+VStem: 50 62<223.608 445.127> 218 84<249.6 406.108> 451 81<262.089 444.031> 668 62<274.388 463.615>
 TtInstrs:
 NPUSHB
  22
@@ -14205,6 +14400,8 @@ Encoding: 58 58 112
 Width: 205
 GlyphClass: 1
 Flags: W
+HStem: -12 129<57.5955 147.404> 375 129<57.5955 147.404>
+VStem: 38 129<7.59546 97.4043 394.596 484.405>
 TtInstrs:
 NPUSHB
  42
@@ -14282,6 +14479,8 @@ Encoding: 59 59 113
 Width: 205
 GlyphClass: 1
 Flags: W
+HStem: 375 129<57.5955 147.404>
+VStem: 38 129<5.35938 97.4045 394.596 484.405>
 TtInstrs:
 NPUSHB
  45
@@ -14364,6 +14563,8 @@ Encoding: 91 91 114
 Width: 315
 GlyphClass: 1
 Flags: W
+HStem: -161 74<157 282> 594 74<157 282>
+VStem: 76 206<-161 -87 594 668> 76 81<-87 594>
 TtInstrs:
 NPUSHB
  34
@@ -14424,6 +14625,7 @@ Encoding: 92 92 115
 Width: 377
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<267.216 362> 648 20G<15 109.784>
 TtInstrs:
 NPUSHB
  22
@@ -14468,6 +14670,8 @@ Encoding: 93 93 116
 Width: 315
 GlyphClass: 1
 Flags: W
+HStem: -161 74<33 158> 594 74<33 158>
+VStem: 33 206<-161 -87 594 668> 158 81<-87 594>
 TtInstrs:
 NPUSHB
  34
@@ -14528,6 +14732,7 @@ Encoding: 94 94 117
 Width: 552
 GlyphClass: 1
 Flags: W
+HStem: 648 20G<227.636 324.364>
 TtInstrs:
 PUSHB_2
  6
@@ -14589,6 +14794,7 @@ Encoding: 95 95 118
 Width: 396
 GlyphClass: 1
 Flags: W
+HStem: -79 79<10 386>
 TtInstrs:
 PUSHB_2
  6
@@ -14646,6 +14852,8 @@ Encoding: 96 96 119
 Width: 268
 GlyphClass: 1
 Flags: W
+HStem: 571 136
+VStem: 53 162
 TtInstrs:
 PUSHB_2
  6
@@ -14702,6 +14910,8 @@ Encoding: 33 33 120
 Width: 281
 GlyphClass: 1
 Flags: W
+HStem: -12 129<95.5955 185.404> 648 20G<96 185>
+VStem: 76 129<7.59546 97.4043> 96 89<378.944 668>
 TtInstrs:
 NPUSHB
  41
@@ -14776,6 +14986,8 @@ Encoding: 34 34 121
 Width: 301
 GlyphClass: 1
 Flags: W
+HStem: 447 221<54 106 195 247>
+VStem: 54 52<447 557.5> 195 52<447 557.5>
 TtInstrs:
 NPUSHB
  33
@@ -14836,6 +15048,7 @@ Encoding: 35 35 122
 Width: 655
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<137 221.791 342 426.791> 172 81<49 162 255 366 460 572> 415 81<83 196 289 400 494 606> 648 20G<228.209 313 433.209 518>
 TtInstrs:
 NPUSHB
  70
@@ -14957,6 +15170,8 @@ Encoding: 36 36 123
 Width: 594
 GlyphClass: 1
 Flags: W
+HStem: -11 80<197.625 267 317 402.913> 600 79<191.907 267 317 384.942>
+VStem: 47 96<443.61 558.891> 267 50<-87 -12 69 297 398 599 676.827 742> 457 97<118.738 242.655>
 TtInstrs:
 NPUSHB
  63
@@ -15085,6 +15300,8 @@ Encoding: 37 37 124
 Width: 927
 GlyphClass: 1
 Flags: W
+HStem: -12 74<642.997 771.714> 0 21G<186 288.012> 277 75<642.997 772.399> 317 74<155.311 284.399> 606 74<154.997 284.399> 648 20G<639.988 742>
+VStem: 38 74<434.286 563.336> 327 74<433.601 563.336> 526 74<105.311 234.518> 815 74<105.311 234.518>
 TtInstrs:
 MPPEM
 PUSHB_1
@@ -15301,6 +15518,8 @@ Encoding: 38 38 125
 Width: 705
 GlyphClass: 1
 Flags: W
+HStem: -12 74<185.339 361.802> 0 21G<557.149 695> 606 74<249.634 388.348>
+VStem: 38 90<117.018 261.461> 135 90<478.343 585.228> 409 82<471.55 585.654> 521 87<252.165 361>
 TtInstrs:
 NPUSHB
  16
@@ -15484,6 +15703,8 @@ Encoding: 39 39 126
 Width: 160
 GlyphClass: 1
 Flags: W
+HStem: 447 221<54 106>
+VStem: 54 52<447 557.5>
 TtInstrs:
 NPUSHB
  22
@@ -15528,6 +15749,8 @@ Encoding: 40 40 127
 Width: 300
 GlyphClass: 1
 Flags: W
+HStem: -161 21G<154.5 265> 648 20G<132.5 235>
+VStem: 50 74<99.0901 458.283>
 TtInstrs:
 NPUSHB
  22
@@ -15579,6 +15802,8 @@ Encoding: 41 41 128
 Width: 300
 GlyphClass: 1
 Flags: W
+HStem: -161 21G<35 146> 648 20G<66 169>
+VStem: 177 73<99.449 461.487>
 TtInstrs:
 NPUSHB
  22
@@ -15629,6 +15854,8 @@ Encoding: 42 42 129
 Width: 433
 GlyphClass: 1
 Flags: W
+HStem: 388 280
+VStem: 187 57<562 668>
 TtInstrs:
 NPUSHB
  25
@@ -15687,6 +15914,8 @@ Encoding: 43 43 130
 Width: 602
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<261 341> 208 80<53 261 341 549> 476 20G<261 341>
+VStem: 261 80<0 208 288 496>
 TtInstrs:
 NPUSHB
  36
@@ -15753,6 +15982,8 @@ Encoding: 44 44 131
 Width: 205
 GlyphClass: 1
 Flags: W
+HStem: -133 250<92.4961 100>
+VStem: 38 129<5.35938 97.4045>
 TtInstrs:
 NPUSHB
  33
@@ -15814,6 +16045,8 @@ Encoding: 45 45 132
 Width: 368
 GlyphClass: 1
 Flags: W
+HStem: 208 81<38 330>
+VStem: 38 292<208 289>
 TtInstrs:
 NPUSHB
  27
@@ -15864,6 +16097,8 @@ Encoding: 46 46 133
 Width: 205
 GlyphClass: 1
 Flags: W
+HStem: -12 129<57.5955 147.404>
+VStem: 38 129<7.59546 97.4043>
 TtInstrs:
 NPUSHB
  23
@@ -15913,6 +16148,7 @@ Encoding: 47 47 134
 Width: 377
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<15 109.784> 648 20G<267.216 362>
 TtInstrs:
 NPUSHB
  22
@@ -15958,6 +16194,9 @@ Encoding: 123 123 135
 Width: 319
 GlyphClass: 1
 Flags: W
+HStem: -161 71<201.287 285> 220 67<38 94.0317> 597 71<201.287 285>
+VStem: 108 84<-77.1029 206.708 299.854 583.588>
+CounterMasks: 1 e0
 TtInstrs:
 NPUSHB
  55
@@ -16061,6 +16300,8 @@ Encoding: 124 124 136
 Width: 233
 GlyphClass: 1
 Flags: W
+HStem: -161 21G<76 157> 648 20G<76 157>
+VStem: 76 81<-161 668>
 TtInstrs:
 NPUSHB
  22
@@ -16105,6 +16346,9 @@ Encoding: 125 125 137
 Width: 319
 GlyphClass: 1
 Flags: W
+HStem: -161 71<34 117.713> 220 67<225.549 281> 597 71<34 117.713>
+VStem: 127 84<-77.1029 206.568 300.688 583.588>
+CounterMasks: 1 e0
 TtInstrs:
 NPUSHB
  50
@@ -16203,6 +16447,7 @@ Encoding: 126 126 138
 Width: 555
 GlyphClass: 1
 Flags: W
+HStem: 195 73<303.164 427.769> 249 74<132.517 261.562>
 TtInstrs:
 PUSHB_2
  6
@@ -16297,6 +16542,8 @@ Encoding: 161 161 139
 Width: 281
 GlyphClass: 1
 Flags: W
+HStem: -161 21G<96 185> 390 129<95.5955 185.404>
+VStem: 76 129<409.595 499.404> 96 89<-161 127.667>
 TtInstrs:
 MPPEM
 PUSHB_1
@@ -16404,6 +16651,8 @@ Encoding: 162 162 140
 Width: 500
 GlyphClass: 1
 Flags: W
+HStem: -12 74<286 347.002> 430 74<286 347.847>
+VStem: 38 91<140.495 353.042> 236 50<-87 -9.52795 67 425 504 571>
 TtInstrs:
 NPUSHB
  41
@@ -16491,6 +16740,8 @@ Encoding: 163 163 141
 Width: 586
 GlyphClass: 1
 Flags: W
+HStem: -12 78<323.456 523.276> 26 76<194.298 341.829> 318 51<70 156 272 453> 609 71<243.052 414.677>
+VStem: 112 89<424.363 570.427> 202 88<159.424 315.258>
 TtInstrs:
 NPUSHB
  73
@@ -16629,6 +16880,8 @@ Encoding: 164 164 142
 Width: 580
 GlyphClass: 1
 Flags: W
+HStem: 103 75<214.848 365.65> 463 76<214.848 365.65>
+VStem: 72 76<245.376 396.151> 432 76<245.566 396.151>
 TtInstrs:
 NPUSHB
  72
@@ -16759,6 +17012,8 @@ Encoding: 165 165 143
 Width: 595
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<251 345> 86 51<101 251 345 494> 223 51<101 242 353 494> 648 20G<10 124.455 470.607 585>
+VStem: 251 94<0 86 137 223>
 TtInstrs:
 NPUSHB
  59
@@ -16859,6 +17114,8 @@ Encoding: 166 166 144
 Width: 233
 GlyphClass: 1
 Flags: W
+HStem: -161 21G<76 157> 648 20G<76 157>
+VStem: 76 81<-161 149 358 668>
 TtInstrs:
 NPUSHB
  41
@@ -16927,6 +17184,8 @@ Encoding: 167 167 145
 Width: 530
 GlyphClass: 1
 Flags: W
+HStem: -173 70<188.358 337.744> 610 70<184.079 330.15>
+VStem: 31 84<239.257 341.836> 76 86<505.987 592.561> 363 86<-81.6734 18.649> 416 84<175.064 280.89>
 TtInstrs:
 NPUSHB
  12
@@ -17076,6 +17335,8 @@ Encoding: 168 168 146
 Width: 425
 GlyphClass: 1
 Flags: W
+HStem: 590 107<69.5015 145.014 280.986 356.014>
+VStem: 53 108<606.501 681.014> 265 107<606.501 681.014>
 TtInstrs:
 PUSHB_2
  6
@@ -17159,6 +17420,8 @@ Encoding: 169 169 147
 Width: 798
 GlyphClass: 1
 Flags: W
+HStem: -12 62<289.396 508.604> 150 59<341.342 466.343> 473 58<340.515 460.298> 618 62<289.396 508.604>
+VStem: 53 62<224.396 443.604> 227 76<249.579 432.726> 683 62<224.396 443.604>
 TtInstrs:
 PUSHB_2
  6
@@ -17320,6 +17583,8 @@ Encoding: 191 191 148
 Width: 520
 GlyphClass: 1
 Flags: W
+HStem: -174 70<179.543 342.735> 390 129<247.596 337.405>
+VStem: 49 88<-64.0896 63.9609> 228 129<409.596 499.405> 251 86<220.038 316> 397 82<-50.1021 -16.0366>
 TtInstrs:
 PUSHB_7
  42
@@ -17515,6 +17780,8 @@ Encoding: 223 223 149
 Width: 597
 GlyphClass: 1
 Flags: W
+HStem: -12 74<302 410.507> 0 21G<76 160> 330 76<279 384.503> 611 69<214.259 391.845>
+VStem: 76 84<0 556.245> 435 85<449.964 570.761> 469 90<115.884 273.253>
 TtInstrs:
 NPUSHB
  10
@@ -17677,6 +17944,8 @@ Encoding: 198 198 150
 Width: 998
 GlyphClass: 1
 Flags: W
+HStem: 0 81<600 960> 145 81<279 506> 303 81<600 866> 587 81<600 960>
+VStem: 506 94<81 145 226 303 384 546>
 TtInstrs:
 NPUSHB
  63
@@ -17779,6 +18048,8 @@ Encoding: 279 402 151
 Width: 321
 GlyphClass: 1
 Flags: W
+HStem: -173 80<25.4526 96.7106> 429 67<25 109 193 296> 635 71<202.802 296>
+VStem: 109 84<-73.4033 429 496 621.588>
 TtInstrs:
 NPUSHB
  10
@@ -17974,6 +18245,8 @@ Encoding: 280 8747 152
 Width: 458
 GlyphClass: 1
 Flags: W
+HStem: -173 112<79.8142 138.076> 569 112<319.439 378.186>
+VStem: 53 99<-126.225 -76.9855> 189 84<-96.0781 611.918> 305 100<584.985 634.225>
 TtInstrs:
 NPUSHB
  46
@@ -18073,6 +18346,7 @@ Encoding: 281 8776 153
 Width: 581
 GlyphClass: 1
 Flags: W
+HStem: 97 73<316.164 440.769> 151 74<145.517 274.562> 283 73<318.109 436.109> 337 74<145.433 275.012>
 TtInstrs:
 NPUSHB
  71
@@ -18195,6 +18469,7 @@ Encoding: 282 8800 154
 Width: 602
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<77 191.05> 121 79<53 162 317 549> 307 80<53 292 448 549> 476 20G<410.872 524>
 TtInstrs:
 MPPEM
 PUSHB_1
@@ -18394,6 +18669,7 @@ Encoding: 283 8804 155
 Width: 579
 GlyphClass: 1
 Flags: W
+HStem: 0 80<53 526> 485 20G<469.69 526>
 TtInstrs:
 NPUSHB
  37
@@ -18461,6 +18737,7 @@ Encoding: 284 8805 156
 Width: 579
 GlyphClass: 1
 Flags: W
+HStem: 0 80<53 526> 485 20G<53 109.31>
 TtInstrs:
 NPUSHB
  37
@@ -18560,6 +18837,7 @@ Encoding: 286 8721 158
 Width: 587
 GlyphClass: 1
 Flags: W
+HStem: -161 81<154 534> 587 81<154 534>
 TtInstrs:
 NPUSHB
  52
@@ -18642,6 +18920,7 @@ Encoding: 287 8722 159
 Width: 602
 GlyphClass: 1
 Flags: W
+HStem: 209 79<53 549>
 TtInstrs:
 NPUSHB
  27
@@ -18691,6 +18970,7 @@ Encoding: 288 8725 160
 Width: 598
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<15 128.991> 649 20G<469.009 583>
 TtInstrs:
 NPUSHB
  20
@@ -18733,6 +19013,8 @@ Encoding: 289 8729 161
 Width: 235
 GlyphClass: 1
 Flags: W
+HStem: 191 129<72.5957 165.301>
+VStem: 53 129<211.626 300.404>
 TtInstrs:
 NPUSHB
  28
@@ -18787,6 +19069,7 @@ Encoding: 290 8730 162
 Width: 582
 GlyphClass: 1
 Flags: W
+HStem: -161 21G<271.157 381.639> 145 80<53 159> 649 20G<437.516 529>
 TtInstrs:
 NPUSHB
  45
@@ -18859,6 +19142,8 @@ Encoding: 291 8734 163
 Width: 773
 GlyphClass: 1
 Flags: W
+HStem: 104 76<158.962 283.738 490.322 614.038> 330 76<158.478 285.527 488.79 614.522>
+VStem: 53 81<205.117 307.142> 639 81<205.117 307.142>
 TtInstrs:
 NPUSHB
  74
@@ -18985,6 +19270,8 @@ Encoding: 292 937 164
 Width: 687
 GlyphClass: 1
 Flags: W
+HStem: 0 81<50 201 486 637> 606 74<249.013 438.497>
+VStem: 50 73<290.038 480.497> 201 85<81 142.595> 401 85<81 142.595> 564 73<290.038 480.497>
 TtInstrs:
 NPUSHB
  47
@@ -19084,6 +19371,8 @@ Encoding: 293 8494 165
 Width: 622
 GlyphClass: 1
 Flags: W
+HStem: -12 32<227.41 393.612> 248 31<159 463> 472 32<226.784 395.042>
+VStem: 53 106<142.671 248 279 350.826> 463 106<279 351.003>
 TtInstrs:
 NPUSHB
  65
@@ -19195,6 +19484,8 @@ Encoding: 294 8706 166
 Width: 582
 GlyphClass: 1
 Flags: W
+HStem: -12 73<217.65 364.566> 430 74<217.65 364.119> 598 82<142 311.051>
+VStem: 53 89<142.409 348.851> 439 90<142.953 348.93>
 TtInstrs:
 NPUSHB
  64
@@ -19315,6 +19606,7 @@ Encoding: 295 916 167
 Width: 759
 GlyphClass: 1
 Flags: W
+HStem: 0 78<178 580> 660 20G<369.412 388.618>
 TtInstrs:
 NPUSHB
  28
@@ -19368,6 +19660,8 @@ Encoding: 296 8719 168
 Width: 585
 GlyphClass: 1
 Flags: W
+HStem: -161 21G<53 134 450 532> 587 81<134 450>
+VStem: 53 81<-161 587> 450 82<-161 587>
 TtInstrs:
 NPUSHB
  35
@@ -19429,6 +19723,8 @@ Encoding: 297 960 169
 Width: 591
 GlyphClass: 1
 Flags: W
+HStem: 0 74<474.741 551> 414 82<20 104 185 383 467 551>
+VStem: 104 81<0 414> 383 84<87.4126 414>
 TtInstrs:
 NPUSHB
  40
@@ -19506,6 +19802,8 @@ Encoding: 298 733 170
 Width: 414
 GlyphClass: 1
 Flags: W
+HStem: 572 136
+VStem: 53 308
 TtInstrs:
 PUSHB_2
  6
@@ -19587,6 +19885,8 @@ Encoding: 299 732 171
 Width: 435
 GlyphClass: 1
 Flags: W
+HStem: 575 63<226.562 321.285> 618 63<123.685 216.92>
+VStem: 53 65<577 612.883>
 TtInstrs:
 PUSHB_2
  6
@@ -19679,6 +19979,7 @@ Encoding: 300 8211 172
 Width: 480
 GlyphClass: 1
 Flags: W
+HStem: 208 79<41 439>
 TtInstrs:
 NPUSHB
  27
@@ -19729,6 +20030,7 @@ Encoding: 301 8212 173
 Width: 800
 GlyphClass: 1
 Flags: W
+HStem: 208 79<41 759>
 TtInstrs:
 NPUSHB
  27
@@ -19779,6 +20081,8 @@ Encoding: 302 8482 174
 Width: 848
 GlyphClass: 1
 Flags: W
+HStem: 608 60<53 171 238 356>
+VStem: 171 67<292 608> 393 67<292 571> 728 67<292 571>
 TtInstrs:
 NPUSHB
  64
@@ -19883,6 +20187,8 @@ Encoding: 303 8467 175
 Width: 450
 GlyphClass: 1
 Flags: W
+HStem: -12 73<219.566 336.327> 610 70<216.522 298.769>
+VStem: 53 151<138 227> 119 85<78.0117 188 344 589.882> 312 82<440.374 595.59>
 TtInstrs:
 NPUSHB
  56
@@ -19987,6 +20293,8 @@ Encoding: 304 321 176
 Width: 573
 GlyphClass: 1
 Flags: W
+HStem: 0 81<204 563> 485 20G<350.667 384> 649 20G<110 204>
+VStem: 110 94<81 270 397 669>
 TtInstrs:
 NPUSHB
  41
@@ -20061,6 +20369,8 @@ Encoding: 305 322 177
 Width: 237
 GlyphClass: 1
 Flags: W
+HStem: 0 74<160.257 222> 648 20G<68 152>
+VStem: 68 154<25.2817 74 365 394> 68 84<87.4126 273 394 668>
 TtInstrs:
 NPUSHB
  43
@@ -20141,6 +20451,8 @@ Encoding: 248 248 178
 Width: 552
 GlyphClass: 1
 Flags: W
+HStem: -12 74<201.511 349.349> 430 74<202.65 351.173>
+VStem: 38 89<146.356 349.349> 424 90<142.02 349.653>
 TtInstrs:
 NPUSHB
  67
@@ -20266,6 +20578,8 @@ Encoding: 216 216 179
 Width: 727
 GlyphClass: 1
 Flags: W
+HStem: -12 79<268.78 455.999> 599 81<270.069 458.095> 653 20G<599.175 640.375>
+VStem: 50 96<206.11 461.546> 581 96<205.819 459.715>
 TtInstrs:
 NPUSHB
  64
@@ -20383,6 +20697,8 @@ Encoding: 222 222 180
 Width: 576
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<76 160> 163 81<160 408.565> 447 81<160 404.931> 648 20G<76 160>
+VStem: 76 84<0 163 244 447 528 668> 441 97<276.568 411.864>
 TtInstrs:
 NPUSHB
  44
@@ -20468,6 +20784,8 @@ Encoding: 230 230 181
 Width: 874
 GlyphClass: 1
 Flags: W
+HStem: -12 74<536.176 701.421> -12 66<157.316 319.539> 225 67<195.944 373 465 757> 436 68<186.112 334.852 536.109 684.508>
+VStem: 38 93<79.6725 180.483> 373 92<292 368.04> 380 83<137.639 225> 757 88<292 363.93>
 TtInstrs:
 NPUSHB
  14
@@ -20685,6 +21003,8 @@ Encoding: 240 240 182
 Width: 567
 GlyphClass: 1
 Flags: W
+HStem: -12 71<193.221 353.974> 371 74<193.404 353.669> 602 77<175 304.379>
+VStem: 38 90<127.166 302.577> 419 98<147.267 383.414>
 TtInstrs:
 NPUSHB
  77
@@ -20818,6 +21138,8 @@ Encoding: 254 254 183
 Width: 566
 GlyphClass: 1
 Flags: W
+HStem: -161 21G<70 154> -12 72<221.127 366.294> 433 72<221.127 366.294> 649 20G<70 154>
+VStem: 70 84<-161 75 132.304 360.648 418 669> 434 94<135.694 356.578>
 TtInstrs:
 NPUSHB
  60
@@ -20953,6 +21275,9 @@ Encoding: 247 247 185
 Width: 602
 GlyphClass: 1
 Flags: W
+HStem: 14 129<255.596 345.92> 208 81<53 549> 354 129<255.596 345.92>
+VStem: 236 129<33.5957 123.405 373.08 463.404>
+CounterMasks: 1 e0
 TtInstrs:
 MPPEM
 PUSHB_1
@@ -21136,6 +21461,8 @@ Encoding: 306 338 186
 Width: 1052
 GlyphClass: 1
 Flags: W
+HStem: -12 81<270.069 457.231> 0 81<655 1014> 304 81<655 920> 588 81<655 1014> 602 78<270.069 455.643>
+VStem: 50 96<206.759 463.946> 581 74<205.147 304 385 465.685>
 TtInstrs:
 MPPEM
 PUSHB_1
@@ -21360,6 +21687,8 @@ Encoding: 307 339 187
 Width: 927
 GlyphClass: 1
 Flags: W
+HStem: -12 74<202.65 349.469 589.1 753.884> 225 67<517 809> 431 74<202.65 349.082 579.607 747.448>
+VStem: 38 89<142.651 350.149> 424 92<142.698 225 292 350.611> 809 89<292 363.955>
 TtInstrs:
 NPUSHB
  78
@@ -21507,6 +21836,8 @@ Encoding: 194 194 188
 Width: 626
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<10 116.986 509.014 616> 146 81<190 436> 649 20G<253.496 373.474> 747 120
+VStem: 151 323
 AnchorPoint: "Anchor-2" 615 0 basechar 0
 AnchorPoint: "Anchor-1" 313 0 basechar 0
 AnchorPoint: "Anchor-0" 313 867 basechar 0
@@ -21523,6 +21854,8 @@ Encoding: 195 195 189
 Width: 626
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<10 116.986 509.014 616> 146 81<190 436> 649 20G<253.496 373.474> 747 63<321.562 416.285> 790 63<218.685 311.92>
+VStem: 148 65<749 784.883>
 TtInstrs:
 PUSHB_2
  2
@@ -21549,6 +21882,8 @@ Encoding: 196 196 190
 Width: 626
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<10 116.986 509.014 616> 146 81<190 436> 649 20G<253.496 373.474> 740 107<169.501 245.014 380.986 456.014>
+VStem: 153 108<756.501 831.014> 365 107<756.501 831.014>
 TtInstrs:
 PUSHB_2
  2
@@ -21575,6 +21910,8 @@ Encoding: 197 197 191
 Width: 626
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<10 116.986 509.014 616> 146 81<190 436> 620 58<273.348 352.728> 649 20G<253.496 373.474> 780 58<273.348 352.728>
+VStem: 204 57<690.61 767.718> 365 57<690.673 767.327>
 TtInstrs:
 PUSHB_2
  2
@@ -21601,6 +21938,8 @@ Encoding: 192 192 192
 Width: 626
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<10 116.986 509.014 616> 146 81<190 436> 649 20G<253.496 373.474> 744 120
+VStem: 191 173
 AnchorPoint: "Anchor-2" 615 0 basechar 0
 AnchorPoint: "Anchor-1" 313 0 basechar 0
 AnchorPoint: "Anchor-0" 278 864 basechar 0
@@ -21617,6 +21956,8 @@ Encoding: 193 193 193
 Width: 626
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<10 116.986 509.014 616> 146 81<190 436> 649 20G<253.496 373.474> 744 120
+VStem: 255 172
 AnchorPoint: "Anchor-2" 615 0 basechar 0
 AnchorPoint: "Anchor-1" 313 0 basechar 0
 AnchorPoint: "Anchor-0" 341 864 basechar 0
@@ -21633,6 +21974,8 @@ Encoding: 308 256 194
 Width: 626
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<10 116.986 509.014 616> 146 81<190 436> 649 20G<253.496 373.474> 762 67<175 451>
+VStem: 175 276<762 829>
 TtInstrs:
 PUSHB_2
  2
@@ -21659,6 +22002,8 @@ Encoding: 309 257 195
 Width: 526
 GlyphClass: 2
 Flags: W
+HStem: -12 67<156.655 315.341> 0 21G<392.118 475> 239 67<238.409 373> 437 67<185.82 335.099> 601 67<125 401>
+VStem: 38 93<79.8849 180.792> 125 276<601 668> 373 85<303.504 397.836> 380 78<117.75 239>
 AnchorPoint: "Anchor-2" 475 0 basechar 0
 AnchorPoint: "Anchor-1" 263 0 basechar 0
 AnchorPoint: "Anchor-0" 263 668 basechar 0
@@ -21675,6 +22020,8 @@ Encoding: 224 224 196
 Width: 526
 GlyphClass: 2
 Flags: W
+HStem: -12 67<156.655 315.341> 0 21G<392.118 475> 239 67<238.409 373> 437 67<185.82 335.099> 571 136
+VStem: 38 93<79.8849 180.792> 155 162 373 85<303.504 397.836> 380 78<117.75 239>
 AnchorPoint: "Anchor-2" 475 0 basechar 0
 AnchorPoint: "Anchor-1" 263 0 basechar 0
 AnchorPoint: "Anchor-0" 236 707 basechar 0
@@ -21691,6 +22038,8 @@ Encoding: 226 226 197
 Width: 526
 GlyphClass: 2
 Flags: W
+HStem: -12 67<156.655 315.341> 0 21G<392.118 475> 239 67<238.409 373> 437 67<185.82 335.099> 575 120
+VStem: 38 93<79.8849 180.792> 101 323 373 85<303.504 397.836> 380 78<117.75 239>
 AnchorPoint: "Anchor-2" 475 0 basechar 0
 AnchorPoint: "Anchor-1" 263 0 basechar 0
 AnchorPoint: "Anchor-0" 263 695 basechar 0
@@ -21707,6 +22056,8 @@ Encoding: 227 227 198
 Width: 526
 GlyphClass: 2
 Flags: W
+HStem: -12 67<156.655 315.341> 0 21G<392.118 475> 239 67<238.409 373> 437 67<185.82 335.099> 575 63<271.562 366.285> 618 63<168.685 261.92>
+VStem: 38 93<79.8849 180.792> 98 65<577 612.883> 373 85<303.504 397.836> 380 78<117.75 239>
 AnchorPoint: "Anchor-2" 475 0 basechar 0
 AnchorPoint: "Anchor-1" 263 0 basechar 0
 AnchorPoint: "Anchor-0" 263 681 basechar 0
@@ -21723,6 +22074,8 @@ Encoding: 228 228 199
 Width: 526
 GlyphClass: 2
 Flags: W
+HStem: -12 67<156.655 315.341> 0 21G<392.118 475> 239 67<238.409 373> 437 67<185.82 335.099> 590 107<119.501 195.014 330.986 406.014>
+VStem: 38 93<79.8849 180.792> 103 108<606.501 681.014> 315 107<606.501 681.014> 373 85<303.504 397.836> 380 78<117.75 239>
 AnchorPoint: "Anchor-2" 475 0 basechar 0
 AnchorPoint: "Anchor-1" 263 0 basechar 0
 AnchorPoint: "Anchor-0" 263 697 basechar 0
@@ -21739,6 +22092,8 @@ Encoding: 229 229 200
 Width: 526
 GlyphClass: 2
 Flags: W
+HStem: -12 67<156.655 315.341> 0 21G<392.118 475> 239 67<238.409 373> 437 67<185.82 335.099> 559 58<223.348 302.728> 719 58<223.348 302.728>
+VStem: 38 93<79.8849 180.792> 154 57<629.61 706.718> 315 57<629.673 706.327> 373 85<303.504 397.836> 380 78<117.75 239>
 AnchorPoint: "Anchor-2" 475 0 basechar 0
 AnchorPoint: "Anchor-1" 263 0 basechar 0
 AnchorPoint: "Anchor-0" 263 777 basechar 0
@@ -21755,6 +22110,8 @@ Encoding: 225 225 201
 Width: 526
 GlyphClass: 2
 Flags: W
+HStem: -12 67<156.655 315.341> 0 21G<392.118 475> 239 67<238.409 373> 437 67<185.82 335.099> 571 136<304.116 311.74>
+VStem: 38 93<79.8849 180.792> 216 162 373 85<303.504 397.836> 380 78<117.75 239>
 AnchorPoint: "Anchor-2" 475 0 basechar 0
 AnchorPoint: "Anchor-1" 263 0 basechar 0
 AnchorPoint: "Anchor-0" 297 707 basechar 0
@@ -21771,6 +22128,8 @@ Encoding: 199 199 202
 Width: 656
 GlyphClass: 2
 Flags: W
+HStem: -181 41<273.531 369.106> -81 40<345.123 378.202> -12 79<266.437 456.941> 499 21G<521 586.667> 601 79<264.995 453.332>
+VStem: 50 96<203.92 465.835> 382 62<-131.512 -85.7319>
 AnchorPoint: "Anchor-1" 352 -181 basechar 0
 AnchorPoint: "Anchor-0" 353 668 basechar 0
 LayerCount: 2
@@ -21785,6 +22144,8 @@ Encoding: 231 231 203
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: -181 41<195.531 291.106> -81 40<267.123 300.202> -12 74<200.156 347.997> 430 74<198.473 347.022>
+VStem: 38 91<141.024 354.173> 304 62<-131.512 -85.7319>
 AnchorPoint: "Anchor-1" 274 -181 basechar 0
 AnchorPoint: "Anchor-0" 275 496 basechar 0
 LayerCount: 2
@@ -21800,6 +22161,8 @@ Encoding: 200 200 204
 Width: 567
 GlyphClass: 2
 Flags: W
+HStem: 0 81<170 529> 303 81<170 435> 587 81<170 529> 744 120
+VStem: 76 94<81 303 384 587> 182 173
 AnchorPoint: "Anchor-2" 506 0 basechar 0
 AnchorPoint: "Anchor-1" 284 0 basechar 0
 AnchorPoint: "Anchor-0" 269 864 basechar 0
@@ -21816,6 +22179,8 @@ Encoding: 201 201 205
 Width: 567
 GlyphClass: 2
 Flags: W
+HStem: 0 81<170 529> 303 81<170 435> 587 81<170 529> 744 120
+VStem: 76 94<81 303 384 587> 246 172
 AnchorPoint: "Anchor-2" 506 0 basechar 0
 AnchorPoint: "Anchor-1" 284 0 basechar 0
 AnchorPoint: "Anchor-0" 332 864 basechar 0
@@ -21832,6 +22197,8 @@ Encoding: 202 202 206
 Width: 567
 GlyphClass: 2
 Flags: W
+HStem: 0 81<170 529> 303 81<170 435> 587 81<170 529> 747 120
+VStem: 76 94<81 303 384 587> 142 323
 AnchorPoint: "Anchor-2" 506 0 basechar 0
 AnchorPoint: "Anchor-1" 284 0 basechar 0
 AnchorPoint: "Anchor-0" 304 867 basechar 0
@@ -21848,6 +22215,8 @@ Encoding: 203 203 207
 Width: 567
 GlyphClass: 2
 Flags: W
+HStem: 0 81<170 529> 303 81<170 435> 587 81<170 529> 740 107<160.501 236.014 371.986 447.014>
+VStem: 76 94<81 303 384 587> 144 108<756.501 831.014> 356 107<756.501 831.014>
 TtInstrs:
 PUSHB_2
  1
@@ -21874,6 +22243,8 @@ Encoding: 232 232 208
 Width: 539
 GlyphClass: 2
 Flags: W
+HStem: -12 74<202.004 366.328> 225 67<129 421> 432 72<193.941 356.518> 571 136
+VStem: 38 90<136.406 225 292 362.849> 173 162 421 89<292 363.93>
 AnchorPoint: "Anchor-2" 365 0 basechar 0
 AnchorPoint: "Anchor-1" 270 0 basechar 0
 AnchorPoint: "Anchor-0" 254 707 basechar 0
@@ -21890,6 +22261,8 @@ Encoding: 233 233 209
 Width: 539
 GlyphClass: 2
 Flags: W
+HStem: -12 74<202.004 366.328> 225 67<129 421> 432 72<193.941 356.518> 571 136<322.116 329.74>
+VStem: 38 90<136.406 225 292 362.849> 234 162 421 89<292 363.93>
 AnchorPoint: "Anchor-2" 365 0 basechar 0
 AnchorPoint: "Anchor-1" 270 0 basechar 0
 AnchorPoint: "Anchor-0" 315 707 basechar 0
@@ -21906,6 +22279,8 @@ Encoding: 234 234 210
 Width: 539
 GlyphClass: 2
 Flags: W
+HStem: -12 74<202.004 366.328> 225 67<129 421> 432 72<193.941 356.518> 575 120
+VStem: 38 90<136.406 225 292 362.849> 119 323 421 89<292 363.93>
 AnchorPoint: "Anchor-2" 365 0 basechar 0
 AnchorPoint: "Anchor-1" 270 0 basechar 0
 AnchorPoint: "Anchor-0" 281 695 basechar 0
@@ -21922,6 +22297,8 @@ Encoding: 235 235 211
 Width: 539
 GlyphClass: 2
 Flags: W
+HStem: -12 74<202.004 366.328> 225 67<129 421> 432 72<193.941 356.518> 590 107<137.501 213.014 348.986 424.014>
+VStem: 38 90<136.406 225 292 362.849> 121 108<606.501 681.014> 333 107<606.501 681.014> 421 89<292 363.93>
 AnchorPoint: "Anchor-2" 365 0 basechar 0
 AnchorPoint: "Anchor-1" 270 0 basechar 0
 AnchorPoint: "Anchor-0" 281 697 basechar 0
@@ -21938,6 +22315,8 @@ Encoding: 204 204 212
 Width: 414
 GlyphClass: 2
 Flags: W
+HStem: 0 74<66 160 254 348> 594 74<66 160 254 348> 744 120
+VStem: 85 173 160 94<74 594>
 AnchorPoint: "Anchor-2" 273 0 basechar 0
 AnchorPoint: "Anchor-1" 207 0 basechar 0
 AnchorPoint: "Anchor-0" 172 864 basechar 0
@@ -21954,6 +22333,8 @@ Encoding: 205 205 213
 Width: 414
 GlyphClass: 2
 Flags: W
+HStem: 0 74<66 160 254 348> 594 74<66 160 254 348> 744 120
+VStem: 149 172 160 94<74 594>
 AnchorPoint: "Anchor-2" 273 0 basechar 0
 AnchorPoint: "Anchor-1" 207 0 basechar 0
 AnchorPoint: "Anchor-0" 235 864 basechar 0
@@ -21970,6 +22351,8 @@ Encoding: 206 206 214
 Width: 414
 GlyphClass: 2
 Flags: W
+HStem: 0 74<66 160 254 348> 594 74<66 160 254 348> 747 120
+VStem: 45 323 160 94<74 594>
 AnchorPoint: "Anchor-2" 273 0 basechar 0
 AnchorPoint: "Anchor-1" 207 0 basechar 0
 AnchorPoint: "Anchor-0" 207 867 basechar 0
@@ -21986,6 +22369,8 @@ Encoding: 207 207 215
 Width: 414
 GlyphClass: 2
 Flags: W
+HStem: 0 74<66 160 254 348> 594 74<66 160 254 348> 740 107<63.5015 139.014 274.986 350.014>
+VStem: 47 108<756.501 831.014> 160 94<74 594> 259 107<756.501 831.014>
 TtInstrs:
 PUSHB_2
  1
@@ -22012,6 +22397,8 @@ Encoding: 236 236 216
 Width: 278
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<114 198> 429 67<45 114> 571 136
+VStem: 26 162 114 84<0 429>
 AnchorPoint: "Anchor-2" 250 10 basechar 0
 AnchorPoint: "Anchor-1" 139 0 basechar 0
 AnchorPoint: "Anchor-0" 107 707 basechar 0
@@ -22027,6 +22414,8 @@ Encoding: 237 237 217
 Width: 278
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<114 198> 429 67<45 114> 571 136<175.116 182.74>
+VStem: 87 162 114 84<0 429>
 AnchorPoint: "Anchor-2" 250 10 basechar 0
 AnchorPoint: "Anchor-1" 139 0 basechar 0
 AnchorPoint: "Anchor-0" 168 707 basechar 0
@@ -22042,6 +22431,8 @@ Encoding: 238 238 218
 Width: 278
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<114 198> 429 67<45 114> 575 120
+VStem: -28 323 114 84<0 429>
 AnchorPoint: "Anchor-2" 250 10 basechar 0
 AnchorPoint: "Anchor-1" 139 0 basechar 0
 AnchorPoint: "Anchor-0" 134 695 basechar 0
@@ -22057,6 +22448,8 @@ Encoding: 239 239 219
 Width: 278
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<114 198> 429 67<45 114> 590 107<-9.49854 66.0138 201.986 277.014>
+VStem: -26 108<606.501 681.014> 114 84<0 429> 186 107<606.501 681.014>
 AnchorPoint: "Anchor-2" 250 10 basechar 0
 AnchorPoint: "Anchor-1" 139 0 basechar 0
 AnchorPoint: "Anchor-0" 134 697 basechar 0
@@ -22072,6 +22465,8 @@ Encoding: 209 209 220
 Width: 689
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<76 170 464.317 613> 648 20G<76 225.704 519 613> 747 63<370.562 465.285> 790 63<267.685 360.92>
+VStem: 76 94<0 571> 197 65<749 784.883> 519 94<100 668>
 TtInstrs:
 PUSHB_2
  1
@@ -22096,6 +22491,8 @@ Encoding: 210 210 221
 Width: 727
 GlyphClass: 2
 Flags: W
+HStem: -12 79<270.869 455.999> 601 79<270.069 456.802> 744 120
+VStem: 50 96<206.269 463.005> 242 173 581 96<206.269 463.005>
 AnchorPoint: "Anchor-2" 654 10 basechar 0
 AnchorPoint: "Anchor-1" 364 0 basechar 0
 AnchorPoint: "Anchor-0" 329 864 basechar 0
@@ -22112,6 +22509,8 @@ Encoding: 211 211 222
 Width: 727
 GlyphClass: 2
 Flags: W
+HStem: -12 79<270.869 455.999> 601 79<270.069 456.802> 744 120
+VStem: 50 96<206.269 463.005> 306 172 581 96<206.269 463.005>
 AnchorPoint: "Anchor-2" 654 10 basechar 0
 AnchorPoint: "Anchor-1" 364 0 basechar 0
 AnchorPoint: "Anchor-0" 392 864 basechar 0
@@ -22128,6 +22527,9 @@ Encoding: 212 212 223
 Width: 727
 GlyphClass: 2
 Flags: W
+HStem: -12 79<270.869 455.999> 601 79<270.069 456.802> 747 120
+VStem: 50 96<206.269 463.005> 202 323 581 96<206.269 463.005>
+CounterMasks: 1 1c
 AnchorPoint: "Anchor-2" 654 10 basechar 0
 AnchorPoint: "Anchor-1" 364 0 basechar 0
 AnchorPoint: "Anchor-0" 364 867 basechar 0
@@ -22144,6 +22546,8 @@ Encoding: 213 213 224
 Width: 727
 GlyphClass: 2
 Flags: W
+HStem: -12 79<270.869 455.999> 601 79<270.069 456.802> 747 63<372.562 467.285> 790 63<269.685 362.92>
+VStem: 50 96<206.269 463.005> 199 65<749 784.883> 581 96<206.269 463.005>
 TtInstrs:
 PUSHB_2
  2
@@ -22170,6 +22574,8 @@ Encoding: 214 214 225
 Width: 727
 GlyphClass: 2
 Flags: W
+HStem: -12 79<270.869 455.999> 601 79<270.069 456.802> 740 107<220.501 296.014 431.986 507.014>
+VStem: 50 96<206.269 463.005> 204 108<756.501 831.014> 416 107<756.501 831.014> 581 96<206.269 463.005>
 TtInstrs:
 PUSHB_2
  2
@@ -22196,6 +22602,8 @@ Encoding: 217 217 226
 Width: 690
 GlyphClass: 2
 Flags: W
+HStem: -12 81<244.786 443.715> 648 20G<76 170 520 614> 744 120
+VStem: 76 94<151.941 668> 223 173 520 94<151.941 668>
 AnchorPoint: "Anchor-2" 427 0 basechar 0
 AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 310 864 basechar 0
@@ -22211,6 +22619,8 @@ Encoding: 218 218 227
 Width: 690
 GlyphClass: 2
 Flags: W
+HStem: -12 81<244.786 443.715> 648 20G<76 170 520 614> 744 120
+VStem: 76 94<151.941 668> 287 172 520 94<151.941 668>
 AnchorPoint: "Anchor-2" 427 0 basechar 0
 AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 373 864 basechar 0
@@ -22226,6 +22636,8 @@ Encoding: 219 219 228
 Width: 690
 GlyphClass: 2
 Flags: W
+HStem: -12 81<244.786 443.715> 648 20G<76 170 520 614> 747 120
+VStem: 76 94<151.941 668> 183 323 520 94<151.941 668>
 AnchorPoint: "Anchor-2" 427 0 basechar 0
 AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 345 867 basechar 0
@@ -22241,6 +22653,8 @@ Encoding: 220 220 229
 Width: 690
 GlyphClass: 2
 Flags: W
+HStem: -12 81<244.786 443.715> 648 20G<76 170 520 614> 740 107<201.501 277.014 412.986 488.014>
+VStem: 76 94<151.941 668> 185 108<756.501 831.014> 397 107<756.501 831.014> 520 94<151.941 668>
 TtInstrs:
 PUSHB_2
  1
@@ -22266,6 +22680,8 @@ Encoding: 221 221 230
 Width: 595
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<251 345> 648 20G<10 124.455 470.607 585> 744 120
+VStem: 240 172 251 94<0 259>
 AnchorPoint: "Anchor-1" 298 0 basechar 0
 AnchorPoint: "Anchor-0" 326 864 basechar 0
 LayerCount: 2
@@ -22281,6 +22697,8 @@ Encoding: 241 241 231
 Width: 546
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<70 154 394 478> 432 72<217.066 356.916> 476 20G<70 137.867> 575 63<296.562 391.285> 618 63<193.685 286.92>
+VStem: 70 62<472.136 496> 70 84<0 370.501> 123 65<577 612.883> 394 84<0 393.016>
 AnchorPoint: "Anchor-1" 257 0 basechar 0
 AnchorPoint: "Anchor-0" 288 681 basechar 0
 LayerCount: 2
@@ -22296,6 +22714,8 @@ Encoding: 242 242 232
 Width: 552
 GlyphClass: 2
 Flags: W
+HStem: -12 74<203.063 349.349> 430 74<203.063 349.349> 571 136
+VStem: 38 90<142.02 349.98> 168 162 424 90<142.02 349.98>
 AnchorPoint: "Anchor-2" 497 10 basechar 0
 AnchorPoint: "Anchor-1" 276 0 basechar 0
 AnchorPoint: "Anchor-0" 249 707 basechar 0
@@ -22311,6 +22731,8 @@ Encoding: 243 243 233
 Width: 552
 GlyphClass: 2
 Flags: W
+HStem: -12 74<203.063 349.349> 430 74<203.063 349.349> 571 136<317.116 324.74>
+VStem: 38 90<142.02 349.98> 229 162 424 90<142.02 349.98>
 AnchorPoint: "Anchor-2" 497 10 basechar 0
 AnchorPoint: "Anchor-1" 276 0 basechar 0
 AnchorPoint: "Anchor-0" 310 707 basechar 0
@@ -22326,6 +22748,8 @@ Encoding: 244 244 234
 Width: 552
 GlyphClass: 2
 Flags: W
+HStem: -12 74<203.063 349.349> 430 74<203.063 349.349> 575 120
+VStem: 38 90<142.02 349.98> 114 323 424 90<142.02 349.98>
 AnchorPoint: "Anchor-2" 497 10 basechar 0
 AnchorPoint: "Anchor-1" 276 0 basechar 0
 AnchorPoint: "Anchor-0" 276 695 basechar 0
@@ -22341,6 +22765,8 @@ Encoding: 245 245 235
 Width: 552
 GlyphClass: 2
 Flags: W
+HStem: -12 74<203.063 349.349> 430 74<203.063 349.349> 575 63<284.562 379.285> 618 63<181.685 274.92>
+VStem: 38 90<142.02 349.98> 111 65<577 612.883> 424 90<142.02 349.98>
 AnchorPoint: "Anchor-2" 497 10 basechar 0
 AnchorPoint: "Anchor-1" 276 0 basechar 0
 AnchorPoint: "Anchor-0" 276 681 basechar 0
@@ -22356,6 +22782,8 @@ Encoding: 246 246 236
 Width: 552
 GlyphClass: 2
 Flags: W
+HStem: -12 74<203.063 349.349> 430 74<203.063 349.349> 590 107<132.501 208.014 343.986 419.014>
+VStem: 38 90<142.02 349.98> 116 108<606.501 681.014> 328 107<606.501 681.014> 424 90<142.02 349.98>
 AnchorPoint: "Anchor-2" 497 10 basechar 0
 AnchorPoint: "Anchor-1" 276 0 basechar 0
 AnchorPoint: "Anchor-0" 276 697 basechar 0
@@ -22371,6 +22799,8 @@ Encoding: 249 249 237
 Width: 536
 GlyphClass: 2
 Flags: W
+HStem: -12 74<186.659 321.348> 0 21G<397.167 466> 477 20G<68 152 382 466> 571 136
+VStem: 68 84<98.818 497> 159 162 382 84<121.907 497> 403 63<0 24>
 AnchorPoint: "Anchor-2" 469 0 basechar 0
 AnchorPoint: "Anchor-1" 268 0 basechar 0
 AnchorPoint: "Anchor-0" 240 707 basechar 0
@@ -22386,6 +22816,8 @@ Encoding: 250 250 238
 Width: 536
 GlyphClass: 2
 Flags: W
+HStem: -12 74<186.659 321.348> 0 21G<397.167 466> 477 20G<68 152 382 466> 571 136<308.116 315.74>
+VStem: 68 84<98.818 497> 220 162 382 84<121.907 497> 403 63<0 24>
 AnchorPoint: "Anchor-2" 469 0 basechar 0
 AnchorPoint: "Anchor-1" 268 0 basechar 0
 AnchorPoint: "Anchor-0" 301 707 basechar 0
@@ -22401,6 +22833,8 @@ Encoding: 251 251 239
 Width: 536
 GlyphClass: 2
 Flags: W
+HStem: -12 74<186.659 321.348> 0 21G<397.167 466> 477 20G<68 152 382 466> 575 120
+VStem: 68 84<98.818 497> 105 323 382 84<121.907 497> 403 63<0 24>
 AnchorPoint: "Anchor-2" 469 0 basechar 0
 AnchorPoint: "Anchor-1" 268 0 basechar 0
 AnchorPoint: "Anchor-0" 267 695 basechar 0
@@ -22416,6 +22850,8 @@ Encoding: 252 252 240
 Width: 536
 GlyphClass: 2
 Flags: W
+HStem: -12 74<186.659 321.348> 0 21G<397.167 466> 477 20G<68 152 382 466> 590 107<123.501 199.014 334.986 410.014>
+VStem: 68 84<98.818 497> 107 108<606.501 681.014> 319 107<606.501 681.014> 382 84<121.907 497> 403 63<0 24>
 AnchorPoint: "Anchor-2" 469 0 basechar 0
 AnchorPoint: "Anchor-1" 268 0 basechar 0
 AnchorPoint: "Anchor-0" 267 697 basechar 0
@@ -22431,6 +22867,8 @@ Encoding: 253 253 241
 Width: 429
 GlyphClass: 2
 Flags: W
+HStem: -161 74<37 149.938> 475 20G<0 99.3874 330.613 429> 571 136<261.116 268.74>
+VStem: 173 162
 AnchorPoint: "Anchor-1" 215 0 basechar 0
 AnchorPoint: "Anchor-0" 254 707 basechar 0
 LayerCount: 2
@@ -22446,6 +22884,8 @@ Encoding: 255 255 242
 Width: 429
 GlyphClass: 2
 Flags: W
+HStem: -161 74<37 149.938> 475 20G<0 99.3874 330.613 429> 590 107<76.5015 152.014 287.986 363.014>
+VStem: 60 108<606.501 681.014> 272 107<606.501 681.014>
 AnchorPoint: "Anchor-1" 215 0 basechar 0
 AnchorPoint: "Anchor-0" 220 697 basechar 0
 LayerCount: 2
@@ -22461,6 +22901,8 @@ Encoding: 310 352 243
 Width: 596
 GlyphClass: 2
 Flags: W
+HStem: -12 79<202.055 396.012> 601 79<194.892 383.377> 741 120
+VStem: 46 97<441.857 555.489> 136 323 457 99<120.557 242.874>
 TtInstrs:
 PUSHB_2
  1
@@ -22486,6 +22928,8 @@ Encoding: 311 353 244
 Width: 471
 GlyphClass: 2
 Flags: W
+HStem: -12 71<157.069 322.393> 434 71<149.902 306.712> 569 120
+VStem: 41 85<324.32 410.717> 78 323 356 85<89.6953 183.453>
 AnchorPoint: "Anchor-1" 230 0 basechar 0
 AnchorPoint: "Anchor-0" 240 689 basechar 0
 LayerCount: 2
@@ -22501,6 +22945,8 @@ Encoding: 312 376 245
 Width: 595
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<251 345> 648 20G<10 124.455 470.607 585> 740 107<154.501 230.014 365.986 441.014>
+VStem: 138 108<756.501 831.014> 251 94<0 259> 350 107<756.501 831.014>
 TtInstrs:
 PUSHB_2
  1
@@ -22526,6 +22972,8 @@ Encoding: 313 381 246
 Width: 607
 GlyphClass: 2
 Flags: W
+HStem: 0 81<156 563> 587 81<59 438> 741 120
+VStem: 142 323
 TtInstrs:
 PUSHB_2
  1
@@ -22550,6 +22998,8 @@ Encoding: 314 382 247
 Width: 460
 GlyphClass: 2
 Flags: W
+HStem: 0 74<135 430> 422 74<49 325> 569 120
+VStem: 75 323
 AnchorPoint: "Anchor-1" 230 0 basechar 0
 AnchorPoint: "Anchor-0" 237 689 basechar 0
 LayerCount: 2
@@ -22564,6 +23014,8 @@ Encoding: 208 208 248
 Width: 712
 GlyphClass: 2
 Flags: W
+HStem: 0 79<209 441.419> 303 80<20 115 209 349> 589 79<209 441.419>
+VStem: 115 94<79 303 383 589> 566 96<199.956 469.077>
 TtInstrs:
 NPUSHB
  52
@@ -22668,6 +23120,8 @@ Encoding: 315 -1 249
 Width: 639
 GlyphClass: 1
 Flags: W
+HStem: -12 74<237.969 401.767> 606 74<237.757 402.031>
+VStem: 56 91<178.169 483.765> 493 91<191.274 491.112>
 LayerCount: 2
 Fore
 Refer: 5 48 N 1 0 0 1 -4 0 2
@@ -22682,6 +23136,8 @@ Encoding: 316 -1 250
 Width: 639
 GlyphClass: 1
 Flags: W
+HStem: 0 77<109 287 370 530> 504 67<109 246.222> 648 20G<307 370>
+VStem: 287 83<77 504> 314 56<627.278 668>
 TtInstrs:
 MPPEM
 PUSHB_1
@@ -22792,6 +23248,8 @@ Encoding: 317 -1 251
 Width: 639
 GlyphClass: 1
 Flags: W
+HStem: 0 77<192 560> 498 21G<118 194> 610 70<246.781 407.328>
+VStem: 104 84<520 554.102> 453 89<409.826 565.402>
 LayerCount: 2
 Fore
 Refer: 7 50 N 1 0 0 1 45 0 2
@@ -22805,6 +23263,8 @@ Encoding: 318 -1 252
 Width: 639
 GlyphClass: 1
 Flags: W
+HStem: -12 70<229.288 405.101> 314 76<260 394.88> 498 21G<107.667 181> 610 70<235.073 401.619>
+VStem: 94 82<519.951 551.747> 449 88<436.237 567.259> 466 90<112.819 257.456>
 LayerCount: 2
 Fore
 Refer: 8 51 N 1 0 0 1 42 0 2
@@ -22818,6 +23278,8 @@ Encoding: 319 -1 253
 Width: 639
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<383 467> 165 79<142 383 467 589> 648 20G<366.387 467>
+VStem: 383 84<0 165 244 553>
 LayerCount: 2
 Fore
 Refer: 9 52 N 1 0 0 1 13 0 2
@@ -22831,6 +23293,8 @@ Encoding: 320 -1 254
 Width: 639
 GlyphClass: 1
 Flags: W
+HStem: -12 70<228.477 394.063> 378 72<234.016 395.328> 587 81<213 528>
+VStem: 465 88<130.176 308.978>
 LayerCount: 2
 Fore
 Refer: 10 53 N 1 0 0 1 32 0 2
@@ -22844,6 +23308,8 @@ Encoding: 321 -1 255
 Width: 639
 GlyphClass: 1
 Flags: W
+HStem: -12 71<243.029 403.168> 371 74<243.535 404.03> 610 70<257.756 409.36>
+VStem: 81 87<352 479.422> 469 90<127.166 302.577>
 LayerCount: 2
 Fore
 Refer: 11 54 N 1 0 0 1 21 0 2
@@ -22857,6 +23323,7 @@ Encoding: 322 -1 256
 Width: 639
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<167 281.472> 587 81<89 457>
 LayerCount: 2
 Fore
 Refer: 12 55 N 1 0 0 1 74 0 2
@@ -22870,6 +23337,8 @@ Encoding: 323 -1 257
 Width: 639
 GlyphClass: 1
 Flags: W
+HStem: -12 74<224.304 414.64> 317 74<255.125 383.303> 606 74<254.601 383.16>
+VStem: 72 91<117.132 260.196> 138 74<433.675 563.728> 426 75<433.675 563.728> 476 91<117.132 260.196>
 LayerCount: 2
 Fore
 Refer: 13 56 N 1 0 0 1 12 0 2
@@ -22883,6 +23352,8 @@ Encoding: 324 -1 258
 Width: 639
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<234 357> 201 86<242.381 372.605> 594 85<241.409 400.282>
+VStem: 81 86<362.409 519.493> 475 84<363.204 518.967>
 LayerCount: 2
 Fore
 Refer: 14 57 N 1 0 0 1 21 0 2
@@ -22896,6 +23367,8 @@ Encoding: 325 258 259
 Width: 626
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<10 116.986 509.014 616> 146 81<190 436> 649 20G<253.496 373.474> 741 67<256.784 368.493>
+VStem: 166 294
 TtInstrs:
 PUSHB_2
  2
@@ -22922,6 +23395,8 @@ Encoding: 326 259 260
 Width: 526
 GlyphClass: 2
 Flags: W
+HStem: -12 67<156.655 315.341> 0 21G<392.118 475> 239 67<238.409 373> 437 67<185.82 335.099> 569 67<206.784 318.493>
+VStem: 38 93<79.8849 180.792> 116 294 373 85<303.504 397.836> 380 78<117.75 239>
 AnchorPoint: "Anchor-2" 475 0 basechar 0
 AnchorPoint: "Anchor-1" 263 0 basechar 0
 AnchorPoint: "Anchor-0" 263 689 basechar 0
@@ -22938,6 +23413,8 @@ Encoding: 327 260 261
 Width: 626
 GlyphClass: 2
 Flags: W
+HStem: -173 58<537.236 614.313> 0 21G<10 116.986 509.014 616> 146 81<190 436> 649 20G<253.496 373.474>
+VStem: 458 70<-107.034 -32.2612>
 AnchorPoint: "Anchor-2" 615 0 basechar 0
 AnchorPoint: "Anchor-1" 313 0 basechar 0
 AnchorPoint: "Anchor-0" 313 668 basechar 0
@@ -22954,6 +23431,8 @@ Encoding: 328 261 262
 Width: 526
 GlyphClass: 2
 Flags: W
+HStem: -173 58<397.236 474.313> -20 20G<379.5 475> -12 67<156.655 315.341> 0 21G<392.118 475> 239 67<238.409 373> 437 67<185.82 335.099>
+VStem: 38 93<79.8849 180.792> 318 70<-107.034 -34.266> 373 85<303.504 397.836> 380 78<117.75 239>
 AnchorPoint: "Anchor-2" 475 0 basechar 0
 AnchorPoint: "Anchor-1" 263 0 basechar 0
 AnchorPoint: "Anchor-0" 263 496 basechar 0
@@ -22970,6 +23449,8 @@ Encoding: 329 274 263
 Width: 567
 GlyphClass: 2
 Flags: W
+HStem: 0 81<170 529> 303 81<170 435> 587 81<170 529> 762 67<166 442>
+VStem: 76 94<81 303 384 587> 166 276<762 829>
 TtInstrs:
 PUSHB_2
  1
@@ -22996,6 +23477,8 @@ Encoding: 330 275 264
 Width: 539
 GlyphClass: 2
 Flags: W
+HStem: -12 74<202.004 366.328> 225 67<129 421> 432 72<193.941 356.518> 601 67<143 419>
+VStem: 38 90<136.406 225 292 362.849> 143 276<601 668> 421 89<292 363.93>
 AnchorPoint: "Anchor-2" 365 0 basechar 0
 AnchorPoint: "Anchor-1" 270 0 basechar 0
 AnchorPoint: "Anchor-0" 281 668 basechar 0
@@ -23012,6 +23495,8 @@ Encoding: 331 278 265
 Width: 567
 GlyphClass: 2
 Flags: W
+HStem: 0 81<170 529> 303 81<170 435> 587 81<170 529> 762 108<266.501 342.014>
+VStem: 76 94<81 303 384 587> 250 108<778.501 854.014>
 TtInstrs:
 PUSHB_2
  1
@@ -23038,6 +23523,8 @@ Encoding: 332 279 266
 Width: 539
 GlyphClass: 2
 Flags: W
+HStem: -12 74<202.004 366.328> 225 67<129 421> 432 72<193.941 356.518> 590 108<243.501 319.014>
+VStem: 38 90<136.406 225 292 362.849> 227 108<606.501 682.014> 421 89<292 363.93>
 AnchorPoint: "Anchor-2" 365 0 basechar 0
 AnchorPoint: "Anchor-1" 270 0 basechar 0
 AnchorPoint: "Anchor-0" 281 698 basechar 0
@@ -23054,6 +23541,8 @@ Encoding: 333 280 267
 Width: 567
 GlyphClass: 2
 Flags: W
+HStem: -173 58<428.236 505.313> 0 81<170 529> 303 81<170 435> 587 81<170 529>
+VStem: 76 94<81 303 384 587> 349 70<-107.034 -32.2612>
 AnchorPoint: "Anchor-2" 506 0 basechar 0
 AnchorPoint: "Anchor-1" 284 0 basechar 0
 AnchorPoint: "Anchor-0" 304 668 basechar 0
@@ -23070,6 +23559,8 @@ Encoding: 334 281 268
 Width: 539
 GlyphClass: 2
 Flags: W
+HStem: -173 58<333.866 410.313> -12 74<202.865 284> 225 67<129 421> 432 72<193.941 356.518>
+VStem: 38 90<136.406 225 292 362.849> 254 70<-106.624 -22.4028> 421 89<292 363.93>
 TtInstrs:
 NPUSHB
  15
@@ -23259,6 +23750,8 @@ Encoding: 335 282 269
 Width: 567
 GlyphClass: 2
 Flags: W
+HStem: 0 81<170 529> 303 81<170 435> 587 81<170 529> 741 120
+VStem: 76 94<81 303 384 587> 142 323
 TtInstrs:
 PUSHB_2
  1
@@ -23285,6 +23778,8 @@ Encoding: 336 283 270
 Width: 539
 GlyphClass: 2
 Flags: W
+HStem: -12 74<202.004 366.328> 225 67<129 421> 432 72<193.941 356.518> 569 120
+VStem: 38 90<136.406 225 292 362.849> 119 323 421 89<292 363.93>
 AnchorPoint: "Anchor-2" 365 0 basechar 0
 AnchorPoint: "Anchor-1" 270 0 basechar 0
 AnchorPoint: "Anchor-0" 281 689 basechar 0
@@ -23301,6 +23796,8 @@ Encoding: 337 336 271
 Width: 727
 GlyphClass: 2
 Flags: W
+HStem: -12 79<270.869 455.999> 601 79<270.069 456.802> 744 136
+VStem: 50 96<206.269 463.005> 250 308 581 96<206.269 463.005>
 TtInstrs:
 PUSHB_2
  2
@@ -23326,6 +23823,8 @@ Encoding: 338 337 272
 Width: 552
 GlyphClass: 2
 Flags: W
+HStem: -12 74<203.063 349.349> 430 74<203.063 349.349> 572 136
+VStem: 38 90<142.02 349.98> 162 308 424 90<142.02 349.98>
 AnchorPoint: "Anchor-2" 497 10 basechar 0
 AnchorPoint: "Anchor-1" 276 0 basechar 0
 AnchorPoint: "Anchor-0" 316 708 basechar 0
@@ -23341,6 +23840,8 @@ Encoding: 339 298 273
 Width: 414
 GlyphClass: 2
 Flags: W
+HStem: 0 74<66 160 254 348> 594 74<66 160 254 348> 762 67<69 345>
+VStem: 69 276<762 829> 160 94<74 594>
 TtInstrs:
 PUSHB_2
  1
@@ -23367,6 +23868,8 @@ Encoding: 340 299 274
 Width: 278
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<114 198> 429 67<45 114> 601 67<-4 272>
+VStem: -4 276<601 668> 114 84<0 429>
 AnchorPoint: "Anchor-2" 250 10 basechar 0
 AnchorPoint: "Anchor-1" 139 0 basechar 0
 AnchorPoint: "Anchor-0" 134 668 basechar 0
@@ -23382,6 +23885,8 @@ Encoding: 341 302 275
 Width: 414
 GlyphClass: 2
 Flags: W
+HStem: -173 58<195.236 272.313> 0 74<66 160 254 348> 594 74<66 160 254 348>
+VStem: 116 70<-107.034 -32.2612> 160 94<74 594>
 AnchorPoint: "Anchor-2" 273 0 basechar 0
 AnchorPoint: "Anchor-1" 207 0 basechar 0
 AnchorPoint: "Anchor-0" 207 668 basechar 0
@@ -23398,6 +23903,8 @@ Encoding: 342 303 276
 Width: 278
 GlyphClass: 1
 Flags: W
+HStem: -173 58<113.236 190.313> -20 20G<95.5 191> 0 21G<114 198> 429 67<45 114> 590 125<113.08 199.92>
+VStem: 34 70<-107.034 -34.266> 94 125<609.08 696.436> 114 84<0 429>
 LayerCount: 2
 Fore
 Refer: 49 105 N 1 0 0 1 0 0 3
@@ -23410,6 +23917,8 @@ Encoding: 343 262 277
 Width: 656
 GlyphClass: 2
 Flags: W
+HStem: -12 79<266.437 456.941> 499 21G<521 586.667> 601 79<264.995 453.332> 744 120
+VStem: 50 96<203.92 465.835> 295 172
 AnchorPoint: "Anchor-1" 348 0 basechar 0
 AnchorPoint: "Anchor-0" 381 864 basechar 0
 LayerCount: 2
@@ -23424,6 +23933,8 @@ Encoding: 344 263 278
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: -12 74<200.156 347.997> 430 74<198.473 347.022> 571 136<316.116 323.74>
+VStem: 38 91<141.024 354.173> 228 162
 AnchorPoint: "Anchor-1" 270 0 basechar 0
 AnchorPoint: "Anchor-0" 309 707 basechar 0
 LayerCount: 2
@@ -23439,6 +23950,8 @@ Encoding: 345 266 279
 Width: 656
 GlyphClass: 2
 Flags: W
+HStem: -12 79<266.437 456.941> 499 21G<521 586.667> 601 79<264.995 453.332> 762 108<315.501 391.014>
+VStem: 50 96<203.92 465.835> 299 108<778.501 854.014>
 TtInstrs:
 PUSHB_2
  1
@@ -23463,6 +23976,8 @@ Encoding: 346 267 280
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: -12 74<200.156 347.997> 430 74<198.473 347.022> 590 108<237.501 313.014>
+VStem: 38 91<141.024 354.173> 221 108<606.501 682.014>
 AnchorPoint: "Anchor-1" 270 0 basechar 0
 AnchorPoint: "Anchor-0" 275 698 basechar 0
 LayerCount: 2
@@ -23478,6 +23993,8 @@ Encoding: 347 346 281
 Width: 596
 GlyphClass: 2
 Flags: W
+HStem: -12 79<202.055 396.012> 601 79<194.892 383.377> 744 120
+VStem: 46 97<441.857 555.489> 240 172 457 99<120.557 242.874>
 AnchorPoint: "Anchor-1" 298 0 basechar 0
 AnchorPoint: "Anchor-0" 326 864 basechar 0
 LayerCount: 2
@@ -23493,6 +24010,8 @@ Encoding: 348 347 282
 Width: 471
 GlyphClass: 2
 Flags: W
+HStem: -12 71<157.069 322.393> 434 71<149.902 306.712> 571 136<281.116 288.74>
+VStem: 41 85<324.32 410.717> 193 162 356 85<89.6953 183.453>
 AnchorPoint: "Anchor-1" 230 0 basechar 0
 AnchorPoint: "Anchor-0" 274 707 basechar 0
 LayerCount: 2
@@ -23508,6 +24027,9 @@ Encoding: 349 362 283
 Width: 690
 GlyphClass: 2
 Flags: W
+HStem: -12 81<244.786 443.715> 648 20G<76 170 520 614> 762 67<207 483>
+VStem: 76 94<151.941 668> 207 276<762 829> 520 94<151.941 668>
+CounterMasks: 1 1c
 TtInstrs:
 PUSHB_2
  1
@@ -23533,6 +24055,8 @@ Encoding: 350 363 284
 Width: 536
 GlyphClass: 2
 Flags: W
+HStem: -12 74<186.659 321.348> 0 21G<397.167 466> 477 20G<68 152 382 466> 601 67<129 405>
+VStem: 68 84<98.818 497> 129 276<601 668> 382 84<121.907 497> 403 63<0 24>
 AnchorPoint: "Anchor-2" 469 0 basechar 0
 AnchorPoint: "Anchor-1" 268 0 basechar 0
 AnchorPoint: "Anchor-0" 267 668 basechar 0
@@ -23548,6 +24072,8 @@ Encoding: 351 366 285
 Width: 690
 GlyphClass: 2
 Flags: W
+HStem: -12 81<244.786 443.715> 648 20G<76 170 520 614> 670 58<305.348 384.728> 830 58<305.348 384.728>
+VStem: 76 94<151.941 668> 236 57<740.61 817.718> 397 57<740.673 817.327> 520 94<151.941 668>
 TtInstrs:
 PUSHB_2
  1
@@ -23573,6 +24099,8 @@ Encoding: 352 367 286
 Width: 536
 GlyphClass: 2
 Flags: W
+HStem: -12 74<186.659 321.348> 0 21G<397.167 466> 477 20G<68 152 382 466> 559 58<227.348 306.728> 719 58<227.348 306.728>
+VStem: 68 84<98.818 497> 158 57<629.61 706.718> 319 57<629.673 706.327> 382 84<121.907 497> 403 63<0 24>
 AnchorPoint: "Anchor-2" 469 0 basechar 0
 AnchorPoint: "Anchor-1" 268 0 basechar 0
 AnchorPoint: "Anchor-0" 267 777 basechar 0
@@ -23588,6 +24116,8 @@ Encoding: 353 368 287
 Width: 690
 GlyphClass: 2
 Flags: W
+HStem: -12 81<244.786 443.715> 648 20G<76 170 520 614> 744 136
+VStem: 76 94<151.941 668> 231 308 520 94<151.941 668>
 TtInstrs:
 PUSHB_2
  1
@@ -23613,6 +24143,8 @@ Encoding: 354 369 288
 Width: 536
 GlyphClass: 2
 Flags: W
+HStem: -12 74<186.659 321.348> 0 21G<397.167 466> 477 20G<68 152 382 466> 572 136
+VStem: 68 84<98.818 497> 153 308 382 84<121.907 497> 403 63<0 24>
 AnchorPoint: "Anchor-2" 469 0 basechar 0
 AnchorPoint: "Anchor-1" 268 0 basechar 0
 AnchorPoint: "Anchor-0" 307 708 basechar 0
@@ -23628,6 +24160,8 @@ Encoding: 355 370 289
 Width: 690
 GlyphClass: 2
 Flags: W
+HStem: -173 58<349.236 426.313> -12 81<244.786 443.715> 648 20G<76 170 520 614>
+VStem: 76 94<151.941 668> 270 70<-107.034 -32.2612> 520 94<151.941 668>
 AnchorPoint: "Anchor-2" 427 0 basechar 0
 AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 345 668 basechar 0
@@ -23643,6 +24177,8 @@ Encoding: 356 371 290
 Width: 536
 GlyphClass: 1
 Flags: W
+HStem: -173 58<388.236 465.313> -12 74<187.971 321.348> 477 20G<68 152 382 466>
+VStem: 68 84<98.6876 497> 309 70<-107.034 -33.9099> 382 84<121.907 497>
 TtInstrs:
 NPUSHB
  19
@@ -23794,6 +24330,8 @@ Encoding: 357 323 291
 Width: 689
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<76 170 464.317 613> 648 20G<76 225.704 519 613> 744 120
+VStem: 76 94<0 571> 304 172 519 94<100 668>
 AnchorPoint: "Anchor-1" 311 0 basechar 0
 AnchorPoint: "Anchor-0" 390 864 basechar 0
 LayerCount: 2
@@ -23808,6 +24346,8 @@ Encoding: 358 324 292
 Width: 546
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<70 154 394 478> 432 72<217.066 356.916> 476 20G<70 137.867> 571 136<329.116 336.74>
+VStem: 70 62<472.136 496> 70 84<0 370.501> 241 162 394 84<0 393.016>
 AnchorPoint: "Anchor-1" 257 0 basechar 0
 AnchorPoint: "Anchor-0" 322 707 basechar 0
 LayerCount: 2
@@ -23823,6 +24363,8 @@ Encoding: 359 327 293
 Width: 689
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<76 170 464.317 613> 648 20G<76 225.704 519 613> 741 120
+VStem: 76 94<0 571> 200 323 519 94<100 668>
 TtInstrs:
 PUSHB_2
  1
@@ -23847,6 +24389,8 @@ Encoding: 360 328 294
 Width: 546
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<70 154 394 478> 432 72<217.066 356.916> 476 20G<70 137.867> 569 120
+VStem: 70 62<472.136 496> 70 84<0 370.501> 126 323 394 84<0 393.016>
 AnchorPoint: "Anchor-1" 257 0 basechar 0
 AnchorPoint: "Anchor-0" 288 689 basechar 0
 LayerCount: 2
@@ -23862,6 +24406,8 @@ Encoding: 361 377 295
 Width: 607
 GlyphClass: 2
 Flags: W
+HStem: 0 81<156 563> 587 81<59 438> 744 120
+VStem: 246 172
 AnchorPoint: "Anchor-1" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 332 864 basechar 0
 LayerCount: 2
@@ -23876,6 +24422,8 @@ Encoding: 362 378 296
 Width: 460
 GlyphClass: 2
 Flags: W
+HStem: 0 74<135 430> 422 74<49 325> 571 136<278.116 285.74>
+VStem: 190 162
 AnchorPoint: "Anchor-1" 230 0 basechar 0
 AnchorPoint: "Anchor-0" 271 707 basechar 0
 LayerCount: 2
@@ -23890,6 +24438,8 @@ Encoding: 363 379 297
 Width: 607
 GlyphClass: 2
 Flags: W
+HStem: 0 81<156 563> 587 81<59 438> 762 108<266.501 342.014>
+VStem: 250 108<778.501 854.014>
 TtInstrs:
 PUSHB_2
  1
@@ -23914,6 +24464,8 @@ Encoding: 364 380 298
 Width: 460
 GlyphClass: 2
 Flags: W
+HStem: 0 74<135 430> 422 74<49 325> 590 108<199.501 275.014>
+VStem: 183 108<606.501 682.014>
 AnchorPoint: "Anchor-1" 230 0 basechar 0
 AnchorPoint: "Anchor-0" 237 698 basechar 0
 LayerCount: 2
@@ -23928,6 +24480,8 @@ Encoding: 365 294 299
 Width: 710
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<86 180 530 624> 303 81<180 530> 504 77<10 86 180 530 624 700> 648 20G<86 180 530 624>
+VStem: 86 94<0 303 384 504 581 668> 530 94<0 303 384 504 581 668>
 TtInstrs:
 NPUSHB
  56
@@ -24029,6 +24583,8 @@ Encoding: 366 295 300
 Width: 581
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<105 189 429 513> 432 72<252.066 391.916> 548 67<20 105 189 349> 648 20G<105 189>
+VStem: 105 84<0 370.501 421 548 615 668> 429 84<0 393.016>
 TtInstrs:
 NPUSHB
  56
@@ -24128,6 +24684,8 @@ Encoding: 367 286 301
 Width: 710
 GlyphClass: 2
 Flags: W
+HStem: -12 79<264.472 463.329> 0 21G<582.048 642> 264 81<358 553> 499 21G<521 587.333> 601 79<264.995 453.332> 741 67<302.784 414.493>
+VStem: 50 96<202.944 465.835> 212 294 553 89<149.752 264> 588 54<0 23.52>
 TtInstrs:
 PUSHB_2
  1
@@ -24152,6 +24710,8 @@ Encoding: 368 287 302
 Width: 560
 GlyphClass: 2
 Flags: W
+HStem: -192 74<195.502 362.951> 9 70<195.824 342.498> 432 72<195.019 341.891> 476 20G<423.103 490> 569 67<211.784 323.493>
+VStem: 38 91<152.416 359.779> 121 294 406 84<-70.2194 94 144.578 367.414> 429 61<472.261 496>
 AnchorPoint: "Anchor-1" 280 -251 basechar 0
 AnchorPoint: "Anchor-0" 268 689 basechar 0
 LayerCount: 2
@@ -24166,6 +24726,8 @@ Encoding: 369 288 303
 Width: 710
 GlyphClass: 2
 Flags: W
+HStem: -12 79<264.472 463.329> 0 21G<582.048 642> 264 81<358 553> 499 21G<521 587.333> 601 79<264.995 453.332> 762 108<321.501 397.014>
+VStem: 50 96<202.944 465.835> 305 108<778.501 854.014> 553 89<149.752 264> 588 54<0 23.52>
 TtInstrs:
 PUSHB_2
  1
@@ -24190,6 +24752,8 @@ Encoding: 370 289 304
 Width: 560
 GlyphClass: 2
 Flags: W
+HStem: -192 74<195.502 362.951> 9 70<195.824 342.498> 432 72<195.019 341.891> 476 20G<423.103 490> 590 108<230.501 306.014>
+VStem: 38 91<152.416 359.779> 214 108<606.501 682.014> 406 84<-70.2194 94 144.578 367.414> 429 61<472.261 496>
 AnchorPoint: "Anchor-1" 280 -251 basechar 0
 AnchorPoint: "Anchor-0" 268 698 basechar 0
 LayerCount: 2
@@ -24204,6 +24768,8 @@ Encoding: 371 291 305
 Width: 560
 GlyphClass: 2
 Flags: W
+HStem: -192 74<195.502 362.951> 9 70<195.824 342.498> 432 72<195.019 341.891> 476 20G<423.103 490> 579 194
+VStem: 38 91<152.416 359.779> 245 66<620.567 717.142> 406 84<-70.2194 94 144.578 367.414> 429 61<472.261 496>
 TtInstrs:
 PUSHB_2
  2
@@ -24228,6 +24794,8 @@ Encoding: 372 315 306
 Width: 539
 GlyphClass: 2
 Flags: W
+HStem: -250 194 0 81<170 529> 648 20G<76 170>
+VStem: 76 94<81 668> 309 66<-194.142 -97.567>
 AnchorPoint: "Anchor-1" 295 -250 basechar 0
 AnchorPoint: "Anchor-0" 270 668 basechar 0
 LayerCount: 2
@@ -24242,6 +24810,8 @@ Encoding: 373 316 307
 Width: 239
 GlyphClass: 2
 Flags: W
+HStem: -250 194 0 74<162.257 224> 647 20G<70 154>
+VStem: 70 84<87.4124 667> 149 66<-194.142 -97.567>
 AnchorPoint: "Anchor-1" 135 -250 basechar 0
 AnchorPoint: "Anchor-0" 117 680 basechar 0
 LayerCount: 2
@@ -24256,6 +24826,8 @@ Encoding: 374 356 308
 Width: 558
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<232 326> 587 81<10 232 326 548> 741 120
+VStem: 117 323 232 94<0 587>
 TtInstrs:
 PUSHB_2
  1
@@ -24281,6 +24853,8 @@ Encoding: 375 318 309
 Width: 239
 GlyphClass: 2
 Flags: W
+HStem: 0 74<162.257 224> 494 183<225.844 246> 647 20G<70 154>
+VStem: 70 84<87.4124 667>
 TtInstrs:
 PUSHB_2
  1
@@ -24306,6 +24880,8 @@ Encoding: 376 317 310
 Width: 539
 GlyphClass: 2
 Flags: W
+HStem: 0 81<170 529> 496 183<337.844 358> 648 20G<76 170>
+VStem: 76 94<81 668>
 TtInstrs:
 PUSHB_2
  1
@@ -24330,6 +24906,8 @@ Encoding: 377 357 311
 Width: 324
 GlyphClass: 2
 Flags: W
+HStem: 0 74<195.741 284> 429 67<20 104 188 284> 549 183<268.844 289>
+VStem: 104 84<87.4124 429 496 621>
 TtInstrs:
 PUSHB_2
  1
@@ -24354,6 +24932,8 @@ Encoding: 378 325 312
 Width: 689
 GlyphClass: 2
 Flags: W
+HStem: -250 194 0 21G<76 170 464.317 613> 648 20G<76 225.704 519 613>
+VStem: 76 94<0 571> 315 66<-194.142 -97.567> 519 94<100 668>
 AnchorPoint: "Anchor-1" 301 -250 basechar 0
 AnchorPoint: "Anchor-0" 362 668 basechar 0
 LayerCount: 2
@@ -24368,6 +24948,8 @@ Encoding: 379 326 313
 Width: 546
 GlyphClass: 2
 Flags: W
+HStem: -250 194 0 21G<70 154 394 478> 432 72<217.066 356.916> 476 20G<70 137.867>
+VStem: 70 62<472.136 496> 70 84<0 370.501> 261 66<-194.142 -97.567> 394 84<0 393.016>
 AnchorPoint: "Anchor-1" 247 -250 basechar 0
 AnchorPoint: "Anchor-0" 288 496 basechar 0
 LayerCount: 2
@@ -24383,6 +24965,8 @@ Encoding: 380 340 314
 Width: 618
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<76 170 458.552 588> 281 79<170 270> 589 79<170 422.615> 744 120
+VStem: 76 94<0 281 360 589> 245 172 470 96<400.729 547.976>
 AnchorPoint: "Anchor-1" 309 0 basechar 0
 AnchorPoint: "Anchor-0" 331 864 basechar 0
 LayerCount: 2
@@ -24397,6 +24981,8 @@ Encoding: 381 341 315
 Width: 340
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<70 154> 417 87<239.543 335> 476 20G<70 136.87> 571 136<240.116 247.74>
+VStem: 70 61<472.148 496> 70 84<0 334.225> 152 162
 AnchorPoint: "Anchor-1" 113 0 basechar 0
 AnchorPoint: "Anchor-0" 233 707 basechar 0
 LayerCount: 2
@@ -24411,6 +24997,8 @@ Encoding: 382 344 316
 Width: 618
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<76 170 458.552 588> 281 79<170 270> 589 79<170 422.615> 741 120
+VStem: 76 94<0 281 360 589> 141 323 470 96<400.729 547.976>
 TtInstrs:
 PUSHB_2
  2
@@ -24435,6 +25023,8 @@ Encoding: 383 345 317
 Width: 340
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<70 154> 417 87<239.543 335> 476 20G<70 136.87> 569 120
+VStem: 37 323 70 61<472.148 496> 70 84<0 334.225>
 AnchorPoint: "Anchor-1" 113 0 basechar 0
 AnchorPoint: "Anchor-0" 199 689 basechar 0
 LayerCount: 2
@@ -24449,6 +25039,8 @@ Encoding: 384 272 318
 Width: 712
 GlyphClass: 2
 Flags: W
+HStem: 0 79<209 441.419> 303 80<20 115 209 349> 589 79<209 441.419>
+VStem: 115 94<79 303 383 589> 566 96<199.956 469.077>
 AnchorPoint: "Anchor-1" 376 0 basechar 0
 AnchorPoint: "Anchor-0" 366 668 basechar 0
 LayerCount: 2
@@ -24463,6 +25055,8 @@ Encoding: 385 273 319
 Width: 603
 GlyphClass: 1
 Flags: W
+HStem: -12 72<200.01 346.113> 0 21G<428.133 513> 432 72<198.452 346.113> 548 67<249 412 496 578> 648 20G<412 496>
+VStem: 38 94<136.359 356.96> 412 84<132.304 360.343 418 548 615 668>
 TtInstrs:
 PUSHB_7
  27
@@ -24648,6 +25242,8 @@ Encoding: 386 270 320
 Width: 673
 GlyphClass: 2
 Flags: W
+HStem: 0 79<170 402.419> 589 79<170 402.419> 741 120
+VStem: 76 94<79 589> 165 323 527 96<199.956 469.077>
 TtInstrs:
 PUSHB_2
  2
@@ -24673,6 +25269,8 @@ Encoding: 387 271 321
 Width: 573
 GlyphClass: 2
 Flags: W
+HStem: -12 72<200.01 346.113> 0 21G<428.133 513> 432 72<198.452 346.113> 494 183<569.844 590> 648 20G<412 496>
+VStem: 38 94<136.359 356.96> 412 84<132.304 360.343 418 668>
 TtInstrs:
 PUSHB_2
  2
@@ -24698,6 +25296,8 @@ Encoding: 388 310 322
 Width: 627
 GlyphClass: 2
 Flags: W
+HStem: -250 194 0 21G<76 170 487.5 617> 648 20G<76 170 453.083 588>
+VStem: 76 94<0 210 332 668> 318 66<-194.142 -97.567>
 AnchorPoint: "Anchor-1" 304 -250 basechar 0
 AnchorPoint: "Anchor-0" 314 668 basechar 0
 LayerCount: 2
@@ -24712,6 +25312,8 @@ Encoding: 389 311 323
 Width: 490
 GlyphClass: 2
 Flags: W
+HStem: -250 194 0 21G<70 154 362.59 480> 476 20G<336.063 455> 648 20G<70 154>
+VStem: 70 84<0 166 273 668> 255 66<-194.142 -97.567>
 AnchorPoint: "Anchor-1" 241 -250 basechar 0
 AnchorPoint: "Anchor-0" 245 796 basechar 0
 LayerCount: 2
@@ -24726,6 +25328,8 @@ Encoding: 390 290 324
 Width: 710
 GlyphClass: 2
 Flags: W
+HStem: -250 194 -12 79<264.472 463.329> 0 21G<582.048 642> 264 81<358 553> 499 21G<521 587.333> 601 79<264.995 453.332>
+VStem: 50 96<202.944 465.835> 359 66<-194.142 -97.567> 553 89<149.752 264> 588 54<0 23.52>
 AnchorPoint: "Anchor-1" 345 -250 basechar 0
 AnchorPoint: "Anchor-0" 359 668 basechar 0
 LayerCount: 2
@@ -24740,6 +25344,8 @@ Encoding: 391 268 325
 Width: 656
 GlyphClass: 2
 Flags: W
+HStem: -12 79<266.437 456.941> 499 21G<521 586.667> 601 79<264.995 453.332> 741 120
+VStem: 50 96<203.92 465.835> 191 323
 TtInstrs:
 PUSHB_2
  1
@@ -24764,6 +25370,8 @@ Encoding: 392 269 326
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: -12 74<200.156 347.997> 430 74<198.473 347.022> 569 120
+VStem: 38 91<141.024 354.173> 113 323
 AnchorPoint: "Anchor-1" 270 0 basechar 0
 AnchorPoint: "Anchor-0" 275 689 basechar 0
 LayerCount: 2
@@ -24779,6 +25387,8 @@ Encoding: 393 350 327
 Width: 596
 GlyphClass: 2
 Flags: W
+HStem: -181 41<223.531 319.106> -81 40<295.123 328.202> -12 79<202.055 396.012> 601 79<194.892 383.377>
+VStem: 46 97<441.857 555.489> 332 62<-131.512 -85.7319> 457 99<120.557 242.874>
 AnchorPoint: "Anchor-1" 302 -181 basechar 0
 AnchorPoint: "Anchor-0" 298 668 basechar 0
 LayerCount: 2
@@ -24796,6 +25406,8 @@ Encoding: 394 351 328
 Width: 471
 GlyphClass: 2
 Flags: W
+HStem: -181 41<155.531 251.106> -81 40<227.123 260.202> -12 71<157.069 322.393> 434 71<149.902 306.712>
+VStem: 41 85<324.32 410.717> 264 62<-131.512 -85.7319> 356 85<89.6953 183.453>
 AnchorPoint: "Anchor-1" 234 -181 basechar 0
 AnchorPoint: "Anchor-0" 240 496 basechar 0
 LayerCount: 2
@@ -24813,6 +25425,8 @@ Encoding: 395 536 329
 Width: 596
 GlyphClass: 2
 Flags: W
+HStem: -250 194 -12 79<202.055 396.012> 601 79<194.892 383.377>
+VStem: 46 97<441.857 555.489> 302 66<-194.142 -97.567> 457 99<120.557 242.874>
 AnchorPoint: "Anchor-1" 288 -250 basechar 0
 AnchorPoint: "Anchor-0" 298 668 basechar 0
 LayerCount: 2
@@ -24828,6 +25442,8 @@ Encoding: 396 354 330
 Width: 558
 GlyphClass: 2
 Flags: W
+HStem: -250 194 0 21G<232 326> 587 81<10 232 326 548>
+VStem: 232 94<0 587> 283 66<-194.142 -97.567>
 AnchorPoint: "Anchor-1" 269 -250 basechar 0
 AnchorPoint: "Anchor-0" 279 668 basechar 0
 LayerCount: 2
@@ -24845,6 +25461,8 @@ Encoding: 397 538 331
 Width: 558
 GlyphClass: 2
 Flags: W
+HStem: -250 194 0 21G<232 326> 587 81<10 232 326 548>
+VStem: 232 94<0 587> 283 66<-194.142 -97.567>
 AnchorPoint: "Anchor-1" 269 -250 basechar 0
 AnchorPoint: "Anchor-0" 279 668 basechar 0
 LayerCount: 2
@@ -24860,6 +25478,8 @@ Encoding: 398 769 332
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 571 136<88.1163 95.7402>
+VStem: 0 162
 TtInstrs:
 PUSHB_2
  6
@@ -24934,6 +25554,8 @@ Encoding: 399 -1 333
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 744 120
+VStem: 0 172
 TtInstrs:
 NPUSHB
  20
@@ -24987,6 +25609,8 @@ Encoding: 400 774 334
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 569 67<90.7835 202.493>
+VStem: 0 294
 TtInstrs:
 PUSHB_2
  6
@@ -25070,6 +25694,8 @@ Encoding: 401 -1 335
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 741 67<90.7835 202.493>
+VStem: 0 294
 TtInstrs:
 PUSHB_2
  0
@@ -25094,6 +25720,8 @@ Encoding: 402 780 336
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 569 120
+VStem: 0 323
 TtInstrs:
 PUSHB_2
  6
@@ -25167,6 +25795,7 @@ Encoding: 403 -1 337
 Width: 0
 GlyphClass: 1
 Flags: W
+HStem: 495 183<48.8444 69>
 TtInstrs:
 NPUSHB
  33
@@ -25230,6 +25859,8 @@ Encoding: 404 -1 338
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 741 120
+VStem: 0 323
 TtInstrs:
 PUSHB_2
  0
@@ -25254,6 +25885,8 @@ Encoding: 405 807 339
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: -181 41<14.5306 110.106> -81 40<86.123 119.202>
+VStem: 123 62<-131.512 -85.7319>
 TtInstrs:
 PUSHB_2
  6
@@ -25409,6 +26042,8 @@ Encoding: 406 770 340
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 575 120
+VStem: 0 323
 TtInstrs:
 PUSHB_2
  6
@@ -25480,6 +26115,8 @@ Encoding: 407 -1 341
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 747 120
+VStem: 0 323
 TtInstrs:
 NPUSHB
  28
@@ -25537,6 +26174,8 @@ Encoding: 408 806 342
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: -250 194
+VStem: 94 66<-194.142 -97.567>
 TtInstrs:
 PUSHB_2
  6
@@ -25602,6 +26241,8 @@ Encoding: 409 776 343
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 590 107<16.5015 92.0138 227.986 303.014>
+VStem: 0 108<606.501 681.014> 212 107<606.501 681.014>
 TtInstrs:
 PUSHB_2
  6
@@ -25694,6 +26335,8 @@ Encoding: 410 -1 344
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 740 107<16.5015 92.0138 227.986 303.014>
+VStem: 0 108<756.501 831.014> 212 107<756.501 831.014>
 TtInstrs:
 PUSHB_2
  0
@@ -25718,6 +26361,8 @@ Encoding: 411 775 345
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 590 108<16.5015 92.0138>
+VStem: 0 108<606.501 682.014>
 TtInstrs:
 PUSHB_2
  6
@@ -25789,6 +26434,8 @@ Encoding: 412 -1 346
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 762 108<16.5015 92.0138>
+VStem: 0 108<778.501 854.014>
 TtInstrs:
 PUSHB_2
  0
@@ -25813,6 +26460,8 @@ Encoding: 413 8364 347
 Width: 664
 GlyphClass: 1
 Flags: W
+HStem: -12 79<299.087 476.664> 240 51<43 100 197 343> 377 51<43 100 197 418> 500 21G<534.5 600.714> 601 79<297.027 472.531>
+VStem: 99.5 89<291 377>
 TtInstrs:
 NPUSHB
  87
@@ -25954,6 +26603,8 @@ Encoding: 414 8308 348
 Width: 412
 GlyphClass: 1
 Flags: W
+HStem: 489 57<113 225 293 358>
+VStem: 225 68<403 489 546 692>
 TtInstrs:
 NPUSHB
  47
@@ -26034,6 +26685,8 @@ Encoding: 415 768 349
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 571 136
+VStem: 0 162
 TtInstrs:
 PUSHB_2
  6
@@ -26099,6 +26752,8 @@ Encoding: 416 -1 350
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 744 120
+VStem: 0 173
 TtInstrs:
 NPUSHB
  20
@@ -26150,6 +26805,8 @@ Encoding: 417 779 351
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 572 136
+VStem: 0 308
 TtInstrs:
 PUSHB_2
  6
@@ -26240,6 +26897,8 @@ Encoding: 418 -1 352
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 744 136
+VStem: 0 308
 TtInstrs:
 PUSHB_2
  0
@@ -26264,6 +26923,8 @@ Encoding: 419 305 353
 Width: 278
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<114 198> 429 67<45 114>
+VStem: 114 84<0 429>
 TtInstrs:
 NPUSHB
  28
@@ -26319,6 +26980,8 @@ Encoding: 420 772 354
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 601 67<0 276>
+VStem: 0 276<601 668>
 TtInstrs:
 PUSHB_2
  6
@@ -26385,6 +27048,8 @@ Encoding: 421 -1 355
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 762 67<0 276>
+VStem: 0 276<762 829>
 TtInstrs:
 PUSHB_2
  0
@@ -26409,6 +27074,8 @@ Encoding: 181 181 356
 Width: 555
 GlyphClass: 1
 Flags: W
+HStem: -162 21G<70 154> -11 72<190.87 327.328> 0 75<475.901 539.765> 476 20G<70 154 385 469>
+VStem: 70 84<-162 23.2494 99.3076 496> 385 84<123.423 496>
 TtInstrs:
 NPUSHB
  11
@@ -26561,6 +27228,8 @@ Encoding: 422 808 357
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: -173 58<79.2358 156.313> -20 20G<61.5 157>
+VStem: 0 70<-107.034 -34.266>
 TtInstrs:
 PUSHB_2
  6
@@ -26688,6 +27357,8 @@ Encoding: 423 -1 358
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: -173 58<79.2358 156.313>
+VStem: 0 70<-107.034 -32.2612>
 TtInstrs:
 NPUSHB
  10
@@ -26822,6 +27493,8 @@ Encoding: 424 778 359
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 559 58<69.3475 148.728> 719 58<69.3475 148.728>
+VStem: 0 57<629.61 706.718> 161 57<629.673 706.327>
 TtInstrs:
 PUSHB_2
  6
@@ -26922,6 +27595,8 @@ Encoding: 425 -1 360
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 670 58<69.3475 148.728> 830 58<69.3475 148.728>
+VStem: 0 57<740.61 817.718> 161 57<740.673 817.327>
 TtInstrs:
 PUSHB_2
  0
@@ -26946,6 +27621,8 @@ Encoding: 426 537 361
 Width: 471
 GlyphClass: 2
 Flags: W
+HStem: -250 194 -12 71<157.069 322.393> 434 71<149.902 306.712>
+VStem: 41 85<324.32 410.717> 234 66<-194.142 -97.567> 356 85<89.6953 183.453>
 AnchorPoint: "Anchor-1" 220 -250 basechar 0
 AnchorPoint: "Anchor-0" 240 496 basechar 0
 LayerCount: 2
@@ -26961,6 +27638,8 @@ Encoding: 173 173 362
 Width: 348
 GlyphClass: 1
 Flags: W
+HStem: 208 81<38 310>
+VStem: 38 272<208 289>
 TtInstrs:
 NPUSHB
  27
@@ -27010,6 +27689,8 @@ Encoding: 427 355 363
 Width: 324
 GlyphClass: 2
 Flags: W
+HStem: -250 194 0 74<195.741 284> 429 67<20 104 188 284>
+VStem: 104 84<87.4124 429 496 621> 187 66<-194.142 -97.567>
 AnchorPoint: "Anchor-1" 173 -250 basechar 0
 AnchorPoint: "Anchor-0" 162 496 basechar 0
 LayerCount: 2
@@ -27026,6 +27707,8 @@ Encoding: 428 539 364
 Width: 324
 GlyphClass: 2
 Flags: W
+HStem: -250 194 0 74<195.741 284> 429 67<20 104 188 284>
+VStem: 104 84<87.4124 429 496 621> 187 66<-194.142 -97.567>
 AnchorPoint: "Anchor-1" 173 -250 basechar 0
 AnchorPoint: "Anchor-0" 162 496 basechar 0
 LayerCount: 2
@@ -27040,6 +27723,8 @@ Encoding: 429 771 365
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 575 63<173.562 268.285> 618 63<70.6853 163.92>
+VStem: 0 65<577 612.883>
 TtInstrs:
 PUSHB_2
  6
@@ -27141,6 +27826,8 @@ Encoding: 430 -1 366
 Width: 0
 GlyphClass: 4
 Flags: W
+HStem: 747 63<173.562 268.285> 790 63<70.6853 163.92>
+VStem: 0 65<749 784.883>
 TtInstrs:
 PUSHB_2
  0
@@ -27164,6 +27851,8 @@ StartChar: zero.alt1
 Encoding: 431 -1 367
 Width: 648
 Flags: W
+HStem: -12 74<242.233 406.031> 606 74<241.969 406.243>
+VStem: 60 91<191.274 491.112> 497 91<178.169 483.765>
 LayerCount: 2
 Fore
 SplineSet
@@ -27200,6 +27889,8 @@ StartChar: copyleft
 Encoding: 432 127279 368
 Width: 798
 Flags: W
+HStem: -12 62<289.396 508.604> 150 59<331.657 456.658> 473 58<337.702 457.485> 618 62<289.396 508.604>
+VStem: 53 62<224.396 443.604> 495 76<249.579 432.726> 683 62<224.396 443.604>
 LayerCount: 2
 Fore
 SplineSet
@@ -27263,6 +27954,8 @@ StartChar: f_i
 Encoding: 433 64257 369
 Width: 527
 Flags: W
+HStem: 0 21G<99 183 363 447> 429 67<15 99 183 363> 590 125<362.08 448.92> 635 71<192.802 286>
+VStem: 99 84<0 429 496 621.588> 343 125<609.08 696.436> 363 84<0 429>
 LayerCount: 2
 Fore
 SplineSet
@@ -27298,119 +27991,17 @@ SplineSet
  468 627 468 627 449.5 608.5 c 128,-1,32
  431 590 431 590 405 590 c 0,23,24
 EndSplineSet
+Validated: 1
 LCarets2: 1 286
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f i
 EndChar
 
-StartChar: f_f
-Encoding: 434 64256 370
-Width: 575
-InSpiro: 1
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-363 0 m 1,0,-1
- 363 429 l 1,1,-1
- 183 429 l 1,2,-1
- 183 0 l 1,3,-1
- 99 0 l 1,4,-1
- 99 429 l 1,5,-1
- 15 429 l 1,6,-1
- 15 496 l 1,7,-1
- 99 496 l 1,8,-1
- 99 570 l 1,9,-1
- 101.5 615.75 l 1,10,-1
- 109 651 l 1,11,-1
- 123.75 676.625 l 1,12,-1
- 148 693.5 l 1,13,-1
- 183.5 702.875 l 1,14,-1
- 232 706 l 1,15,-1
- 286 706 l 1,16,-1
- 286 635 l 1,17,-1
- 234 635 l 1,18,-1
- 207.625 631.75 l 1,19,-1
- 192.5 622 l 1,20,-1
- 185.375 602.75 l 1,21,-1
- 183 571 l 1,22,-1
- 183 496 l 1,23,-1
- 363 496 l 1,24,-1
- 363 570 l 1,25,-1
- 365.5 615.75 l 1,26,-1
- 373 651 l 1,27,-1
- 387.75 676.625 l 1,28,-1
- 412 693.5 l 1,29,-1
- 447.5 702.875 l 1,30,-1
- 496 706 l 1,31,-1
- 550 706 l 1,32,-1
- 550 635 l 1,33,-1
- 498 635 l 1,34,-1
- 471.625 631.75 l 1,35,-1
- 456.5 622 l 1,36,-1
- 449.375 602.75 l 1,37,-1
- 447 571 l 1,38,-1
- 447 496 l 1,39,-1
- 550 496 l 1,40,-1
- 550 429 l 1,41,-1
- 447 429 l 1,42,-1
- 447 0 l 1,43,-1
- 363 0 l 1,0,-1
-  Spiro
-    363 0 v
-    363 429 v
-    183 429 v
-    183 0 v
-    99 0 v
-    99 429 v
-    15 429 v
-    15 496 v
-    99 496 v
-    99 570 ]
-    101.5 615.75 o
-    109 651 o
-    123.75 676.625 o
-    148 693.5 o
-    183.5 702.875 o
-    232 706 [
-    286 706 v
-    286 635 v
-    234 635 ]
-    207.625 631.75 o
-    192.5 622 o
-    185.375 602.75 o
-    183 571 [
-    183 496 v
-    363 496 v
-    363 570 ]
-    365.5 615.75 o
-    373 651 o
-    387.75 676.625 o
-    412 693.5 o
-    447.5 702.875 o
-    496 706 [
-    550 706 v
-    550 635 v
-    498 635 ]
-    471.625 631.75 o
-    456.5 622 o
-    449.375 602.75 o
-    447 571 [
-    447 496 v
-    550 496 v
-    550 429 v
-    447 429 v
-    447 0 v
-    0 0 z
-  EndSpiro
-EndSplineSet
-LCarets2: 1 283
-Ligature2: "'liga' Standard Ligatures lookup 0-1" f f
-EndChar
-
 StartChar: f_f_i
-Encoding: 435 64259 371
+Encoding: 435 64259 370
 Width: 791
 Flags: W
+HStem: 0 21G<99 183 363 447 627 711> 429 67<15 99 183 363 447 627> 590 125<626.08 712.92> 635 71<192.802 286 456.802 550>
+VStem: 99 84<0 429 496 621.588> 363 84<0 429 496 621.588> 607 125<609.08 696.436> 627 84<0 429>
 LayerCount: 2
 Fore
 SplineSet
@@ -27461,14 +28052,17 @@ SplineSet
  732 627 732 627 713.5 608.5 c 128,-1,49
  695 590 695 590 669 590 c 0,40,41
 EndSplineSet
+Validated: 1
 LCarets2: 2 298 650
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f i
 EndChar
 
 StartChar: f_l
-Encoding: 436 64258 372
+Encoding: 436 64258 371
 Width: 532
 Flags: W
+HStem: 0 74<455.257 517> 429 67<15 99 183 363> 635 71<192.802 286> 647 20G<363 447>
+VStem: 99 84<0 429 496 621.588> 363 84<87.4124 429 496 667>
 LayerCount: 2
 Fore
 SplineSet
@@ -27504,14 +28098,18 @@ SplineSet
  517 0 l 1,33,-1
  480 0 l 2,0,1
 EndSplineSet
+Validated: 1
 LCarets2: 1 286
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f l
 EndChar
 
 StartChar: f_f_l
-Encoding: 437 64260 373
+Encoding: 437 64260 372
 Width: 796
 Flags: W
+HStem: 0 74<719.257 781> 429 67<15 99 183 363 447 627> 635 71<192.802 286 456.802 550> 647 20G<627 711>
+VStem: 99 84<0 429 496 621.588> 363 84<0 429 496 621.588> 627 84<87.4124 429 496 667>
+CounterMasks: 1 0e
 LayerCount: 2
 Fore
 SplineSet
@@ -27562,8 +28160,59 @@ SplineSet
  447 0 l 1,50,-1
  363 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 LCarets2: 2 288 552
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f l
+EndChar
+
+StartChar: f_f
+Encoding: 434 64256 373
+Width: 575
+Flags: W
+HStem: 0 21G<99 183 363 447> 429 67<15 99 183 363 447 550> 635 71<192.802 286 456.802 550>
+VStem: 99 84<0 429 496 621.588> 363 84<0 429 496 621.588>
+LayerCount: 2
+Fore
+SplineSet
+99 0 m 1,0,-1
+ 99 429 l 1,1,-1
+ 15 429 l 1,2,-1
+ 15 496 l 1,3,-1
+ 99 496 l 1,4,-1
+ 99 570 l 2,5,6
+ 99 621 99 621 109 651 c 128,-1,7
+ 119 681 119 681 148 693.5 c 128,-1,8
+ 177 706 177 706 232 706 c 2,9,-1
+ 286 706 l 1,10,-1
+ 286 635 l 1,11,-1
+ 234 635 l 2,12,13
+ 202 635 202 635 192.5 622 c 128,-1,14
+ 183 609 183 609 183 571 c 2,15,-1
+ 183 496 l 1,16,-1
+ 363 496 l 1,17,-1
+ 363 570 l 2,18,19
+ 363 621 363 621 373 651 c 128,-1,20
+ 383 681 383 681 412 693.5 c 128,-1,21
+ 441 706 441 706 496 706 c 2,22,-1
+ 550 706 l 1,23,-1
+ 550 635 l 1,24,-1
+ 498 635 l 2,25,26
+ 466 635 466 635 456.5 622 c 128,-1,27
+ 447 609 447 609 447 571 c 2,28,-1
+ 447 496 l 1,29,-1
+ 550 496 l 1,30,-1
+ 550 429 l 1,31,-1
+ 447 429 l 1,32,-1
+ 447 0 l 1,33,-1
+ 363 0 l 1,34,-1
+ 363 429 l 1,35,-1
+ 183 429 l 1,36,-1
+ 183 0 l 1,37,-1
+ 99 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f
+LCarets2: 1 0
 EndChar
 EndChars
 EndSplineFont
