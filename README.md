@@ -46,9 +46,9 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
-* Added alternative reversed number zero `0`
-* Added copyleft glyph
 * Added ligatures for `fi ff ffi fl ffl`
+* Added copyleft glyph `U+1F12F`
+* Added alternative reversed number zero `0`
 
 ## Unique design features
 
