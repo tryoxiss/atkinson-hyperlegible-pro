@@ -48,6 +48,7 @@ And thats it the zero has been flipped!!
 
 * Slightly reduced the left and right bearings by -2 (only regular and italic)
 * Added auto hint
+* Added ligatures to kern class
 * Added ligatures for `fi ff ffi fl ffl`
 * Added copyleft glyph `U+1F12F`
 * Added alternative reversed number zero `0`
