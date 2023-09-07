@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1693557069
+ModificationTime: 1694077196
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -75,7 +75,7 @@ Lookup: 1 0 0 "Single Substitution lookup 12" { "Single Substitution lookup 12 s
 Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 13" { "'pnum' Proportional Numbers lookup 13 subtable"  } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 14" { "'tnum' Tabular Numbers lookup 14 subtable"  } ['tnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'case' Case-Sensitive Forms lookup 15" { "'case' Case-Sensitive Forms lookup 15 subtable"  } ['case' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 per glyph data 0"  "'kern' Horizontal Kerning lookup 0 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 per glyph data 0"  "'kern' Horizontal Kerning lookup 0 kerning class 1" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning lookup 1" { "'mark' Mark Positioning lookup 1 subtable"  } ['mark' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 16 0 "'mkmk' Mark to Mark lookup 2" { "'mkmk' Mark to Mark lookup 2 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 65552 0 "'mkmk' Mark to Mark lookup 3" { "'mkmk' Mark to Mark lookup 3 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
@@ -84,7 +84,7 @@ MarkAttachSets: 2
 "MarkSet-0" 15 uni0327 uni0326
 "MarkSet-1" 242 acutecomb acutecomb.case uni0306 uni0306.case uni030C uni030C.case uni0302 uni0302.case uni0308 uni0308.case uni0307 uni0307.case gravecomb gravecomb.case uni030B uni030B.case uni0304 uni0304.case uni030A uni030A.case tildecomb tildecomb.case
 DEI: 91125
-KernClass2: 24+ 16 "'kern' Horizontal Kerning lookup 0 kerning class 1"
+KernClass2: 24+ 17 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  106 h m n amacron agrave acircumflex atilde adieresis aring aacute ntilde abreve aogonek nacute ncaron uni0146
  77 e ae oe egrave eacute ecircumflex edieresis emacron edotaccent eogonek ecaron
  77 E AE OE Egrave Eacute Ecircumflex Edieresis Emacron Edotaccent Eogonek Ecaron
@@ -106,7 +106,7 @@ KernClass2: 24+ 16 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  15 R Racute Rcaron
  24 quoteright quotedblright
  13 lcaron dcaron
- 8 f dcroat
+ 12 f dcroat f_f
  8 L Lslash
  1 q
  184 c d e o q oslash eth oe ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis emacron edotaccent eogonek ecaron cacute cdotaccent dcroat dcaron ccaron
@@ -124,7 +124,8 @@ KernClass2: 24+ 16 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  24 T Tcaron uni0162 uni021A
  18 Y Yacute Ydieresis
  8 Z Zcaron
- 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -57 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} -66 {} -76 {} 0 {} 0 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -38 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} -47 {} -19 {} 0 {} 0 {} -37 {} 0 {} 19 {} -24 {} 0 {} 0 {} 0 {} 0 {} -40 {} -42 {} 0 {} -66 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -39 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} -10 {} 0 {} -19 {} -56 {} 0 {} 17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -28 {} 0 {} 0 {} 0 {} 0 {} -86 {} -38 {} -57 {} -66 {} -57 {} 0 {} -38 {} -66 {} 0 {} 0 {} 0 {} -67 {} 30 {} 19 {} 0 {} 0 {} -86 {} -47 {} -76 {} -66 {} -38 {} -35 {} -60 {} 0 {} -19 {} 0 {} 0 {} -85 {} 19 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 18 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 52 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} -37 {} 12 {} 28 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} -96 {} -93 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -28 {} 0 {}
+ 25 f f_i f_f f_f_i f_l f_f_l
+ 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -57 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} -66 {} -76 {} 0 {} 0 {} 0 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -38 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} -47 {} -19 {} 0 {} 0 {} 0 {} -37 {} 0 {} 19 {} -24 {} 0 {} 0 {} 0 {} 0 {} -40 {} -42 {} 0 {} -66 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -39 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -10 {} 0 {} -19 {} -56 {} 0 {} 17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} -38 {} -57 {} -66 {} -57 {} 0 {} -38 {} -66 {} 0 {} 0 {} 0 {} -67 {} 30 {} 19 {} 0 {} 0 {} 0 {} -86 {} -47 {} -76 {} -66 {} -38 {} -35 {} -60 {} 0 {} -19 {} 0 {} 0 {} -85 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 18 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} 12 {} 28 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} -96 {} -93 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -28 {} 0 {} 0 {}
 ChainSub2: coverage "'ordn' Ordinals lookup 11 contextual 1" 0 0 0 1
  1 1 0
   Coverage: 3 O o
