@@ -46,6 +46,7 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
+* Kern pairs `T` with `v w x y z`
 * Added glyphs `K Ķ k ķ` to kern class
 * Slightly reduced the left and right bearings by -2 (only regular and italic)
 * Added auto hint
