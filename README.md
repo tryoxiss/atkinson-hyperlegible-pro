@@ -45,7 +45,7 @@ And thats it the zero has been flipped!!
 ## Change Log
 
 * Kerned `V` and `g` pairs
-* Added glyphs `B` `V` to kern class
+* Added glyphs `B` `V` `W` to kern class
 * Added glyphs `m p r` to kern with `n` group
 * Moved `T` and `f` parings to kern class
 * Kern pairs `T` with `v w x y z`
