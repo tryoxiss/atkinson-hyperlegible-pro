@@ -6,8 +6,6 @@ With Alternative Flipped Zero `0` and Ligatures
 
 ![Brochure Overview](docs/BIA_Brochure-Overview.jpg)
 
-## Learn more at [brailleinstitute.org/freefont](https://brailleinstitute.org/freefont)
-
 Atkinson Hyperlegible is a new typeface, offering greater legibility and readability for low vision readers.
 The font is named after Braille Institute founder, J. Robert Atkinson. What makes it different from traditional
 typography design is that it focuses on letterform distinction to increase character recognition, ultimately
@@ -21,6 +19,8 @@ The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
 * Improve legibility and readability for low vision readers
 
 Informational sheet about Atkinson Hyperlegible font, with samples of informational brochures, business card, and more with text in the font: [Download Summary Document [.pdf]](docs/BIA_AtkinsonHyerlegible-Specimen_2020-02-10.pdf)
+
+Learn more at [brailleinstitute.org/freefont](https://brailleinstitute.org/freefont)
 
 ### Installing the Font
 
