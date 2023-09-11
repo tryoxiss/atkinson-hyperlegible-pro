@@ -1,6 +1,6 @@
 # Atkinson Hyperlegible Pro
 
-With Ligatures and Alternative Flipped Zero `0`
+With Alternative Flipped Zero `0` and Ligatures
 
 ---
 
