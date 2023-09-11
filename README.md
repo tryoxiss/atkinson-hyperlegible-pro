@@ -10,7 +10,7 @@ Atkinson Hyperlegible is a new typeface, offering greater legibility and readabi
 The font is named after Braille Institute founder, J. Robert Atkinson. What makes it different from traditional
 typography design is that it focuses on letterform distinction to increase character recognition, ultimately
 improving readability. The Braille Institute has made this free for anyone to use, under the SIL Open Font License.
-The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award. Learn more at [brailleinstitute.org/freefont](https://brailleinstitute.org/freefont).
+The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
 
 * Four fonts, including two weights (regular, bold, italics, italics bold)
 * 1,340 total glyphs across all fonts, 335 per font
@@ -83,3 +83,7 @@ Circular Details: Links to the history of Braille Institute and braille dots
 ## License
 
 SIL Open Font License, v1.1. See [OFL.txt](OFL.txt) for details.
+
+---
+
+Learn more at [brailleinstitute.org/freefont](https://brailleinstitute.org/freefont).
