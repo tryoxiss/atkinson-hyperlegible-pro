@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1694330506
+ModificationTime: 1694415634
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -84,9 +84,9 @@ MarkAttachSets: 2
 "MarkSet-0" 15 uni0327 uni0326
 "MarkSet-1" 242 acutecomb acutecomb.case uni0306 uni0306.case uni030C uni030C.case uni0302 uni0302.case uni0308 uni0308.case uni0307 uni0307.case gravecomb gravecomb.case uni030B uni030B.case uni0304 uni0304.case uni030A uni030A.case tildecomb tildecomb.case
 DEI: 91125
-KernClass2: 27+ 17 "'kern' Horizontal Kerning lookup 0 kerning class 1"
+KernClass2: 28+ 17 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  106 h m n amacron agrave acircumflex atilde adieresis aring aacute ntilde abreve aogonek nacute ncaron uni0146
- 77 e ae oe egrave eacute ecircumflex edieresis emacron edotaccent eogonek ecaron
+ 77 e ae egrave eacute ecircumflex edieresis oe emacron edotaccent eogonek ecaron
  77 E AE OE Egrave Eacute Ecircumflex Edieresis Emacron Edotaccent Eogonek Ecaron
  68 D O eth Ograve Oacute Ocircumflex Otilde Odieresis Eth Dcroat Dcaron
  73 A Acircumflex Atilde Adieresis Aring Agrave Aacute Amacron Abreve Aogonek
@@ -112,14 +112,15 @@ KernClass2: 27+ 17 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  9 K uni0136
  9 k uni0137
  1 B
- 184 c d e o q oslash eth oe ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis emacron edotaccent eogonek ecaron cacute cdotaccent dcroat dcaron ccaron
+ 1 V
+ 184 c d e o q ccedilla egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash oe emacron edotaccent eogonek ecaron cacute cdotaccent dcroat dcaron ccaron
  113 C G O Q OE Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Cacute Cdotaccent Gbreve Gdotaccent uni0122 Ccaron
  76 a ae amacron agrave acircumflex atilde adieresis aring aacute abreve aogonek
  73 A Acircumflex Atilde Adieresis Aring Agrave Aacute Amacron Abreve Aogonek
  73 u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek
  62 i igrave iacute icircumflex idieresis imacron iogonek dotlessi
  32 s scaron sacute scedilla uni0219
- 30 n ntilde nacute ncaron uni0146
+ 36 m n p r ntilde nacute ncaron uni0146
  26 z zcaron zacute zdotaccent
  20 v y yacute ydieresis
  16 t tcaron uni021B
@@ -128,7 +129,7 @@ KernClass2: 27+ 17 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  18 Y Yacute Ydieresis
  8 Z Zcaron
  25 f f_i f_f f_f_i f_l f_f_l
- 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -57 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} -66 {} -76 {} 0 {} 0 {} 0 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -38 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} -47 {} -19 {} 0 {} 0 {} 0 {} -37 {} 0 {} 19 {} -24 {} 0 {} 0 {} 0 {} 0 {} -40 {} -42 {} 0 {} -66 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -39 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -10 {} 0 {} -19 {} -56 {} 0 {} 17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} -38 {} -57 {} -66 {} -57 {} 0 {} -38 {} -66 {} -10 {} 0 {} 0 {} -67 {} 30 {} 19 {} 0 {} 19 {} 0 {} -86 {} -47 {} -76 {} -66 {} -38 {} -35 {} -60 {} 0 {} -19 {} 0 {} 0 {} -85 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 18 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} 12 {} 28 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} -96 {} -93 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -28 {} 0 {} 0 {} 0 {} -33 {} -47 {} 0 {} 28 {} -43 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} -19 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+ 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -57 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} -66 {} -76 {} 0 {} 0 {} 0 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -38 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} -47 {} -19 {} 0 {} 0 {} 0 {} -37 {} 0 {} 19 {} -24 {} 0 {} 0 {} 0 {} 0 {} -40 {} -42 {} 0 {} -66 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -39 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -10 {} 0 {} -19 {} -56 {} 0 {} 17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} -38 {} -57 {} -66 {} -57 {} 0 {} -38 {} -66 {} -10 {} 0 {} 0 {} -67 {} 30 {} 19 {} 0 {} 19 {} 0 {} -86 {} -47 {} -76 {} -66 {} -38 {} -35 {} -60 {} 0 {} -19 {} 0 {} 0 {} -85 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 18 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} 12 {} 28 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} -96 {} -93 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -28 {} 0 {} 0 {} 0 {} -33 {} -47 {} 0 {} 28 {} -43 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} -19 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} -47 {} -28 {} -38 {} -67 {} 0 {} 0 {} -19 {} -19 {} 0 {} 0 {} 0 {} -36 {} 38 {} 19 {} 0 {} 0 {}
 ChainSub2: coverage "'ordn' Ordinals lookup 11 contextual 1" 0 0 0 1
  1 1 0
   Coverage: 3 O o
@@ -5301,7 +5302,7 @@ SplineSet
  202 131 l 1,26,-1
 EndSplineSet
 Validated: 1
-Kerns2: 36 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 39 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 230 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 245 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 36 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: C
@@ -6814,7 +6815,7 @@ SplineSet
  230 0 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 17 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 53 -66 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 58 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 150 -125 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 17 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 -10 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 150 -125 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: U
@@ -6943,7 +6944,7 @@ SplineSet
  236 0 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 15 -67 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 17 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 21 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 24 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 29 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 31 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 34 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 39 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 41 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 43 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 44 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 45 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 47 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 53 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 54 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 55 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 57 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 59 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 150 -94 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 178 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 181 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 182 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 186 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 187 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 188 -67 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 189 -67 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 190 -67 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 191 -67 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 192 -67 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 193 -67 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 194 -67 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 195 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 196 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 197 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 198 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 199 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 200 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 201 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 202 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 203 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 208 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 209 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 210 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 211 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 221 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 222 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 223 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 224 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 225 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 230 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 231 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 232 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 233 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 234 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 235 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 236 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 244 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 245 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 259 -67 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 260 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 261 -67 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 262 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 264 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 266 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 268 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 270 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 277 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 278 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 279 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 280 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 282 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 292 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 294 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 301 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 302 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 303 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 304 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 305 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 308 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 313 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 319 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 321 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 324 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 325 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 326 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 328 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 330 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 331 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 361 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 24 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 150 -94 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: W
@@ -25312,7 +25313,7 @@ Fore
 Refer: 34 84 N 1 0 0 1 0 0 3
 Refer: 68 711 N 1 0 0 1 75 157 2
 Validated: 1
-Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 17 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 53 -66 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 58 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 150 -125 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 17 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 150 -125 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: lcaron
@@ -25991,7 +25992,7 @@ Fore
 Refer: 34 84 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 176 0 2
 Validated: 1
-Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 17 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 53 -66 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 58 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 150 -125 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 17 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 150 -125 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" uni021A
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni021A
 EndChar
@@ -26010,7 +26011,7 @@ Fore
 Refer: 34 84 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 176 0 2
 Validated: 1
-Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 17 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 53 -66 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 58 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 150 -125 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 17 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 150 -125 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: acutecomb
