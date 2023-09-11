@@ -44,12 +44,13 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
-* Kerned `V` and `g` pairs
-* Added glyphs `B` `V` `W` to kern class
-* Added glyphs `m p r` to kern with `n` group
+* Kern `Y` and `m n p r` pairs
+* Kern `V` and `g` pairs
+* Added characters`B` `V` `W` to kern class
+* Added characters `m p r` to kern with `n` group
 * Moved `T` and `f` parings to kern class
-* Kern pairs `T` with `v w x y z`
-* Added glyphs `K Ķ k ķ` to kern class
+* Kern `T` and `v w x y z` pairs
+* Added characters `K Ķ k ķ` to kern class
 * Slightly reduced the left and right bearings by -2 (only regular and italic)
 * Added auto hint
 * Added ligatures to kern class
