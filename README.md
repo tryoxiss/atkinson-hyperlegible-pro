@@ -44,7 +44,7 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
-* Added `Æ` to kern class
+* Moved `Æ` to kern class
 * Kern `Y` and `m n p r` pairs
 * Kern `V` and `g` pairs
 * Added characters `B` `V` `W` `X` to kern class
