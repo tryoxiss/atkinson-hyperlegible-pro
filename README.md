@@ -44,11 +44,12 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
+* Kern class `ľ ď`
 * Added `Æ` to kern class
 * Kern `Y` and `m n p r` pairs
 * Kern `V` and `g` pairs
 * Added characters`B` `V` `W` `X` to kern class
-* Added characters `m p r` to kern with `n` group
+* Added characters `m p r` to kern with `n` class
 * Moved `T` and `f` parings to kern class
 * Kern `T` and `v w x y z` pairs
 * Added characters `K Ķ k ķ` to kern class
