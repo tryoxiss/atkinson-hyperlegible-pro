@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1694751959
+ModificationTime: 1694753337
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -75,7 +75,7 @@ Lookup: 1 0 0 "Single Substitution lookup 12" { "Single Substitution lookup 12 s
 Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 13" { "'pnum' Proportional Numbers lookup 13 subtable"  } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 14" { "'tnum' Tabular Numbers lookup 14 subtable"  } ['tnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'case' Case-Sensitive Forms lookup 15" { "'case' Case-Sensitive Forms lookup 15 subtable"  } ['case' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 per glyph data 0" [150,15,0] "'kern' Horizontal Kerning lookup 0 kerning class 1" [100,0,3] } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 per glyph data 0" [150,15,0] "'kern' Horizontal Kerning lookup 0 kerning class 1" [125,0,3] } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning lookup 1" { "'mark' Mark Positioning lookup 1 subtable"  } ['mark' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 16 0 "'mkmk' Mark to Mark lookup 2" { "'mkmk' Mark to Mark lookup 2 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 65552 0 "'mkmk' Mark to Mark lookup 3" { "'mkmk' Mark to Mark lookup 3 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
@@ -134,7 +134,7 @@ KernClass2: 31+ 19 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  25 f f_i f_f f_f_i f_l f_f_l
  2 AE
  24 quoteright quotedblright
- 0 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} -14 {} -57 {} -66 {} 0 {} 0 {} 0 {} -46 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -76 {} 0 {} 0 {} -31 {} -43 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -38 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} -47 {} -19 {} 0 {} -70 {} -14 {} 0 {} 0 {} -37 {} 0 {} 19 {} -24 {} 0 {} 0 {} 0 {} 0 {} -40 {} -27 {} 0 {} -66 {} -66 {} 0 {} 0 {} 0 {} -125 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -39 {} 0 {} 0 {} 0 {} -26 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -56 {} 0 {} 0 {} -7 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -76 {} 0 {} 0 {} -12 {} -13 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -89 {} -25 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} -42 {} -29 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -56 {} 0 {} 0 {} 21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -81 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} -86 {} -38 {} -57 {} -66 {} -57 {} 0 {} -38 {} -66 {} -30 {} -20 {} 0 {} -67 {} 22 {} 19 {} 0 {} 19 {} -125 {} 0 {} 0 {} -86 {} -47 {} -76 {} -66 {} -38 {} 0 {} -57 {} -44 {} -19 {} 0 {} 0 {} -85 {} 19 {} 0 {} 0 {} 0 {} -162 {} 0 {} 0 {} 0 {} -21 {} 0 {} 18 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -16 {} 0 {} 0 {} 0 {} -12 {} 0 {} -43 {} 0 {} -43 {} -113 {} 0 {} 0 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -190 {} -2 {} 0 {} -46 {} -47 {} -33 {} -163 {} -37 {} 0 {} -50 {} -39 {} -18 {} 0 {} 0 {} -43 {} 0 {} 0 {} 0 {} 0 {} -190 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 50 {} 0 {} 0 {} 0 {} 40 {} 50 {} 0 {} 100 {} 90 {} 80 {} 50 {} 0 {} 0 {} 0 {} -21 {} 0 {} -31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 0 {} 0 {} -82 {} 0 {} 0 {} 0 {} -37 {} 0 {} 28 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} -104 {} -85 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -28 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -47 {} 0 {} 0 {} -43 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -9 {} 0 {} -15 {} -19 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} -14 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} -42 {} -36 {} 0 {} -47 {} -28 {} -38 {} -67 {} 0 {} 0 {} -19 {} -19 {} 0 {} 0 {} 0 {} -36 {} 38 {} 19 {} 0 {} 0 {} -94 {} 0 {} 0 {} -23 {} -19 {} -28 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 28 {} 19 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} -28 {} -19 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+ 0 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} -14 {} -57 {} -66 {} 0 {} 0 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -76 {} 0 {} 0 {} -31 {} -18 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -38 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} -47 {} -19 {} 0 {} -70 {} 0 {} 0 {} 0 {} -37 {} 0 {} 19 {} -24 {} 0 {} 0 {} 0 {} 0 {} -40 {} -27 {} 0 {} -66 {} -66 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -39 {} 0 {} 0 {} 0 {} -1 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -56 {} 0 {} 0 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -76 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -89 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} -42 {} -4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -56 {} 0 {} 0 {} 21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -81 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} -38 {} -57 {} -66 {} -57 {} 0 {} -38 {} -66 {} -30 {} -20 {} 0 {} -67 {} 22 {} 19 {} 0 {} 19 {} -125 {} 0 {} 0 {} -86 {} -47 {} -76 {} -66 {} -38 {} 0 {} -57 {} -44 {} -19 {} 0 {} 0 {} -85 {} 19 {} 0 {} 0 {} 0 {} -162 {} 0 {} 0 {} 0 {} -21 {} 0 {} 18 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} 0 {} -38 {} -108 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -190 {} 0 {} 0 {} -41 {} -42 {} -28 {} -158 {} -32 {} 0 {} -45 {} -34 {} -13 {} 0 {} 0 {} -38 {} 0 {} 0 {} 0 {} 0 {} -187 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 50 {} 0 {} 0 {} 0 {} 40 {} 50 {} 0 {} 100 {} 90 {} 80 {} 50 {} 0 {} 0 {} 0 {} -21 {} 0 {} -31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 0 {} 0 {} -82 {} 0 {} 0 {} 0 {} -37 {} 0 {} 28 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} -104 {} -85 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -28 {} 0 {} 0 {} 0 {} -11 {} 0 {} 0 {} -47 {} 0 {} 0 {} -43 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} -19 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} -42 {} -11 {} 0 {} -47 {} -28 {} -38 {} -67 {} 0 {} 0 {} -19 {} -19 {} 0 {} 0 {} 0 {} -36 {} 38 {} 19 {} 0 {} 0 {} -94 {} 0 {} 0 {} -23 {} -19 {} -28 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 28 {} 19 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} -28 {} -19 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 ChainSub2: coverage "'ordn' Ordinals lookup 11 contextual 1" 0 0 0 1
  1 1 0
   Coverage: 3 O o
@@ -5417,7 +5417,7 @@ SplineSet
  580 65 580 65 510 26.5 c 128,-1,29
  440 -12 440 -12 351 -12 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: D
@@ -5498,7 +5498,7 @@ SplineSet
  168 589 l 1,25,-1
  168 79 l 1,13,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -5811,7 +5811,7 @@ SplineSet
  529 33 529 33 473.5 10.5 c 128,-1,37
  418 -12 418 -12 350 -12 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 34 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 39 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 230 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 245 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 308 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 330 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 331 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -5882,7 +5882,7 @@ SplineSet
  168 0 l 1,11,-1
  74 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: I
@@ -6096,7 +6096,7 @@ SplineSet
  168 0 l 1,11,-1
  74 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 62 -50 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -50 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 65 -50 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 241 -50 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 242 -50 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -6153,7 +6153,7 @@ SplineSet
  527 0 l 1,5,-1
  74 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 24 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -66 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -6288,7 +6288,7 @@ SplineSet
  168 0 l 1,9,-1
  74 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: O
@@ -6660,7 +6660,7 @@ SplineSet
  168 589 l 1,26,-1
  168 360 l 1,16,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: S
@@ -6767,7 +6767,7 @@ SplineSet
  436 14 436 14 389.5 1 c 128,-1,50
  343 -12 343 -12 294 -12 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -6828,7 +6828,7 @@ SplineSet
  324 0 l 1,7,-1
  230 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 -20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -7154,7 +7154,7 @@ SplineSet
  343 0 l 1,8,-1
  249 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 24 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -7228,7 +7228,7 @@ SplineSet
  561 0 l 1,9,-1
  42 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: a
@@ -7619,7 +7619,7 @@ SplineSet
  437 51 437 51 385 19.5 c 128,-1,29
  333 -12 333 -12 267 -12 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -7772,7 +7772,7 @@ SplineSet
  130 158 130 158 168.5 109 c 128,-1,33
  207 60 207 60 271 60 c 256,22,23
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: e
@@ -8174,7 +8174,7 @@ SplineSet
  127 171 127 171 166.5 125 c 128,-1,45
  206 79 206 79 267 79 c 0,32,33
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 39 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 230 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 245 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -8256,7 +8256,7 @@ SplineSet
  152 0 l 1,20,-1
  68 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -8581,7 +8581,7 @@ SplineSet
  152 0 l 1,11,-1
  68 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: l
@@ -8644,7 +8644,7 @@ SplineSet
  222 0 l 1,12,-1
  185 0 l 2,0,1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 38 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 49 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 62 12 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 65 12 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 75 34 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 78 34 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 82 34 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 131 34 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 133 34 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 216 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 217 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 218 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 219 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 241 12 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 242 12 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 274 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 276 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 353 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -8779,7 +8779,7 @@ SplineSet
  152 0 l 1,36,-1
  68 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -8892,7 +8892,7 @@ SplineSet
  152 0 l 1,20,-1
  68 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -9459,7 +9459,7 @@ SplineSet
  152 0 l 1,14,-1
  68 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 41 -15 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 46 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 60 16 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 62 26 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 24 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 65 26 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 181 -15 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 195 -15 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 196 -15 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 197 -15 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 198 -15 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 199 -15 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 200 -15 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 201 -15 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 241 26 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 242 26 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 260 -15 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 262 -15 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 311 16 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 364 16 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -9562,7 +9562,7 @@ SplineSet
  381 23 381 23 335 5.5 c 128,-1,45
  289 -12 289 -12 237 -12 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 24 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -9654,7 +9654,7 @@ SplineSet
  282 0 l 1,20,-1
  219 0 l 2,0,1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: u
@@ -10038,7 +10038,7 @@ SplineSet
  136 -161 136 -161 80 -161 c 2,16,-1
  37 -161 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 46 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -10112,7 +10112,7 @@ SplineSet
  428 0 l 1,9,-1
  38 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: circumflex
@@ -22145,7 +22145,7 @@ LayerCount: 2
 Fore
 Refer: 17 67 N 1 0 0 1 0 0 3
 Refer: 339 807 N 1 0 0 1 257 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: ccedilla
@@ -22161,7 +22161,7 @@ LayerCount: 2
 Fore
 Refer: 43 99 N 1 0 0 1 0 0 3
 Refer: 339 807 N 1 0 0 1 179 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22492,7 +22492,7 @@ LayerCount: 2
 Fore
 Refer: 28 78 N 1 0 0 1 0 0 3
 Refer: 171 732 N 1 0 0 1 142 172 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Ograve
@@ -22697,7 +22697,7 @@ LayerCount: 2
 Fore
 Refer: 39 89 N 1 0 0 1 0 0 3
 Refer: 333 -1 N 1 0 0 1 238 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 24 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22714,7 +22714,7 @@ LayerCount: 2
 Fore
 Refer: 54 110 N 1 0 0 1 0 0 3
 Refer: 365 771 N 1 0 0 1 121 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22884,7 +22884,7 @@ LayerCount: 2
 Fore
 Refer: 65 121 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 173 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 46 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22901,7 +22901,7 @@ LayerCount: 2
 Fore
 Refer: 65 121 N 1 0 0 1 0 0 3
 Refer: 343 776 N 1 0 0 1 60 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 46 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22928,7 +22928,7 @@ LayerCount: 2
 Fore
 Refer: 33 83 N 1 0 0 1 0 0 3
 Refer: 68 711 N 1 0 0 1 81 172 2
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22945,7 +22945,7 @@ LayerCount: 2
 Fore
 Refer: 59 115 N 1 0 0 1 0 0 3
 Refer: 336 780 N 1 0 0 1 76 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 24 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22972,7 +22972,7 @@ LayerCount: 2
 Fore
 Refer: 39 89 N 1 0 0 1 0 0 3
 Refer: 146 168 N 1 0 0 1 83 150 2
-Validated: 1
+Validated: 1048577
 Kerns2: 24 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22999,7 +22999,7 @@ LayerCount: 2
 Fore
 Refer: 40 90 N 1 0 0 1 0 0 3
 Refer: 68 711 N 1 0 0 1 87 172 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: zcaron
@@ -23015,7 +23015,7 @@ LayerCount: 2
 Fore
 Refer: 66 122 N 1 0 0 1 0 0 3
 Refer: 336 780 N 1 0 0 1 73 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Eth
@@ -23120,7 +23120,7 @@ SplineSet
  207 303 l 1,33,-1
  207 79 l 1,17,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23934,7 +23934,7 @@ LayerCount: 2
 Fore
 Refer: 17 67 N 1 0 0 1 0 0 3
 Refer: 333 -1 N 1 0 0 1 293 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: cacute
@@ -23950,7 +23950,7 @@ LayerCount: 2
 Fore
 Refer: 43 99 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 226 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23977,7 +23977,7 @@ LayerCount: 2
 Fore
 Refer: 17 67 N 1 0 0 1 0 0 3
 Refer: 70 729 N 1 0 0 1 244 172 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: cdotaccent
@@ -23993,7 +23993,7 @@ LayerCount: 2
 Fore
 Refer: 43 99 N 1 0 0 1 0 0 3
 Refer: 345 775 N 1 0 0 1 219 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24010,7 +24010,7 @@ LayerCount: 2
 Fore
 Refer: 33 83 N 1 0 0 1 0 0 3
 Refer: 333 -1 N 1 0 0 1 238 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24027,7 +24027,7 @@ LayerCount: 2
 Fore
 Refer: 59 115 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 191 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 24 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24347,7 +24347,7 @@ LayerCount: 2
 Fore
 Refer: 28 78 N 1 0 0 1 0 0 3
 Refer: 333 -1 N 1 0 0 1 302 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: nacute
@@ -24363,7 +24363,7 @@ LayerCount: 2
 Fore
 Refer: 54 110 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 239 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24390,7 +24390,7 @@ LayerCount: 2
 Fore
 Refer: 28 78 N 1 0 0 1 0 0 3
 Refer: 68 711 N 1 0 0 1 145 172 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: ncaron
@@ -24406,7 +24406,7 @@ LayerCount: 2
 Fore
 Refer: 54 110 N 1 0 0 1 0 0 3
 Refer: 336 780 N 1 0 0 1 124 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24423,7 +24423,7 @@ LayerCount: 2
 Fore
 Refer: 40 90 N 1 0 0 1 0 0 3
 Refer: 333 -1 N 1 0 0 1 244 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: zacute
@@ -24439,7 +24439,7 @@ LayerCount: 2
 Fore
 Refer: 66 122 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 188 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Zdotaccent
@@ -24465,7 +24465,7 @@ LayerCount: 2
 Fore
 Refer: 40 90 N 1 0 0 1 0 0 3
 Refer: 70 729 N 1 0 0 1 195 172 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: zdotaccent
@@ -24481,7 +24481,7 @@ LayerCount: 2
 Fore
 Refer: 66 122 N 1 0 0 1 0 0 3
 Refer: 345 775 N 1 0 0 1 181 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Hbar
@@ -24584,7 +24584,7 @@ SplineSet
  178 504 l 1,23,-1
  178 384 l 1,20,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: hbar
@@ -24711,7 +24711,7 @@ LayerCount: 2
 Fore
 Refer: 21 71 N 1 0 0 1 0 0 3
 Refer: 69 728 N 1 0 0 1 157 172 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: gbreve
@@ -24727,7 +24727,7 @@ LayerCount: 2
 Fore
 Refer: 47 103 N 1 0 0 1 0 0 3
 Refer: 334 774 N 1 0 0 1 119 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Gdotaccent
@@ -24753,7 +24753,7 @@ LayerCount: 2
 Fore
 Refer: 21 71 N 1 0 0 1 0 0 3
 Refer: 70 729 N 1 0 0 1 250 172 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: gdotaccent
@@ -24769,7 +24769,7 @@ LayerCount: 2
 Fore
 Refer: 47 103 N 1 0 0 1 0 0 3
 Refer: 345 775 N 1 0 0 1 212 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: uni0123
@@ -24795,7 +24795,7 @@ LayerCount: 2
 Fore
 Refer: 47 103 N 1 0 0 1 0 0 3
 Refer: 342 806 N -1 0 0 -1 403 523 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: uni013B
@@ -24811,7 +24811,7 @@ LayerCount: 2
 Fore
 Refer: 26 76 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 213 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: uni013C
@@ -24827,7 +24827,7 @@ LayerCount: 2
 Fore
 Refer: 52 108 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 53 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Tcaron
@@ -24853,7 +24853,7 @@ LayerCount: 2
 Fore
 Refer: 34 84 N 1 0 0 1 0 0 3
 Refer: 68 711 N 1 0 0 1 62 172 2
-Validated: 1
+Validated: 1048577
 Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24880,7 +24880,7 @@ LayerCount: 2
 Fore
 Refer: 52 108 N 1 0 0 1 0 0 3
 Refer: 337 -1 N 1 0 0 1 175 -1 2
-Validated: 1
+Validated: 1048577
 Kerns2: 51 51 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 53 30 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24907,7 +24907,7 @@ LayerCount: 2
 Fore
 Refer: 26 76 N 1 0 0 1 0 0 3
 Refer: 337 -1 N 1 0 0 1 287 1 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: tcaron
@@ -24933,7 +24933,7 @@ LayerCount: 2
 Fore
 Refer: 60 116 N 1 0 0 1 0 0 3
 Refer: 337 -1 N 1 0 0 1 218 54 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: uni0145
@@ -24949,7 +24949,7 @@ LayerCount: 2
 Fore
 Refer: 28 78 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 219 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: uni0146
@@ -24965,7 +24965,7 @@ LayerCount: 2
 Fore
 Refer: 54 110 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 165 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24982,7 +24982,7 @@ LayerCount: 2
 Fore
 Refer: 32 82 N 1 0 0 1 0 0 3
 Refer: 333 -1 N 1 0 0 1 243 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: racute
@@ -24998,7 +24998,7 @@ LayerCount: 2
 Fore
 Refer: 58 114 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 150 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Rcaron
@@ -25024,7 +25024,7 @@ LayerCount: 2
 Fore
 Refer: 32 82 N 1 0 0 1 0 0 3
 Refer: 68 711 N 1 0 0 1 86 172 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: rcaron
@@ -25040,7 +25040,7 @@ LayerCount: 2
 Fore
 Refer: 58 114 N 1 0 0 1 0 0 3
 Refer: 336 780 N 1 0 0 1 35 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Dcroat
@@ -25055,7 +25055,7 @@ AnchorPoint: "Anchor-0" 366 668 basechar 0
 LayerCount: 2
 Fore
 Refer: 248 208 N 1 0 0 1 0 0 3
-Validated: 1
+Validated: 1048577
 Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -25269,7 +25269,7 @@ LayerCount: 2
 Fore
 Refer: 18 68 N 1 0 0 1 0 0 3
 Refer: 68 711 N 1 0 0 1 110 172 2
-Validated: 1
+Validated: 1048577
 Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -25296,7 +25296,7 @@ LayerCount: 2
 Fore
 Refer: 44 100 N 1 0 0 1 -2 0 2
 Refer: 337 -1 N 1 0 0 1 519 -1 2
-Validated: 1
+Validated: 1048577
 Kerns2: 51 51 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 53 30 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -25313,7 +25313,7 @@ LayerCount: 2
 Fore
 Refer: 25 75 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 222 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: uni0137
@@ -25329,7 +25329,7 @@ LayerCount: 2
 Fore
 Refer: 51 107 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 159 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: uni0122
@@ -25345,7 +25345,7 @@ LayerCount: 2
 Fore
 Refer: 21 71 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 263 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Ccaron
@@ -25371,7 +25371,7 @@ LayerCount: 2
 Fore
 Refer: 17 67 N 1 0 0 1 0 0 3
 Refer: 68 711 N 1 0 0 1 136 172 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: ccaron
@@ -25387,7 +25387,7 @@ LayerCount: 2
 Fore
 Refer: 43 99 N 1 0 0 1 0 0 3
 Refer: 336 780 N 1 0 0 1 111 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -25404,7 +25404,7 @@ LayerCount: 2
 Fore
 Refer: 33 83 N 1 0 0 1 0 0 3
 Refer: 339 807 N 1 0 0 1 207 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" uni0218
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0218
@@ -25423,7 +25423,7 @@ LayerCount: 2
 Fore
 Refer: 59 115 N 1 0 0 1 0 0 3
 Refer: 339 807 N 1 0 0 1 139 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 24 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" uni0219
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0219
@@ -25442,7 +25442,7 @@ LayerCount: 2
 Fore
 Refer: 33 83 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 206 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -25459,7 +25459,7 @@ LayerCount: 2
 Fore
 Refer: 34 84 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 187 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" uni021A
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni021A
@@ -25478,7 +25478,7 @@ LayerCount: 2
 Fore
 Refer: 34 84 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 187 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -27638,7 +27638,7 @@ LayerCount: 2
 Fore
 Refer: 59 115 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 138 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 24 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -27706,7 +27706,7 @@ LayerCount: 2
 Fore
 Refer: 60 116 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 91 0 2
-Validated: 1
+Validated: 1048577
 Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" uni021B
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni021B
 EndChar
@@ -27724,7 +27724,7 @@ LayerCount: 2
 Fore
 Refer: 60 116 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 91 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: tildecomb
