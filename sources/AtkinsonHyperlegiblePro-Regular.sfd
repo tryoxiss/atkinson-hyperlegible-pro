@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1694761875
+ModificationTime: 1694762991
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -137,7 +137,7 @@ KernClass2: 31+ 22 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  1 W
  1 X
  24 quoteright quotedblright
- 0 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} -14 {} -57 {} -66 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -76 {} 0 {} 0 {} -31 {} -38 {} -28 {} 0 {} -18 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 17 {} 18 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -38 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} -47 {} -19 {} 0 {} -70 {} -28 {} -19 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 19 {} -24 {} 0 {} 0 {} 0 {} 0 {} -40 {} -27 {} 0 {} -66 {} -66 {} 0 {} 0 {} 0 {} -67 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -1 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -56 {} 0 {} 0 {} -7 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -76 {} 0 {} 0 {} -12 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -89 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} -42 {} 0 {} 0 {} 0 {} -4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -56 {} 0 {} 0 {} 21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -81 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} -38 {} -57 {} -66 {} -57 {} 0 {} -38 {} -66 {} -30 {} -20 {} 0 {} -67 {} 22 {} 19 {} 0 {} 19 {} -125 {} 38 {} 28 {} 0 {} 0 {} 0 {} -86 {} -47 {} -76 {} -66 {} -38 {} 0 {} -57 {} -44 {} -19 {} 0 {} 0 {} -85 {} 19 {} 0 {} 0 {} 0 {} -162 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 18 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} 0 {} -38 {} -108 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -190 {} 0 {} 0 {} 0 {} 0 {} 0 {} -41 {} -42 {} -28 {} -158 {} -32 {} 0 {} -45 {} -34 {} -13 {} 0 {} 0 {} -38 {} 0 {} 0 {} 0 {} 0 {} -187 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 50 {} 0 {} 0 {} 0 {} 40 {} 50 {} 0 {} 100 {} 90 {} 80 {} 50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} -31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 0 {} 0 {} -82 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 28 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} -104 {} -85 {} 0 {} 0 {} 0 {} -66 {} -38 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} 0 {} 0 {} -47 {} 0 {} 0 {} -43 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} -19 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} -42 {} -19 {} 0 {} 0 {} -11 {} 0 {} -47 {} -28 {} -38 {} -67 {} 0 {} 0 {} -19 {} -19 {} 0 {} 0 {} 0 {} -36 {} 38 {} 19 {} 0 {} 0 {} -94 {} 19 {} 19 {} 0 {} 0 {} 0 {} -23 {} -19 {} -28 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 28 {} 19 {} 0 {} 0 {} -88 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -19 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+ 0 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} -14 {} -57 {} -66 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -76 {} 0 {} 0 {} -31 {} -38 {} -28 {} -19 {} -18 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 17 {} 18 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -38 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} -47 {} -19 {} 0 {} -70 {} -28 {} -19 {} -19 {} 0 {} 0 {} 0 {} -37 {} 0 {} 19 {} -24 {} 0 {} 0 {} 0 {} 0 {} -40 {} -27 {} 0 {} -66 {} -66 {} 0 {} 0 {} 0 {} -67 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -1 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -56 {} 0 {} 0 {} -7 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -76 {} 0 {} 0 {} -12 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -89 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} -42 {} 0 {} 0 {} 0 {} -4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -56 {} 0 {} 0 {} 21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -81 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} -38 {} -57 {} -66 {} -57 {} 0 {} -38 {} -66 {} -30 {} -20 {} 0 {} -67 {} 22 {} 19 {} 0 {} 19 {} -125 {} 38 {} 28 {} 0 {} 0 {} 0 {} -86 {} -47 {} -76 {} -66 {} -38 {} 0 {} -57 {} -44 {} -19 {} 0 {} 0 {} -85 {} 19 {} 0 {} 0 {} 0 {} -162 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 18 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} 0 {} -38 {} -108 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -190 {} 0 {} 0 {} 0 {} 0 {} 0 {} -41 {} -42 {} -28 {} -158 {} -32 {} 0 {} -45 {} -34 {} -13 {} 0 {} 0 {} -38 {} 0 {} 0 {} 0 {} 0 {} -187 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 27 {} 0 {} 0 {} 0 {} 50 {} 0 {} 0 {} 0 {} 67 {} 50 {} 0 {} 100 {} 90 {} 80 {} 50 {} 0 {} 93 {} 93 {} 93 {} 53 {} 0 {} -21 {} 0 {} -31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 0 {} 0 {} -82 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 28 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} -104 {} -85 {} 0 {} 0 {} 0 {} -66 {} -38 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} 0 {} 0 {} -47 {} 0 {} 0 {} -43 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} -19 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} -42 {} -19 {} 0 {} -19 {} -11 {} 0 {} -47 {} -28 {} -38 {} -67 {} 0 {} 0 {} -19 {} -19 {} 0 {} 0 {} 0 {} -36 {} 38 {} 19 {} 0 {} 0 {} -94 {} 19 {} 19 {} 0 {} 0 {} 0 {} -23 {} -19 {} -28 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 28 {} 19 {} 0 {} 0 {} -88 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -19 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 ChainSub2: coverage "'ordn' Ordinals lookup 11 contextual 1" 0 0 0 1
  1 1 0
   Coverage: 3 O o
@@ -5502,7 +5502,7 @@ SplineSet
  168 79 l 1,13,-1
 EndSplineSet
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: E
@@ -6155,7 +6155,7 @@ SplineSet
  74 0 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 24 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 24 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: M
@@ -6380,7 +6380,7 @@ SplineSet
  301 67 301 67 361 67 c 0,16,17
 EndSplineSet
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 Substitution2: "Single Substitution lookup 12 subtable" ordmasculine
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" ordmasculine
 EndChar
@@ -7879,7 +7879,6 @@ SplineSet
  131 342 131 342 127 292 c 1,25,-1
 EndSplineSet
 Validated: 33
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: f
@@ -10036,7 +10035,7 @@ SplineSet
  37 -161 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 46 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 46 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: z
@@ -18046,7 +18045,6 @@ SplineSet
  277 226 l 1,16,-1
 EndSplineSet
 Validated: 1
-Kerns2: 36 17 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: florin
@@ -20367,7 +20365,7 @@ SplineSet
  108 0 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 24 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 24 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: lslash
@@ -21001,7 +20999,6 @@ SplineSet
  180 54 180 54 225 54 c 0,57,58
 EndSplineSet
 Validated: 33
-Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: eth
@@ -21136,7 +21133,7 @@ SplineSet
  205 59 205 59 271 59 c 0,36,37
 EndSplineSet
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: thorn
@@ -21833,7 +21830,6 @@ SplineSet
  238 62 238 62 274 62 c 256,48,49
 EndSplineSet
 Validated: 33
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Acircumflex
@@ -22253,7 +22249,6 @@ Fore
 Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 349 768 N 1 0 0 1 171 0 2
 Validated: 1
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: eacute
@@ -22271,7 +22266,6 @@ Fore
 Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 232 0 2
 Validated: 1
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: ecircumflex
@@ -22289,7 +22283,6 @@ Fore
 Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 340 770 N 1 0 0 1 117 0 2
 Validated: 1
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: edieresis
@@ -22307,7 +22300,6 @@ Fore
 Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 343 776 N 1 0 0 1 119 0 2
 Validated: 1
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Igrave
@@ -22497,7 +22489,7 @@ Fore
 Refer: 29 79 N 1 0 0 1 0 0 3
 Refer: 350 -1 N 1 0 0 1 240 0 2
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Oacute
@@ -22515,7 +22507,7 @@ Fore
 Refer: 29 79 N 1 0 0 1 0 0 3
 Refer: 333 -1 N 1 0 0 1 304 0 2
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Ocircumflex
@@ -22534,7 +22526,7 @@ Fore
 Refer: 29 79 N 1 0 0 1 0 0 3
 Refer: 341 -1 N 1 0 0 1 200 0 2
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Otilde
@@ -22562,7 +22554,7 @@ Fore
 Refer: 29 79 N 1 0 0 1 0 0 3
 Refer: 171 732 N 1 0 0 1 144 172 2
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Odieresis
@@ -22590,7 +22582,7 @@ Fore
 Refer: 29 79 N 1 0 0 1 0 0 3
 Refer: 146 168 N 1 0 0 1 149 150 2
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Ugrave
@@ -22871,7 +22863,7 @@ Fore
 Refer: 65 121 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 173 0 2
 Validated: 1
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 46 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 46 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: ydieresis
@@ -22888,7 +22880,7 @@ Fore
 Refer: 65 121 N 1 0 0 1 0 0 3
 Refer: 343 776 N 1 0 0 1 60 0 2
 Validated: 1
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 46 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 46 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Scaron
@@ -23107,7 +23099,7 @@ SplineSet
  207 79 l 1,17,-1
 EndSplineSet
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: zero.tf
@@ -23481,7 +23473,6 @@ Fore
 Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 354 772 N 1 0 0 1 141 0 2
 Validated: 1
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Edotaccent
@@ -23526,7 +23517,6 @@ Fore
 Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 345 775 N 1 0 0 1 225 0 2
 Validated: 1
-Kerns2: 36 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Eogonek
@@ -23734,7 +23724,6 @@ SplineSet
  131 342 131 342 127 292 c 1,43,-1
 EndSplineSet
 Validated: 33
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Ecaron
@@ -23779,7 +23768,6 @@ Fore
 Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 336 780 N 1 0 0 1 117 0 2
 Validated: 1
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Ohungarumlaut
@@ -25031,7 +25019,7 @@ LayerCount: 2
 Fore
 Refer: 248 208 N 1 0 0 1 0 0 3
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: dcroat
@@ -25245,7 +25233,7 @@ Fore
 Refer: 18 68 N 1 0 0 1 0 0 3
 Refer: 68 711 N 1 0 0 1 110 172 2
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: dcaron
