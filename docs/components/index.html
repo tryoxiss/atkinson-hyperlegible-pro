@@ -1,0 +1,415 @@
+<!doctype html>
+<html lang="en" id="top">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="robots" content="INDEX, FOLLOW" />
+        <meta name="description" content="" />
+        <meta name="author" content="Jacob Perez" />
+        <title>Rams - Components</title>
+        <link rel="icon" href="../favicon.svg" />
+        <link rel="preload" href="../templates/a.html" as="fetch" type="text/html" crossorigin />
+        <link rel="stylesheet" href="../css/main.css" />
+        <script src="../js/index.js"></script>
+        <script type="module" src="../js/defer.js"></script>
+        <script>
+            meta.title = "Components";
+            meta.type = "fullPage";
+        </script>
+    </head>
+
+    <body>
+        <template id="headerTemplate">
+            <p data-flex="wrap">
+                <span data-item="grow">
+                    With
+                    <a
+                        href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes"
+                        >data-attributes</a
+                    >
+                    components become more composable.</span
+                >
+                <span data-icon="&#xe08e;">
+                    <a
+                        href="https://github.com/jacobxperez/rams/blob/master/docs/components/index.html"
+                        >Edit Page</a
+                    >
+                </span>
+            </p>
+        </template>
+
+        <template id="contentTemplate">
+            <header data-column="large-4 medium-4 small-4">
+                <h2>Buttons</h2>
+            </header>
+
+            <section data-column="large-4 medium-4 small-4">
+                <p>
+                    <button data-button>button</button>
+                    <button data-button="outline">button</button>
+                    <button data-button="link">button</button>
+                </p>
+
+                <p>
+                    <button data-button="primary">button</button>
+                    <button data-button="secondary">button</button>
+                    <button data-button="tertiary">button</button>
+                </p>
+
+                <p>
+                    <button data-button="primary outline">button</button>
+                    <button data-button="secondary outline">button</button>
+                    <button data-button="tertiary outline">button</button>
+                </p>
+            </section>
+
+            <section data-column="large-4 medium-4 small-4">
+                <p>
+                    <button data-button="success">button</button>
+                    <button data-button="warning">button</button>
+                    <button data-button="danger">button</button>
+                </p>
+
+                <p>
+                    <button data-button="success outline">button</button>
+                    <button data-button="warning outline">button</button>
+                    <button data-button="danger outline">button</button>
+                </p>
+
+                <p>
+                    <button data-button data-state="disabled">disabled</button>
+                </p>
+            </section>
+
+            <hr data-column="all" />
+
+            <header data-column="large-4 medium-4 small-4">
+                <h2>Dropdowns</h2>
+                <p>
+                    Dropdowns are multifunctional they can create simple tooltips or complex
+                    dropdown content.
+                </p>
+            </header>
+
+            <section data-column="large-8 medium-8 small-4">
+                <ul data-flex="group" data-box="leading">
+                    <li data-position="relative">
+                        <button data-toggle="pop" data-button="primary outline">
+                            button <span data-icon="&#xe043;"></span>
+                        </button>
+
+                        <ul data-dropbox="menu" data-position="left">
+                            <li><a data-anchor="menu">Anchor</a></li>
+                            <li><a data-anchor="menu">Anchor</a></li>
+                            <li><a data-anchor="menu">Anchor</a></li>
+                            <li data-position="relative">
+                                <a data-anchor="menu" data-toggle
+                                    >Anchor <span data-icon="&#xe043;"></span
+                                ></a>
+
+                                <ul data-dropbox data-position="right">
+                                    <li><a data-anchor="menu">Anchor</a></li>
+                                    <li><a data-anchor="menu">Anchor</a></li>
+                                    <li><a data-anchor="menu">Anchor</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h3>Tooltip</h3>
+
+                <p>Display additional context on hover or on click.</p>
+
+                <p>
+                    <span data-toggle="tooltip"
+                        >Tooltip!
+                        <span data-dropbox="tooltip">Lorem ipsum dolor sit amet</span>
+                    </span>
+                </p>
+
+                <h3>Accordion</h3>
+
+                <p>Reveal extra page content</p>
+
+                <ul data-box="border leading">
+                    <li data-box="border-bottom">
+                        <a data-toggle data-anchor data-flex>
+                            <strong data-item="grow">Content</strong>
+                            <span data-icon="&#xe043;"></span>
+                        </a>
+
+                        <div data-dropbox data-box="padding-x padding-bottom">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, aut.
+                        </div>
+                    </li>
+
+                    <li data-box="border-bottom">
+                        <a data-toggle data-anchor data-flex>
+                            <strong data-item="grow">Content</strong>
+                            <span data-icon="&#xe043;"></span>
+                        </a>
+
+                        <div data-dropbox data-box="padding-x padding-bottom">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, aut.
+                        </div>
+                    </li>
+
+                    <li>
+                        <a data-toggle data-anchor data-flex>
+                            <strong data-item="grow">Content</strong>
+                            <span data-icon="&#xe043;"></span>
+                        </a>
+
+                        <div data-dropbox data-box="padding-x padding-bottom">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, aut.
+                        </div>
+                    </li>
+                </ul>
+            </section>
+
+            <hr data-column="all" />
+
+            <header data-column="large-4 medium-4 small-4">
+                <h2>Navigation</h2>
+            </header>
+
+            <section data-column="large-8 medium-8 small-4">
+                <nav>
+                    <ul data-flex>
+                        <li>
+                            <a data-anchor data-state="active">Active</a>
+                        </li>
+                        <li><a data-anchor>Anchor</a></li>
+                        <li><a data-anchor>Anchor</a></li>
+                        <li><a data-anchor>Anchor</a></li>
+                    </ul>
+
+                    <ul data-flex="center">
+                        <li>
+                            <a data-anchor data-state="active">Active</a>
+                        </li>
+                        <li><a data-anchor>Anchor</a></li>
+                        <li><a data-anchor>Anchor</a></li>
+                        <li><a data-anchor>Anchor</a></li>
+                    </ul>
+
+                    <ul data-flex="end">
+                        <li>
+                            <a data-anchor data-state="active">Active</a>
+                        </li>
+                        <li><a data-anchor>Anchor</a></li>
+                        <li><a data-anchor>Anchor</a></li>
+                        <li><a data-anchor>Anchor</a></li>
+                    </ul>
+                </nav>
+
+                <h3>Breadcrumb</h3>
+
+                <nav>
+                    <ul data-flex="breadcrumb">
+                        <li>Active</li>
+                        <li><a>Link</a></li>
+                        <li><a>Link</a></li>
+                        <li><a>Link</a></li>
+                    </ul>
+                </nav>
+
+                <h3>Tabs</h3>
+
+                <nav>
+                    <ul data-flex="line-bottom">
+                        <li>
+                            <a data-anchor="line" data-state="active">Active</a>
+                        </li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                    </ul>
+
+                    <ul data-flex="line-bottom center">
+                        <li>
+                            <a data-anchor="line" data-state="active">Active</a>
+                        </li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                    </ul>
+
+                    <ul data-flex="line-bottom end">
+                        <li>
+                            <a data-anchor="line" data-state="active">Active</a>
+                        </li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                    </ul>
+
+                    <ul data-flex="line-bottom between grow">
+                        <li>
+                            <a data-anchor="line" data-state="active">Active</a>
+                        </li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                    </ul>
+
+                    <ul data-flex="line-bottom between grow" data-text="center">
+                        <li>
+                            <a data-anchor="line" data-state="active">Active</a>
+                        </li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                    </ul>
+
+                    <br />
+
+                    <ul data-flex="line-top">
+                        <li>
+                            <a data-anchor="line" data-state="active">Active</a>
+                        </li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                        <li><a data-anchor="line">Anchor</a></li>
+                    </ul>
+                </nav>
+
+                <h3>Navbar</h3>
+
+                <nav data-navbar data-box="leading">
+                    <ul data-flex>
+                        <li>
+                            <a data-anchor="navbar" data-state="active">Active</a>
+                        </li>
+                        <li><a data-anchor="navbar">Anchor</a></li>
+                        <li><a data-anchor="navbar">Anchor</a></li>
+                        <li><a data-anchor="navbar">Anchor</a></li>
+                    </ul>
+                </nav>
+
+                <nav data-navbar data-box="leading">
+                    <ul data-flex="between grow" data-text="center">
+                        <li>
+                            <a data-anchor="navbar" data-state="active">Active</a>
+                        </li>
+                        <li><a data-anchor="navbar">Anchor</a></li>
+                        <li><a data-anchor="navbar">Anchor</a></li>
+                        <li><a data-anchor="navbar">Anchor</a></li>
+                    </ul>
+                </nav>
+
+                <nav data-navbar data-box="leading">
+                    <ul data-flex>
+                        <li><a data-anchor="navbar">Anchor</a></li>
+                        <li data-item="grow"></li>
+                        <li>
+                            <a data-anchor="navbar" data-state="active">Active</a>
+                        </li>
+                        <li><a data-anchor="navbar">Anchor</a></li>
+                        <li><a data-anchor="navbar">Anchor</a></li>
+                    </ul>
+                </nav>
+
+                <nav data-navbar data-box="leading">
+                    <ul data-flex>
+                        <li><a data-anchor="navbar">Anchor</a></li>
+                        <li data-item="grow"></li>
+                        <li><a data-anchor="navbar">Anchor</a></li>
+                        <li data-position="relative">
+                            <a data-anchor="navbar" data-toggle="pop"
+                                >Anchor <span data-icon="&#xe043;"></span
+                            ></a>
+
+                            <ul data-dropbox="navbar" data-position="left">
+                                <li><a data-anchor="navbar">Anchor</a></li>
+                                <li><a data-anchor="navbar">Anchor</a></li>
+                                <li><a data-anchor="navbar">Anchor</a></li>
+                            </ul>
+                        </li>
+                        <li data-position="relative">
+                            <a data-anchor="navbar" data-toggle="pop"
+                                >Anchor <span data-icon="&#xe043;"></span
+                            ></a>
+
+                            <ul data-dropbox="navbar" data-position="right">
+                                <li><a data-anchor="navbar">Anchor</a></li>
+                                <li><a data-anchor="navbar">Anchor</a></li>
+                                <li><a data-anchor="navbar">Anchor</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+            </section>
+
+            <hr data-column="all" />
+
+            <header data-column="large-4 medium-4 small-4">
+                <h2>Forms</h2>
+            </header>
+
+            <section data-column="large-8 medium-8 small-4">
+                <form>
+                    <p><label for="name">Name:</label></p>
+                    <input type="text" id="name" name="name" placeholder="Your Name" />
+
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" placeholder="Your email" />
+
+                    <label for="password">Password:</label>
+                    <input
+                        type="password"
+                        id="password"
+                        name="password"
+                        placeholder="Your Password"
+                    />
+
+                    <label for="gender">Gender:</label>
+                    <select id="gender" name="gender">
+                        <option value="">Select gender</option>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="nonbinary">Non-binary</option>
+                    </select>
+
+                    <label for="message">Message:</label>
+                    <textarea
+                        id="message"
+                        name="message"
+                        rows="5"
+                        cols="50"
+                        placeholder="Enter Message"
+                    ></textarea>
+
+                    <div data-flex="gap">
+                        <label for="checkbox">Checkbox:</label>
+                        <input type="checkbox" id="checkbox" name="checkbox" />
+                    </div>
+                    <div data-flex="gap">
+                        <label for="radio1">Option 1</label>
+                        <input type="radio" id="radio1" name="radio" value="option1" />
+                    </div>
+                    <div data-flex="gap">
+                        <label for="radio2">Option 2</label>
+                        <input type="radio" id="radio2" name="radio" value="option2" />
+                    </div>
+
+                    <label for="file" data-button="outline"
+                        >File <span data-icon="&#xe006;"></span
+                    ></label>
+                    <input
+                        type="file"
+                        id="file"
+                        name="file"
+                        accept=".jpg, .jpeg, .png"
+                        data-button=""
+                    />
+
+                    <div>
+                        <input type="submit" value="Submit" data-button />
+                    </div>
+                </form>
+            </section>
+        </template>
+    </body>
+</html>

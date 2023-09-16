@@ -1,0 +1,24 @@
+[data-section~="header"] {
+    margin-bottom: $leading;
+    padding-top: calc($leading * 4);
+    padding-bottom: calc($leading * 2);
+    background-color: var(--neutral-000);
+    color: var(--neutral-100);
+
+    & :--headings {
+        color: var(--neutral-100);
+    }
+}
+
+[data-section="footer"] {
+    margin-bottom: $container-margin-bottom;
+}
+
+/* :where([data-section~="header"]) a {
+    color: inherit;
+    text-decoration: underline solid 0.125rem;
+}
+
+:where([data-section~="header"]) a:hover {
+    text-decoration: none;
+} */
