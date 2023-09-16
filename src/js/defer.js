@@ -5,7 +5,7 @@
  * http://www.apache.org/licenses/LICENSE-2.0
 -----------------------------------------------------------------------------*/
 import {sidebar} from './modules/sidebar.js';
-import {rams} from '../../src/js/rams/rams.js';
+import {rams} from './js/rams/rams.js';
 
 if (meta.title === '') {
     meta.title = `<h1>Rams</h1>`;
