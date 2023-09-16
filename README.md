@@ -6,6 +6,8 @@ With Alternative Flipped Zero `0` and Ligatures
 
 ![Brochure Overview](docs/BIA_Brochure-Overview.jpg)
 
+## Overview
+
 Atkinson Hyperlegible is a new typeface, offering greater legibility and readability for low vision readers.
 The font is named after Braille Institute founder, J. Robert Atkinson. What makes it different from traditional
 typography design is that it focuses on letterform distinction to increase character recognition, ultimately
