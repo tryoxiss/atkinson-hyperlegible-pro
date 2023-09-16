@@ -5,7 +5,7 @@
  * http://www.apache.org/licenses/LICENSE-2.0
 -----------------------------------------------------------------------------*/
 import {sidebar} from './modules/sidebar.js';
-import {rams} from './js/rams/rams.js';
+import {rams} from './rams/rams.js';
 
 if (meta.title === '') {
     meta.title = `<h1>Rams</h1>`;
@@ -46,9 +46,9 @@ let footer = `
 // check and set template url for localhost or for public url
 let templateURL;
 location.hostname === 'localhost' || location.hostname === '127.0.0.1'
-    ? (templateURL = window.location.origin + '/templates/a.be13ff7e.html')
+    ? (templateURL = window.location.origin + '/templates/a.4650d11e.html')
     : (templateURL =
-          window.location.origin + '/rams/templates/a.d97ff952.html');
+          window.location.origin + '/rams/templates/a.html');
 
 // create main layout
 let layout = `
