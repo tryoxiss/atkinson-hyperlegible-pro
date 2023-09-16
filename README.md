@@ -1,6 +1,6 @@
 # Atkinson Hyperlegible Pro
 
-With Alternative Flipped Zero, Ligatures and a Tighter Kerning
+With Alternative Flipped Zero, Ligatures and Improved Kerning
 
 ---
 
@@ -8,19 +8,17 @@ With Alternative Flipped Zero, Ligatures and a Tighter Kerning
 
 ## Overview
 
-Atkinson Hyperlegible is a new typeface, offering greater legibility and readability for low vision readers.
-The font is named after Braille Institute founder, J. Robert Atkinson. What makes it different from traditional
-typography design is that it focuses on letterform distinction to increase character recognition, ultimately
-improving readability. The Braille Institute has made this free for anyone to use, under the SIL Open Font License.
-The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
+Atkinson Hyperlegible Pro is an update to the original typeface designed for The Braille Institute and named after its founder J. Robert Atkinson. What makes it different from traditional typography design is that it focuses on letterform distinction to increase character recognition, ultimately
+improving legibility and readability for low vision readers. The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
 
 * Four fonts, including two weights (regular, bold, italics, italics bold)
 * 1,340 total glyphs across all fonts, 335 per font
 * Accent characters supporting 27 languages
 * Improve legibility and readability for low vision readers
-* A slightly tighter kerning across all characters
+* Improve kerning across all characters
 * Includes ligatures for `fi ff ffi fl ffl`
 * Alternative reversed number zero `0`
+* Grate for body text, headings and UI
 
 ## Installing the Font
 
