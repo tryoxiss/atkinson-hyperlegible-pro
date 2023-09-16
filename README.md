@@ -15,8 +15,9 @@ The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
 * Four fonts, including two weights (regular, bold, italics, italics bold)
 * 1,340 total glyphs across all fonts, 335 per font
 * Accent characters supporting 27 languages
-* For designers and anyone interested in making written materials easier to read across the visual-ability spectrum
 * Improve legibility and readability for low vision readers
+* Alternative reversed number zero `0`
+* Ligatures for `fi ff ffi fl ffl`
 
 ## Installing the Font
 
