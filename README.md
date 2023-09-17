@@ -1,6 +1,6 @@
 # [Atkinson Hyperlegible Pro](https://jacobxperez.github.io/atkinson-hyperlegible-pro/)
 
-With Alternative Flipped Zero, Ligatures and Improved Kerning
+With Alternative Flipped Zero, Improved Kerning and Ligatures
 
 ---
 
