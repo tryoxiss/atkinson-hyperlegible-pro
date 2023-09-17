@@ -19,6 +19,7 @@
     --neutral-010: hsl(0, 0%, 10%);
     --neutral-000: hsl(0, 0%, 0%);
 
+    --primary-050: hsl(206, 33%, 22%);
     --primary-040: hsl(206, 33%, 20%);
     --primary-030: hsl(206, 33%, 18%);
     --primary-020: hsl(206, 33%, 16%);
@@ -98,8 +99,8 @@ $headings-font-family: var(--font-sans);
 $headings-font-weight: 400;
 $headings-color: false;
 
-$h1-font-size: clamp(2.488rem, 3vw + 1rem, 4.209rem);
-$h1-line-height: 1.15;
+$h1-font-size: clamp(3.052rem, 5vw + 1rem, 7.594rem);
+$h1-line-height: 1.1;
 
 $h2-font-size: clamp(2.074rem, 3vw + 1rem, 3.157rem);
 $h2-line-height: 1.2;
