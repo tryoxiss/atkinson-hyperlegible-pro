@@ -19,6 +19,12 @@
     --neutral-010: hsl(0, 0%, 10%);
     --neutral-000: hsl(0, 0%, 0%);
 
+    --primary-040: hsl(206, 33%, 20%);
+    --primary-030: hsl(206, 33%, 18%);
+    --primary-020: hsl(206, 33%, 16%);
+    --primary-010: hsl(206, 33%, 14%);
+    --primary-000: hsl(206, 33%, 12%);
+
     --success-020: hsl(145, 80%, 30%);
     --success-010: hsl(145, 80%, 25%);
     --success-000: hsl(145, 80%, 20%);
@@ -74,7 +80,7 @@ $border-radius: 0.25rem;
 /* Typography */
 $root-font-size: 100%;
 $body-font-size: 1rem;
-$body-font-color: var(--neutral-000);
+$body-font-color: var(--primary-000);
 $body-font-family: var(--font-sans);
 $body-font-weight: 400;
 $body-line-height: 1.5;
@@ -93,7 +99,7 @@ $headings-font-weight: 400;
 $headings-color: false;
 
 $h1-font-size: clamp(2.488rem, 3vw + 1rem, 4.209rem);
-$h1-line-height: 1;
+$h1-line-height: 1.1;
 
 $h2-font-size: clamp(2.074rem, 3vw + 1rem, 3.157rem);
 $h2-line-height: 1.1;
@@ -186,8 +192,8 @@ $disabled: var(--neutral-090);
 $disabled-text: var(--neutral-050);
 
 /* Navbar */
-$navbar-background: var(--neutral-000);
-$navbar-dropbox-background: var(--neutral-010);
+$navbar-background: var(--primary-000);
+$navbar-dropbox-background: var(--primary-020);
 $navbar-anchor-text: var(--neutral-100);
 $navbar-anchor-text-active: var(--neutral-070);
 
