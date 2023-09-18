@@ -5,8 +5,12 @@
     background-color: var(--primary-040);
     color: var(--neutral-100);
 
-    & :--headings {
+    & :--headings, a {
         color: var(--neutral-100);
+    }
+
+    & h1 {
+        margin-bottom: $leading;
     }
 }
 
