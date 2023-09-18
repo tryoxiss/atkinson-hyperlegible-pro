@@ -79,7 +79,7 @@ $border-color: var(--neutral-050);
 $border-radius: 0.25rem;
 
 /* Typography */
-$root-font-size: 106.3%;
+$root-font-size: clamp(106.3%, 5vw + 1rem, 110%);
 $body-font-size: 1rem;
 $body-font-color: var(--primary-000);
 $body-font-family: var(--font-sans);
