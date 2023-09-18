@@ -99,7 +99,7 @@ $headings-font-family: var(--font-sans);
 $headings-font-weight: 400;
 $headings-color: false;
 
-$h1-font-size: clamp(3.052rem, 5vw + 1rem, 7.594rem);
+$h1-font-size: clamp(3.052rem, 7vw + 1rem, 7.594rem);
 $h1-line-height: 1.1;
 
 $h2-font-size: clamp(2.074rem, 3vw + 1rem, 3.157rem);
