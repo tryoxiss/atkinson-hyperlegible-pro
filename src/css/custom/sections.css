@@ -18,6 +18,10 @@
     margin-bottom: $container-margin-bottom;
 }
 
+[data-filter="blur"] {
+    filter: blur(.3rem);
+}
+
 /* :where([data-section~="header"]) a {
     color: inherit;
     text-decoration: underline solid 0.125rem;
