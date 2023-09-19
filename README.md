@@ -43,13 +43,13 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
-* Added `l` to kern class
+* Added `l` `w` `x` to kern class
 * Kern quotes class pairs
 * Moved `Æ` to kern class
 * Kern `Y` and `m n p r` pairs
 * Kern `V` and `g` pairs
 * Added `B` `V` `W` `X` to kern class
-* Added `m p r` to kern with `n` class
+* Added `m p r` to kern with `n` group
 * Moved `T` and `f` parings to kern class
 * Kern `T` and `v w x y z` pairs
 * Added `K Ķ k ķ` to kern class
