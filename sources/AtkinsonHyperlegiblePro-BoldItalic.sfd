@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1695112533
+ModificationTime: 1695165170
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -84,7 +84,7 @@ MarkAttachSets: 2
 "MarkSet-0" 15 uni0326 uni0327
 "MarkSet-1" 242 acutecomb acutecomb.case uni0306 uni0306.case uni030C uni030C.case uni0302 uni0302.case uni0308 uni0308.case uni0307 uni0307.case gravecomb gravecomb.case uni030B uni030B.case uni0304 uni0304.case uni030A uni030A.case tildecomb tildecomb.case
 DEI: 91125
-KernClass2: 32+ 24 "'kern' Horizontal Kerning lookup 0 kerning class 1"
+KernClass2: 34+ 26 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  106 h m n agrave aacute acircumflex atilde adieresis aring ntilde amacron abreve aogonek nacute ncaron uni0146
  77 e ae oe egrave eacute ecircumflex edieresis emacron edotaccent eogonek ecaron
  77 E AE OE Egrave Eacute Ecircumflex Edieresis Emacron Edotaccent Eogonek Ecaron
@@ -113,7 +113,9 @@ KernClass2: 32+ 24 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  1 B
  1 V
  1 W
+ 1 w
  1 X
+ 1 x
  22 quoteleft quotedblleft
  24 quoteright quotedblright
  49 quotesinglbase quotedblbase ellipsis comma period
@@ -136,11 +138,13 @@ KernClass2: 32+ 24 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  11 h k uni0137
  1 V
  1 W
+ 1 w
  1 X
+ 1 x
  2 AE
  24 quoteright quotedblright
  49 comma period quotesinglbase quotedblbase ellipsis
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} -13 {} 0 {} -57 {} -66 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} -66 {} -76 {} 0 {} 0 {} 0 {} -38 {} -28 {} -19 {} -25 {} -5 {} 0 {} 0 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 17 {} 18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} -47 {} -19 {} 0 {} 0 {} -28 {} -19 {} -19 {} -70 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 19 {} -24 {} 0 {} 0 {} 0 {} 0 {} -40 {} -50 {} 0 {} -66 {} -66 {} 0 {} 0 {} 0 {} -89 {} -47 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -56 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -5 {} -56 {} 0 {} 17 {} 0 {} 0 {} 0 {} 13 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} -19 {} -91 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} -38 {} -57 {} -66 {} -57 {} 0 {} -38 {} -66 {} -10 {} 0 {} 0 {} -67 {} 30 {} 19 {} 0 {} 19 {} 0 {} 38 {} 28 {} 0 {} -125 {} 0 {} 0 {} 0 {} -86 {} -47 {} -76 {} -66 {} -38 {} -35 {} -60 {} -44 {} -19 {} 0 {} 0 {} -85 {} 19 {} 0 {} 0 {} 0 {} 0 {} 19 {} 19 {} 0 {} -163 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 18 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} -10 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} -82 {} 0 {} 0 {} 0 {} 0 {} -37 {} 12 {} 28 {} 0 {} -38 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} -96 {} -93 {} 0 {} 0 {} 0 {} -66 {} -38 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -27 {} 0 {} 12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 30 {} -25 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} 0 {} 40 {} 13 {} 0 {} 60 {} 40 {} 40 {} 40 {} 28 {} 53 {} 53 {} 13 {} 0 {} 40 {} 0 {} 0 {} -33 {} -47 {} 0 {} 0 {} -43 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} -19 {} 0 {} 28 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} -19 {} 0 {} -19 {} -18 {} -12 {} 0 {} 0 {} -47 {} -28 {} -38 {} -67 {} 0 {} 0 {} -19 {} -19 {} 0 {} 0 {} 0 {} -36 {} 38 {} 19 {} 0 {} 0 {} 0 {} 19 {} 19 {} 0 {} -94 {} 0 {} 0 {} 0 {} -23 {} -19 {} -28 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 28 {} 19 {} 0 {} 0 {} 0 {} 19 {} 19 {} 0 {} -30 {} 0 {} 0 {} 0 {} -18 {} -28 {} -19 {} 0 {} -28 {} -21 {} 0 {} 0 {} 0 {} -19 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -74 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -185 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -129 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -233 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} -13 {} 0 {} -57 {} -66 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} -66 {} -76 {} 0 {} 0 {} 0 {} -38 {} -28 {} 0 {} -19 {} 0 {} -25 {} -5 {} 0 {} 0 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 17 {} 18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} -47 {} -19 {} 0 {} 0 {} -28 {} -19 {} 0 {} -19 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 19 {} -24 {} 0 {} 0 {} 0 {} 0 {} -40 {} -50 {} 0 {} -66 {} -66 {} 0 {} 0 {} 0 {} -89 {} -47 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -56 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -5 {} -56 {} 0 {} 17 {} 0 {} 0 {} 0 {} 13 {} 0 {} 0 {} 0 {} 0 {} -19 {} 27 {} 0 {} 0 {} 0 {} 10 {} -19 {} -24 {} -91 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} -38 {} -57 {} -66 {} -57 {} 0 {} -38 {} -66 {} -10 {} 0 {} 0 {} -67 {} 30 {} 19 {} 0 {} 19 {} 0 {} 38 {} 28 {} 0 {} 0 {} 0 {} -125 {} 0 {} 0 {} 0 {} -86 {} -47 {} -76 {} -66 {} -38 {} -35 {} -60 {} -44 {} -19 {} 0 {} 0 {} -85 {} 19 {} 0 {} 0 {} 0 {} 0 {} 19 {} 19 {} 0 {} 0 {} -19 {} -163 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 18 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} -10 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} -82 {} 0 {} 0 {} 0 {} 0 {} -37 {} 12 {} 28 {} 0 {} -38 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} -96 {} -93 {} 0 {} 0 {} 0 {} -66 {} -38 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -27 {} 0 {} 12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 30 {} -25 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} 0 {} 40 {} 13 {} 0 {} 60 {} 40 {} 40 {} 40 {} 28 {} 53 {} 53 {} 0 {} 13 {} 0 {} 0 {} 40 {} 0 {} 0 {} -33 {} -47 {} 0 {} 0 {} -43 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} -19 {} 0 {} 28 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} -19 {} 0 {} -18 {} -12 {} 0 {} 0 {} -47 {} -28 {} -38 {} -67 {} 0 {} 0 {} -19 {} -19 {} 0 {} 0 {} 0 {} -36 {} 38 {} 19 {} 0 {} 0 {} 0 {} 19 {} 19 {} 0 {} 0 {} 0 {} -94 {} 0 {} 0 {} 0 {} -23 {} -19 {} -28 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 28 {} 19 {} 0 {} 0 {} 0 {} 19 {} 19 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -18 {} -28 {} -19 {} 0 {} -28 {} -21 {} 0 {} 0 {} 0 {} -19 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -74 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -185 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -129 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -233 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 ChainSub2: coverage "'ordn' Ordinals lookup 11 contextual 1" 0 0 0 1
  1 1 0
   Coverage: 3 O o
@@ -6990,7 +6994,7 @@ SplineSet
  166 0 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 24 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 37 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 24 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: W
@@ -7060,7 +7064,7 @@ SplineSet
  101 0 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 24 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 24 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: X
@@ -7188,7 +7192,7 @@ SplineSet
  191 0 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 24 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -52 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 24 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -52 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Z
@@ -10031,7 +10035,6 @@ SplineSet
  107 0 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 38 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 46 27 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: w
@@ -10101,7 +10104,6 @@ SplineSet
  54 0 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 62 26 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 65 26 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 242 26 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 243 26 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: x
@@ -10168,7 +10170,7 @@ SplineSet
  -71 0 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 15 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 39 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 189 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 190 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 191 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 192 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 193 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 194 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 195 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 231 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 246 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 260 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 262 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 15 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 189 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 190 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 191 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 192 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 193 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 194 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 195 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 260 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 262 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: y
@@ -10243,7 +10245,6 @@ SplineSet
  -44 -161 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 46 27 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: z
@@ -23586,7 +23587,7 @@ Fore
 Refer: 39 89 N 1 0 0 1 0 0 3
 Refer: 332 -1 N 1 0 0 1 207 0 2
 Validated: 1
-Kerns2: 24 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -52 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 24 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -52 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: ntilde
@@ -23772,7 +23773,6 @@ Fore
 Refer: 65 121 N 1 0 0 1 0 0 3
 Refer: 96 180 N 1 0 0 1 140 0 2
 Validated: 1
-Kerns2: 46 27 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: ydieresis
@@ -23789,7 +23789,6 @@ Fore
 Refer: 65 121 N 1 0 0 1 0 0 3
 Refer: 146 168 N 1 0 0 1 29 0 2
 Validated: 1
-Kerns2: 46 27 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Scaron
@@ -23860,7 +23859,7 @@ Fore
 Refer: 39 89 N 1 0 0 1 0 0 3
 Refer: 146 168 N 1 0 0 1 135 148 2
 Validated: 1
-Kerns2: 24 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -52 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 24 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -52 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Zcaron
