@@ -22,6 +22,10 @@
     filter: blur(.3rem);
 }
 
+[data-text="flip-zero"] {
+    font-variant-numeric: slashed-zero;
+}
+
 /* :where([data-section~="header"]) a {
     color: inherit;
     text-decoration: underline solid 0.125rem;

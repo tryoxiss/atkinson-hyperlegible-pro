@@ -85,7 +85,7 @@ $body-font-color: var(--primary-000);
 $body-font-family: var(--font-sans);
 $body-font-weight: 400;
 $body-line-height: 1.5;
-$body-font-variant-numeric: slashed-zero;
+$body-font-variant-numeric: false;
 $leading: 1.5rem;
 
 /* link */
