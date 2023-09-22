@@ -10,7 +10,7 @@ import {rams} from './rams/rams.js';
 if (meta.title === '') {
     meta.title = `<h1>Rams</h1>`;
 } else {
-    meta.title = `<h1>${meta.title}</h1>`;
+    meta.title = `<h1 data-text="h0">${meta.title}</h1>`;
 }
 
 let nav = `
