@@ -41,11 +41,12 @@ By default the zero remains as it is however you can flip the zero by adding
 
 And thats it the zero has been flipped!!
 
-## Characters
+## Added Characters
 
-* Added ligatures for `fi ff ffi fl ffl`
-* Added copyleft glyph `U+1F12F`
-* Added alternative reversed number zero `0`
+* Dong glyph `₫` `U+20AB`
+* Ligatures for `fi ff ffi fl ffl`
+* Copyleft glyph `U+1F12F`
+* Alternative reversed number zero `0`
 
 ## Change Log
 
