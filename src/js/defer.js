@@ -32,7 +32,9 @@ let main = `
 
 if (meta.type === 'fullPage') {
     main = `
-        <div id="content" data-container data-grid="main"></div>
+        <div data-container data-grid="main">
+            <div id="content" data-column="large-12 medium-12 small-4"></div>
+        </div>
         `;
 }
 
