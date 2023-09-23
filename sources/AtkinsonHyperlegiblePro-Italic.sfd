@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1695457347
+ModificationTime: 1695503364
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4027,7 +4027,7 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "" "" "Version 1.006; ttfautohint (v1.8.3)" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-Encoding: Custom
+Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -28371,49 +28371,8 @@ SplineSet
  490 -62 l 1,2,-1
  476 -129 l 1,3,-1
  -27 -129 l 1,0,-1
-203 -12 m 0,4,5
- 147 -12 147 -12 107 15 c 128,-1,6
- 67 42 67 42 46 89.5 c 128,-1,7
- 25 137 25 137 25 198 c 0,8,9
- 25 258 25 258 42 312.5 c 128,-1,10
- 59 367 59 367 90.5 410.5 c 128,-1,11
- 122 454 122 454 167 479 c 128,-1,12
- 212 504 212 504 269 504 c 0,13,14
- 328 504 328 504 368 473.5 c 128,-1,15
- 408 443 408 443 422 398 c 1,16,-1
- 454 548 l 1,17,-1
- 292 548 l 1,18,-1
- 306 615 l 1,19,-1
- 468 615 l 1,20,-1
- 479 668 l 1,21,-1
- 565 668 l 1,22,23
- 565 668 565 668 562 653.5 c 128,-1,24
- 559 639 559 639 554 615 c 1,25,-1
- 635 615 l 1,26,-1
- 621 548 l 1,27,-1
- 539 548 l 1,28,29
- 530 504 530 504 519 453.5 c 128,-1,30
- 508 403 508 403 497.5 352.5 c 128,-1,31
- 487 302 487 302 478 259 c 128,-1,32
- 469 216 469 216 463 188 c 0,33,34
- 458 163 458 163 449.5 114 c 128,-1,35
- 441 65 441 65 440 0 c 1,36,-1
- 359 0 l 1,37,-1
- 354 61 l 1,38,39
- 329 29 329 29 293.5 8.5 c 128,-1,40
- 258 -12 258 -12 203 -12 c 0,4,5
-224 60 m 0,41,42
- 276 60 276 60 314.5 90.5 c 128,-1,43
- 353 121 353 121 374.5 171.5 c 128,-1,44
- 396 222 396 222 396 281 c 0,45,46
- 396 350 396 350 366 391 c 128,-1,47
- 336 432 336 432 278 432 c 0,48,49
- 226 432 226 432 189.5 397.5 c 128,-1,50
- 153 363 153 363 134 309.5 c 128,-1,51
- 115 256 115 256 115 199 c 0,52,53
- 115 129 115 129 147.5 94.5 c 128,-1,54
- 180 60 180 60 224 60 c 0,41,42
 EndSplineSet
+Refer: 318 273 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
