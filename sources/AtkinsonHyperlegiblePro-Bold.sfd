@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1695276916
+ModificationTime: 1695457801
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -4027,17 +4027,17 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "" "" "Version 1.006; ttfautohint (v1.8.3)" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-Encoding: ISO8859-1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 19 19 14
+WinInfo: 190 19 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 3 subtable"
-BeginChars: 438 374
+BeginChars: 439 375
 
 StartChar: .notdef
 Encoding: 256 -1 0
@@ -28816,9 +28816,127 @@ SplineSet
  1082 0 l 1,50,-1
  985 0 l 2,0,1
 EndSplineSet
-Validated: 1
 LCarets2: 2 390 746
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f l
+EndChar
+
+StartChar: dong
+Encoding: 438 8363 374
+Width: 632
+InSpiro: 1
+Flags: W
+HStem: -120 78<58 588> -12 118<231.329 333.157> 0 21G<412.03 563> 392 118<230.222 329.591> 555 78<243 394 546 612>
+VStem: 24 158<159.579 341.684> 394 152<428 555 633 698> 401 145<152.922 344.443>
+LayerCount: 2
+Fore
+SplineSet
+58 -120 m 1,0,-1
+ 58 -42 l 1,1,-1
+ 588 -42 l 1,2,-1
+ 588 -120 l 1,3,-1
+ 58 -120 l 1,0,-1
+  Spiro
+    58 -120 v
+    58 -42 v
+    588 -42 v
+    588 -120 v
+    0 0 z
+  EndSpiro
+243 -12 m 0,4,5
+ 179 -12 179 -12 129.5 20 c 128,-1,6
+ 80 52 80 52 52 111.5 c 128,-1,7
+ 24 171 24 171 24 252 c 256,8,9
+ 24 333 24 333 52 390.5 c 128,-1,10
+ 80 448 80 448 129.5 479 c 128,-1,11
+ 179 510 179 510 243 510 c 0,12,13
+ 284 510 284 510 327 489.5 c 128,-1,14
+ 370 469 370 469 394 428 c 1,15,-1
+ 394 555 l 1,16,-1
+ 243 555 l 1,17,-1
+ 243 633 l 1,18,-1
+ 394 633 l 1,19,-1
+ 394 698 l 1,20,-1
+ 546 698 l 1,21,-1
+ 546 633 l 1,22,-1
+ 612 633 l 1,23,-1
+ 612 555 l 1,24,-1
+ 546 555 l 1,25,-1
+ 546 194 l 2,26,27
+ 546 157 546 157 549.5 106 c 128,-1,28
+ 553 55 553 55 563 0 c 1,29,-1
+ 418 0 l 1,30,-1
+ 398 67 l 1,31,32
+ 367 24 367 24 325.5 6 c 128,-1,33
+ 284 -12 284 -12 243 -12 c 0,4,5
+  Spiro
+    243 -12 o
+    182.625 -4 o
+    129.5 20 o
+    85.375 58.875 o
+    52 111.5 o
+    31 176.375 o
+    24 252 o
+    31 327.125 o
+    52 390.5 o
+    85.375 441.375 o
+    129.5 479 o
+    182.625 502.25 o
+    243 510 o
+    284.5 504.875 o
+    327 489.5 o
+    365.25 463.875 o
+    394 428 v
+    394 555 v
+    243 555 v
+    243 633 v
+    394 633 v
+    394 698 v
+    546 698 v
+    546 633 v
+    612 633 v
+    612 555 v
+    546 555 v
+    546 194 ]
+    546.875 153.5 o
+    549.5 106 o
+    554.625 54 o
+    563 0 v
+    418 0 v
+    398 67 v
+    364.375 30.25 o
+    325.5 6 o
+    284.125 -7.5 o
+    0 0 z
+  EndSpiro
+292 106 m 0,34,35
+ 336 106 336 106 368.5 139 c 128,-1,36
+ 401 172 401 172 401 249 c 0,37,38
+ 401 325 401 325 368.5 358.5 c 128,-1,39
+ 336 392 336 392 292 392 c 0,40,41
+ 247 392 247 392 214.5 356 c 128,-1,42
+ 182 320 182 320 182 252 c 0,43,44
+ 182 183 182 183 214.5 144.5 c 128,-1,45
+ 247 106 247 106 292 106 c 0,34,35
+  Spiro
+    292 106 o
+    333.125 114.25 o
+    368.5 139 o
+    392.875 183 o
+    401 249 o
+    392.875 314.375 o
+    368.5 358.5 o
+    333.125 383.625 o
+    292 392 o
+    250.125 383 o
+    214.5 356 o
+    190.125 312 o
+    182 252 o
+    190.125 190.625 o
+    214.5 144.5 o
+    250.125 115.625 o
+    0 0 z
+  EndSpiro
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

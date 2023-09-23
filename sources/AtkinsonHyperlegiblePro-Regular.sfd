@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1695276695
+ModificationTime: 1695457407
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4027,18 +4027,18 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "" "" "Version 1.006; ttfautohint (v1.8.3)" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-Encoding: ISO8859-1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 57 19 14
+WinInfo: 190 19 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 293601 146800 97867 519045 1048576 97867 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 3 subtable"
-BeginChars: 438 374
+BeginChars: 439 375
 
 StartChar: .notdef
 Encoding: 256 -1 0
@@ -14847,11 +14847,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-8 -79 m 1,0,-1
- 8 0 l 1,1,-1
- 384 0 l 1,2,-1
- 384 -79 l 1,3,-1
- 8 -79 l 1,0,-1
+8 -79 m 5,0,-1
+ 8 0 l 5,1,-1
+ 384 0 l 5,2,-1
+ 384 -79 l 5,3,-1
+ 8 -79 l 5,0,-1
 EndSplineSet
 Validated: 1
 EndChar
@@ -19986,6 +19986,7 @@ StartChar: endash
 Encoding: 300 8211 172
 Width: 476
 GlyphClass: 1
+InSpiro: 1
 Flags: W
 HStem: 208 79<39 437>
 TtInstrs:
@@ -20028,6 +20029,13 @@ SplineSet
  437 287 l 1,2,-1
  437 208 l 1,3,-1
  39 208 l 1,0,-1
+  Spiro
+    39 208 v
+    39 287 v
+    437 287 v
+    437 208 v
+    0 0 z
+  EndSpiro
 EndSplineSet
 Validated: 1
 Kerns2: 6 -47 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 7 -31 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 9 31 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 12 -55 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
@@ -28174,6 +28182,58 @@ EndSplineSet
 Validated: 1
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f
 LCarets2: 1 0
+EndChar
+
+StartChar: dong
+Encoding: 438 8363 374
+Width: 599
+Flags: W
+HStem: -129 67<50 553> -12 72<198.01 344.113> 0 21G<426.133 511> 432 72<196.452 344.113> 548 67<247 410 494 576> 648 20G<410 494>
+VStem: 36 94<136.359 356.96> 410 84<132.304 360.343 418 548 615 668>
+LayerCount: 2
+Fore
+SplineSet
+50 -129 m 1,0,-1
+ 50 -62 l 1,1,-1
+ 553 -62 l 1,2,-1
+ 553 -129 l 1,3,-1
+ 50 -129 l 1,0,-1
+249 -12 m 0,4,5
+ 193 -12 193 -12 144 18.5 c 128,-1,6
+ 95 49 95 49 65.5 106.5 c 128,-1,7
+ 36 164 36 164 36 246 c 256,8,9
+ 36 328 36 328 65.5 385.5 c 128,-1,10
+ 95 443 95 443 144 473.5 c 128,-1,11
+ 193 504 193 504 249 504 c 0,12,13
+ 308 504 308 504 348 480.5 c 128,-1,14
+ 388 457 388 457 410 418 c 1,15,-1
+ 410 548 l 1,16,-1
+ 247 548 l 1,17,-1
+ 247 615 l 1,18,-1
+ 410 615 l 1,19,-1
+ 410 668 l 1,20,-1
+ 494 668 l 1,21,-1
+ 494 615 l 1,22,-1
+ 576 615 l 1,23,-1
+ 576 548 l 1,24,-1
+ 494 548 l 1,25,-1
+ 494 187 l 2,26,27
+ 494 162 494 162 496 113.5 c 128,-1,28
+ 498 65 498 65 511 0 c 1,29,-1
+ 432 0 l 1,30,-1
+ 410 75 l 1,31,32
+ 388 35 388 35 348 11.5 c 128,-1,33
+ 308 -12 308 -12 249 -12 c 0,4,5
+271 60 m 256,34,35
+ 335 60 335 60 373.5 109 c 128,-1,36
+ 412 158 412 158 412 246 c 0,37,38
+ 412 335 412 335 373.5 383.5 c 128,-1,39
+ 335 432 335 432 271 432 c 256,40,41
+ 207 432 207 432 168.5 383.5 c 128,-1,42
+ 130 335 130 335 130 246 c 0,43,44
+ 130 158 130 158 168.5 109 c 128,-1,45
+ 207 60 207 60 271 60 c 256,34,35
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
