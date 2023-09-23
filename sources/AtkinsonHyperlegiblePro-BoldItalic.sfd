@@ -4027,7 +4027,7 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "Bold Italic" "" "" "Version 1.006; ttfautohint (v1.8.3)" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-Encoding: ISO8859-1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -28376,8 +28376,8 @@ LCarets2: 2 333 690
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f l
 EndChar
 
-StartChar: NameMe.438
-Encoding: 438 -1 374
+StartChar: dong
+Encoding: 438 8363 374
 Width: 638
 Flags: W
 HStem: -121 78<-9 505> -13 118<146 273.046> -1 21G<338.438 489.5> 392 118<220.94 347.758> 555 78<304 435 606 656>
