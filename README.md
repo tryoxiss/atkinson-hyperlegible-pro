@@ -43,9 +43,12 @@ And thats it the zero has been flipped!!
 
 ## Added Characters
 
-* Dong glyph `₫` `U+20AB`
+* F with dot above `Ḟ` `U+1E1E` and `ḟ` `U+1E1F`
+* D with dot above `Ḋ` `U+1E0A` and `ḋ` `U+1E0B`
+* B with dot above `Ḃ` `U+1E02` and `ḃ` `U+1E03`
+* Dong `₫` `U+20AB`
 * Ligatures for `fi ff ffi fl ffl`
-* Copyleft glyph `U+1F12F`
+* Copyleft `U+1F12F`
 * Alternative reversed number zero `0`
 
 ## Change Log
