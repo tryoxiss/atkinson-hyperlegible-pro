@@ -71,7 +71,7 @@ And thats it the zero has been flipped!!
 
 ## Contribute
 
-I am working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00).”
+Help us extend Atkinson Hyperlegible Pro to other languages, I am currently working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00).”
 
 ## Unique design features
 
