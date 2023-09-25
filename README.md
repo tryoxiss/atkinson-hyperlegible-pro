@@ -55,17 +55,17 @@ And thats it the zero has been flipped!!
 
 * Kern `K` and `o e d q` pairs
 * Kern `S` and `Y` pairs
-* Added `S` `l` `w` `x` to kern class
 * Kern quotes class pairs
 * Moved `Æ` to kern class
-* Kern `Y` and `m n p r` pairs
-* Kern `V` and `g` pairs
+* Kern `Y` and `o m n p r g` pairs
+* Kern `W` and `o m n p r g` pairs
+* Kern `V` and `o m n p r g` pairs
+* Added `S` `l` `w` `x` to kern class
 * Added `B` `V` `W` `X` to kern class
 * Added `m p r` to kern with `n` group
 * Moved `T` and `f` parings to kern class
 * Kern `T` and `v w x y z` pairs
 * Added `K Ķ k ķ` to kern class
-* Slightly reduced the left and right bearings by -2 (only regular and italic)
 * Added auto hint
 * Added ligatures to kern class
 
