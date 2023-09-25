@@ -67,7 +67,7 @@ And thats it the zero has been flipped!!
 
 ## Contribute
 
-Help us extend Atkinson Hyperlegible Pro to other languages, I am currently working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00).”
+Help us extend Atkinson Hyperlegible Pro to other languages, I am currently working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00)” this will also include new diacritic and marks.
 
 ## Unique design features
 
