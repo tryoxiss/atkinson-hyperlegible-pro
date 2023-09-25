@@ -41,7 +41,7 @@ By default the zero remains as it is however you can flip the zero by adding
 
 And thats it the zero has been flipped!!
 
-## Added Characters
+## Added Characters and Glyphs
 
 * F with dot above `Ḟ` `U+1E1E` and `ḟ` `U+1E1F`
 * D with dot above `Ḋ` `U+1E0A` and `ḋ` `U+1E0B`
