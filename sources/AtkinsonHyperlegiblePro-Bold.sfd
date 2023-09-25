@@ -4033,7 +4033,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 190 19 14
+WinInfo: 0 19 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 3 subtable"
@@ -28829,11 +28829,11 @@ VStem: 24 158<159.579 341.684> 394 152<428 555 633 698> 401 145<152.922 344.443>
 LayerCount: 2
 Fore
 SplineSet
-58 -120 m 1,0,-1
- 58 -42 l 1,1,-1
- 588 -42 l 1,2,-1
- 588 -120 l 1,3,-1
- 58 -120 l 1,0,-1
+58 -120 m 1
+ 58 -42 l 1
+ 588 -42 l 1
+ 588 -120 l 1
+ 58 -120 l 1
   Spiro
     58 -120 v
     58 -42 v
@@ -28848,6 +28848,8 @@ EndChar
 StartChar: uni1E02
 Encoding: 439 7682 375
 Width: 639
+HStem: 0 131<202 423.697> 282 122<202 402.793> 539 129<202 402.793> 740 141<281.658 379.857>
+VStem: 44 158<131 282 404 539> 260 141<761.143 859.342> 426 164<423.071 521.023> 450 167<155.38 258.239>
 LayerCount: 2
 Fore
 Refer: 345 775 N 1 0 0 1 260 162 2
@@ -28857,6 +28859,8 @@ EndChar
 StartChar: uni1E03
 Encoding: 440 7683 376
 Width: 596
+HStem: -12 118<263.632 364.702> 0 21G<50 188.672> 392 118<266.793 365.802> 592 141<303.658 401.857> 648 20G<50 202>
+VStem: 50 145<152.922 344.443> 50 152<428 668> 282 141<613.143 711.342> 414 158<159.579 341.684>
 LayerCount: 2
 Fore
 Refer: 345 775 N 1 0 0 1 282 14 2
@@ -28866,6 +28870,8 @@ EndChar
 StartChar: uni1E0A
 Encoding: 441 7690 377
 Width: 686
+HStem: 0 133<202 396.444> 537 131<202 394.188> 750 141<283.658 381.857>
+VStem: 44 158<133 537> 262 141<771.143 869.342> 488 163<221.226 447.903>
 LayerCount: 2
 Fore
 Refer: 345 775 N 1 0 0 1 262 172 2
@@ -28875,6 +28881,8 @@ EndChar
 StartChar: uni1E0B
 Encoding: 442 7691 378
 Width: 596
+HStem: -12 118<231.329 333.157> 0 21G<412.03 563> 392 118<230.222 329.591> 592 141<193.658 291.857> 648 20G<394 546>
+VStem: 24 158<159.579 341.684> 172 141<613.143 711.342> 394 152<428 668> 401 145<152.922 344.443>
 LayerCount: 2
 Fore
 Refer: 345 775 N 1 0 0 1 172 14 2
@@ -28884,6 +28892,8 @@ EndChar
 StartChar: uni1E1E
 Encoding: 443 7710 379
 Width: 544
+HStem: 0 21G<44 202> 274 139<202 522> 529 139<202 522> 740 141<234.158 332.357>
+VStem: 44 158<0 274 413 529> 212.5 141<761.143 859.342>
 LayerCount: 2
 Fore
 Refer: 345 775 N 1 0 0 1 212.5 162 2
@@ -28893,6 +28903,8 @@ EndChar
 StartChar: uni1E1F
 Encoding: 444 7711 380
 Width: 367
+HStem: 0 21G<87 239> 380 116<5 87 239 347> 608 120<252.413 347> 740 141<30.6582 128.857>
+VStem: 9 141<761.143 859.342> 87 152<0 380 496 599.745>
 LayerCount: 2
 Fore
 Refer: 345 775 N 1 0 0 1 9 162 2
