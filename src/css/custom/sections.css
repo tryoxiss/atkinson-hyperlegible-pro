@@ -26,9 +26,13 @@
     font-variant-numeric: slashed-zero;
 }
 
-[data-text="h0"] {
+[data-text~="h0"] {
     font-size: clamp(3.15rem, 7vw + 1rem, 7.7rem);
     line-height: 1;
+}
+
+[data-text~="uppercase"] {
+    text-transform: uppercase;
 }
 
 /* :where([data-section~="header"]) a {
