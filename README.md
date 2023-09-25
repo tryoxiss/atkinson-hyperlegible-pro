@@ -41,10 +41,6 @@ By default the zero remains as it is however you can flip the zero by adding
 
 And thats it the zero has been flipped!!
 
-## Work in Progress
-
-We are working on adding more glyphs to covers the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00)”
-
 ## Added Characters
 
 * Dong glyph `₫` `U+20AB`
@@ -69,6 +65,10 @@ We are working on adding more glyphs to covers the unicode block of “[latin ex
 * Slightly reduced the left and right bearings by -2 (only regular and italic)
 * Added auto hint
 * Added ligatures to kern class
+
+## Contribute
+
+I am working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00).”
 
 ## Unique design features
 
