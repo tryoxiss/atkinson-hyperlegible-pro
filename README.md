@@ -43,6 +43,16 @@ And thats it the zero has been flipped!!
 
 ## Added Characters and Glyphs
 
+* T with dot above `Ṫ` `U+1E6A` and `ṫ` `U+1E6B`
+* S with dot above `Ṡ` `U+1E60` and `ṡ` `U+1E61`
+* P with dot above `Ṗ` `U+1E56` and `ṗ` `U+1E57`
+* M with dot above `Ṁ` `U+1E40` and `ṁ` `U+1E41`
+* Y with circumflex `Ŷ` `U+0176` and `ŷ` `U+0177`
+* Y with grave `Ỳ` `U+1EF2` and `ỳ` `U+1EF3`
+* W with circumflex `Ŵ` `U+0174` and `ŵ` `U+0175`
+* W with diaeresis `Ẅ` `U+1E84` and `ẅ` `U+1E85`
+* W with grave `Ẁ` `U+1E80` and `ẁ` `U+1E81`
+* W with acute `Ẃ` `U+1E82` and `ẃ` `U+1E83`
 * F with dot above `Ḟ` `U+1E1E` and `ḟ` `U+1E1F`
 * D with dot above `Ḋ` `U+1E0A` and `ḋ` `U+1E0B`
 * B with dot above `Ḃ` `U+1E02` and `ḃ` `U+1E03`
