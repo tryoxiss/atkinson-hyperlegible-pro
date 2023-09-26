@@ -66,12 +66,12 @@ And thats it the zero has been flipped!!
 * Added new characters to kern class
 * Kern `K` and `c e o d q` pairs
 * Kern `S` and `Y` pairs
-* Kern quotes class pairs
 * Kern `Y` and `c e o m n p r g` pairs
 * Kern `W` and `c e o m n p r g` pairs
 * Kern `V` and `c e o m n p r g` pairs
 * Kern `T` and `c e o m n p r v w x y z` pairs
 * Added `m p r` to kern with `n` group
+* Kern quotes class pairs
 * Moved kern pairs to kern class
 * Added auto hint
 
