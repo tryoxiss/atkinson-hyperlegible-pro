@@ -11,8 +11,8 @@ With Alternative Flipped Zero, Improved Kerning and Ligatures
 Atkinson Hyperlegible Pro is an update to the original typeface designed for The Braille Institute and named after its founder J. Robert Atkinson. What makes it different from traditional typography design is that it focuses on letterform distinction to increase character recognition, ultimately improving legibility and readability for low-vision readers. The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
 
 * Four fonts, including two weights (regular, bold, italics, italics bold)
-* 1,340 total glyphs across all fonts, 335 per font
-* Accent characters supporting 27 languages
+* 1,604 total glyphs across all fonts, 401 per font
+* Accent characters supporting 82 languages
 * Improve legibility and readability for low vision readers
 * Improve kerning across all characters
 * Includes ligatures for `fi ff ffi fl ffl`
@@ -78,6 +78,10 @@ And thats it the zero has been flipped!!
 ## Contribute
 
 Help us extend Atkinson Hyperlegible Pro to other languages, I am currently working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00)” this will also include new diacritic and marks.
+
+## 82 languages
+
+Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish Croatian Czech Danish Dutch English Estonian Faroese Filipino Finnish French Friulian Galician German Gusii Hungarian Icelandic Indonesian Irish Italian Kabuverdianu Kalenjin Kinyarwanda Latvian Lithuanian Lower Sorbian Luo Luxembourgish Luyia Machame Makhuwa-Meetto Makonde Malagasy Maltese Manx Morisyen North Ndebele Norwegian Bokmål Norwegian Nynorsk Nyankole Oromo Polish Portuguese Quechua Romanian Romansh Rombo Rundi Rwa Samburu Sango Sangu Scottish Gaelic Sena Serbian Shambala Shona Soga Somali Spanish Swahili Swedish Swiss German Taita Teso Upper Sorbian Uzbek (Latin) Volapük Vunjo Welsh Western Frisian Zulu 
 
 ## Unique design features
 
