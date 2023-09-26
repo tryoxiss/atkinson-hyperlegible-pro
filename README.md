@@ -63,6 +63,7 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
+* Added new characters to kern class
 * Kern `K` and `o e d q` pairs
 * Kern `S` and `Y` pairs
 * Kern quotes class pairs
