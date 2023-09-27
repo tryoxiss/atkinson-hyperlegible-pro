@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1695787249
+ModificationTime: 1695796798
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -105,7 +105,7 @@ KernClass2: 36+ 27 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  32 T uni1E6A Tcaron uni0162 uni021A
  25 Y Ygrave Ydieresis Yacute
  15 R Racute Rcaron
- 20 f uni1E1F dcroat f_f
+ 27 f uni1E1F florin dcroat f_f
  16 L Lslash uni013B
  19 l uni013C f_l f_f_l
  20 lcaron tcaron dcaron
@@ -121,7 +121,7 @@ KernClass2: 36+ 27 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  22 quoteleft quotedblleft
  24 quoteright quotedblright
  49 quotesinglbase quotedblbase ellipsis comma period
- 206 c d e o q cdotaccent uni1E0B ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis oslash eth oe emacron edotaccent eogonek ecaron ohungarumlaut cacute dcroat dcaron ccaron
+ 218 c d e o q cdotaccent uni1E0B ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis oslash partialdiff eth oe emacron edotaccent eogonek ecaron ohungarumlaut cacute dcroat dcaron ccaron
  134 C G O Q Cdotaccent Gdotaccent Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash OE Ohungarumlaut Cacute Gbreve Ccaron uni0122
  76 a agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek
  73 A Acircumflex Atilde Adieresis Aring Agrave Aacute Amacron Abreve Aogonek
