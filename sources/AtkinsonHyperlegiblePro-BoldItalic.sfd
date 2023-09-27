@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1695704856
+ModificationTime: 1695787249
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -85,63 +85,63 @@ MarkAttachSets: 2
 "MarkSet-1" 242 acutecomb acutecomb.case uni0306 uni0306.case uni030C uni030C.case uni0302 uni0302.case uni0308 uni0308.case uni0307 uni0307.case gravecomb gravecomb.case uni030B uni030B.case uni0304 uni0304.case uni030A uni030A.case tildecomb tildecomb.case
 DEI: 91125
 KernClass2: 36+ 27 "'kern' Horizontal Kerning lookup 0 kerning class 1"
- 106 h m n agrave aacute acircumflex atilde adieresis aring ntilde amacron abreve aogonek nacute ncaron uni0146
- 69 b o p ograve oacute ocircumflex otilde odieresis oslash ohungarumlaut
- 77 e ae oe egrave eacute ecircumflex edieresis emacron edotaccent eogonek ecaron
- 77 E AE OE Egrave Eacute Ecircumflex Edieresis Emacron Edotaccent Eogonek Ecaron
- 68 D O eth Ograve Oacute Ocircumflex Otilde Odieresis Eth Dcroat Dcaron
- 73 A Acircumflex Atilde Adieresis Aring Agrave Aacute Amacron Abreve Aogonek
- 65 u ugrave uacute ucircumflex udieresis uring uhungarumlaut uogonek
+ 114 h m n uni1E41 agrave aacute acircumflex atilde adieresis aring ntilde amacron abreve aogonek nacute ncaron uni0146
+ 85 b o p uni1E03 uni1E57 ograve oacute ocircumflex otilde odieresis oslash ohungarumlaut
+ 77 e ae egrave eacute ecircumflex edieresis oe emacron edotaccent eogonek ecaron
+ 77 E AE Egrave Eacute Ecircumflex Edieresis OE Emacron Edotaccent Eogonek Ecaron
+ 83 D O uni1E0A Ograve Oacute Ocircumflex Otilde Odieresis Oslash eth Eth Dcroat Dcaron
+ 73 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek
+ 73 u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek
  53 I Igrave Iacute Icircumflex Idieresis Imacron Iogonek
- 17 S Sacute Scedilla
- 32 s scaron sacute scedilla uni0219
- 35 c ccedilla cacute cdotaccent ccaron
- 37 U Ugrave Uacute Ucircumflex Udieresis
- 35 C Ccedilla Cacute Cdotaccent Ccaron
+ 40 S uni1E60 Scaron Sacute Scedilla uni0218
+ 40 s uni1E61 scaron sacute scedilla uni0219
+ 35 c cdotaccent ccedilla cacute ccaron
+ 73 U Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek
+ 35 C Cdotaccent Ccedilla Cacute Ccaron
  26 z zcaron zacute zdotaccent
- 20 v y yacute ydieresis
- 24 t tcaron uni0163 uni021B
+ 39 v y ygrave yacute ycircumflex ydieresis
+ 25 t uni1E6B uni0163 uni021B
  26 Z Zcaron Zacute Zdotaccent
- 24 T Tcaron uni0162 uni021A
- 18 Y Yacute Ydieresis
+ 32 T uni1E6A Tcaron uni0162 uni021A
+ 25 Y Ygrave Ydieresis Yacute
  15 R Racute Rcaron
- 12 f dcroat f_f
- 8 L Lslash
+ 20 f uni1E1F dcroat f_f
+ 16 L Lslash uni013B
  19 l uni013C f_l f_f_l
- 13 lcaron dcaron
+ 20 lcaron tcaron dcaron
  9 K uni0136
  9 k uni0137
  1 q
- 1 B
+ 9 B uni1E02
  1 V
- 1 W
- 1 w
+ 37 W Wgrave Wacute Wdieresis Wcircumflex
+ 37 w wgrave wacute wdieresis wcircumflex
  1 X
  1 x
  22 quoteleft quotedblleft
  24 quoteright quotedblright
  49 quotesinglbase quotedblbase ellipsis comma period
- 184 c d e o q oslash eth oe ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis emacron edotaccent eogonek ecaron cacute cdotaccent dcroat dcaron ccaron
- 113 C G O Q OE Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Cacute Cdotaccent Gbreve Gdotaccent Ccaron uni0122
- 76 a ae amacron agrave acircumflex atilde adieresis aring aacute abreve aogonek
+ 206 c d e o q cdotaccent uni1E0B ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis oslash eth oe emacron edotaccent eogonek ecaron ohungarumlaut cacute dcroat dcaron ccaron
+ 134 C G O Q Cdotaccent Gdotaccent Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash OE Ohungarumlaut Cacute Gbreve Ccaron uni0122
+ 76 a agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek
  73 A Acircumflex Atilde Adieresis Aring Agrave Aacute Amacron Abreve Aogonek
  73 u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek
  50 i igrave iacute idieresis imacron iogonek dotlessi
- 16 S Scaron uni0218
- 32 s scaron sacute scedilla uni0219
- 36 m n p r ntilde nacute ncaron uni0146
+ 40 S uni1E60 Scaron Sacute Scedilla uni0218
+ 40 s uni1E61 scaron sacute scedilla uni0219
+ 58 m n p r uni1E41 ntilde nacute ncaron uni0146 racute rcaron
  26 z zcaron zacute zdotaccent
- 20 v y yacute ydieresis
- 24 t tcaron uni0163 uni021B
+ 27 v y ygrave yacute ydieresis
+ 32 t uni1E6B tcaron uni0163 uni021B
  27 g gbreve gdotaccent uni0123
- 24 T Tcaron uni0162 uni021A
- 18 Y Yacute Ydieresis
- 8 Z Zcaron
+ 32 T uni1E6A Tcaron uni0162 uni021A
+ 30 Y Ydieresis Yacute Ycircumflex
+ 26 Z Zcaron Zacute Zdotaccent
  25 f f_i f_f f_f_i f_l f_f_l
  11 h k uni0137
  1 V
- 1 W
- 1 w
+ 37 W Wgrave Wacute Wdieresis Wcircumflex
+ 37 w wgrave wacute wdieresis wcircumflex
  1 X
  1 x
  2 AE
@@ -4033,7 +4033,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 19 14
+WinInfo: 57 19 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 3 subtable"
@@ -28380,11 +28380,11 @@ VStem: 3 155<138.066 318.222>
 LayerCount: 2
 Fore
 SplineSet
--25 -121 m 1
- -9 -43 l 1
- 521 -43 l 1
- 505 -121 l 1
- -25 -121 l 1
+-25 -121 m 1,0,-1
+ -9 -43 l 1,1,-1
+ 521 -43 l 1,2,-1
+ 505 -121 l 1,3,-1
+ -25 -121 l 1,0,-1
 EndSplineSet
 Refer: 318 273 N 1 0 0 1 0 0 2
 EndChar
