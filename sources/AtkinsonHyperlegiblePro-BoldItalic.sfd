@@ -8804,7 +8804,7 @@ SplineSet
  147 0 l 2,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 41 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 182 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 196 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 197 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 198 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 199 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 200 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 201 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 202 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 261 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 263 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 56 12 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 41 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 182 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 196 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 197 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 198 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 199 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 200 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 201 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 202 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 261 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 263 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: m
