@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1695873308
+ModificationTime: 1695881317
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4034,7 +4034,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 209 19 14
+WinInfo: 0 19 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -562637 293601 146800 97867 520094 1048576 97867 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -7969,7 +7969,7 @@ NPUSHB
  28
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-1" 139 653 basechar 0
+AnchorPoint: "Anchor-1" 159 653 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -28036,11 +28036,11 @@ EndChar
 StartChar: uni1E1F
 Encoding: 177 7711 380
 Width: 320
-HStem: 0 21G<37 127.252> 428 68<59 128 228 315> 635 71<264.138 359> 740 108<126.501 202.014>
-VStem: 110 108<756.501 832.014>
+HStem: 0 21G<37 127.252> 428 68<59 128 228 315> 635 71<264.138 359> 740 108<146.501 222.014>
+VStem: 130 108<756.501 832.014>
 LayerCount: 2
 Fore
-Refer: 343 775 N 1 0 0 1 -6 157 2
+Refer: 343 775 N 1 0 0 1 14 157 2
 Refer: 46 102 N 1 0 0 1 0 0 3
 EndChar
 
