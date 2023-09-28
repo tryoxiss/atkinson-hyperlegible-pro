@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1695881317
+ModificationTime: 1695882389
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4026,7 +4026,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 1.0.0-pre-release" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "Version 1.0.0" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: iso8859-14
 UnicodeInterp: none
@@ -4034,7 +4034,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 19 14
+WinInfo: 57 19 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -562637 293601 146800 97867 520094 1048576 97867 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
