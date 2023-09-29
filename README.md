@@ -63,7 +63,7 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
-* revert quotes pairs to original state
+* revert quotes kern pairs to original state
 * kern `l` and `ṗ` pairs
 * Kern `SY` `SV` `ST` pairs
 * Kern `K` and `c d e o g q` pairs
