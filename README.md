@@ -63,7 +63,7 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
-* Added new characters to kern class
+* kern `l` and `ṗ` pairs
 * Kern `SY` `SV` `ST` pairs
 * Kern `K` and `c d e o g q` pairs
 * Kern `Y` and `c d e o g q m n p r` pairs
