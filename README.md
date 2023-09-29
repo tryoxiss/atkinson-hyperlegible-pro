@@ -73,7 +73,6 @@ And thats it the zero has been flipped!!
 * Kern `ľ ť ď` class group
 * Added `m p r` to kern with `n` group
 * Kern quotes class pairs
-* Moved kern pairs to kern class
 * Added auto hint
 
 ## Contribute
