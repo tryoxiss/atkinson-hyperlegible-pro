@@ -63,6 +63,7 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
+* revert quotes pairs to original state
 * kern `l` and `ṗ` pairs
 * Kern `SY` `SV` `ST` pairs
 * Kern `K` and `c d e o g q` pairs
@@ -72,7 +73,6 @@ And thats it the zero has been flipped!!
 * Kern `T` and `c d e o g q m n p r v w x y z` pairs
 * Kern `ľ ť ď` class group
 * Added `m p r` to kern with `n` group
-* Kern quotes class pairs
 * Added auto hint
 
 ## Contribute
