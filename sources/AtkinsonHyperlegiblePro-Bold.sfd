@@ -5,7 +5,7 @@ FamilyName: Atkinson Hyperlegible Pro
 Weight: Bold
 Copyright: Copyright 2020 Braille Institute of America, Inc.
 UComments: "Update by Jacob Perez+AAoA-https://jacobxperez.github.io/atkinson-hyperlegible-pro/"
-Version: 1.0.3
+Version: 1.0.3-prerelease
 ItalicAngle: 0
 UnderlinePosition: -106
 UnderlineWidth: 57
@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1696321395
+ModificationTime: 1696323427
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -4025,7 +4025,7 @@ ShortTable: maxp 16
   2
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 1.0.3" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "Version 1.0.3-prerelease" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: iso8859-14
 UnicodeInterp: none
@@ -29007,11 +29007,11 @@ VStem: 24 158<159.579 341.684> 394 152<428 555 633 698> 401 145<152.922 344.443>
 LayerCount: 2
 Fore
 SplineSet
-58 -120 m 1
- 58 -42 l 1
- 588 -42 l 1
- 588 -120 l 1
- 58 -120 l 1
+58 -120 m 1,0,-1
+ 58 -42 l 1,1,-1
+ 588 -42 l 1,2,-1
+ 588 -120 l 1,3,-1
+ 58 -120 l 1,0,-1
   Spiro
     58 -120 v
     58 -42 v
