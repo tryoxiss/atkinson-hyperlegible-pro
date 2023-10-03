@@ -5,7 +5,7 @@ FamilyName: Atkinson Hyperlegible Pro
 Weight: Bold
 Copyright: Copyright 2020 Braille Institute of America, Inc.
 UComments: "Update by Jacob Perez+AAoA-https://jacobxperez.github.io/atkinson-hyperlegible-pro/"
-Version: 1.0.3-prerelease
+Version: 1.0.3
 ItalicAngle: -12
 UnderlinePosition: -106
 UnderlineWidth: 57
@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1696323386
+ModificationTime: 1696369859
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -4025,7 +4025,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Bold Italic" "" "" "Version 1.0.3-prerelease" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "Bold Italic" "" "" "Version 1.0.3" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: iso8859-14
 UnicodeInterp: none
@@ -9948,7 +9948,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 465 0 basechar 0
+AnchorPoint: "Anchor-2" 456 0 basechar 0
 AnchorPoint: "Anchor-1" 322 496 basechar 0
 AnchorPoint: "Anchor-0" 236 0 basechar 0
 LayerCount: 2
@@ -24806,7 +24806,7 @@ GlyphClass: 2
 Flags: W
 HStem: -173 76<94 174.591> 380 116<51 129> 578 179<207.972 325.02>
 VStem: -31 128<-105 -43.9846> 177 179<609.561 726.028>
-AnchorPoint: "Anchor-2" 211 0 basechar 0
+AnchorPoint: "Anchor-2" 204 0 basechar 0
 AnchorPoint: "Anchor-1" 247 719 basechar 0
 AnchorPoint: "Anchor-0" 110 0 basechar 0
 LayerCount: 2
@@ -25205,50 +25205,49 @@ Encoding: 385 371 292
 Width: 578
 GlyphClass: 2
 Flags: W
-HStem: -173 76<355 435.591> -12 118<131.5 256.097> 476 20G<81.7246 241 401.725 561>
-VStem: 17 162<128.173 275.781> 230 128<-105 -43.9846>
-AnchorPoint: "Anchor-2" 469 10 basechar 0
+HStem: -173 76<346 426.591> -12 118<131.5 256.097> 476 20G<81.7246 241 401.725 561>
+VStem: 17 162<128.173 275.781> 221 128<-105 -43.9846>
+AnchorPoint: "Anchor-2" 456 0 basechar 0
 AnchorPoint: "Anchor-1" 322 496 basechar 0
 AnchorPoint: "Anchor-0" 236 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-355 -173 m 0,0,1
- 306 -173 306 -173 279 -161 c 128,-1,2
- 252 -149 252 -149 241 -131.5 c 128,-1,3
- 230 -114 230 -114 230 -96 c 0,4,5
- 230 -66 230 -66 256.5 -38 c 128,-1,6
- 283 -10 283 -10 321 0 c 1,7,-1
- 316 64 l 1,8,9
- 295 30 295 30 255 9 c 128,-1,10
- 215 -12 215 -12 159 -12 c 0,11,12
- 104 -12 104 -12 73 8 c 128,-1,13
- 42 28 42 28 29.5 61.5 c 128,-1,14
- 17 95 17 95 17 134 c 0,15,16
- 17 156 17 156 20 177.5 c 128,-1,17
- 23 199 23 199 27 220 c 2,18,-1
- 86 496 l 1,19,-1
- 241 496 l 1,20,-1
- 186 235 l 2,21,22
- 184 225 184 225 181.5 208.5 c 128,-1,23
- 179 192 179 192 179 175 c 0,24,25
- 179 149 179 149 189.5 127.5 c 128,-1,26
- 200 106 200 106 231 106 c 0,27,28
- 270 106 270 106 303 136 c 128,-1,29
- 336 166 336 166 350 234 c 2,30,-1
- 406 496 l 1,31,-1
- 561 496 l 1,32,-1
- 456 0 l 1,33,-1
- 465 0 l 1,34,35
- 424 -19 424 -19 391 -37 c 128,-1,36
- 358 -55 358 -55 358 -75 c 0,37,38
- 358 -89 358 -89 372 -93 c 128,-1,39
- 386 -97 386 -97 401 -97 c 0,40,41
- 415 -97 415 -97 430 -93.5 c 128,-1,42
- 445 -90 445 -90 452 -88 c 1,43,-1
- 436 -164 l 1,44,45
- 423 -167 423 -167 398.5 -170 c 128,-1,46
- 374 -173 374 -173 355 -173 c 0,0,1
+346 -173 m 0,0,1
+ 297 -173 297 -173 270 -161 c 128,-1,2
+ 243 -149 243 -149 232 -131.5 c 128,-1,3
+ 221 -114 221 -114 221 -96 c 0,4,5
+ 221 -66 221 -66 247.5 -38 c 0,6,7
+ 275.95135164 -8.05120879953 275.95135164 -8.05120879953 320.846421678 1.96580252606 c 1,8,-1
+ 316 64 l 1,9,10
+ 295 30 295 30 255 9 c 128,-1,11
+ 215 -12 215 -12 159 -12 c 0,12,13
+ 104 -12 104 -12 73 8 c 128,-1,14
+ 42 28 42 28 29.5 61.5 c 128,-1,15
+ 17 95 17 95 17 134 c 0,16,17
+ 17 156 17 156 20 177.5 c 128,-1,18
+ 23 199 23 199 27 220 c 2,19,-1
+ 86 496 l 1,20,-1
+ 241 496 l 1,21,-1
+ 186 235 l 2,22,23
+ 184 225 184 225 181.5 208.5 c 128,-1,24
+ 179 192 179 192 179 175 c 0,25,26
+ 179 149 179 149 189.5 127.5 c 128,-1,27
+ 200 106 200 106 231 106 c 0,28,29
+ 270 106 270 106 303 136 c 128,-1,30
+ 336 166 336 166 350 234 c 2,31,-1
+ 406 496 l 1,32,-1
+ 561 496 l 1,33,-1
+ 456 0 l 1,34,35
+ 415 -19 415 -19 382 -37 c 128,-1,36
+ 349 -55 349 -55 349 -75 c 0,37,38
+ 349 -89 349 -89 363 -93 c 128,-1,39
+ 377 -97 377 -97 392 -97 c 0,40,41
+ 406 -97 406 -97 421 -93.5 c 128,-1,42
+ 436 -90 436 -90 443 -88 c 1,43,-1
+ 427 -164 l 1,44,45
+ 414 -167 414 -167 389.5 -170 c 128,-1,46
+ 365 -173 365 -173 346 -173 c 0,0,1
 EndSplineSet
 EndChar
 
@@ -28461,11 +28460,11 @@ VStem: 3 155<138.066 318.222>
 LayerCount: 2
 Fore
 SplineSet
--25 -121 m 1
- -9 -43 l 1
- 521 -43 l 1
- 505 -121 l 1
- -25 -121 l 1
+-25 -121 m 1,0,-1
+ -9 -43 l 1,1,-1
+ 521 -43 l 1,2,-1
+ 505 -121 l 1,3,-1
+ -25 -121 l 1,0,-1
 EndSplineSet
 Refer: 318 273 N 1 0 0 1 0 0 2
 EndChar

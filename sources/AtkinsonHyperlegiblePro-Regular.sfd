@@ -5,7 +5,7 @@ FamilyName: Atkinson Hyperlegible Pro
 Weight: Regular
 Copyright: Copyright 2020 Braille Institute of America, Inc.
 UComments: "Update by Jacob Perez+AAoA-https://jacobxperez.github.io/atkinson-hyperlegible-pro/"
-Version: 1.0.3-prerelease
+Version: 1.0.3
 ItalicAngle: 0
 UnderlinePosition: -106
 UnderlineWidth: 57
@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1696323304
+ModificationTime: 1696369900
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4025,7 +4025,7 @@ ShortTable: maxp 16
   2
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 1.0.3-prerelease" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "Version 1.0.3" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: iso8859-14
 UnicodeInterp: none
@@ -4033,7 +4033,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 209 19 14
+WinInfo: 0 19 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 293601 146800 97867 519045 1048576 97867 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -9747,7 +9747,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 469 0 basechar 0
+AnchorPoint: "Anchor-2" 466 0 basechar 0
 AnchorPoint: "Anchor-1" 268 0 basechar 0
 AnchorPoint: "Anchor-0" 267 496 basechar 0
 LayerCount: 2
@@ -9773,7 +9773,6 @@ SplineSet
  361 36 361 36 325 12 c 128,-1,21
  289 -12 289 -12 227 -12 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: v
@@ -24214,17 +24213,16 @@ Encoding: 383 371 290
 Width: 536
 GlyphClass: 1
 Flags: W
-HStem: -173 58<391.236 468.313> -12 74<186.659 321.348> 477 20G<68 152 382 466>
-VStem: 68 84<98.818 497> 312 70<-107.034 -34.266> 382 84<121.907 497>
+HStem: -173 58<388.236 465.313> -12 74<186.659 321.348> 477 20G<68 152 382 466>
+VStem: 68 84<98.818 497> 309 70<-107.034 -34.6625> 382 84<121.907 497>
 LayerCount: 2
 Fore
 SplineSet
-406 -173 m 0,0,1
- 361 -173 361 -173 336.5 -148 c 128,-1,2
- 312 -123 312 -123 312 -91 c 0,3,4
- 312 -60 312 -60 333.5 -34.5 c 128,-1,5
- 355 -9 355 -9 392 0 c 1,6,-1
- 403 0 l 1,7,-1
+403 -173 m 0,0,1
+ 358 -173 358 -173 333.5 -148 c 128,-1,2
+ 309 -123 309 -123 309 -91 c 0,3,4
+ 309 -60 309 -60 330.5 -34.5 c 0,5,6
+ 351.884792409 -10.1312830692 351.884792409 -10.1312830692 402.454280799 1.8710372591 c 1,7,-1
  382 72 l 1,8,9
  361 36 361 36 325 12 c 128,-1,10
  289 -12 289 -12 227 -12 c 0,11,12
@@ -24241,16 +24239,15 @@ SplineSet
  382 145 382 145 382 224 c 2,25,-1
  382 497 l 1,26,-1
  466 497 l 1,27,-1
- 466 0 l 1,28,-1
- 469 0 l 1,29,30
- 418 -19 418 -19 400 -37.5 c 128,-1,31
- 382 -56 382 -56 382 -75 c 0,32,33
- 382 -95 382 -95 396 -105 c 128,-1,34
- 410 -115 410 -115 431 -115 c 0,35,36
- 440 -115 440 -115 449.5 -113 c 128,-1,37
- 459 -111 459 -111 469 -107 c 1,38,-1
- 469 -161 l 1,39,40
- 435 -173 435 -173 406 -173 c 0,0,1
+ 466 0 l 1,28,29
+ 415 -19 415 -19 397 -37.5 c 128,-1,30
+ 379 -56 379 -56 379 -75 c 0,31,32
+ 379 -95 379 -95 393 -105 c 128,-1,33
+ 407 -115 407 -115 428 -115 c 0,34,35
+ 437 -115 437 -115 446.5 -113 c 128,-1,36
+ 456 -111 456 -111 466 -107 c 1,37,-1
+ 466 -161 l 1,38,39
+ 432 -173 432 -173 403 -173 c 0,0,1
 EndSplineSet
 EndChar
 
@@ -28272,11 +28269,11 @@ VStem: 38 94<136.359 356.96> 412 84<132.304 360.343 418 548 615 668>
 LayerCount: 2
 Fore
 SplineSet
-50 -129 m 1
- 50 -62 l 1
- 553 -62 l 1
- 553 -129 l 1
- 50 -129 l 1
+50 -129 m 1,0,-1
+ 50 -62 l 1,1,-1
+ 553 -62 l 1,2,-1
+ 553 -129 l 1,3,-1
+ 50 -129 l 1,0,-1
 EndSplineSet
 Refer: 319 273 N 1 0 0 1 0 0 2
 Validated: 1

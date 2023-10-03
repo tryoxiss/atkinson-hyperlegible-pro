@@ -5,7 +5,7 @@ FamilyName: Atkinson Hyperlegible Pro
 Weight: Regular
 Copyright: Copyright 2020 Braille Institute of America, Inc.
 UComments: "Update by Jacob Perez+AAoA-https://jacobxperez.github.io/atkinson-hyperlegible-pro/"
-Version: 1.0.3-prerelease
+Version: 1.0.3
 ItalicAngle: -12
 UnderlinePosition: -106
 UnderlineWidth: 57
@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1696323350
+ModificationTime: 1696370022
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4025,7 +4025,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 1.0.3-prerelease" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "Version 1.0.3" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: iso8859-14
 UnicodeInterp: none
@@ -9832,7 +9832,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 435 10 basechar 0
+AnchorPoint: "Anchor-2" 408 0 basechar 0
 AnchorPoint: "Anchor-1" 308 496 basechar 0
 AnchorPoint: "Anchor-0" 217 0 basechar 0
 LayerCount: 2
@@ -24935,19 +24935,19 @@ Encoding: 385 371 292
 Width: 540
 GlyphClass: 2
 Flags: W
-HStem: -163 57<330.856 401.099> -11 73<143.071 271.142> 476 20G<106.768 197 423.692 513>
-VStem: 40 86<81.0458 263.312> 250 77<-100.566 -41.1006>
-AnchorPoint: "Anchor-2" 435 10 basechar 0
+HStem: -173 57<303.856 374.099> -11 73<143.071 271.142> 476 20G<106.768 197 423.692 513>
+VStem: 40 86<81.0458 263.312> 223 77<-110.566 -51.1006>
+AnchorPoint: "Anchor-2" 408 0 basechar 0
 AnchorPoint: "Anchor-1" 308 496 basechar 0
 AnchorPoint: "Anchor-0" 217 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-334 -163 m 0,0,1
- 293 -163 293 -163 271.5 -143.5 c 128,-1,2
- 250 -124 250 -124 250 -96 c 0,3,4
- 250 -62 250 -62 279 -33 c 0,5,6
- 303.806943953 -8.1930560474 303.806943953 -8.1930560474 342.516747474 5.63794614062 c 1,7,-1
+307 -173 m 0,0,1
+ 266 -173 266 -173 244.5 -153.5 c 128,-1,2
+ 223 -134 223 -134 223 -106 c 0,3,4
+ 223 -72 223 -72 252 -43 c 0,5,6
+ 278.964677726 -16.0353222742 278.964677726 -16.0353222742 342.83260958 1.95288823117 c 1,7,-1
  337 70 l 1,8,9
  305 28 305 28 267.5 8.5 c 128,-1,10
  230 -11 230 -11 173 -11 c 0,11,12
@@ -24965,15 +24965,14 @@ SplineSet
  352 143 352 143 372 236 c 2,28,-1
  428 496 l 1,29,-1
  513 496 l 1,30,-1
- 410.116935484 10 l 1,31,-1
- 435 10 l 1,32,33
- 388 -7 388 -7 357.5 -30 c 128,-1,34
- 327 -53 327 -53 327 -79 c 0,35,36
- 327 -91 327 -91 338.5 -98.5 c 128,-1,37
- 350 -106 350 -106 368 -106 c 0,38,39
- 388 -106 388 -106 412 -97 c 1,40,-1
- 401 -151 l 1,41,42
- 362 -163 362 -163 334 -163 c 0,0,1
+ 408 0 l 1,31,32
+ 361 -17 361 -17 330.5 -40 c 128,-1,33
+ 300 -63 300 -63 300 -89 c 0,34,35
+ 300 -101 300 -101 311.5 -108.5 c 128,-1,36
+ 323 -116 323 -116 341 -116 c 0,37,38
+ 361 -116 361 -116 385 -107 c 1,39,-1
+ 374 -161 l 1,40,41
+ 335 -173 335 -173 307 -173 c 0,0,1
 EndSplineSet
 EndChar
 
