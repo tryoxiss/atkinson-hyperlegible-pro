@@ -58,23 +58,19 @@ And thats it the zero has been flipped!!
 * B with dot above `Ḃ` `U+1E02` and `ḃ` `U+1E03`
 * Dong `₫` `U+20AB`
 * Ligatures for `fi ff ffi fl ffl`
-* Copyleft `U+1F12F`
+* Copyleft `🄯` `U+1F12F`
 * Alternative reversed number zero `0`
 
 ## Change Log
 
-* Added new characters to kern class
-* Kern `S` and `Y` pairs
+* Fix t with cedilla `ţ` `U+0163` now showing correct glyph
+* Kern `v` `w` `y` pairs
+* Kern `SY` `SV` `ST` pairs
 * Kern `K` and `c d e o g q` pairs
 * Kern `Y` and `c d e o g q m n p r` pairs
 * Kern `W` and `c d e o g q m n p r` pairs
 * Kern `V` and `c d e o g q m n p r` pairs
 * Kern `T` and `c d e o g q m n p r v w x y z` pairs
-* Kern `ľ ť ď` class group
-* Added `m p r` to kern with `n` group
-* Kern quotes class pairs
-* Moved kern pairs to kern class
-* Added auto hint
 
 ## Contribute
 
