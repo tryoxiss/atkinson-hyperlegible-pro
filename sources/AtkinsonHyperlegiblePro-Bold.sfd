@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1696318647
+ModificationTime: 1696319967
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -5194,7 +5194,7 @@ NPUSHB
  25
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 654 0 basechar 0
+AnchorPoint: "Anchor-2" 685 0 basechar 0
 AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 345 668 basechar 0
 LayerCount: 2
@@ -5214,7 +5214,6 @@ SplineSet
  344 501 l 1,10,-1
  260 247 l 1,8,-1
 EndSplineSet
-Validated: 1
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 Substitution2: "Single Substitution lookup 12 subtable" ordfeminine
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" ordfeminine
@@ -7371,7 +7370,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 518 0 basechar 0
+AnchorPoint: "Anchor-2" 520 0 basechar 0
 AnchorPoint: "Anchor-1" 277 0 basechar 0
 AnchorPoint: "Anchor-0" 285 496 basechar 0
 LayerCount: 2
@@ -7410,7 +7409,6 @@ SplineSet
  181 121 181 121 201 106.5 c 128,-1,40
  221 92 221 92 251 92 c 0,31,32
 EndSplineSet
-Validated: 1
 Substitution2: "Single Substitution lookup 12 subtable" ordfeminine
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" ordfeminine
 EndChar
@@ -23908,14 +23906,14 @@ Encoding: 356 260 261
 Width: 690
 GlyphClass: 2
 Flags: W
-HStem: -174 76<567.368 653.732> 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575>
-VStem: 433 126<-92.8991 -38.9277>
+HStem: -174 76<598.368 684.732> 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575>
+VStem: 464 126<-92.8991 -38.9277>
 AnchorPoint: "Anchor-2" 654 0 basechar 0
 AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 345 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 357 808 N 1 0 0 1 433 0 2
+Refer: 357 808 N 1 0 0 1 464 0 2
 Refer: 15 65 N 1 0 0 1 0 0 3
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
@@ -23925,14 +23923,14 @@ Encoding: 357 261 262
 Width: 553
 GlyphClass: 2
 Flags: W
-HStem: -174 76<431.368 517.732> -12 104<194.267 302.333> 0 21G<373 520> 220 90<228.876 353> 407 103<206.417 335.926>
-VStem: 24 157<106.385 186.02> 297 126<-92.8991 -38.9277> 356 147<124.574 220 308.591 386.597>
+HStem: -174 76<433.368 519.732> -12 104<194.267 302.333> 0 21G<373 520> 220 90<228.876 353> 407 103<206.417 335.926>
+VStem: 24 157<106.385 186.02> 299 126<-92.8991 -38.9277> 356 147<124.574 220 308.591 386.597>
 AnchorPoint: "Anchor-2" 518 0 basechar 0
 AnchorPoint: "Anchor-1" 277 0 basechar 0
 AnchorPoint: "Anchor-0" 285 496 basechar 0
 LayerCount: 2
 Fore
-Refer: 357 808 N 1 0 0 1 297 0 2
+Refer: 357 808 N 1 0 0 1 299 0 2
 Refer: 41 97 N 1 0 0 1 0 0 3
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 50 56 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar

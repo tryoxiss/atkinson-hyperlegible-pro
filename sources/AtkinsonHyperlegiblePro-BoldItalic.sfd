@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1696319174
+ModificationTime: 1696319834
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -5196,7 +5196,7 @@ NPUSHB
  25
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 577 10 basechar 0
+AnchorPoint: "Anchor-2" 623 0 basechar 0
 AnchorPoint: "Anchor-1" 427 668 basechar 0
 AnchorPoint: "Anchor-0" 296 0 basechar 0
 LayerCount: 2
@@ -5216,7 +5216,6 @@ SplineSet
  395 501 l 1,10,-1
  255 247 l 1,8,-1
 EndSplineSet
-Validated: 1
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 Substitution2: "Single Substitution lookup 12 subtable" ordfeminine
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" ordfeminine
@@ -5548,7 +5547,7 @@ NPUSHB
  27
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 463 -12 basechar 0
+AnchorPoint: "Anchor-2" 463 0 basechar 0
 AnchorPoint: "Anchor-1" 381 668 basechar 0
 AnchorPoint: "Anchor-0" 238 0 basechar 0
 LayerCount: 2
@@ -5568,7 +5567,6 @@ SplineSet
  495 0 l 1,11,-1
  -23 0 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: F
@@ -7968,7 +7966,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 333 2 basechar 0
+AnchorPoint: "Anchor-2" 328 2 basechar 0
 AnchorPoint: "Anchor-1" 321 496 basechar 0
 AnchorPoint: "Anchor-0" 230 0 basechar 0
 LayerCount: 2
@@ -8004,7 +8002,6 @@ SplineSet
  262 399 262 399 222 374 c 128,-1,37
  182 349 182 349 168 299 c 1,28,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: f
@@ -9951,7 +9948,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 469 10 basechar 0
+AnchorPoint: "Anchor-2" 465 0 basechar 0
 AnchorPoint: "Anchor-1" 322 496 basechar 0
 AnchorPoint: "Anchor-0" 236 0 basechar 0
 LayerCount: 2
@@ -9980,7 +9977,6 @@ SplineSet
  295 30 295 30 255 9 c 128,-1,26
  215 -12 215 -12 159 -12 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: v
@@ -22759,8 +22755,8 @@ Encoding: 197 197 192
 Width: 698
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<-65 132.092 455.311 623> 119 128<255 427> 614 86<392.974 468.243> 648 20G<317.204 515.323> 794 85<395.91 468.243>
-VStem: 300 85<707.895 783.164> 479 86<710.826 783.164>
+HStem: 0 21G<-65 132.092 455.311 623> 119 128<255 427> 648 20G<317.204 515.323> 707 86<404.974 480.243> 887 85<407.91 480.243>
+VStem: 312 85<800.895 876.164> 491 86<803.826 876.164>
 TtInstrs:
 PUSHB_2
  2
@@ -22776,7 +22772,7 @@ AnchorPoint: "Anchor-1" 461 879 basechar 0
 AnchorPoint: "Anchor-0" 296 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 359 778 S 1 0 0 1 172 79 2
+Refer: 359 778 N 1 0 0 1 184 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
@@ -24235,8 +24231,8 @@ Encoding: 357 260 262
 Width: 698
 GlyphClass: 2
 Flags: W
-HStem: -163 76<461 541.591> -10 20G<408 571> 0 21G<-65 132.092 455.311 623> 119 128<255 427> 648 20G<317.204 515.323>
-VStem: 336 128<-95 -33.9846>
+HStem: -173 76<513 593.591> -20 20G<460 623> 0 21G<-65 132.092 455.311 623> 119 128<255 427> 648 20G<317.204 515.323>
+VStem: 388 128<-105 -43.9846>
 TtInstrs:
 NPUSHB
  61
@@ -24308,7 +24304,7 @@ AnchorPoint: "Anchor-1" 427 668 basechar 0
 AnchorPoint: "Anchor-0" 296 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 357 808 N 1 0 0 1 372 10 2
+Refer: 357 808 N 1 0 0 1 424 0 2
 Refer: 15 65 N 1 0 0 1 0 0 3
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
@@ -24318,14 +24314,14 @@ Encoding: 358 261 263
 Width: 545
 GlyphClass: 2
 Flags: W
-HStem: -173 76<330 410.591> -20 20G<277 440> -12 103<111 234.634> 0 21G<295.305 441> 407 103<200.164 329.572>
-VStem: -18 161<103.038 182.612> 205 128<-105 -43.9846> 344 150<315.467 394.621>
+HStem: -173 76<336 416.591> -20 20G<283 446> -12 103<111 234.634> 0 21G<295.305 441> 407 103<200.164 329.572>
+VStem: -18 161<103.038 182.612> 211 128<-105 -43.9846> 344 150<315.467 394.621>
 AnchorPoint: "Anchor-2" 446 0 basechar 0
 AnchorPoint: "Anchor-1" 298 496 basechar 0
 AnchorPoint: "Anchor-0" 219 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 357 808 N 1 0 0 1 241 0 2
+Refer: 357 808 N 1 0 0 1 247 0 2
 Refer: 41 97 N 1 0 0 1 0 0 3
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 50 56 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
@@ -24419,8 +24415,8 @@ Encoding: 363 280 268
 Width: 582
 GlyphClass: 2
 Flags: W
-HStem: -185 76<347 427.591> -32 20G<294 457> 0 139<168 495> 274 139<226 414> 529 139<251 607>
-VStem: 222 128<-117 -55.9846>
+HStem: -173 76<353 433.591> -20 20G<300 463> 0 139<168 495> 274 139<226 414> 529 139<251 607>
+VStem: 228 128<-105 -43.9846>
 TtInstrs:
 PUSHB_2
  1
@@ -24436,7 +24432,7 @@ AnchorPoint: "Anchor-1" 384 668 basechar 0
 AnchorPoint: "Anchor-0" 238 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 357 808 N 1 0 0 1 258 -12 2
+Refer: 357 808 N 1 0 0 1 264 0 2
 Refer: 19 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -24445,8 +24441,8 @@ Encoding: 364 281 269
 Width: 567
 GlyphClass: 2
 Flags: W
-HStem: -171 76<217 297.591> -18 20G<164 327> -12 118<179.264 339.37> 209 90<168 395.829> 399 111<227.801 368.979>
-VStem: 3 149<132.733 208.554> 92 128<-103 -41.9846> 396 134<299.125 372.391>
+HStem: -171 76<218 298.591> -18 20G<165 328> -12 118<179.264 339.37> 209 90<168 395.829> 399 111<227.801 368.979>
+VStem: 3 149<132.733 208.554> 93 128<-103 -41.9846> 396 134<299.125 372.391>
 TtInstrs:
 NPUSHB
  71
@@ -24528,7 +24524,7 @@ AnchorPoint: "Anchor-1" 321 496 basechar 0
 AnchorPoint: "Anchor-0" 230 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 357 808 N 1 0 0 1 128 2 2
+Refer: 357 808 N 1 0 0 1 129 2 2
 Refer: 45 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -24663,14 +24659,14 @@ Encoding: 371 302 276
 Width: 459
 GlyphClass: 2
 Flags: W
-HStem: -173 76<126 206.591> -20 20G<73 236> 0 124<13 105 267 331> 544 124<129 195 355 447>
-VStem: 1 128<-105 -43.9846>
+HStem: -173 76<132 212.591> -20 20G<79 242> 0 124<13 105 267 331> 544 124<129 195 355 447>
+VStem: 7 128<-105 -43.9846>
 AnchorPoint: "Anchor-2" 242 0 basechar 0
 AnchorPoint: "Anchor-1" 301 668 basechar 0
 AnchorPoint: "Anchor-0" 151 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 357 808 N 1 0 0 1 37 0 2
+Refer: 357 808 N 1 0 0 1 43 0 2
 Refer: 23 73 N 1 0 0 1 0 0 3
 Kerns2: 46 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
@@ -24680,14 +24676,14 @@ Encoding: 372 303 277
 Width: 338
 GlyphClass: 2
 Flags: W
-HStem: -173 76<88 168.591> -20 20G<35 198> 0 21G<48 208.234> 380 116<51 129> 578 179<207.972 325.02>
-VStem: -37 128<-105 -43.9846> 177 179<609.561 726.028>
+HStem: -173 76<94 174.591> -20 20G<41 204> 0 21G<48 208.234> 380 116<51 129> 578 179<207.972 325.02>
+VStem: -31 128<-105 -43.9846> 177 179<609.561 726.028>
 AnchorPoint: "Anchor-2" 211 0 basechar 0
 AnchorPoint: "Anchor-1" 247 719 basechar 0
 AnchorPoint: "Anchor-0" 110 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 357 808 N 1 0 0 1 -1 0 2
+Refer: 357 808 N 1 0 0 1 5 0 2
 Refer: 49 105 N 1 0 0 1 0 0 3
 EndChar
 
@@ -24998,14 +24994,14 @@ Encoding: 384 370 291
 Width: 679
 GlyphClass: 2
 Flags: W
-HStem: -173 76<260 340.591> -20 20G<207 370> -12 129<213.053 383.145> 648 20G<115.691 281 535.733 701>
-VStem: 26 162<141.238 333.125> 135 128<-105 -43.9846>
+HStem: -173 76<266 346.591> -20 20G<213 376> -12 129<213.053 383.145> 648 20G<115.691 281 535.733 701>
+VStem: 26 162<141.238 333.125> 141 128<-105 -43.9846>
 AnchorPoint: "Anchor-2" 376 0 basechar 0
 AnchorPoint: "Anchor-1" 414 668 basechar 0
 AnchorPoint: "Anchor-0" 287 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 357 808 N 1 0 0 1 171 0 2
+Refer: 357 808 N 1 0 0 1 177 0 2
 Refer: 35 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -25014,8 +25010,8 @@ Encoding: 385 371 292
 Width: 578
 GlyphClass: 2
 Flags: W
-HStem: -163 76<353 433.591> -12 118<131.5 256.097> -10 20G<300 463> 0 21G<319.438 460.234> 476 20G<81.7246 241 401.725 561>
-VStem: 17 162<128.173 275.781> 228 128<-95 -33.9846>
+HStem: -173 76<355 435.591> -20 20G<302 465> -12 118<131.5 256.097> 0 21G<319.438 460.234> 476 20G<81.7246 241 401.725 561>
+VStem: 17 162<128.173 275.781> 230 128<-105 -43.9846>
 TtInstrs:
 NPUSHB
  60
@@ -25086,7 +25082,7 @@ AnchorPoint: "Anchor-1" 322 496 basechar 0
 AnchorPoint: "Anchor-0" 236 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 357 808 N 1 0 0 1 264 10 2
+Refer: 357 808 N 1 0 0 1 266 0 2
 Refer: 61 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -27340,11 +27336,10 @@ GlyphClass: 4
 Flags: W
 HStem: -173 76<89 169.591> -20 20G<36 199>
 VStem: -36 128<-105 -43.9846>
-AnchorPoint: "Anchor-2" 205 0 mark 0
+AnchorPoint: "Anchor-2" 199 0 mark 0
 LayerCount: 2
 Fore
 Refer: 72 731 N 1 0 0 1 16 0 2
-Validated: 1
 Substitution2: "'case' Case-Sensitive Forms lookup 15 subtable" uni0328.case
 Substitution2: "Single Substitution lookup 7 subtable" uni0328.case
 Substitution2: "Single Substitution lookup 6 subtable" uni0328.case
