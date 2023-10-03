@@ -5,7 +5,7 @@ FamilyName: Atkinson Hyperlegible Pro
 Weight: Bold
 Copyright: Copyright 2020 Braille Institute of America, Inc.
 UComments: "Update by Jacob Perez+AAoA-https://jacobxperez.github.io/atkinson-hyperlegible-pro/"
-Version: 1.0.2
+Version: 1.0.3
 ItalicAngle: 0
 UnderlinePosition: -106
 UnderlineWidth: 57
@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1696288472
+ModificationTime: 1696318647
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -4025,7 +4025,7 @@ ShortTable: maxp 16
   2
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 1.0.2" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "Version 1.0.3" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: iso8859-14
 UnicodeInterp: none
@@ -4033,7 +4033,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 209 19 14
+WinInfo: 0 19 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 335544 167772 111848 520094 1048576 111848 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -5286,6 +5286,7 @@ NPUSHB
  23
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-0" 286 668 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5320,7 +5321,6 @@ SplineSet
  202 282 l 1,34,-1
  202 131 l 1,26,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: C
@@ -5461,7 +5461,7 @@ NPUSHB
 CALL
 EndTTInstrs
 AnchorPoint: "Anchor-1" 343 0 basechar 0
-AnchorPoint: "Anchor-0" 333 668 basechar 0
+AnchorPoint: "Anchor-0" 326 668 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5623,6 +5623,7 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-0" 273 668 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5638,7 +5639,6 @@ SplineSet
  202 0 l 1,9,-1
  44 0 l 1,0,-1
 EndSplineSet
-Validated: 1
 Kerns2: 15 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 24 -32 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 34 23 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 41 -22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 150 -114 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 181 -22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 188 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 189 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 190 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 191 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 192 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 193 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 194 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 195 -22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 196 -22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 197 -22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 198 -22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 199 -22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 200 -22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 201 -22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 259 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 260 -22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 261 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 262 -22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 308 23 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 330 23 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 331 23 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -6213,6 +6213,7 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-0" 420 668 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6231,7 +6232,6 @@ SplineSet
  197 0 l 1,12,-1
  44 0 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: N
@@ -6444,6 +6444,7 @@ NPUSHB
  24
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-0" 292 668 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6470,7 +6471,6 @@ SplineSet
  202 535 l 1,23,-1
  202 363 l 1,13,-1
 EndSplineSet
-Validated: 1
 Kerns2: 15 -82 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 24 -67 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 38 -29 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 39 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 40 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 41 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 59 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 181 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 188 -82 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 189 -82 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 190 -82 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 191 -82 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 192 -82 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 193 -82 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 194 -82 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 195 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 196 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 197 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 198 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 199 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 200 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 201 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 230 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 244 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 245 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 246 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 259 -82 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 260 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 261 -82 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 262 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 282 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 328 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 361 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -7011,6 +7011,7 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-0" 441 668 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7029,7 +7030,6 @@ SplineSet
  340 0 l 1,12,-1
  171 0 l 1,0,-1
 EndSplineSet
-Validated: 1
 Kerns2: 24 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -7555,7 +7555,7 @@ NPUSHB
 CALL
 EndTTInstrs
 AnchorPoint: "Anchor-1" 353 -12 basechar 0
-AnchorPoint: "Anchor-0" 353 510 basechar 0
+AnchorPoint: "Anchor-0" 355 496 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7819,7 +7819,7 @@ NPUSHB
 CALL
 EndTTInstrs
 AnchorPoint: "Anchor-1" 243 -12 basechar 0
-AnchorPoint: "Anchor-0" 243 510 basechar 0
+AnchorPoint: "Anchor-0" 240 496 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7924,7 +7924,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 509 10 basechar 0
+AnchorPoint: "Anchor-2" 404 10 basechar 0
 AnchorPoint: "Anchor-1" 283 0 basechar 0
 AnchorPoint: "Anchor-0" 284 496 basechar 0
 LayerCount: 2
@@ -7955,7 +7955,6 @@ SplineSet
  251 397 251 397 217.5 374 c 128,-1,29
  184 351 184 351 177 300 c 1,23,-1
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: f
@@ -8012,7 +8011,7 @@ NPUSHB
  28
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-0" 80 658 basechar 0
+AnchorPoint: "Anchor-0" 80 668 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8461,6 +8460,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-2" 271 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8481,7 +8481,6 @@ SplineSet
  271 0 l 1,17,-1
  118 0 l 1,12,-1
 EndSplineSet
-Validated: 1
 Substitution2: "Single Substitution lookup 4 subtable" dotlessi
 Substitution2: "Single Substitution lookup 3 subtable" dotlessi
 EndChar
@@ -8846,7 +8845,7 @@ NPUSHB
 CALL
 EndTTInstrs
 AnchorPoint: "Anchor-1" 443 0 basechar 0
-AnchorPoint: "Anchor-0" 443 496 basechar 0
+AnchorPoint: "Anchor-0" 451 496 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8856,7 +8855,7 @@ SplineSet
  202 430 l 1,3,4
  219 458 219 458 258 484 c 128,-1,5
  297 510 297 510 352 510 c 0,6,7
- 411 510 411 510 446.5 489 c 128,-1,8
+ 411 510 411 510 446.5 489 c 132,-1,8
  482 468 482 468 499 427 c 1,9,10
  528 468 528 468 572.5 489 c 128,-1,11
  617 510 617 510 669 510 c 0,12,13
@@ -9201,6 +9200,7 @@ NPUSHB
  25
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-0" 348 496 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9230,7 +9230,6 @@ SplineSet
  195 175 195 175 227.5 140.5 c 128,-1,30
  260 106 260 106 305 106 c 0,19,20
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: q
@@ -9844,7 +9843,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 513 10 basechar 0
+AnchorPoint: "Anchor-2" 519 0 basechar 0
 AnchorPoint: "Anchor-1" 285 0 basechar 0
 AnchorPoint: "Anchor-0" 285 496 basechar 0
 LayerCount: 2
@@ -9869,7 +9868,6 @@ SplineSet
  344 33 344 33 311.5 10.5 c 128,-1,20
  279 -12 279 -12 222 -12 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: v
@@ -22412,15 +22410,14 @@ Encoding: 194 194 188
 Width: 690
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 731 152
+HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 746 152
 AnchorPoint: "Anchor-2" 654 0 basechar 0
 AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 345 883 basechar 0
 LayerCount: 2
 Fore
+Refer: 340 770 N 1 0 0 1 148 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Refer: 341 -1 N 1 0 0 1 148 0 2
-Validated: 1
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22429,7 +22426,7 @@ Encoding: 195 195 189
 Width: 690
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 729 79<353.82 452.706> 767 82<253.346 346.822>
+HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 741 79<353.82 452.706> 779 82<253.346 346.822>
 TtInstrs:
 PUSHB_2
  2
@@ -22445,9 +22442,8 @@ AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 345 849 basechar 0
 LayerCount: 2
 Fore
+Refer: 365 771 N 1 0 0 1 160 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Refer: 171 732 N 1 0 0 1 123 160 2
-Validated: 1
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22456,8 +22452,8 @@ Encoding: 196 196 190
 Width: 690
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 726 141<199.658 297.857 393.658 491.373>
-VStem: 178 141<747.143 845.342> 372 140<747.143 845.342>
+HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 750 141<199.658 297.857 393.658 491.373>
+VStem: 178 141<771.143 869.342> 372 140<771.143 869.342>
 TtInstrs:
 PUSHB_2
  2
@@ -22473,9 +22469,8 @@ AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 345 867 basechar 0
 LayerCount: 2
 Fore
+Refer: 343 776 N 1 0 0 1 178 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Refer: 146 168 N 1 0 0 1 119 148 2
-Validated: 1
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22501,9 +22496,8 @@ AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 345 796 basechar 0
 LayerCount: 2
 Fore
+Refer: 359 778 S 1 0 0 1 212 61 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Refer: 71 730 N 1 0 0 1 197 61 2
-Validated: 5
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22512,16 +22506,15 @@ Encoding: 192 192 192
 Width: 690
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 731 154<262.923 297.859>
-VStem: 198 219
+HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 746 154<270.618 305.719>
+VStem: 206 208
 AnchorPoint: "Anchor-2" 654 0 basechar 0
 AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 308 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 349 768 N 1 0 0 1 206 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Refer: 350 -1 N 1 0 0 1 198 0 2
-Validated: 1
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22530,16 +22523,15 @@ Encoding: 193 193 193
 Width: 690
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 731 154<393.063 429.077>
-VStem: 275 218
+HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 746 153<385.376 420.382>
+VStem: 277 208
 AnchorPoint: "Anchor-2" 654 0 basechar 0
 AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 384 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 332 769 N 1 0 0 1 277 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Refer: 333 -1 N 1 0 0 1 275 0 2
-Validated: 1
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22548,8 +22540,8 @@ Encoding: 337 256 194
 Width: 690
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 747 98<195 494>
-VStem: 195 299<747 845>
+HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 742 98<195 494>
+VStem: 195 299<742 840>
 TtInstrs:
 PUSHB_2
  2
@@ -22565,9 +22557,8 @@ AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 345 845 basechar 0
 LayerCount: 2
 Fore
+Refer: 354 772 N 1 0 0 1 195 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Refer: 91 175 N 1 0 0 1 142 177 2
-Validated: 1
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22583,9 +22574,8 @@ AnchorPoint: "Anchor-1" 277 0 basechar 0
 AnchorPoint: "Anchor-0" 285 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 41 97 N 1 0 0 1 0 0 3
 Refer: 354 772 N 1 0 0 1 135 0 2
-Validated: 1
+Refer: 41 97 N 1 0 0 1 0 0 3
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22601,9 +22591,8 @@ AnchorPoint: "Anchor-1" 277 0 basechar 0
 AnchorPoint: "Anchor-0" 250 728 basechar 0
 LayerCount: 2
 Fore
-Refer: 41 97 N 1 0 0 1 0 0 3
 Refer: 349 768 N 1 0 0 1 146 0 2
-Validated: 1
+Refer: 41 97 N 1 0 0 1 0 0 3
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22619,9 +22608,8 @@ AnchorPoint: "Anchor-1" 277 0 basechar 0
 AnchorPoint: "Anchor-0" 285 726 basechar 0
 LayerCount: 2
 Fore
-Refer: 41 97 N 1 0 0 1 0 0 3
 Refer: 340 770 N 1 0 0 1 88 0 2
-Validated: 1
+Refer: 41 97 N 1 0 0 1 0 0 3
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22637,9 +22625,8 @@ AnchorPoint: "Anchor-1" 277 0 basechar 0
 AnchorPoint: "Anchor-0" 285 689 basechar 0
 LayerCount: 2
 Fore
-Refer: 41 97 N 1 0 0 1 0 0 3
 Refer: 365 771 N 1 0 0 1 100 0 2
-Validated: 1
+Refer: 41 97 N 1 0 0 1 0 0 3
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22655,9 +22642,8 @@ AnchorPoint: "Anchor-1" 277 0 basechar 0
 AnchorPoint: "Anchor-0" 285 719 basechar 0
 LayerCount: 2
 Fore
-Refer: 41 97 N 1 0 0 1 0 0 3
 Refer: 343 776 N 1 0 0 1 118 0 2
-Validated: 1
+Refer: 41 97 N 1 0 0 1 0 0 3
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22673,9 +22659,8 @@ AnchorPoint: "Anchor-1" 277 0 basechar 0
 AnchorPoint: "Anchor-0" 285 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 41 97 N 1 0 0 1 0 0 3
 Refer: 359 778 N 1 0 0 1 152 0 2
-Validated: 1
+Refer: 41 97 N 1 0 0 1 0 0 3
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22691,9 +22676,8 @@ AnchorPoint: "Anchor-1" 277 0 basechar 0
 AnchorPoint: "Anchor-0" 321 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 41 97 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 217 0 2
-Validated: 1
+Refer: 41 97 N 1 0 0 1 0 0 3
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22708,9 +22692,8 @@ AnchorPoint: "Anchor-1" 357 -187 basechar 0
 AnchorPoint: "Anchor-0" 357 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 17 67 N 1 0 0 1 0 0 3
 Refer: 339 807 N 1 0 0 1 249 0 2
-Validated: 5
+Refer: 17 67 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ccedilla
@@ -22724,9 +22707,8 @@ AnchorPoint: "Anchor-1" 275 -187 basechar 0
 AnchorPoint: "Anchor-0" 280 496 basechar 0
 LayerCount: 2
 Fore
-Refer: 43 99 N 1 0 0 1 0 0 3
 Refer: 339 807 N 1 0 0 1 167 0 2
-Validated: 5
+Refer: 43 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Egrave
@@ -22734,16 +22716,15 @@ Encoding: 200 200 204
 Width: 580
 GlyphClass: 2
 Flags: W
-HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 731 154<220.923 255.859>
-VStem: 44 158<139 274 413 529> 156 219
+HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 746 154<228.618 263.719>
+VStem: 44 158<139 274 413 529> 164 208
 AnchorPoint: "Anchor-2" 522 0 basechar 0
 AnchorPoint: "Anchor-1" 290 0 basechar 0
 AnchorPoint: "Anchor-0" 266 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 349 768 N 1 0 0 1 164 172 2
 Refer: 19 69 N 1 0 0 1 0 0 3
-Refer: 350 -1 N 1 0 0 1 156 0 2
-Validated: 1
 EndChar
 
 StartChar: Eacute
@@ -22751,16 +22732,15 @@ Encoding: 201 201 205
 Width: 580
 GlyphClass: 2
 Flags: W
-HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 731 154<351.063 387.077>
-VStem: 44 158<139 274 413 529> 233 218
+HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 746 153<343.376 378.382>
+VStem: 44 158<139 274 413 529> 235 208
 AnchorPoint: "Anchor-2" 522 0 basechar 0
 AnchorPoint: "Anchor-1" 290 0 basechar 0
 AnchorPoint: "Anchor-0" 342 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 332 769 N 1 0 0 1 235 172 2
 Refer: 19 69 N 1 0 0 1 0 0 3
-Refer: 333 -1 N 1 0 0 1 233 0 2
-Validated: 1
 EndChar
 
 StartChar: Ecircumflex
@@ -22768,16 +22748,15 @@ Encoding: 202 202 206
 Width: 580
 GlyphClass: 2
 Flags: W
-HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 731 152
+HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 746 152
 VStem: 44 158<139 274 413 529>
 AnchorPoint: "Anchor-2" 522 0 basechar 0
 AnchorPoint: "Anchor-1" 290 0 basechar 0
 AnchorPoint: "Anchor-0" 303 883 basechar 0
 LayerCount: 2
 Fore
+Refer: 340 770 N 1 0 0 1 106 172 2
 Refer: 19 69 N 1 0 0 1 0 0 3
-Refer: 341 -1 N 1 0 0 1 106 0 2
-Validated: 1
 EndChar
 
 StartChar: Edieresis
@@ -22785,8 +22764,8 @@ Encoding: 203 203 207
 Width: 580
 GlyphClass: 2
 Flags: W
-HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 726 141<157.658 255.857 351.658 449.373>
-VStem: 44 158<139 274 413 529> 136 141<747.143 845.342> 330 140<747.143 845.342>
+HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 750 141<157.658 255.857 351.658 449.373>
+VStem: 44 158<139 274 413 529> 136 141<771.143 869.342> 330 140<771.143 869.342>
 TtInstrs:
 PUSHB_2
  1
@@ -22802,9 +22781,8 @@ AnchorPoint: "Anchor-1" 290 0 basechar 0
 AnchorPoint: "Anchor-0" 303 867 basechar 0
 LayerCount: 2
 Fore
+Refer: 343 776 N 1 0 0 1 136 172 2
 Refer: 19 69 N 1 0 0 1 0 0 3
-Refer: 146 168 N 1 0 0 1 77 148 2
-Validated: 1
 EndChar
 
 StartChar: egrave
@@ -22819,9 +22797,8 @@ AnchorPoint: "Anchor-1" 283 0 basechar 0
 AnchorPoint: "Anchor-0" 249 728 basechar 0
 LayerCount: 2
 Fore
-Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 349 768 N 1 0 0 1 145 0 2
-Validated: 1
+Refer: 45 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: eacute
@@ -22836,9 +22813,8 @@ AnchorPoint: "Anchor-1" 283 0 basechar 0
 AnchorPoint: "Anchor-0" 320 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 216 0 2
-Validated: 1
+Refer: 45 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ecircumflex
@@ -22852,9 +22828,8 @@ AnchorPoint: "Anchor-1" 283 0 basechar 0
 AnchorPoint: "Anchor-0" 284 726 basechar 0
 LayerCount: 2
 Fore
-Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 340 770 N 1 0 0 1 87 0 2
-Validated: 1
+Refer: 45 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: edieresis
@@ -22869,9 +22844,8 @@ AnchorPoint: "Anchor-1" 283 0 basechar 0
 AnchorPoint: "Anchor-0" 284 719 basechar 0
 LayerCount: 2
 Fore
-Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 343 776 N 1 0 0 1 117 0 2
-Validated: 1
+Refer: 45 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Igrave
@@ -22879,16 +22853,15 @@ Encoding: 204 204 212
 Width: 458
 GlyphClass: 2
 Flags: W
-HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 731 154<148.923 183.859>
-VStem: 57 344<0 124 544 668> 84 219
+HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 746 154<156.618 191.719>
+VStem: 57 344<0 124 544 668> 92 208
 AnchorPoint: "Anchor-2" 331 0 basechar 0
 AnchorPoint: "Anchor-1" 229 0 basechar 0
 AnchorPoint: "Anchor-0" 194 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 349 768 N 1 0 0 1 92 172 2
 Refer: 23 73 N 1 0 0 1 0 0 3
-Refer: 350 -1 N 1 0 0 1 84 0 2
-Validated: 1
 Kerns2: 46 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22897,16 +22870,15 @@ Encoding: 205 205 213
 Width: 458
 GlyphClass: 2
 Flags: W
-HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 731 154<279.063 315.077>
-VStem: 57 344<0 124 544 668> 161 218
+HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 746 153<271.376 306.382>
+VStem: 57 344<0 124 544 668> 163 208
 AnchorPoint: "Anchor-2" 331 0 basechar 0
 AnchorPoint: "Anchor-1" 229 0 basechar 0
 AnchorPoint: "Anchor-0" 270 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 332 769 N 1 0 0 1 163 172 2
 Refer: 23 73 N 1 0 0 1 0 0 3
-Refer: 333 -1 N 1 0 0 1 161 0 2
-Validated: 1
 Kerns2: 46 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22915,16 +22887,15 @@ Encoding: 206 206 214
 Width: 458
 GlyphClass: 2
 Flags: W
-HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 731 152
+HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 746 152
 VStem: 57 344<0 124 544 668>
 AnchorPoint: "Anchor-2" 331 0 basechar 0
 AnchorPoint: "Anchor-1" 229 0 basechar 0
 AnchorPoint: "Anchor-0" 231 883 basechar 0
 LayerCount: 2
 Fore
+Refer: 340 770 N 1 0 0 1 34 172 2
 Refer: 23 73 N 1 0 0 1 0 0 3
-Refer: 341 -1 N 1 0 0 1 34 0 2
-Validated: 1
 Kerns2: 46 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22933,8 +22904,8 @@ Encoding: 207 207 215
 Width: 458
 GlyphClass: 2
 Flags: W
-HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 726 141<85.6582 183.857 279.658 377.373>
-VStem: 57 344<0 124 544 668> 64 141<747.143 845.342> 258 140<747.143 845.342>
+HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 750 141<85.6582 183.857 279.658 377.373>
+VStem: 57 344<0 124 544 668> 64 141<771.143 869.342> 258 140<771.143 869.342>
 TtInstrs:
 PUSHB_2
  1
@@ -22950,9 +22921,8 @@ AnchorPoint: "Anchor-1" 229 0 basechar 0
 AnchorPoint: "Anchor-0" 231 867 basechar 0
 LayerCount: 2
 Fore
+Refer: 343 776 N 1 0 0 1 64 172 2
 Refer: 23 73 N 1 0 0 1 0 0 3
-Refer: 146 168 N 1 0 0 1 5 148 2
-Validated: 1
 Kerns2: 46 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -22968,9 +22938,8 @@ AnchorPoint: "Anchor-1" 151 0 basechar 0
 AnchorPoint: "Anchor-0" 126 728 basechar 0
 LayerCount: 2
 Fore
-Refer: 353 305 N 1 0 0 1 0 0 3
 Refer: 349 768 N 1 0 0 1 22 0 2
-Validated: 1
+Refer: 353 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: iacute
@@ -22985,9 +22954,8 @@ AnchorPoint: "Anchor-1" 151 0 basechar 0
 AnchorPoint: "Anchor-0" 197 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 353 305 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 93 0 2
-Validated: 1
+Refer: 353 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: icircumflex
@@ -23002,9 +22970,8 @@ AnchorPoint: "Anchor-1" 151 0 basechar 0
 AnchorPoint: "Anchor-0" 161 726 basechar 0
 LayerCount: 2
 Fore
-Refer: 353 305 N 1 0 0 1 0 0 3
 Refer: 340 770 N 1 0 0 1 -36 0 2
-Validated: 1
+Refer: 353 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: idieresis
@@ -23019,9 +22986,8 @@ AnchorPoint: "Anchor-1" 151 0 basechar 0
 AnchorPoint: "Anchor-0" 161 719 basechar 0
 LayerCount: 2
 Fore
-Refer: 353 305 N 1 0 0 1 0 0 3
 Refer: 343 776 N 1 0 0 1 -6 0 2
-Validated: 1
+Refer: 353 305 N 1 0 0 1 0 0 3
 Kerns2: 52 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23030,7 +22996,7 @@ Encoding: 209 209 220
 Width: 700
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<44 196 443.16 656> 648 20G<44 255.84 503 656> 729 79<373.82 472.706> 767 82<273.346 366.822>
+HStem: 0 21G<44 196 443.16 656> 648 20G<44 255.84 503 656> 741 79<373.82 472.706> 779 82<273.346 366.822>
 VStem: 44 152<0 476> 503 153<192 668>
 TtInstrs:
 PUSHB_2
@@ -23046,9 +23012,8 @@ AnchorPoint: "Anchor-1" 322 0 basechar 0
 AnchorPoint: "Anchor-0" 365 849 basechar 0
 LayerCount: 2
 Fore
+Refer: 365 771 N 1 0 0 1 180 172 2
 Refer: 28 78 N 1 0 0 1 0 0 3
-Refer: 171 732 N 1 0 0 1 143 160 2
-Validated: 1
 EndChar
 
 StartChar: Ograve
@@ -23056,16 +23021,15 @@ Encoding: 210 210 221
 Width: 764
 GlyphClass: 2
 Flags: W
-HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 731 154<299.923 334.859>
-VStem: 35 167<221.765 446.235> 235 219 561 168<221.765 446.235>
+HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 746 154<307.618 342.719>
+VStem: 35 167<221.765 446.235> 243 208 561 168<221.765 446.235>
 AnchorPoint: "Anchor-2" 688 10 basechar 0
 AnchorPoint: "Anchor-1" 382 0 basechar 0
 AnchorPoint: "Anchor-0" 345 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 349 768 N 1 0 0 1 243 172 2
 Refer: 29 79 N 1 0 0 1 0 0 3
-Refer: 350 -1 N 1 0 0 1 235 0 2
-Validated: 1
 Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23074,16 +23038,15 @@ Encoding: 211 211 222
 Width: 764
 GlyphClass: 2
 Flags: W
-HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 731 154<430.063 466.077>
-VStem: 35 167<221.765 446.235> 312 218 561 168<221.765 446.235>
+HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 746 153<422.376 457.382>
+VStem: 35 167<221.765 446.235> 314 208 561 168<221.765 446.235>
 AnchorPoint: "Anchor-2" 688 10 basechar 0
 AnchorPoint: "Anchor-1" 382 0 basechar 0
 AnchorPoint: "Anchor-0" 421 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 332 769 N 1 0 0 1 314 172 2
 Refer: 29 79 N 1 0 0 1 0 0 3
-Refer: 333 -1 N 1 0 0 1 312 0 2
-Validated: 1
 Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23092,16 +23055,15 @@ Encoding: 212 212 223
 Width: 764
 GlyphClass: 2
 Flags: W
-HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 731 152
+HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 746 152
 VStem: 35 167<221.765 446.235> 561 168<221.765 446.235>
 AnchorPoint: "Anchor-2" 688 10 basechar 0
 AnchorPoint: "Anchor-1" 382 0 basechar 0
 AnchorPoint: "Anchor-0" 382 883 basechar 0
 LayerCount: 2
 Fore
+Refer: 340 770 N 1 0 0 1 185 172 2
 Refer: 29 79 N 1 0 0 1 0 0 3
-Refer: 341 -1 N 1 0 0 1 185 0 2
-Validated: 1
 Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23110,7 +23072,7 @@ Encoding: 213 213 224
 Width: 764
 GlyphClass: 2
 Flags: W
-HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 729 79<390.82 489.706> 767 82<290.346 383.822>
+HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 741 79<390.82 489.706> 779 82<290.346 383.822>
 VStem: 35 167<221.765 446.235> 561 168<221.765 446.235>
 TtInstrs:
 PUSHB_2
@@ -23127,9 +23089,8 @@ AnchorPoint: "Anchor-1" 382 0 basechar 0
 AnchorPoint: "Anchor-0" 382 849 basechar 0
 LayerCount: 2
 Fore
+Refer: 365 771 N 1 0 0 1 197 172 2
 Refer: 29 79 N 1 0 0 1 0 0 3
-Refer: 171 732 N 1 0 0 1 160 160 2
-Validated: 1
 Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23138,8 +23099,8 @@ Encoding: 214 214 225
 Width: 764
 GlyphClass: 2
 Flags: W
-HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 726 141<236.658 334.857 430.658 528.373>
-VStem: 35 167<221.765 446.235> 215 141<747.143 845.342> 409 140<747.143 845.342> 561 168<221.765 446.235>
+HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 750 141<236.658 334.857 430.658 528.373>
+VStem: 35 167<221.765 446.235> 215 141<771.143 869.342> 409 140<771.143 869.342> 561 168<221.765 446.235>
 TtInstrs:
 PUSHB_2
  2
@@ -23155,9 +23116,8 @@ AnchorPoint: "Anchor-1" 382 0 basechar 0
 AnchorPoint: "Anchor-0" 382 867 basechar 0
 LayerCount: 2
 Fore
+Refer: 343 776 N 1 0 0 1 215 172 2
 Refer: 29 79 N 1 0 0 1 0 0 3
-Refer: 146 168 N 1 0 0 1 156 148 2
-Validated: 1
 Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23166,16 +23126,15 @@ Encoding: 217 217 226
 Width: 663
 GlyphClass: 2
 Flags: W
-HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 731 154<249.923 284.859>
-VStem: 44 158<164.983 668> 185 219 461 158<164.983 668>
+HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 746 154<257.618 292.719>
+VStem: 44 158<164.983 668> 193 208 461 158<164.983 668>
 AnchorPoint: "Anchor-2" 440 0 basechar 0
 AnchorPoint: "Anchor-1" 332 0 basechar 0
 AnchorPoint: "Anchor-0" 295 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 349 768 N 1 0 0 1 193 172 2
 Refer: 35 85 N 1 0 0 1 0 0 3
-Refer: 350 -1 N 1 0 0 1 185 0 2
-Validated: 1
 EndChar
 
 StartChar: Uacute
@@ -23183,16 +23142,15 @@ Encoding: 218 218 227
 Width: 663
 GlyphClass: 2
 Flags: W
-HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 731 154<380.063 416.077>
-VStem: 44 158<164.983 668> 262 218 461 158<164.983 668>
+HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 746 153<372.376 407.382>
+VStem: 44 158<164.983 668> 264 208 461 158<164.983 668>
 AnchorPoint: "Anchor-2" 440 0 basechar 0
 AnchorPoint: "Anchor-1" 332 0 basechar 0
 AnchorPoint: "Anchor-0" 371 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 332 769 N 1 0 0 1 264 172 2
 Refer: 35 85 N 1 0 0 1 0 0 3
-Refer: 333 -1 N 1 0 0 1 262 0 2
-Validated: 1
 EndChar
 
 StartChar: Ucircumflex
@@ -23200,16 +23158,15 @@ Encoding: 219 219 228
 Width: 663
 GlyphClass: 2
 Flags: W
-HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 731 152
+HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 746 152
 VStem: 44 158<164.983 668> 461 158<164.983 668>
 AnchorPoint: "Anchor-2" 440 0 basechar 0
 AnchorPoint: "Anchor-1" 332 0 basechar 0
 AnchorPoint: "Anchor-0" 332 883 basechar 0
 LayerCount: 2
 Fore
+Refer: 340 770 N 1 0 0 1 135 172 2
 Refer: 35 85 N 1 0 0 1 0 0 3
-Refer: 341 -1 N 1 0 0 1 135 0 2
-Validated: 1
 EndChar
 
 StartChar: Udieresis
@@ -23217,8 +23174,8 @@ Encoding: 220 220 229
 Width: 663
 GlyphClass: 2
 Flags: W
-HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 726 141<186.658 284.857 380.658 478.373>
-VStem: 44 158<164.983 668> 165 141<747.143 845.342> 359 140<747.143 845.342> 461 158<164.983 668>
+HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 750 141<186.658 284.857 380.658 478.373>
+VStem: 44 158<164.983 668> 165 141<771.143 869.342> 359 140<771.143 869.342> 461 158<164.983 668>
 TtInstrs:
 PUSHB_2
  1
@@ -23234,9 +23191,8 @@ AnchorPoint: "Anchor-1" 332 0 basechar 0
 AnchorPoint: "Anchor-0" 332 867 basechar 0
 LayerCount: 2
 Fore
+Refer: 343 776 N 1 0 0 1 165 172 2
 Refer: 35 85 N 1 0 0 1 0 0 3
-Refer: 146 168 N 1 0 0 1 106 148 2
-Validated: 1
 EndChar
 
 StartChar: Yacute
@@ -23244,15 +23200,14 @@ Encoding: 221 221 230
 Width: 687
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<265 422> 648 20G<10 205.595 480.405 677> 731 154<392.063 428.077>
-VStem: 265 157<0 260> 274 218
+HStem: 0 21G<265 422> 648 20G<10 205.595 480.405 677> 746 153<384.376 419.382>
+VStem: 265 157<0 260> 276 208
 AnchorPoint: "Anchor-1" 344 0 basechar 0
 AnchorPoint: "Anchor-0" 383 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 332 769 N 1 0 0 1 276 172 2
 Refer: 39 89 N 1 0 0 1 0 0 3
-Refer: 333 -1 N 1 0 0 1 274 0 2
-Validated: 1
 Kerns2: 24 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -52 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23267,9 +23222,8 @@ AnchorPoint: "Anchor-1" 286 0 basechar 0
 AnchorPoint: "Anchor-0" 305 689 basechar 0
 LayerCount: 2
 Fore
-Refer: 54 110 N 1 0 0 1 0 0 3
 Refer: 365 771 N 1 0 0 1 120 0 2
-Validated: 1
+Refer: 54 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ograve
@@ -23284,9 +23238,8 @@ AnchorPoint: "Anchor-1" 287 0 basechar 0
 AnchorPoint: "Anchor-0" 252 728 basechar 0
 LayerCount: 2
 Fore
-Refer: 55 111 N 1 0 0 1 0 0 3
 Refer: 349 768 N 1 0 0 1 148 0 2
-Validated: 1
+Refer: 55 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: oacute
@@ -23301,9 +23254,8 @@ AnchorPoint: "Anchor-1" 287 0 basechar 0
 AnchorPoint: "Anchor-0" 323 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 55 111 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 219 0 2
-Validated: 1
+Refer: 55 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ocircumflex
@@ -23318,9 +23270,8 @@ AnchorPoint: "Anchor-1" 287 0 basechar 0
 AnchorPoint: "Anchor-0" 287 726 basechar 0
 LayerCount: 2
 Fore
-Refer: 55 111 N 1 0 0 1 0 0 3
 Refer: 340 770 N 1 0 0 1 90 0 2
-Validated: 1
+Refer: 55 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: otilde
@@ -23335,9 +23286,8 @@ AnchorPoint: "Anchor-1" 287 0 basechar 0
 AnchorPoint: "Anchor-0" 287 689 basechar 0
 LayerCount: 2
 Fore
-Refer: 55 111 N 1 0 0 1 0 0 3
 Refer: 365 771 N 1 0 0 1 102 0 2
-Validated: 1
+Refer: 55 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: odieresis
@@ -23352,9 +23302,8 @@ AnchorPoint: "Anchor-1" 287 0 basechar 0
 AnchorPoint: "Anchor-0" 287 719 basechar 0
 LayerCount: 2
 Fore
-Refer: 55 111 N 1 0 0 1 0 0 3
 Refer: 343 776 N 1 0 0 1 120 0 2
-Validated: 1
+Refer: 55 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ugrave
@@ -23369,9 +23318,8 @@ AnchorPoint: "Anchor-1" 285 0 basechar 0
 AnchorPoint: "Anchor-0" 250 728 basechar 0
 LayerCount: 2
 Fore
-Refer: 61 117 N 1 0 0 1 0 0 3
 Refer: 349 768 N 1 0 0 1 146 0 2
-Validated: 1
+Refer: 61 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uacute
@@ -23386,9 +23334,8 @@ AnchorPoint: "Anchor-1" 285 0 basechar 0
 AnchorPoint: "Anchor-0" 321 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 61 117 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 217 0 2
-Validated: 1
+Refer: 61 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ucircumflex
@@ -23403,9 +23350,8 @@ AnchorPoint: "Anchor-1" 285 0 basechar 0
 AnchorPoint: "Anchor-0" 285 726 basechar 0
 LayerCount: 2
 Fore
-Refer: 61 117 N 1 0 0 1 0 0 3
 Refer: 340 770 N 1 0 0 1 88 0 2
-Validated: 1
+Refer: 61 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: udieresis
@@ -23420,9 +23366,8 @@ AnchorPoint: "Anchor-1" 285 0 basechar 0
 AnchorPoint: "Anchor-0" 285 719 basechar 0
 LayerCount: 2
 Fore
-Refer: 61 117 N 1 0 0 1 0 0 3
 Refer: 343 776 N 1 0 0 1 118 0 2
-Validated: 1
+Refer: 61 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: yacute
@@ -23436,9 +23381,8 @@ AnchorPoint: "Anchor-1" 259 0 basechar 0
 AnchorPoint: "Anchor-0" 296 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 65 121 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 192 0 2
-Validated: 1
+Refer: 65 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ydieresis
@@ -23452,9 +23396,8 @@ AnchorPoint: "Anchor-1" 259 0 basechar 0
 AnchorPoint: "Anchor-0" 260 719 basechar 0
 LayerCount: 2
 Fore
-Refer: 65 121 N 1 0 0 1 0 0 3
 Refer: 343 776 N 1 0 0 1 93 0 2
-Validated: 1
+Refer: 65 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Scaron
@@ -23462,7 +23405,7 @@ Encoding: 339 352 243
 Width: 619
 GlyphClass: 2
 Flags: W
-HStem: -12 127<224.575 406.838> 553 127<217.01 383.598> 725 152
+HStem: -12 127<224.575 406.838> 553 127<217.01 383.598> 740 152
 VStem: 28 162<445.579 530.707> 434 162<141.117 230.914>
 TtInstrs:
 PUSHB_2
@@ -23478,9 +23421,8 @@ AnchorPoint: "Anchor-1" 329 0 basechar 0
 AnchorPoint: "Anchor-0" 304 877 basechar 0
 LayerCount: 2
 Fore
+Refer: 336 780 N 1 0 0 1 107 172 2
 Refer: 33 83 N 1 0 0 1 0 0 3
-Refer: 68 711 N 1 0 0 1 70 157 2
-Validated: 1
 Kerns2: 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23495,9 +23437,8 @@ AnchorPoint: "Anchor-1" 267 0 basechar 0
 AnchorPoint: "Anchor-0" 268 720 basechar 0
 LayerCount: 2
 Fore
-Refer: 59 115 N 1 0 0 1 0 0 3
 Refer: 336 780 N 1 0 0 1 71 0 2
-Validated: 1
+Refer: 59 115 N 1 0 0 1 0 0 3
 Kerns2: 24 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23506,8 +23447,8 @@ Encoding: 175 376 245
 Width: 687
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<265 422> 648 20G<10 205.595 480.405 677> 726 141<198.658 296.857 392.658 490.373>
-VStem: 177 141<747.143 845.342> 265 157<0 260> 371 140<747.143 845.342>
+HStem: 0 21G<265 422> 648 20G<10 205.595 480.405 677> 750 141<198.658 296.857 392.658 490.373>
+VStem: 177 141<771.143 869.342> 265 157<0 260> 371 140<771.143 869.342>
 TtInstrs:
 PUSHB_2
  1
@@ -23522,9 +23463,8 @@ AnchorPoint: "Anchor-1" 344 0 basechar 0
 AnchorPoint: "Anchor-0" 344 867 basechar 0
 LayerCount: 2
 Fore
+Refer: 343 776 N 1 0 0 1 177 172 2
 Refer: 39 89 N 1 0 0 1 0 0 3
-Refer: 146 168 N 1 0 0 1 118 148 2
-Validated: 1
 Kerns2: 24 -57 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -52 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23533,7 +23473,7 @@ Encoding: 341 381 246
 Width: 621
 GlyphClass: 2
 Flags: W
-HStem: 0 139<240 589> 529 139<47 369> 725 152
+HStem: 0 139<240 589> 529 139<47 369> 740 152
 TtInstrs:
 PUSHB_2
  1
@@ -23548,9 +23488,8 @@ AnchorPoint: "Anchor-1" 311 0 basechar 0
 AnchorPoint: "Anchor-0" 311 877 basechar 0
 LayerCount: 2
 Fore
+Refer: 336 780 N 1 0 0 1 114 172 2
 Refer: 40 90 N 1 0 0 1 0 0 3
-Refer: 68 711 N 1 0 0 1 77 157 2
-Validated: 1
 EndChar
 
 StartChar: zcaron
@@ -23563,9 +23502,8 @@ AnchorPoint: "Anchor-1" 258 0 basechar 0
 AnchorPoint: "Anchor-0" 268 720 basechar 0
 LayerCount: 2
 Fore
-Refer: 66 122 N 1 0 0 1 0 0 3
 Refer: 336 780 N 1 0 0 1 71 0 2
-Validated: 1
+Refer: 66 122 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Eth
@@ -23926,7 +23864,7 @@ Encoding: 354 258 259
 Width: 690
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 731 77<298.046 391.551>
+HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 741 77<298.046 391.551>
 VStem: 201 287
 TtInstrs:
 PUSHB_2
@@ -23943,9 +23881,8 @@ AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 345 851 basechar 0
 LayerCount: 2
 Fore
+Refer: 334 774 N 1 0 0 1 201 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Refer: 69 728 N 1 0 0 1 144 162 2
-Validated: 1
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23961,9 +23898,8 @@ AnchorPoint: "Anchor-1" 277 0 basechar 0
 AnchorPoint: "Anchor-0" 285 689 basechar 0
 LayerCount: 2
 Fore
-Refer: 41 97 N 1 0 0 1 0 0 3
 Refer: 334 774 N 1 0 0 1 141 0 2
-Validated: 1
+Refer: 41 97 N 1 0 0 1 0 0 3
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23972,16 +23908,15 @@ Encoding: 356 260 261
 Width: 690
 GlyphClass: 2
 Flags: W
-HStem: -174 76<567.368 653.732> -12 12<600.397 630.204> 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575>
-VStem: 433 126<-92.8991 -32.6512>
+HStem: -174 76<567.368 653.732> 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575>
+VStem: 433 126<-92.8991 -38.9277>
 AnchorPoint: "Anchor-2" 654 0 basechar 0
 AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 345 668 basechar 0
 LayerCount: 2
 Fore
+Refer: 357 808 N 1 0 0 1 433 0 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Refer: 358 -1 N 1 0 0 1 433 0 2
-Validated: 5
 Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -23997,9 +23932,8 @@ AnchorPoint: "Anchor-1" 277 0 basechar 0
 AnchorPoint: "Anchor-0" 285 496 basechar 0
 LayerCount: 2
 Fore
-Refer: 41 97 N 1 0 0 1 0 0 3
 Refer: 357 808 N 1 0 0 1 297 0 2
-Validated: 5
+Refer: 41 97 N 1 0 0 1 0 0 3
 Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 50 56 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24008,8 +23942,8 @@ Encoding: 358 274 263
 Width: 580
 GlyphClass: 2
 Flags: W
-HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 747 98<153 452>
-VStem: 44 158<139 274 413 529> 153 299<747 845>
+HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 742 98<153 452>
+VStem: 44 158<139 274 413 529> 153 299<742 840>
 TtInstrs:
 PUSHB_2
  1
@@ -24025,9 +23959,8 @@ AnchorPoint: "Anchor-1" 290 0 basechar 0
 AnchorPoint: "Anchor-0" 303 845 basechar 0
 LayerCount: 2
 Fore
+Refer: 354 772 N 1 0 0 1 153 172 2
 Refer: 19 69 N 1 0 0 1 0 0 3
-Refer: 91 175 N 1 0 0 1 100 177 2
-Validated: 1
 EndChar
 
 StartChar: emacron
@@ -24042,9 +23975,8 @@ AnchorPoint: "Anchor-1" 283 0 basechar 0
 AnchorPoint: "Anchor-0" 284 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 354 772 N 1 0 0 1 134 0 2
-Validated: 1
+Refer: 45 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Edotaccent
@@ -24052,8 +23984,8 @@ Encoding: 360 278 265
 Width: 580
 GlyphClass: 2
 Flags: W
-HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 726 141<253.658 351.857>
-VStem: 44 158<139 274 413 529> 232 141<747.143 845.342>
+HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 750 141<253.658 351.857>
+VStem: 44 158<139 274 413 529> 232 141<771.143 869.342>
 TtInstrs:
 PUSHB_2
  1
@@ -24069,9 +24001,8 @@ AnchorPoint: "Anchor-1" 290 0 basechar 0
 AnchorPoint: "Anchor-0" 303 867 basechar 0
 LayerCount: 2
 Fore
+Refer: 345 775 N 1 0 0 1 232 172 2
 Refer: 19 69 N 1 0 0 1 0 0 3
-Refer: 70 729 N 1 0 0 1 202 148 2
-Validated: 1
 EndChar
 
 StartChar: edotaccent
@@ -24086,9 +24017,8 @@ AnchorPoint: "Anchor-1" 283 0 basechar 0
 AnchorPoint: "Anchor-0" 284 719 basechar 0
 LayerCount: 2
 Fore
-Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 345 775 N 1 0 0 1 213 0 2
-Validated: 1
+Refer: 45 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Eogonek
@@ -24096,16 +24026,15 @@ Encoding: 362 280 267
 Width: 580
 GlyphClass: 2
 Flags: W
-HStem: -174 76<435.368 521.732> -12 12<468.397 498.204> 0 139<202 558> 274 139<202 419> 529 139<202 558>
-VStem: 44 158<139 274 413 529> 301 126<-92.8991 -32.6512>
+HStem: -174 76<435.368 521.732> 0 139<202 558> 274 139<202 419> 529 139<202 558>
+VStem: 44 158<139 274 413 529> 301 126<-92.8991 -38.9277>
 AnchorPoint: "Anchor-2" 522 0 basechar 0
 AnchorPoint: "Anchor-1" 290 0 basechar 0
 AnchorPoint: "Anchor-0" 303 668 basechar 0
 LayerCount: 2
 Fore
+Refer: 357 808 N 1 0 0 1 301 0 2
 Refer: 19 69 N 1 0 0 1 0 0 3
-Refer: 358 -1 N 1 0 0 1 301 0 2
-Validated: 5
 EndChar
 
 StartChar: eogonek
@@ -24113,8 +24042,8 @@ Encoding: 363 281 268
 Width: 566
 GlyphClass: 2
 Flags: W
-HStem: -174 76<320.368 406.732> 210 90<177 403> 397 113<220.239 366.039>
-VStem: 186 126<-92.8991 -33.4974>
+HStem: -164 76<317.368 403.732> -12 118<222.438 373.818> 210 90<177 403> 397 113<220.239 366.039>
+VStem: 183 126<-82.8991 -28.9277>
 TtInstrs:
 NPUSHB
  74
@@ -24199,46 +24128,8 @@ AnchorPoint: "Anchor-1" 283 0 basechar 0
 AnchorPoint: "Anchor-0" 283 496 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-328 -174 m 0,0,1
- 274 -174 274 -174 243 -159.5 c 128,-1,2
- 212 -145 212 -145 199 -124.5 c 128,-1,3
- 186 -104 186 -104 186 -85 c 0,4,5
- 186 -57 186 -57 203.5 -38 c 128,-1,6
- 221 -19 221 -19 244 -8 c 1,7,8
- 145 6 145 6 84.5 74 c 128,-1,9
- 24 142 24 142 24 251 c 0,10,11
- 24 330 24 330 60.5 388 c 128,-1,12
- 97 446 97 446 157.5 478 c 128,-1,13
- 218 510 218 510 290 510 c 0,14,15
- 372 510 372 510 430.5 471.5 c 128,-1,16
- 489 433 489 433 519 365.5 c 128,-1,17
- 549 298 549 298 544 210 c 1,18,-1
- 177 210 l 1,19,20
- 181 158 181 158 215.5 132 c 128,-1,21
- 250 106 250 106 292 106 c 0,22,23
- 327 106 327 106 352.5 116.5 c 128,-1,24
- 378 127 378 127 392 143 c 1,25,-1
- 513 99 l 1,26,27
- 491 67 491 67 462 44.5 c 128,-1,28
- 433 22 433 22 400 8 c 0,29,30
- 366 -8 366 -8 339 -27 c 128,-1,31
- 312 -46 312 -46 312 -68 c 0,32,33
- 312 -86 312 -86 327 -92 c 128,-1,34
- 342 -98 342 -98 358 -98 c 0,35,36
- 373 -98 373 -98 387 -94 c 128,-1,37
- 401 -90 401 -90 407 -89 c 1,38,-1
- 407 -164 l 1,39,40
- 396 -168 396 -168 371.5 -171 c 128,-1,41
- 347 -174 347 -174 328 -174 c 0,0,1
-177 300 m 1,42,-1
- 403 300 l 1,43,44
- 402 348 402 348 370 372.5 c 128,-1,45
- 338 397 338 397 294 397 c 0,46,47
- 251 397 251 397 217.5 374 c 128,-1,48
- 184 351 184 351 177 300 c 1,42,-1
-EndSplineSet
-Validated: 33
+Refer: 357 808 N 1 0 0 1 183 10 2
+Refer: 45 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ecaron
@@ -24246,7 +24137,7 @@ Encoding: 364 282 269
 Width: 580
 GlyphClass: 2
 Flags: W
-HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 725 152
+HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 740 152
 VStem: 44 158<139 274 413 529>
 TtInstrs:
 PUSHB_2
@@ -24263,9 +24154,8 @@ AnchorPoint: "Anchor-1" 290 0 basechar 0
 AnchorPoint: "Anchor-0" 303 877 basechar 0
 LayerCount: 2
 Fore
+Refer: 336 780 N 1 0 0 1 106 172 2
 Refer: 19 69 N 1 0 0 1 0 0 3
-Refer: 68 711 N 1 0 0 1 69 157 2
-Validated: 1
 EndChar
 
 StartChar: ecaron
@@ -24279,9 +24169,8 @@ AnchorPoint: "Anchor-1" 283 0 basechar 0
 AnchorPoint: "Anchor-0" 284 720 basechar 0
 LayerCount: 2
 Fore
-Refer: 45 101 N 1 0 0 1 0 0 3
 Refer: 336 780 N 1 0 0 1 87 0 2
-Validated: 1
+Refer: 45 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ohungarumlaut
@@ -24289,7 +24178,7 @@ Encoding: 366 336 271
 Width: 764
 GlyphClass: 2
 Flags: W
-HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 746 153<315.003 320 518.003 523>
+HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 746 153<333.003 338 536.003 541>
 VStem: 35 167<221.765 446.235> 561 168<221.765 446.235>
 TtInstrs:
 PUSHB_2
@@ -24306,9 +24195,8 @@ AnchorPoint: "Anchor-1" 382 0 basechar 0
 AnchorPoint: "Anchor-0" 412 899 basechar 0
 LayerCount: 2
 Fore
+Refer: 351 779 N 1 0 0 1 224 172 2
 Refer: 29 79 N 1 0 0 1 0 0 3
-Refer: 170 733 N 1 0 0 1 169 172 2
-Validated: 1
 EndChar
 
 StartChar: ohungarumlaut
@@ -24323,9 +24211,8 @@ AnchorPoint: "Anchor-1" 287 0 basechar 0
 AnchorPoint: "Anchor-0" 335 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 55 111 N 1 0 0 1 0 0 3
 Refer: 351 779 N 1 0 0 1 129 0 2
-Validated: 1
+Refer: 55 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Imacron
@@ -24333,8 +24220,8 @@ Encoding: 368 298 273
 Width: 458
 GlyphClass: 2
 Flags: W
-HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 747 98<81 380>
-VStem: 57 344<0 124 544 668> 81 299<747 845>
+HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 742 98<81 380>
+VStem: 57 344<0 124 544 668> 81 299<742 840>
 TtInstrs:
 PUSHB_2
  1
@@ -24350,9 +24237,8 @@ AnchorPoint: "Anchor-1" 229 0 basechar 0
 AnchorPoint: "Anchor-0" 231 845 basechar 0
 LayerCount: 2
 Fore
+Refer: 354 772 N 1 0 0 1 81 172 2
 Refer: 23 73 N 1 0 0 1 0 0 3
-Refer: 91 175 N 1 0 0 1 28 177 2
-Validated: 1
 Kerns2: 46 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24368,9 +24254,8 @@ AnchorPoint: "Anchor-1" 151 0 basechar 0
 AnchorPoint: "Anchor-0" 161 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 353 305 N 1 0 0 1 0 0 3
 Refer: 354 772 N 1 0 0 1 11 0 2
-Validated: 1
+Refer: 353 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Iogonek
@@ -24378,16 +24263,15 @@ Encoding: 370 302 275
 Width: 458
 GlyphClass: 2
 Flags: W
-HStem: -174 76<244.368 330.732> -12 12<277.397 307.204> 0 124<57 151 309 401> 544 124<57 151 309 401>
-VStem: 57 344<0 124 544 668> 110 126<-92.8991 -32.6512>
+HStem: -174 76<244.368 330.732> 0 124<57 151 309 401> 544 124<57 151 309 401>
+VStem: 57 344<0 124 544 668> 110 126<-92.8991 -38.9277>
 AnchorPoint: "Anchor-2" 331 0 basechar 0
 AnchorPoint: "Anchor-1" 229 0 basechar 0
 AnchorPoint: "Anchor-0" 231 668 basechar 0
 LayerCount: 2
 Fore
+Refer: 357 808 N 1 0 0 1 110 0 2
 Refer: 23 73 N 1 0 0 1 0 0 3
-Refer: 358 -1 N 1 0 0 1 110 0 2
-Validated: 5
 Kerns2: 46 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24396,13 +24280,12 @@ Encoding: 371 303 276
 Width: 315
 GlyphClass: 1
 Flags: W
-HStem: -174 76<174.368 260.732> 0 21G<118 271> 380 116<24 118> 578 180<136.561 254.02>
-VStem: 40 126<-92.8991 -38.9277> 105 180<609.561 727.02> 118 153<0 380>
+HStem: -174 76<184.368 270.732> 0 21G<118 271> 380 116<24 118> 578 180<136.561 254.02>
+VStem: 50 126<-92.8991 -38.9277> 105 180<609.561 727.02> 118 153<0 380>
 LayerCount: 2
 Fore
+Refer: 357 808 N 1 0 0 1 50 0 2
 Refer: 49 105 N 1 0 0 1 0 0 3
-Refer: 72 731 N 1 0 0 1 3 0 2
-Validated: 5
 EndChar
 
 StartChar: Cacute
@@ -24410,15 +24293,14 @@ Encoding: 372 262 277
 Width: 673
 GlyphClass: 2
 Flags: W
-HStem: -12 130<291.107 460.991> 550 130<290.443 454.592> 731 154<405.063 441.077>
-VStem: 35 167<215.231 450.159> 287 218
+HStem: -12 130<291.107 460.991> 550 130<290.443 454.592> 746 153<397.376 432.382>
+VStem: 35 167<215.231 450.159> 289 208
 AnchorPoint: "Anchor-1" 357 0 basechar 0
 AnchorPoint: "Anchor-0" 396 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 332 769 N 1 0 0 1 289 172 2
 Refer: 17 67 N 1 0 0 1 0 0 3
-Refer: 333 -1 N 1 0 0 1 287 0 2
-Validated: 1
 EndChar
 
 StartChar: cacute
@@ -24432,9 +24314,8 @@ AnchorPoint: "Anchor-1" 275 0 basechar 0
 AnchorPoint: "Anchor-0" 316 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 43 99 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 212 0 2
-Validated: 1
+Refer: 43 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Cdotaccent
@@ -24442,8 +24323,8 @@ Encoding: 164 266 279
 Width: 673
 GlyphClass: 2
 Flags: W
-HStem: -12 130<291.107 460.991> 550 130<290.443 454.592> 726 141<307.658 405.857>
-VStem: 35 167<215.231 450.159> 286 141<747.143 845.342>
+HStem: -12 130<291.107 460.991> 550 130<290.443 454.592> 750 141<307.658 405.857>
+VStem: 35 167<215.231 450.159> 286 141<771.143 869.342>
 TtInstrs:
 PUSHB_2
  1
@@ -24458,9 +24339,8 @@ AnchorPoint: "Anchor-1" 357 0 basechar 0
 AnchorPoint: "Anchor-0" 357 867 basechar 0
 LayerCount: 2
 Fore
+Refer: 345 775 N 1 0 0 1 286 172 2
 Refer: 17 67 N 1 0 0 1 0 0 3
-Refer: 70 729 N 1 0 0 1 256 148 2
-Validated: 1
 EndChar
 
 StartChar: cdotaccent
@@ -24474,9 +24354,8 @@ AnchorPoint: "Anchor-1" 275 0 basechar 0
 AnchorPoint: "Anchor-0" 280 719 basechar 0
 LayerCount: 2
 Fore
-Refer: 43 99 N 1 0 0 1 0 0 3
 Refer: 345 775 N 1 0 0 1 209 0 2
-Validated: 1
+Refer: 43 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Sacute
@@ -24484,15 +24363,14 @@ Encoding: 374 346 281
 Width: 619
 GlyphClass: 2
 Flags: W
-HStem: -12 127<224.575 406.838> 553 127<217.01 383.598> 731 154<352.063 388.077>
-VStem: 28 162<445.579 530.707> 234 218 434 162<141.117 230.914>
+HStem: -12 127<224.575 406.838> 553 127<217.01 383.598> 746 153<344.376 379.382>
+VStem: 28 162<445.579 530.707> 236 208 434 162<141.117 230.914>
 AnchorPoint: "Anchor-1" 329 0 basechar 0
 AnchorPoint: "Anchor-0" 343 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 332 769 N 1 0 0 1 236 172 2
 Refer: 33 83 N 1 0 0 1 0 0 3
-Refer: 333 -1 N 1 0 0 1 234 0 2
-Validated: 1
 Kerns2: 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24507,9 +24385,8 @@ AnchorPoint: "Anchor-1" 267 0 basechar 0
 AnchorPoint: "Anchor-0" 304 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 59 115 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 200 0 2
-Validated: 1
+Refer: 59 115 N 1 0 0 1 0 0 3
 Kerns2: 24 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -24518,8 +24395,8 @@ Encoding: 376 362 283
 Width: 663
 GlyphClass: 2
 Flags: W
-HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 747 98<182 481>
-VStem: 44 158<164.983 668> 182 299<747 845> 461 158<164.983 668>
+HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 742 98<182 481>
+VStem: 44 158<164.983 668> 182 299<742 840> 461 158<164.983 668>
 TtInstrs:
 PUSHB_2
  1
@@ -24535,9 +24412,8 @@ AnchorPoint: "Anchor-1" 332 0 basechar 0
 AnchorPoint: "Anchor-0" 332 845 basechar 0
 LayerCount: 2
 Fore
+Refer: 354 772 N 1 0 0 1 182 172 2
 Refer: 35 85 N 1 0 0 1 0 0 3
-Refer: 91 175 N 1 0 0 1 129 177 2
-Validated: 1
 EndChar
 
 StartChar: umacron
@@ -24552,9 +24428,8 @@ AnchorPoint: "Anchor-1" 285 0 basechar 0
 AnchorPoint: "Anchor-0" 285 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 61 117 N 1 0 0 1 0 0 3
 Refer: 354 772 N 1 0 0 1 135 0 2
-Validated: 1
+Refer: 61 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Uring
@@ -24562,8 +24437,8 @@ Encoding: 378 366 285
 Width: 663
 GlyphClass: 2
 Flags: W
-HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 661 86<291.974 367.243> 841 85<294.91 367.243>
-VStem: 44 158<164.983 668> 199 85<754.895 830.164> 378 86<757.826 830.164> 461 158<164.983 668>
+HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 707 86<291.974 367.243> 887 85<294.91 367.243>
+VStem: 44 158<164.983 668> 199 85<800.895 876.164> 378 86<803.826 876.164> 461 158<164.983 668>
 TtInstrs:
 PUSHB_2
  1
@@ -24579,9 +24454,8 @@ AnchorPoint: "Anchor-1" 332 0 basechar 0
 AnchorPoint: "Anchor-0" 332 861 basechar 0
 LayerCount: 2
 Fore
+Refer: 359 778 N 1 0 0 1 199 172 2
 Refer: 35 85 N 1 0 0 1 0 0 3
-Refer: 71 730 N 1 0 0 1 184 126 2
-Validated: 1
 EndChar
 
 StartChar: uring
@@ -24596,9 +24470,8 @@ AnchorPoint: "Anchor-1" 285 0 basechar 0
 AnchorPoint: "Anchor-0" 285 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 61 117 N 1 0 0 1 0 0 3
 Refer: 359 778 N 1 0 0 1 152 0 2
-Validated: 1
+Refer: 61 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Uhungarumlaut
@@ -24606,7 +24479,7 @@ Encoding: 380 368 287
 Width: 663
 GlyphClass: 2
 Flags: W
-HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 746 153<265.003 270 468.003 473>
+HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 746 153<283.003 288 486.003 491>
 VStem: 44 158<164.983 668> 461 158<164.983 668>
 TtInstrs:
 PUSHB_2
@@ -24623,9 +24496,8 @@ AnchorPoint: "Anchor-1" 332 0 basechar 0
 AnchorPoint: "Anchor-0" 362 899 basechar 0
 LayerCount: 2
 Fore
+Refer: 351 779 N 1 0 0 1 174 172 2
 Refer: 35 85 N 1 0 0 1 0 0 3
-Refer: 170 733 N 1 0 0 1 119 172 2
-Validated: 1
 EndChar
 
 StartChar: uhungarumlaut
@@ -24640,9 +24512,8 @@ AnchorPoint: "Anchor-1" 285 0 basechar 0
 AnchorPoint: "Anchor-0" 333 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 61 117 N 1 0 0 1 0 0 3
 Refer: 351 779 N 1 0 0 1 127 0 2
-Validated: 1
+Refer: 61 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Uogonek
@@ -24650,25 +24521,24 @@ Encoding: 382 370 289
 Width: 663
 GlyphClass: 2
 Flags: W
-HStem: -174 76<353.368 439.732> -12 12<386.397 416.204> -12 129<248.364 414.911> 648 20G<44 202 461 619>
-VStem: 44 158<164.983 668> 219 126<-92.8991 -32.6512> 461 158<164.983 668>
+HStem: -174 76<353.368 439.732> -12 129<248.364 414.911> 648 20G<44 202 461 619>
+VStem: 44 158<164.983 668> 219 126<-92.8991 -38.9277> 461 158<164.983 668>
 AnchorPoint: "Anchor-2" 440 0 basechar 0
 AnchorPoint: "Anchor-1" 332 0 basechar 0
 AnchorPoint: "Anchor-0" 332 668 basechar 0
 LayerCount: 2
 Fore
+Refer: 357 808 N 1 0 0 1 219 0 2
 Refer: 35 85 N 1 0 0 1 0 0 3
-Refer: 358 -1 N 1 0 0 1 219 0 2
-Validated: 5
 EndChar
 
 StartChar: uogonek
 Encoding: 383 371 290
-Width: 571
+Width: 570
 GlyphClass: 1
 Flags: W
-HStem: -174 76<433.368 519.732> -12 118<189 310.27> 476 20G<50 202 366 519>
-VStem: 50 152<125.488 496> 299 126<-92.8991 -38.8413> 366 153<133.253 496>
+HStem: -174 76<432.368 518.732> -12 118<189 310.392> 0 21G<381 519> 476 20G<50 202 366 519>
+VStem: 50 152<127.216 496> 298 126<-92.8991 -38.9277> 366 153<134.154 496>
 TtInstrs:
 NPUSHB
  59
@@ -24735,43 +24605,8 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-SplineSet
-222 -12 m 0,0,1
- 156 -12 156 -12 118.5 12.5 c 128,-1,2
- 81 37 81 37 65.5 84 c 128,-1,3
- 50 131 50 131 50 198 c 2,4,-1
- 50 496 l 1,5,-1
- 202 496 l 1,6,-1
- 202 236 l 2,7,8
- 202 201 202 201 205.5 171 c 128,-1,9
- 209 141 209 141 225 123.5 c 128,-1,10
- 241 106 241 106 278 106 c 0,11,12
- 326 106 326 106 346 136 c 128,-1,13
- 366 166 366 166 366 235 c 2,14,-1
- 366 496 l 1,15,-1
- 519 496 l 1,16,-1
- 519 0 l 1,17,-1
- 520 0 l 1,18,19
- 486 -17 486 -17 455.5 -33.5 c 128,-1,20
- 425 -50 425 -50 425 -68 c 256,21,22
- 425 -86 425 -86 440 -92 c 128,-1,23
- 455 -98 455 -98 471 -98 c 0,24,25
- 486 -98 486 -98 500 -94 c 128,-1,26
- 514 -90 514 -90 520 -89 c 1,27,-1
- 520 -164 l 1,28,29
- 509 -168 509 -168 484.5 -171 c 128,-1,30
- 460 -174 460 -174 441 -174 c 0,31,32
- 387 -174 387 -174 356 -159.5 c 128,-1,33
- 325 -145 325 -145 312 -124.5 c 128,-1,34
- 299 -104 299 -104 299 -85 c 0,35,36
- 299 -63 299 -63 312.5 -45 c 128,-1,37
- 326 -27 326 -27 346 -15 c 128,-1,38
- 366 -3 366 -3 386 2 c 1,39,-1
- 366 70 l 1,40,41
- 344 33 344 33 311.5 10.5 c 128,-1,42
- 279 -12 279 -12 222 -12 c 0,0,1
-EndSplineSet
-Validated: 1
+Refer: 357 808 N 1 0 0 1 298 0 2
+Refer: 61 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Nacute
@@ -24779,15 +24614,14 @@ Encoding: 384 323 291
 Width: 700
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<44 196 443.16 656> 648 20G<44 255.84 503 656> 731 154<413.063 449.077>
-VStem: 44 152<0 476> 295 218 503 153<192 668>
+HStem: 0 21G<44 196 443.16 656> 648 20G<44 255.84 503 656> 746 153<405.376 440.382>
+VStem: 44 152<0 476> 297 208 503 153<192 668>
 AnchorPoint: "Anchor-1" 322 0 basechar 0
 AnchorPoint: "Anchor-0" 404 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 332 769 N 1 0 0 1 297 172 2
 Refer: 28 78 N 1 0 0 1 0 0 3
-Refer: 333 -1 N 1 0 0 1 295 0 2
-Validated: 1
 EndChar
 
 StartChar: nacute
@@ -24801,9 +24635,8 @@ AnchorPoint: "Anchor-1" 286 0 basechar 0
 AnchorPoint: "Anchor-0" 341 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 54 110 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 237 0 2
-Validated: 1
+Refer: 54 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ncaron
@@ -24811,7 +24644,7 @@ Encoding: 386 327 293
 Width: 700
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<44 196 443.16 656> 648 20G<44 255.84 503 656> 725 152
+HStem: 0 21G<44 196 443.16 656> 648 20G<44 255.84 503 656> 740 152
 VStem: 44 152<0 476> 503 153<192 668>
 TtInstrs:
 PUSHB_2
@@ -24827,9 +24660,8 @@ AnchorPoint: "Anchor-1" 322 0 basechar 0
 AnchorPoint: "Anchor-0" 365 877 basechar 0
 LayerCount: 2
 Fore
+Refer: 336 780 N 1 0 0 1 168 172 2
 Refer: 28 78 N 1 0 0 1 0 0 3
-Refer: 68 711 N 1 0 0 1 131 157 2
-Validated: 1
 EndChar
 
 StartChar: ncaron
@@ -24843,9 +24675,8 @@ AnchorPoint: "Anchor-1" 286 0 basechar 0
 AnchorPoint: "Anchor-0" 305 720 basechar 0
 LayerCount: 2
 Fore
-Refer: 54 110 N 1 0 0 1 0 0 3
 Refer: 336 780 N 1 0 0 1 108 0 2
-Validated: 1
+Refer: 54 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Zacute
@@ -24853,15 +24684,14 @@ Encoding: 388 377 295
 Width: 621
 GlyphClass: 2
 Flags: W
-HStem: 0 139<240 589> 529 139<47 369> 731 154<359.063 395.077>
-VStem: 241 218
+HStem: 0 139<240 589> 529 139<47 369> 746 153<351.376 386.382>
+VStem: 243 208
 AnchorPoint: "Anchor-1" 311 0 basechar 0
 AnchorPoint: "Anchor-0" 350 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 332 769 N 1 0 0 1 243 172 2
 Refer: 40 90 N 1 0 0 1 0 0 3
-Refer: 333 -1 N 1 0 0 1 241 0 2
-Validated: 1
 EndChar
 
 StartChar: zacute
@@ -24875,9 +24705,8 @@ AnchorPoint: "Anchor-1" 258 0 basechar 0
 AnchorPoint: "Anchor-0" 304 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 66 122 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 200 0 2
-Validated: 1
+Refer: 66 122 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Zdotaccent
@@ -24885,8 +24714,8 @@ Encoding: 390 379 297
 Width: 621
 GlyphClass: 2
 Flags: W
-HStem: 0 139<240 589> 529 139<47 369> 726 141<261.658 359.857>
-VStem: 240 141<747.143 845.342>
+HStem: 0 139<240 589> 529 139<47 369> 750 141<261.658 359.857>
+VStem: 240 141<771.143 869.342>
 TtInstrs:
 PUSHB_2
  1
@@ -24901,9 +24730,8 @@ AnchorPoint: "Anchor-1" 311 0 basechar 0
 AnchorPoint: "Anchor-0" 311 867 basechar 0
 LayerCount: 2
 Fore
+Refer: 345 775 N 1 0 0 1 240 172 2
 Refer: 40 90 N 1 0 0 1 0 0 3
-Refer: 70 729 N 1 0 0 1 210 148 2
-Validated: 1
 EndChar
 
 StartChar: zdotaccent
@@ -24917,9 +24745,8 @@ AnchorPoint: "Anchor-1" 258 0 basechar 0
 AnchorPoint: "Anchor-0" 268 719 basechar 0
 LayerCount: 2
 Fore
-Refer: 66 122 N 1 0 0 1 0 0 3
 Refer: 345 775 N 1 0 0 1 197 0 2
-Validated: 1
+Refer: 66 122 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Hbar
@@ -25131,7 +24958,7 @@ Encoding: 394 286 301
 Width: 719
 GlyphClass: 2
 Flags: W
-HStem: -12 130<291.336 472.04> 0 21G<573.054 683> 250 128<375 525> 550 130<290.994 463.09> 731 77<323.046 416.551>
+HStem: -12 130<291.336 472.04> 0 21G<573.054 683> 250 128<375 525> 550 130<290.994 463.09> 741 77<323.046 416.551>
 VStem: 35 167<216.912 451.58> 226 287 525 158<164.005 250>
 TtInstrs:
 PUSHB_2
@@ -25147,9 +24974,8 @@ AnchorPoint: "Anchor-1" 350 0 basechar 0
 AnchorPoint: "Anchor-0" 370 851 basechar 0
 LayerCount: 2
 Fore
+Refer: 334 774 N 1 0 0 1 226 172 2
 Refer: 21 71 N 1 0 0 1 0 0 3
-Refer: 69 728 N 1 0 0 1 169 162 2
-Validated: 1
 EndChar
 
 StartChar: gbreve
@@ -25163,9 +24989,8 @@ AnchorPoint: "Anchor-1" 299 -251 basechar 0
 AnchorPoint: "Anchor-0" 297 689 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 103 N 1 0 0 1 0 0 3
 Refer: 334 774 N 1 0 0 1 153 0 2
-Validated: 1
+Refer: 47 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Gdotaccent
@@ -25173,8 +24998,8 @@ Encoding: 178 288 303
 Width: 719
 GlyphClass: 2
 Flags: W
-HStem: -12 130<291.336 472.04> 0 21G<573.054 683> 250 128<375 525> 550 130<290.994 463.09> 726 141<320.658 418.857>
-VStem: 35 167<216.912 451.58> 299 141<747.143 845.342> 525 158<164.005 250>
+HStem: -12 130<291.336 472.04> 0 21G<573.054 683> 250 128<375 525> 550 130<290.994 463.09> 750 141<320.658 418.857>
+VStem: 35 167<216.912 451.58> 299 141<771.143 869.342> 525 158<164.005 250>
 TtInstrs:
 PUSHB_2
  1
@@ -25189,9 +25014,8 @@ AnchorPoint: "Anchor-1" 350 0 basechar 0
 AnchorPoint: "Anchor-0" 370 867 basechar 0
 LayerCount: 2
 Fore
+Refer: 345 775 N 1 0 0 1 299 172 2
 Refer: 21 71 N 1 0 0 1 0 0 3
-Refer: 70 729 N 1 0 0 1 269 148 2
-Validated: 1
 EndChar
 
 StartChar: gdotaccent
@@ -25205,9 +25029,8 @@ AnchorPoint: "Anchor-1" 299 -251 basechar 0
 AnchorPoint: "Anchor-0" 297 719 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 103 N 1 0 0 1 0 0 3
 Refer: 345 775 N 1 0 0 1 226 0 2
-Validated: 1
+Refer: 47 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0123
@@ -25247,9 +25070,8 @@ AnchorPoint: "Anchor-1" 246 -251 basechar 0
 AnchorPoint: "Anchor-0" 269 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 26 76 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 136 0 2
-Validated: 1
+Refer: 26 76 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni013C
@@ -25263,9 +25085,8 @@ AnchorPoint: "Anchor-1" 144 -251 basechar 0
 AnchorPoint: "Anchor-0" 129 680 basechar 0
 LayerCount: 2
 Fore
-Refer: 52 108 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 34 0 2
-Validated: 1
+Refer: 52 108 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Tcaron
@@ -25273,7 +25094,7 @@ Encoding: 399 356 308
 Width: 617
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<230 387> 529 139<15 230 387 602> 725 152
+HStem: 0 21G<230 387> 529 139<15 230 387 602> 740 152
 VStem: 230 157<0 529>
 TtInstrs:
 PUSHB_2
@@ -25289,9 +25110,8 @@ AnchorPoint: "Anchor-1" 309 0 basechar 0
 AnchorPoint: "Anchor-0" 309 877 basechar 0
 LayerCount: 2
 Fore
+Refer: 336 780 N 1 0 0 1 112 172 2
 Refer: 34 84 N 1 0 0 1 0 0 3
-Refer: 68 711 N 1 0 0 1 75 157 2
-Validated: 1
 Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 17 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -25384,9 +25204,8 @@ AnchorPoint: "Anchor-1" 299 -251 basechar 0
 AnchorPoint: "Anchor-0" 365 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 28 78 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 189 0 2
-Validated: 1
+Refer: 28 78 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0146
@@ -25400,9 +25219,8 @@ AnchorPoint: "Anchor-1" 263 -251 basechar 0
 AnchorPoint: "Anchor-0" 305 496 basechar 0
 LayerCount: 2
 Fore
-Refer: 54 110 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 153 0 2
-Validated: 1
+Refer: 54 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Racute
@@ -25410,15 +25228,14 @@ Encoding: 405 340 314
 Width: 654
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<44 202 439.635 637> 252 132<202 273> 535 133<202 411.881> 731 154<355.063 391.077>
-VStem: 44 158<0 252 384 535> 237 218 437 167<407.418 511.648>
+HStem: 0 21G<44 202 439.635 637> 252 132<202 273> 535 133<202 411.881> 746 153<347.376 382.382>
+VStem: 44 158<0 252 384 535> 239 208 437 167<407.418 511.648>
 AnchorPoint: "Anchor-1" 327 0 basechar 0
 AnchorPoint: "Anchor-0" 346 885 basechar 0
 LayerCount: 2
 Fore
+Refer: 332 769 N 1 0 0 1 239 172 2
 Refer: 32 82 N 1 0 0 1 0 0 3
-Refer: 333 -1 N 1 0 0 1 237 0 2
-Validated: 1
 EndChar
 
 StartChar: racute
@@ -25432,9 +25249,8 @@ AnchorPoint: "Anchor-1" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 257 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 58 114 N 1 0 0 1 0 0 3
 Refer: 332 769 N 1 0 0 1 153 0 2
-Validated: 1
+Refer: 58 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Rcaron
@@ -25442,7 +25258,7 @@ Encoding: 407 344 316
 Width: 654
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<44 202 439.635 637> 252 132<202 273> 535 133<202 411.881> 725 152
+HStem: 0 21G<44 202 439.635 637> 252 132<202 273> 535 133<202 411.881> 740 152
 VStem: 44 158<0 252 384 535> 437 167<407.418 511.648>
 TtInstrs:
 PUSHB_2
@@ -25458,9 +25274,8 @@ AnchorPoint: "Anchor-1" 327 0 basechar 0
 AnchorPoint: "Anchor-0" 307 877 basechar 0
 LayerCount: 2
 Fore
+Refer: 336 780 N 1 0 0 1 110 172 2
 Refer: 32 82 N 1 0 0 1 0 0 3
-Refer: 68 711 N 1 0 0 1 73 157 2
-Validated: 1
 EndChar
 
 StartChar: rcaron
@@ -25474,9 +25289,8 @@ AnchorPoint: "Anchor-1" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 221 720 basechar 0
 LayerCount: 2
 Fore
-Refer: 58 114 N 1 0 0 1 0 0 3
 Refer: 336 780 N 1 0 0 1 24 0 2
-Validated: 1
+Refer: 58 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Dcroat
@@ -25758,7 +25572,7 @@ Encoding: 411 270 320
 Width: 686
 GlyphClass: 2
 Flags: W
-HStem: 0 133<202 396.444> 537 131<202 394.188> 725 152
+HStem: 0 133<202 396.444> 537 131<202 394.188> 740 152
 VStem: 44 158<133 537> 488 163<221.226 447.903>
 TtInstrs:
 PUSHB_2
@@ -25774,9 +25588,8 @@ AnchorPoint: "Anchor-1" 343 0 basechar 0
 AnchorPoint: "Anchor-0" 333 877 basechar 0
 LayerCount: 2
 Fore
+Refer: 336 780 N 1 0 0 1 129 172 2
 Refer: 18 68 N 1 0 0 1 0 0 3
-Refer: 68 711 N 1 0 0 1 99 157 2
-Validated: 1
 Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -25816,9 +25629,8 @@ AnchorPoint: "Anchor-1" 296 -251 basechar 0
 AnchorPoint: "Anchor-0" 330 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 25 75 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 186 0 2
-Validated: 1
+Refer: 25 75 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0137
@@ -25832,9 +25644,8 @@ AnchorPoint: "Anchor-1" 261 -251 basechar 0
 AnchorPoint: "Anchor-0" 284 796 basechar 0
 LayerCount: 2
 Fore
-Refer: 51 107 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 151 0 2
-Validated: 1
+Refer: 51 107 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0122
@@ -25848,9 +25659,8 @@ AnchorPoint: "Anchor-1" 327 -251 basechar 0
 AnchorPoint: "Anchor-0" 370 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 21 71 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 217 0 2
-Validated: 1
+Refer: 21 71 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ccaron
@@ -25858,7 +25668,7 @@ Encoding: 416 268 325
 Width: 673
 GlyphClass: 2
 Flags: W
-HStem: -12 130<291.107 460.991> 550 130<290.443 454.592> 725 152
+HStem: -12 130<291.107 460.991> 550 130<290.443 454.592> 740 152
 VStem: 35 167<215.231 450.159>
 TtInstrs:
 PUSHB_2
@@ -25874,9 +25684,8 @@ AnchorPoint: "Anchor-1" 357 0 basechar 0
 AnchorPoint: "Anchor-0" 357 877 basechar 0
 LayerCount: 2
 Fore
+Refer: 336 780 N 1 0 0 1 160 172 2
 Refer: 17 67 N 1 0 0 1 0 0 3
-Refer: 68 711 N 1 0 0 1 123 157 2
-Validated: 1
 EndChar
 
 StartChar: ccaron
@@ -25890,9 +25699,8 @@ AnchorPoint: "Anchor-1" 275 0 basechar 0
 AnchorPoint: "Anchor-0" 280 720 basechar 0
 LayerCount: 2
 Fore
-Refer: 43 99 N 1 0 0 1 0 0 3
 Refer: 336 780 N 1 0 0 1 83 0 2
-Validated: 1
+Refer: 43 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Scedilla
@@ -25906,9 +25714,8 @@ AnchorPoint: "Anchor-1" 329 -187 basechar 0
 AnchorPoint: "Anchor-0" 304 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 33 83 N 1 0 0 1 0 0 3
 Refer: 339 807 N 1 0 0 1 221 0 2
-Validated: 5
+Refer: 33 83 N 1 0 0 1 0 0 3
 Kerns2: 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" uni0218
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0218
@@ -25925,9 +25732,8 @@ AnchorPoint: "Anchor-1" 267 -187 basechar 0
 AnchorPoint: "Anchor-0" 268 496 basechar 0
 LayerCount: 2
 Fore
-Refer: 59 115 N 1 0 0 1 0 0 3
 Refer: 339 807 N 1 0 0 1 159 0 2
-Validated: 5
+Refer: 59 115 N 1 0 0 1 0 0 3
 Kerns2: 24 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" uni0219
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0219
@@ -25944,9 +25750,8 @@ AnchorPoint: "Anchor-1" 306 -251 basechar 0
 AnchorPoint: "Anchor-0" 304 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 33 83 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 196 0 2
-Validated: 1
+Refer: 33 83 N 1 0 0 1 0 0 3
 Kerns2: 37 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -25955,15 +25760,14 @@ Encoding: 421 354 330
 Width: 617
 GlyphClass: 2
 Flags: W
-HStem: -251 45<228 249.636> 0 21G<230 387> 529 139<15 230 387 602>
-VStem: 230 157<0 529> 278 118<-186.134 -106.229>
+HStem: -187 50<217.252 308.593> 0 21G<230 387> 529 139<15 230 387 602>
+VStem: 230 157<0 529> 322 94<-132.33 -88.5135>
 AnchorPoint: "Anchor-1" 286 -251 basechar 0
 AnchorPoint: "Anchor-0" 309 668 basechar 0
 LayerCount: 2
 Fore
+Refer: 339 807 N 1 0 0 1 201 0 2
 Refer: 34 84 N 1 0 0 1 0 0 3
-Refer: 342 806 N 1 0 0 1 176 0 2
-Validated: 1
 Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 17 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" uni021A
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni021A
@@ -25980,9 +25784,8 @@ AnchorPoint: "Anchor-1" 286 -251 basechar 0
 AnchorPoint: "Anchor-0" 309 668 basechar 0
 LayerCount: 2
 Fore
-Refer: 34 84 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 176 0 2
-Validated: 1
+Refer: 34 84 N 1 0 0 1 0 0 3
 Kerns2: 24 -104 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 35 17 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -28185,9 +27988,8 @@ AnchorPoint: "Anchor-1" 244 -251 basechar 0
 AnchorPoint: "Anchor-0" 268 496 basechar 0
 LayerCount: 2
 Fore
-Refer: 59 115 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 134 0 2
-Validated: 1
+Refer: 59 115 N 1 0 0 1 0 0 3
 Kerns2: 24 21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 36 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -28253,52 +28055,8 @@ AnchorPoint: "Anchor-1" 216 -251 basechar 0
 AnchorPoint: "Anchor-0" 190 496 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-219 -187 m 0,0,1
- 195 -187 195 -187 172.5 -183.5 c 128,-1,2
- 150 -180 150 -180 131 -174 c 1,3,-1
- 147 -124 l 1,4,5
- 155 -128 155 -128 172.5 -132.5 c 128,-1,6
- 190 -137 190 -137 208 -137 c 128,-1,7
- 226 -137 226 -137 239 -131 c 128,-1,8
- 252 -125 252 -125 252 -110 c 0,9,10
- 252 -98 252 -98 242 -91 c 128,-1,11
- 232 -84 232 -84 215 -84 c 0,12,13
- 203 -84 203 -84 188 -89 c 0,14,15
- 179 -92 179 -92 171 -87 c 0,16,17
- 164 -83 164 -83 161.5 -74.5 c 128,-1,18
- 159 -66 159 -66 163 -59 c 2,19,-1
- 201.350523703 2.95084598249 l 1,20,21
- 178.915485227 5.56631680882 178.915485227 5.56631680882 162 10.5 c 0,22,23
- 126 21 126 21 110.5 51.5 c 128,-1,24
- 95 82 95 82 95 140 c 2,25,-1
- 95 380 l 1,26,-1
- 13 380 l 1,27,-1
- 13 496 l 1,28,-1
- 95 496 l 1,29,-1
- 95 620 l 1,30,-1
- 247 620 l 1,31,-1
- 247 496 l 1,32,-1
- 355 496 l 1,33,-1
- 355 380 l 1,34,-1
- 247 380 l 1,35,-1
- 247 180 l 2,36,37
- 247 145 247 145 260.5 134.5 c 128,-1,38
- 274 124 274 124 311 124 c 2,39,-1
- 355 124 l 1,40,-1
- 355 0 l 1,41,-1
- 259 0 l 2,42,43
- 257.487013301 0 257.487013301 0 255.989406397 0.00645951408157 c 1,44,-1
- 256 0 l 1,45,-1
- 226 -48 l 1,46,47
- 240 -45 240 -45 260 -45 c 0,48,49
- 279 -45 279 -45 299 -51 c 128,-1,50
- 319 -57 319 -57 332.5 -70.5 c 128,-1,51
- 346 -84 346 -84 346 -107 c 0,52,53
- 346 -136 346 -136 327.5 -153.5 c 128,-1,54
- 309 -171 309 -171 280 -179 c 128,-1,55
- 251 -187 251 -187 219 -187 c 0,0,1
-EndSplineSet
+Refer: 339 807 N 1 0 0 1 131 0 2
+Refer: 60 116 N 1 0 0 1 0 0 3
 Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" uni021B
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni021B
 EndChar
@@ -28314,8 +28072,8 @@ AnchorPoint: "Anchor-1" 216 -251 basechar 0
 AnchorPoint: "Anchor-0" 190 496 basechar 0
 LayerCount: 2
 Fore
-Refer: 60 116 N 1 0 0 1 0 0 3
 Refer: 342 806 N 1 0 0 1 106 0 2
+Refer: 60 116 N 1 0 0 1 0 0 3
 Kerns2: 52 28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -28835,11 +28593,11 @@ VStem: 24 158<159.579 341.684> 394 152<428 555 633 698> 401 145<152.922 344.443>
 LayerCount: 2
 Fore
 SplineSet
-58 -120 m 1,0,-1
- 58 -42 l 1,1,-1
- 588 -42 l 1,2,-1
- 588 -120 l 1,3,-1
- 58 -120 l 1,0,-1
+58 -120 m 1
+ 58 -42 l 1
+ 588 -42 l 1
+ 588 -120 l 1
+ 58 -120 l 1
   Spiro
     58 -120 v
     58 -42 v
@@ -28854,88 +28612,88 @@ EndChar
 StartChar: uni1E02
 Encoding: 161 7682 375
 Width: 639
-HStem: 0 131<202 423.697> 282 122<202 402.793> 539 129<202 402.793> 740 141<281.658 379.857>
-VStem: 44 158<131 282 404 539> 260 141<761.143 859.342> 426 164<423.071 521.023> 450 167<155.38 258.239>
+HStem: 0 131<202 423.697> 282 122<202 402.793> 539 129<202 402.793> 750 141<236.658 334.857>
+VStem: 44 158<131 282 404 539> 215 141<771.143 869.342> 426 164<423.071 521.023> 450 167<155.38 258.239>
 LayerCount: 2
 Fore
-Refer: 345 775 N 1 0 0 1 260 162 2
+Refer: 345 775 N 1 0 0 1 215 172 2
 Refer: 16 66 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E03
 Encoding: 162 7683 376
 Width: 596
-HStem: -12 118<263.632 364.702> 0 21G<50 188.672> 392 118<266.793 365.802> 592 141<303.658 401.857> 648 20G<50 202>
-VStem: 50 145<152.922 344.443> 50 152<428 668> 282 141<613.143 711.342> 414 158<159.579 341.684>
+HStem: -12 118<263.632 364.702> 0 21G<50 188.672> 392 118<266.793 365.802> 578 141<305.658 403.857> 648 20G<50 202>
+VStem: 50 145<152.922 344.443> 50 152<428 668> 284 141<599.143 697.342> 414 158<159.579 341.684>
 LayerCount: 2
 Fore
-Refer: 345 775 N 1 0 0 1 282 14 2
+Refer: 345 775 N 1 0 0 1 284 0 2
 Refer: 42 98 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E0A
 Encoding: 166 7690 377
 Width: 686
-HStem: 0 133<202 396.444> 537 131<202 394.188> 750 141<283.658 381.857>
-VStem: 44 158<133 537> 262 141<771.143 869.342> 488 163<221.226 447.903>
+HStem: 0 133<202 396.444> 537 131<202 394.188> 750 141<276.658 374.857>
+VStem: 44 158<133 537> 255 141<771.143 869.342> 488 163<221.226 447.903>
 LayerCount: 2
 Fore
-Refer: 345 775 N 1 0 0 1 262 172 2
+Refer: 345 775 N 1 0 0 1 255 172 2
 Refer: 18 68 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E0B
 Encoding: 171 7691 378
 Width: 596
-HStem: -12 118<231.329 333.157> 0 21G<412.03 563> 392 118<230.222 329.591> 592 141<193.658 291.857> 648 20G<394 546>
-VStem: 24 158<159.579 341.684> 172 141<613.143 711.342> 394 152<428 668> 401 145<152.922 344.443>
+HStem: -12 118<231.329 333.157> 0 21G<412.03 563> 392 118<230.222 329.591> 578 141<190.658 288.857> 648 20G<394 546>
+VStem: 24 158<159.579 341.684> 169 141<599.143 697.342> 394 152<428 668> 401 145<152.922 344.443>
 LayerCount: 2
 Fore
-Refer: 345 775 N 1 0 0 1 172 14 2
+Refer: 345 775 N 1 0 0 1 169 0 2
 Refer: 44 100 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E1E
 Encoding: 176 7710 379
 Width: 544
-HStem: 0 21G<44 202> 274 139<202 522> 529 139<202 522> 740 141<234.158 332.357>
-VStem: 44 158<0 274 413 529> 212.5 141<761.143 859.342>
+HStem: 0 21G<44 202> 274 139<202 522> 529 139<202 522> 750 141<223.658 321.857>
+VStem: 44 158<0 274 413 529> 202 141<771.143 869.342>
 LayerCount: 2
 Fore
-Refer: 345 775 N 1 0 0 1 212.5 162 2
+Refer: 345 775 N 1 0 0 1 202 172 2
 Refer: 20 70 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E1F
 Encoding: 177 7711 380
 Width: 367
-HStem: 0 21G<87 239> 380 116<5 87 239 347> 608 120<252.413 347> 740 141<30.6582 128.857>
-VStem: 9 141<761.143 859.342> 87 152<0 380 496 599.745>
+HStem: 0 21G<87 239> 380 116<5 87 239 347> 608 120<252.413 347> 750 141<30.6582 128.857>
+VStem: 9 141<771.143 869.342> 87 152<0 380 496 599.745>
 LayerCount: 2
 Fore
-Refer: 345 775 N 1 0 0 1 9 162 2
+Refer: 345 775 N 1 0 0 1 9 172 2
 Refer: 46 102 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Wgrave
 Encoding: 168 7808 381
 Width: 883
-HStem: 0 21G<166.18 344.298 538.66 716.82> 648 20G<10 172.017 354.767 527.276 710.983 873> 740 154<355.118 390.219>
-VStem: 290.5 208
+HStem: 0 21G<166.18 344.298 538.66 716.82> 648 20G<10 172.017 354.767 527.276 710.983 873> 746 154<366.618 401.719>
+VStem: 302 208
 LayerCount: 2
 Fore
-Refer: 349 768 N 1 0 0 1 290.5 166 2
+Refer: 349 768 N 1 0 0 1 302 172 2
 Refer: 37 87 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Wacute
 Encoding: 170 7810 382
 Width: 883
-HStem: 0 21G<166.18 344.298 538.66 716.82> 648 20G<10 172.017 354.767 527.276 710.983 873> 740 153<435.876 470.882>
-VStem: 327.5 208
+HStem: 0 21G<166.18 344.298 538.66 716.82> 648 20G<10 172.017 354.767 527.276 710.983 873> 746 153<481.376 516.382>
+VStem: 373 208
 LayerCount: 2
 Fore
-Refer: 332 769 N 1 0 0 1 327.5 166 2
+Refer: 332 769 N 1 0 0 1 373 172 2
 Refer: 37 87 N 1 0 0 1 0 0 3
 EndChar
 
@@ -28953,33 +28711,33 @@ EndChar
 StartChar: uni1E40
 Encoding: 180 7744 384
 Width: 842
-HStem: 0 21G<44 197 348.981 491.057 644 798> 648 20G<44 286.804 555.113 798> 740 141<372.158 470.357>
-VStem: 44 153<0 525> 350.5 141<761.143 859.342> 644 154<0 525>
+HStem: 0 21G<44 197 348.981 491.057 644 798> 648 20G<44 286.804 555.113 798> 750 141<370.658 468.857>
+VStem: 44 153<0 525> 349 141<771.143 869.342> 644 154<0 525>
 LayerCount: 2
 Fore
-Refer: 345 775 N 1 0 0 1 350.5 162 2
+Refer: 345 775 N 1 0 0 1 349 172 2
 Refer: 27 77 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E41
 Encoding: 181 7745 385
 Width: 886
-HStem: 0 21G<50 202 366 519 684 836> 392 118<265.284 381.5 570.779 716.5> 476 20G<50 188.758> 578 141<393.658 491.857>
-VStem: 50 152<0 357.993> 366 153<0 360.437> 372 141<599.143 697.342> 684 152<0 371.07>
+HStem: 0 21G<50 202 366 519 684 836> 392 118<265.284 381.5 570.779 716.5> 476 20G<50 188.758> 578 141<401.658 499.857>
+VStem: 50 152<0 357.993> 366 153<0 360.437> 380 141<599.143 697.342> 684 152<0 371.07>
 LayerCount: 2
 Fore
-Refer: 345 775 N 1 0 0 1 372 0 2
+Refer: 345 775 N 1 0 0 1 380 0 2
 Refer: 53 109 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E56
 Encoding: 183 7766 386
 Width: 626
-HStem: 0 21G<44 202> 232 131<202 404.876> 535 133<202 407.22> 740 141<123.658 221.857>
-VStem: 44 158<0 232 363 535> 102 141<761.143 859.342> 437 167<394.584 504.287>
+HStem: 0 21G<44 202> 232 131<202 404.876> 535 133<202 407.22> 750 141<242.658 340.857>
+VStem: 44 158<0 232 363 535> 221 141<771.143 869.342> 437 167<394.584 504.287>
 LayerCount: 2
 Fore
-Refer: 345 775 N 1 0 0 1 102 162 2
+Refer: 345 775 N 1 0 0 1 221 172 2
 Refer: 30 80 N 1 0 0 1 0 0 3
 EndChar
 
@@ -28997,11 +28755,11 @@ EndChar
 StartChar: uni1E57
 Encoding: 185 7767 388
 Width: 596
-HStem: -161 21G<50 202> -12 118<268.081 365.802> 392 118<266.793 364.702> 476 20G<50 187.882> 570 141<304.158 402.357>
-VStem: 50 145<154.896 346.418> 50 152<-161 71> 282.5 141<591.143 689.342> 414 158<157.166 338.529>
+HStem: -161 21G<50 202> -12 118<268.081 365.802> 392 118<266.793 364.702> 476 20G<50 187.882> 578 141<298.658 396.857>
+VStem: 50 145<154.896 346.418> 50 152<-161 71> 277 141<599.143 697.342> 414 158<157.166 338.529>
 LayerCount: 2
 Fore
-Refer: 345 775 N 1 0 0 1 282.5 -8 2
+Refer: 345 775 N 1 0 0 1 277 0 2
 Refer: 56 112 N 1 0 0 1 0 0 3
 EndChar
 
@@ -29041,11 +28799,11 @@ EndChar
 StartChar: Wdieresis
 Encoding: 189 7812 392
 Width: 883
-HStem: 0 21G<166.18 344.298 538.66 716.82> 648 20G<10 172.017 354.767 527.276 710.983 873> 740 141<296.158 394.357 490.158 587.873>
-VStem: 274.5 141<761.143 859.342> 468.5 140<761.143 859.342>
+HStem: 0 21G<166.18 344.298 538.66 716.82> 648 20G<10 172.017 354.767 527.276 710.983 873> 750 141<295.658 393.857 489.658 587.373>
+VStem: 274 141<771.143 869.342> 468 140<771.143 869.342>
 LayerCount: 2
 Fore
-Refer: 343 776 N 1 0 0 1 274.5 162 2
+Refer: 343 776 N 1 0 0 1 274 172 2
 Refer: 37 87 N 1 0 0 1 0 0 3
 EndChar
 
@@ -29074,10 +28832,10 @@ EndChar
 StartChar: Wcircumflex
 Encoding: 208 372 395
 Width: 883
-HStem: 0 21G<166.18 344.298 538.66 716.82> 648 20G<10 172.017 354.767 527.276 710.983 873> 740 152
+HStem: 0 21G<166.18 344.298 538.66 716.82> 648 20G<10 172.017 354.767 527.276 710.983 873> 746 152
 LayerCount: 2
 Fore
-Refer: 340 770 N 1 0 0 1 245 166 2
+Refer: 340 770 N 1 0 0 1 244 172 2
 Refer: 37 87 N 1 0 0 1 0 0 3
 EndChar
 
