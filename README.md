@@ -11,8 +11,8 @@ With Alternative Flipped Zero, Improved Kerning and Ligatures
 Atkinson Hyperlegible Pro is an update to the original typeface designed for The Braille Institute and named after its founder J. Robert Atkinson. What makes it different from traditional typography design is that it focuses on letterform distinction to increase character recognition, ultimately improving legibility and readability for low-vision readers. The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
 
 * Four fonts, including two weights (regular, bold, italics, italics bold)
-* 1,604 total glyphs across all fonts, 401 per font
-* Accent characters supporting 82 languages
+* 1,640 total glyphs across all fonts, 410 per font
+* Accent characters supporting 84 languages
 * Improve legibility and readability for low vision readers
 * Improve kerning for headings and UI text
 * Includes ligatures for `fi ff ffi fl ffl`
@@ -43,6 +43,11 @@ And thats it the zero has been flipped!!
 
 ## Added Characters and Glyphs
 
+* Ligature Ij `Ij` `U+0132` and `ĳ` `U+0133`
+* L with acute `Ĺ` `U+0139` and `ĺ` `U+013A`
+* I with dot above `İ` `U+0130`
+* O with Macron `Ō` `U+014C` and `ō` `U+014D`
+* R with cedilla `Ŗ` `U+0156` and `ŗ` `U+0157`
 * T with dot above `Ṫ` `U+1E6A` and `ṫ` `U+1E6B`
 * S with dot above `Ṡ` `U+1E60` and `ṡ` `U+1E61`
 * P with dot above `Ṗ` `U+1E56` and `ṗ` `U+1E57`
@@ -76,9 +81,9 @@ And thats it the zero has been flipped!!
 
 Help us extend Atkinson Hyperlegible Pro to other languages, I am currently working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00)” this will also include new diacritic and marks.
 
-## Language Support (82)
+## Language Support (84)
 
-Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish Croatian Czech Danish Dutch English Estonian Faroese Filipino Finnish French Friulian Galician German Gusii Hungarian Icelandic Indonesian Irish Italian Kabuverdianu Kalenjin Kinyarwanda Latvian Lithuanian Lower Sorbian Luo Luxembourgish Luyia Machame Makhuwa-Meetto Makonde Malagasy Maltese Manx Morisyen North Ndebele Norwegian Bokmål Norwegian Nynorsk Nyankole Oromo Polish Portuguese Quechua Romanian Romansh Rombo Rundi Rwa Samburu Sango Sangu Scottish Gaelic Sena Serbian Shambala Shona Soga Somali Spanish Swahili Swedish Swiss German Taita Teso Upper Sorbian Uzbek (Latin) Volapük Vunjo Welsh Western Frisian Zulu.
+Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish Croatian Czech Danish Dutch English Estonian Faroese Filipino Finnish French Friulian Galician German Gusii Hungarian Icelandic Indonesian Irish Italian Kabuverdianu Kalenjin Kinyarwanda Latvian Lithuanian Lower Sorbian Luo Luxembourgish Luyia Machame Makhuwa-Meetto Makonde Malagasy Maltese Manx Morisyen North Ndebele Norwegian Bokmål Norwegian Nynorsk Nyankole Oromo Polish Portuguese Quechua Romanian Romansh Rombo Rundi Rwa Samburu Sango Sangu Scottish Gaelic Sena Serbian Shambala Shona Slovak Soga Somali Spanish Swahili Swedish Swiss German Taita Teso Turkish Upper Sorbian Uzbek (Latin) Volapük Vunjo Welsh Western Frisian Zulu.
 
 ## Unique design features
 
