@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1696458683
+ModificationTime: 1696486690
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -4037,7 +4037,7 @@ WinInfo: 209 19 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 3 subtable"
-BeginChars: 472 408
+BeginChars: 474 410
 
 StartChar: .notdef
 Encoding: 256 -1 0
@@ -28823,6 +28823,27 @@ LayerCount: 2
 Fore
 Refer: 331 769 S 1 0 0 1 54 172 2
 Refer: 26 76 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: IJ
+Encoding: 472 306 408
+Width: 1025
+HStem: -12 125<607.473 743.269> 0 124<13 105 267 331> 544 124<129 195 355 447> 648 20G<880.777 1047>
+LayerCount: 2
+Fore
+Refer: 24 74 N 1 0 0 1 459 0 2
+Refer: 23 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ij
+Encoding: 473 307 409
+Width: 601
+HStem: -162 120<190 313.625> 0 21G<48 208.234> 380 116<51 129> 476 20G<426.755 587> 578 179<207.972 325.02> 578 180<485.561 602.439>
+VStem: 177 179<609.561 726.028> 454 180<609.561 727.02>
+LayerCount: 2
+Fore
+Refer: 50 106 N 1 0 0 1 338 0 2
+Refer: 49 105 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
