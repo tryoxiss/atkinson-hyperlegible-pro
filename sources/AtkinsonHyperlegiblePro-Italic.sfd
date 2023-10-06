@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1696491343
+ModificationTime: 1696580186
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -87,75 +87,75 @@ MarkAttachSets: 2
 DEI: 91125
 KernClass2: 39+ 31 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  119 h m n agrave aacute acircumflex atilde adieresis aring ntilde amacron abreve aogonek nacute ncaron hbar uni0146 uni1E41
- 93 b o p ograve oacute ocircumflex otilde odieresis oslash ohungarumlaut uni1E03 uni1E57 omacron
- 77 e ae egrave eacute ecircumflex edieresis oe emacron edotaccent eogonek ecaron
- 77 E AE Egrave Eacute Ecircumflex Edieresis OE Emacron Edotaccent Eogonek Ecaron
- 105 D O Eth Ograve Oacute Ocircumflex Otilde Odieresis Oslash eth Ohungarumlaut Dcroat Dcaron uni1E0A Omacron
  73 A Acircumflex Atilde Adieresis Aring Agrave Aacute Amacron Abreve Aogonek
- 73 u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek
- 64 I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent
- 40 S uni1E60 Scaron Sacute Scedilla uni0218
- 40 s uni1E61 scaron sacute scedilla uni0219
- 35 c cdotaccent ccedilla cacute ccaron
- 73 U Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek
+ 9 B uni1E02
+ 93 b o p ograve oacute ocircumflex otilde odieresis oslash ohungarumlaut uni1E03 uni1E57 omacron
  35 C Cdotaccent Ccedilla Cacute Ccaron
- 26 z zcaron zacute zdotaccent
- 39 v y ygrave yacute ycircumflex ydieresis
- 25 t uni1E6B uni0163 uni021B
- 26 Z Zcaron Zacute Zdotaccent
- 32 T uni1E6A Tcaron uni0162 uni021A
- 37 Y Ygrave Ydieresis Yacute Ycircumflex
- 23 R Racute Rcaron uni0156
+ 35 c cdotaccent ccedilla cacute ccaron
+ 105 D O Eth Ograve Oacute Ocircumflex Otilde Odieresis Oslash eth Ohungarumlaut Dcroat Dcaron uni1E0A Omacron
+ 77 E AE Egrave Eacute Ecircumflex Edieresis OE Emacron Edotaccent Eogonek Ecaron
+ 77 e ae egrave eacute ecircumflex edieresis oe emacron edotaccent eogonek ecaron
  27 f uni1E1F florin dcroat f_f
+ 64 I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent
+ 4 J IJ
+ 4 j ij
+ 9 K uni0136
+ 9 k uni0137
  30 L Lslash Lcaron uni013B Lacute
  26 l uni013C f_l f_f_l lacute
  20 lcaron tcaron dcaron
- 9 K uni0136
- 9 k uni0137
- 1 q
- 9 B uni1E02
- 1 V
- 25 W Wgrave Wacute Wdieresis
- 25 w wgrave wacute wdieresis
- 1 X
- 1 x
- 4 J IJ
- 4 j ij
  9 P uni1E56
+ 1 q
+ 23 R Racute Rcaron uni0156
  23 r racute rcaron uni0157
- 24 quoteright quotedblright
- 49 comma period quotesinglbase quotedblbase ellipsis
- 231 c d e o q ccedilla egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash partialdiff oe emacron edotaccent eogonek ecaron ohungarumlaut cacute cdotaccent dcroat dcaron ccaron dong uni1E0B omacron
- 135 C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis OE Ohungarumlaut Cacute Cdotaccent Gbreve Gdotaccent Ccaron uni0122 Omacron
- 76 a agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek
- 73 A Acircumflex Atilde Adieresis Aring Agrave Aacute Amacron Abreve Aogonek
- 73 u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek
- 65 i igrave iacute icircumflex idieresis imacron iogonek dotlessi ij
  40 S uni1E60 Scaron Sacute Scedilla uni0218
  40 s uni1E61 scaron sacute scedilla uni0219
- 74 m n p r ntilde nacute ncaron uni0146 racute rcaron uni1E41 uni1E57 uni0157
- 26 z zcaron zacute zdotaccent
- 39 v y ygrave yacute ycircumflex ydieresis
- 32 t uni1E6B tcaron uni0163 uni021B
- 27 g gdotaccent gbreve uni0123
- 24 T Tcaron uni0162 uni021A
- 37 Y Ygrave Ydieresis Yacute Ycircumflex
- 26 Z Zcaron Zacute Zdotaccent
- 33 f uni1E1F f_i f_f f_f_i f_l f_f_l
- 11 h k uni0137
+ 32 T uni1E6A Tcaron uni0162 uni021A
+ 25 t uni1E6B uni0163 uni021B
+ 73 U Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek
+ 73 u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek
  1 V
- 25 w wgrave wacute wdieresis
+ 39 v y ygrave yacute ycircumflex ydieresis
  25 W Wgrave Wacute Wdieresis
+ 25 w wgrave wacute wdieresis
  1 X
  1 x
- 2 AE
- 67 I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent IJ
- 1 J
- 1 j
- 73 U Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek
+ 37 Y Ygrave Ydieresis Yacute Ycircumflex
+ 26 Z Zcaron Zacute Zdotaccent
+ 26 z zcaron zacute zdotaccent
  24 quoteright quotedblright
  49 comma period quotesinglbase quotedblbase ellipsis
- 0 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} -14 {} -103 {} -66 {} 0 {} 0 {} 0 {} -54 {} 0 {} -28 {} 0 {} 0 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -106 {} -76 {} 0 {} 0 {} 0 {} -57 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -76 {} 0 {} 0 {} 0 {} -38 {} 0 {} -28 {} -19 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 17 {} 0 {} 18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -38 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -38 {} -47 {} -19 {} 0 {} 0 {} -28 {} 0 {} -19 {} -19 {} 0 {} -70 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 19 {} -18 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -32 {} 0 {} -66 {} -66 {} 0 {} 0 {} 0 {} -67 {} 0 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -65 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -68 {} -56 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -67 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -67 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -56 {} 0 {} 0 {} 0 {} 21 {} 0 {} 0 {} 10 {} 0 {} 0 {} -20 {} 0 {} -19 {} 21 {} 0 {} 0 {} 10 {} 0 {} -19 {} -5 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -38 {} -57 {} -66 {} -68 {} 0 {} 0 {} -38 {} -73 {} -30 {} -15 {} 0 {} -67 {} 22 {} 19 {} 0 {} 19 {} 0 {} 38 {} -10 {} 19 {} 0 {} -20 {} -125 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -76 {} -47 {} -76 {} -66 {} -38 {} 0 {} 0 {} -57 {} -44 {} -19 {} -19 {} 0 {} -85 {} 19 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} -157 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 18 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} -18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} -82 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 28 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} -104 {} -85 {} 0 {} 0 {} 0 {} -66 {} -47 {} -38 {} 28 {} 28 {} 0 {} 0 {} 28 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 31 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} 20 {} 30 {} 0 {} 30 {} 30 {} 67 {} 40 {} 0 {} 100 {} 90 {} 40 {} 50 {} 27 {} 80 {} 40 {} 80 {} 40 {} 27 {} 12 {} 0 {} 0 {} 0 {} 0 {} 40 {} 31 {} 0 {} -27 {} -47 {} 0 {} 0 {} -43 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} -19 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} -53 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -87 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} -19 {} 0 {} -14 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -28 {} -38 {} -67 {} 0 {} 0 {} 0 {} -19 {} -19 {} 0 {} 0 {} 0 {} -36 {} 38 {} 19 {} 0 {} 0 {} 0 {} 19 {} 0 {} 19 {} 0 {} 0 {} -134 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} -19 {} -28 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 28 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 19 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} -7 {} -53 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -19 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 15 {} 0 {} 0 {} -20 {} -19 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -82 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} 0 {} 0 {} 0 {} -67 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 26 {} 16 {} 0 {} -33 {} 0 {} 0 {} 19 {} 0 {} 0 {} 24 {} 28 {} 0 {} 21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 14 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+ 73 A Acircumflex Atilde Adieresis Aring Agrave Aacute Amacron Abreve Aogonek
+ 2 AE
+ 76 a agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek
+ 135 C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis OE Ohungarumlaut Cacute Cdotaccent Gbreve Gdotaccent Ccaron uni0122 Omacron
+ 231 c d e o q ccedilla egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash partialdiff oe emacron edotaccent eogonek ecaron ohungarumlaut cacute cdotaccent dcroat dcaron ccaron dong uni1E0B omacron
+ 33 f uni1E1F f_i f_f f_f_i f_l f_f_l
+ 27 g gdotaccent gbreve uni0123
+ 11 h k uni0137
+ 67 I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent IJ
+ 65 i igrave iacute icircumflex idieresis imacron iogonek dotlessi ij
+ 1 J
+ 1 j
+ 74 m n p r ntilde nacute ncaron uni0146 racute rcaron uni1E41 uni1E57 uni0157
+ 40 S uni1E60 Scaron Sacute Scedilla uni0218
+ 40 s uni1E61 scaron sacute scedilla uni0219
+ 24 T Tcaron uni0162 uni021A
+ 32 t uni1E6B tcaron uni0163 uni021B
+ 73 U Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek
+ 73 u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek
+ 1 V
+ 39 v y ygrave yacute ycircumflex ydieresis
+ 25 W Wgrave Wacute Wdieresis
+ 25 w wgrave wacute wdieresis
+ 1 X
+ 1 x
+ 37 Y Ygrave Ydieresis Yacute Ycircumflex
+ 26 Z Zcaron Zacute Zdotaccent
+ 26 z zcaron zacute zdotaccent
+ 24 quoteright quotedblright
+ 49 comma period quotesinglbase quotedblbase ellipsis
+ 0 {} 0 {} -7 {} 0 {} 0 {} -11 {} 0 {} -14 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -103 {} -13 {} 0 {} 0 {} -54 {} 0 {} -28 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -32 {} 0 {} -18 {} -67 {} -40 {} -47 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -70 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} 0 {} -28 {} 0 {} -19 {} 0 {} -19 {} 0 {} -47 {} -19 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -106 {} 0 {} 0 {} 0 {} -57 {} 0 {} -23 {} 0 {} 0 {} 0 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -67 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 17 {} 0 {} 18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} -38 {} 0 {} -28 {} 0 {} -19 {} 0 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -82 {} -18 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -27 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -43 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 0 {} -19 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -53 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 28 {} 0 {} 0 {} 0 {} 0 {} -104 {} 0 {} -21 {} 0 {} -66 {} -38 {} -38 {} -47 {} 28 {} 28 {} -85 {} 0 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 31 {} 0 {} 12 {} 12 {} 0 {} 0 {} 0 {} 50 {} 0 {} 27 {} 0 {} 20 {} 0 {} 0 {} 30 {} 30 {} 0 {} 100 {} 40 {} 0 {} 0 {} 80 {} 67 {} 80 {} 40 {} 40 {} 27 {} 90 {} 40 {} 30 {} 40 {} 31 {} 0 {} -82 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -67 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} 0 {} -19 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -87 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 18 {} -7 {} 0 {} -21 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -33 {} 16 {} 0 {} 0 {} 0 {} 26 {} 28 {} 24 {} 0 {} 21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} -65 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -68 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -125 {} -57 {} -38 {} -66 {} 19 {} -67 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} 0 {} -38 {} 22 {} 0 {} 0 {} -68 {} 38 {} -15 {} 19 {} -10 {} 0 {} -20 {} 19 {} 0 {} -30 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -67 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -14 {} -14 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -19 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -67 {} -134 {} -38 {} -28 {} -47 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -19 {} 38 {} 0 {} 0 {} 0 {} 19 {} 0 {} 19 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} -64 {} -19 {} 0 {} 0 {} 21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 21 {} -20 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 10 {} -19 {} -5 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} -47 {} -72 {} -28 {} -19 {} -23 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 0 {} 0 {} 19 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -53 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 10 {} 0 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -28 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 15 {} 0 {} 10 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -157 {} -76 {} -47 {} -76 {} 0 {} -85 {} 0 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} -57 {} 19 {} 0 {} 0 {} -38 {} 19 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 14 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 ChainSub2: coverage "'ordn' Ordinals lookup 11 contextual 1" 0 0 0 1
  1 1 0
   Coverage: 3 O o
@@ -4041,7 +4041,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 114 19 14
+WinInfo: 0 19 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -562637 293601 146800 97867 520094 1048576 97867 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
