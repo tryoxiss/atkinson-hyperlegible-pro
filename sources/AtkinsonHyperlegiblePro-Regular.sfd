@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1696660276
+ModificationTime: 1696662813
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -138,7 +138,7 @@ KernClass2: 43+ 31 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  27 g gbreve gdotaccent uni0123
  11 h k uni0137
  67 I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent IJ
- 62 i igrave iacute icircumflex idieresis imacron iogonek dotlessi
+ 65 i igrave iacute icircumflex idieresis imacron iogonek dotlessi ij
  1 J
  1 j
  74 m n p r ntilde nacute ncaron uni0146 racute rcaron uni1E41 uni1E57 uni0157
