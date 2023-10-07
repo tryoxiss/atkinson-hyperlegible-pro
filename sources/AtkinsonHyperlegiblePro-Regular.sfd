@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1696662813
+ModificationTime: 1696664625
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -105,7 +105,7 @@ KernClass2: 43+ 31 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  9 K uni0136
  9 k uni0137
  23 L Lslash uni013B Lacute
- 26 l uni013C f_l f_f_l lacute
+ 25 l uni013C fl f_f_l lacute
  20 lcaron tcaron dcaron
  9 P uni1E56
  1 Q
