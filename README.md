@@ -67,14 +67,15 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
-* Fix t with cedilla `ţ` `U+0163` now showing correct glyph
 * Kern `v` `w` `y` pairs
+* Kern `Q` and `U` pairs
 * Kern `S` and `T V Y` pairs
 * Kern `K` and `c d e o g q` pairs
 * Kern `Y` and `c d e o g q m n p r` pairs
 * Kern `W` and `c d e o g q m n p r` pairs
 * Kern `V` and `c d e o g q m n p r` pairs
 * Kern `T` and `c d e o g q m n p r v w x y z` pairs
+* Fix t with cedilla `ţ` `U+0163` now showing correct glyph
 
 ## Contribute
 
