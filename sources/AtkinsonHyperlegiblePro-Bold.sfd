@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1696664069
+ModificationTime: 1696717076
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -86,7 +86,7 @@ MarkAttachSets: 2
 "MarkSet-1" 242 acutecomb acutecomb.case uni0306 uni0306.case uni030C uni030C.case uni0302 uni0302.case uni0308 uni0308.case uni0307 uni0307.case gravecomb gravecomb.case uni030B uni030B.case uni0304 uni0304.case uni030A uni030A.case tildecomb tildecomb.case
 DEI: 91125
 KernClass2: 43+ 31 "'kern' Horizontal Kerning lookup 0 kerning class 1"
- 114 h m n uni1E41 agrave aacute acircumflex atilde adieresis aring ntilde amacron abreve aogonek nacute ncaron uni0146
+ 114 h m n agrave aacute acircumflex atilde adieresis aring ntilde amacron abreve aogonek nacute ncaron uni0146 uni1E41
  73 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek
  9 B uni1E02
  93 b o p ograve oacute ocircumflex otilde odieresis oslash ohungarumlaut uni1E03 uni1E57 omacron
@@ -159,7 +159,7 @@ KernClass2: 43+ 31 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  26 z zcaron zacute zdotaccent
  24 quoteright quotedblright
  49 comma period quotesinglbase quotedblbase ellipsis
- 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -42 {} 0 {} -24 {} -89 {} -40 {} -47 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -8 {} -14 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -19 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} 0 {} 0 {} 0 {} -47 {} 0 {} -23 {} 0 {} 0 {} 0 {} -86 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} -19 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -70 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} 0 {} -28 {} 0 {} -19 {} 0 {} -19 {} 0 {} -47 {} -19 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 17 {} 0 {} 18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} -38 {} -12 {} -28 {} 0 {} -19 {} 0 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -82 {} -23 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 12 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -33 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -43 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -29 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 12 {} -37 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} 0 {} 0 {} 0 {} -66 {} -38 {} -38 {} 0 {} 28 {} 0 {} -93 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -27 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 50 {} 0 {} 40 {} 0 {} 20 {} 0 {} 0 {} 30 {} 20 {} 0 {} 80 {} 40 {} 0 {} 0 {} 67 {} 40 {} 67 {} 27 {} 53 {} 13 {} 60 {} 40 {} 0 {} 26 {} 5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 18 {} 0 {} 0 {} -21 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -26 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} -11 {} -58 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -127 {} -57 {} -38 {} -86 {} 19 {} -67 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} -38 {} 30 {} 0 {} 0 {} -57 {} 38 {} -12 {} 28 {} 0 {} 0 {} -30 {} 19 {} 0 {} -10 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -45 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} -67 {} -134 {} -38 {} -28 {} -47 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -19 {} 38 {} 0 {} 0 {} 0 {} 19 {} 0 {} 19 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} -82 {} -19 {} 0 {} -10 {} 27 {} 0 {} 0 {} 0 {} 17 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} -47 {} -65 {} -28 {} -19 {} -23 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 0 {} 0 {} 19 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 27 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -28 {} -18 {} 0 {} -19 {} 0 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -160 {} -76 {} -47 {} -86 {} 0 {} -85 {} 0 {} 0 {} -35 {} 0 {} 0 {} -44 {} -11 {} -60 {} 19 {} 0 {} 0 {} -38 {} 19 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+ 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -42 {} -28 {} -24 {} -89 {} -40 {} -47 {} -44 {} 0 {} 20 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -8 {} -14 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -19 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} 0 {} 0 {} 0 {} -47 {} 0 {} -23 {} 0 {} 0 {} 0 {} -86 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} -19 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -70 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} 0 {} 0 {} 0 {} -28 {} 0 {} -19 {} 0 {} -19 {} 0 {} -47 {} -19 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 17 {} 0 {} 18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} -38 {} -12 {} -28 {} 0 {} -19 {} 0 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -82 {} -23 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 12 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -33 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -43 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -29 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 12 {} -37 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} 0 {} 0 {} 0 {} -66 {} -38 {} -38 {} 0 {} 28 {} 0 {} -93 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -27 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 50 {} 0 {} 40 {} 0 {} 20 {} 0 {} 0 {} 30 {} 20 {} 0 {} 80 {} 40 {} 0 {} 0 {} 67 {} 40 {} 67 {} 27 {} 53 {} 13 {} 60 {} 40 {} 0 {} 26 {} 5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 18 {} 0 {} 0 {} -21 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -26 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} -11 {} -58 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -127 {} -57 {} -38 {} -86 {} 19 {} -67 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} -38 {} 30 {} 0 {} 0 {} -57 {} 38 {} -12 {} 28 {} 0 {} 0 {} -30 {} 19 {} 0 {} -10 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 12 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -45 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} -67 {} -134 {} -38 {} -28 {} -47 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -19 {} 38 {} 0 {} 0 {} 0 {} 19 {} 0 {} 19 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} -82 {} -19 {} 0 {} -10 {} 27 {} 0 {} 0 {} 0 {} 17 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} -47 {} -65 {} -28 {} -19 {} -23 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 28 {} 0 {} 0 {} 0 {} 19 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 27 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} -28 {} -18 {} 0 {} -19 {} 0 {} 0 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -160 {} -76 {} -47 {} -86 {} 0 {} -85 {} 0 {} 0 {} -35 {} 0 {} 0 {} -44 {} -11 {} -60 {} 19 {} 0 {} 0 {} -38 {} 19 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 ChainSub2: coverage "'ordn' Ordinals lookup 11 contextual 1" 0 0 0 1
  1 1 0
   Coverage: 3 O o
@@ -5226,7 +5226,7 @@ SplineSet
  344 501 l 1,10,-1
  260 247 l 1,8,-1
 EndSplineSet
-Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 Substitution2: "Single Substitution lookup 12 subtable" ordfeminine
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" ordfeminine
 EndChar
@@ -5502,7 +5502,6 @@ SplineSet
  202 133 l 1,13,-1
 EndSplineSet
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: E
@@ -6397,7 +6396,6 @@ SplineSet
  333 118 333 118 381 118 c 0,16,17
 EndSplineSet
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 Substitution2: "Single Substitution lookup 12 subtable" ordmasculine
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" ordmasculine
 EndChar
@@ -8755,7 +8753,7 @@ SplineSet
  214 0 l 2,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 388 12 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 12 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 41 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 134 29 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 181 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 195 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 196 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 197 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 198 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 199 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 200 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 201 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 260 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 262 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 41 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 12 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 134 29 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 181 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 195 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 196 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 197 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 198 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 199 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 200 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 201 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 260 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 262 22 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 388 12 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: m
@@ -21733,7 +21731,6 @@ SplineSet
  237 101 237 101 286 101 c 256,33,34
 EndSplineSet
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: thorn
@@ -22427,7 +22424,7 @@ LayerCount: 2
 Fore
 Refer: 340 770 N 1 0 0 1 148 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Atilde
@@ -22453,7 +22450,7 @@ LayerCount: 2
 Fore
 Refer: 365 771 N 1 0 0 1 160 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Adieresis
@@ -22480,7 +22477,7 @@ LayerCount: 2
 Fore
 Refer: 343 776 N 1 0 0 1 178 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Aring
@@ -22528,7 +22525,7 @@ SplineSet
  477 693 477 693 459 662.5 c 0,36,37
  451.768650003 650.246879172 451.768650003 650.246879172 442.600543607 640.011212926 c 1,15,-1
 EndSplineSet
-Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Agrave
@@ -22545,7 +22542,7 @@ LayerCount: 2
 Fore
 Refer: 349 768 N 1 0 0 1 206 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Aacute
@@ -22562,7 +22559,7 @@ LayerCount: 2
 Fore
 Refer: 332 769 N 1 0 0 1 277 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Amacron
@@ -22589,7 +22586,7 @@ LayerCount: 2
 Fore
 Refer: 354 772 N 1 0 0 1 195 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: amacron
@@ -22606,7 +22603,6 @@ LayerCount: 2
 Fore
 Refer: 354 772 N 1 0 0 1 135 0 2
 Refer: 41 97 N 1 0 0 1 0 0 3
-Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: agrave
@@ -22623,7 +22619,6 @@ LayerCount: 2
 Fore
 Refer: 349 768 N 1 0 0 1 146 0 2
 Refer: 41 97 N 1 0 0 1 0 0 3
-Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: acircumflex
@@ -22640,7 +22635,6 @@ LayerCount: 2
 Fore
 Refer: 340 770 N 1 0 0 1 88 0 2
 Refer: 41 97 N 1 0 0 1 0 0 3
-Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: atilde
@@ -22657,7 +22651,6 @@ LayerCount: 2
 Fore
 Refer: 365 771 N 1 0 0 1 100 0 2
 Refer: 41 97 N 1 0 0 1 0 0 3
-Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: adieresis
@@ -22674,7 +22667,6 @@ LayerCount: 2
 Fore
 Refer: 343 776 N 1 0 0 1 118 0 2
 Refer: 41 97 N 1 0 0 1 0 0 3
-Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: aring
@@ -22691,7 +22683,6 @@ LayerCount: 2
 Fore
 Refer: 359 778 N 1 0 0 1 152 0 2
 Refer: 41 97 N 1 0 0 1 0 0 3
-Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: aacute
@@ -22708,7 +22699,6 @@ LayerCount: 2
 Fore
 Refer: 332 769 N 1 0 0 1 217 0 2
 Refer: 41 97 N 1 0 0 1 0 0 3
-Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Ccedilla
@@ -23152,7 +23142,6 @@ LayerCount: 2
 Fore
 Refer: 349 768 N 1 0 0 1 243 172 2
 Refer: 29 79 N 1 0 0 1 0 0 3
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Oacute
@@ -23169,7 +23158,6 @@ LayerCount: 2
 Fore
 Refer: 332 769 N 1 0 0 1 314 172 2
 Refer: 29 79 N 1 0 0 1 0 0 3
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Ocircumflex
@@ -23186,7 +23174,6 @@ LayerCount: 2
 Fore
 Refer: 340 770 N 1 0 0 1 185 172 2
 Refer: 29 79 N 1 0 0 1 0 0 3
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Otilde
@@ -23213,7 +23200,6 @@ LayerCount: 2
 Fore
 Refer: 365 771 N 1 0 0 1 197 172 2
 Refer: 29 79 N 1 0 0 1 0 0 3
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Odieresis
@@ -23240,7 +23226,6 @@ LayerCount: 2
 Fore
 Refer: 343 776 N 1 0 0 1 215 172 2
 Refer: 29 79 N 1 0 0 1 0 0 3
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Ugrave
@@ -23731,7 +23716,6 @@ SplineSet
  289 133 l 1,17,-1
 EndSplineSet
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: zero.tf
@@ -24005,7 +23989,7 @@ LayerCount: 2
 Fore
 Refer: 334 774 N 1 0 0 1 201 172 2
 Refer: 15 65 N 1 0 0 1 0 0 3
-Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: abreve
@@ -24022,7 +24006,6 @@ LayerCount: 2
 Fore
 Refer: 334 774 N 1 0 0 1 141 0 2
 Refer: 41 97 N 1 0 0 1 0 0 3
-Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Aogonek
@@ -24066,7 +24049,7 @@ SplineSet
  344 501 l 1,29,-1
  260 247 l 1,27,-1
 EndSplineSet
-Kerns2: 35 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 64 20 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 52 -21 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: aogonek
@@ -24128,7 +24111,7 @@ SplineSet
  181 121 181 121 201 106.5 c 128,-1,58
  221 92 221 92 251 92 c 0,49,50
 EndSplineSet
-Kerns2: 37 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 50 56 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Kerns2: 50 56 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: Emacron
@@ -25542,7 +25525,6 @@ LayerCount: 2
 Fore
 Refer: 248 208 N 1 0 0 1 0 0 3
 Validated: 1
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: dcroat
@@ -25826,7 +25808,6 @@ LayerCount: 2
 Fore
 Refer: 336 780 N 1 0 0 1 129 172 2
 Refer: 18 68 N 1 0 0 1 0 0 3
-Kerns2: 23 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
 StartChar: dcaron
