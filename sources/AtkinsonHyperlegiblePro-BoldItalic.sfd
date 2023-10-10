@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1696836706
+ModificationTime: 1696912573
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -4041,17 +4041,17 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "Bold Italic" "" "" "Version 1.2.0" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-Encoding: Custom
+Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 209 19 14
+WinInfo: 228 19 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 3 subtable"
-BeginChars: 475 411
+BeginChars: 489 425
 
 StartChar: .notdef
 Encoding: 256 -1 0
@@ -5877,6 +5877,7 @@ NPUSHB
  27
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-1" 413 668 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5894,7 +5895,6 @@ SplineSet
  138 0 l 1,11,-1
  -23 0 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: I
@@ -6017,6 +6017,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-1" 507 668 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6038,7 +6039,6 @@ SplineSet
  397 36 397 36 336.5 12 c 128,-1,20
  276 -12 276 -12 195 -12 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: K
@@ -8381,6 +8381,7 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-1" 192 668 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8404,7 +8405,6 @@ SplineSet
  135 0 l 1,23,-1
  -21 0 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: i
@@ -28789,6 +28789,8 @@ EndChar
 StartChar: uni0237
 Encoding: 474 567 410
 Width: 263
+HStem: -162 120<-148 -24.375> 476 20G<88.7549 249>
+AnchorPoint: "Anchor-1" 168 496 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -28808,6 +28810,157 @@ SplineSet
  53 -149 53 -149 16.5 -155.5 c 128,-1,16
  -20 -162 -20 -162 -74 -162 c 0,0,1
 EndSplineSet
+EndChar
+
+StartChar: Hcircumflex
+Encoding: 475 292 411
+Width: 695
+HStem: 0 21G<-23 142.307 414 579.251> 274 139<226 472> 648 20G<114.749 279 551.765 717> 746 152
+LayerCount: 2
+Fore
+Refer: 339 770 N 1 0 0 1 138 172 2
+Refer: 22 72 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Jcircumflex
+Encoding: 476 308 412
+Width: 566
+HStem: -12 125<148.473 284.269> 648 20G<421.777 588> 746 152
+LayerCount: 2
+Fore
+Refer: 339 770 N 1 0 0 1 232 172 2
+Refer: 24 74 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: hcircumflex
+Encoding: 477 293 413
+Width: 580
+HStem: 0 21G<-21 139.252 302 462.27> 392 118<292.905 425.5> 648 20G<116.749 272> 746 152
+VStem: 367 161<227.164 379.425>
+LayerCount: 2
+Fore
+Refer: 339 770 N 1 0 0 1 -83 172 2
+Refer: 48 104 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: jcircumflex
+Encoding: 478 309 414
+Width: 263
+HStem: -162 120<-148 -24.375> 476 20G<88.7549 249> 574 152
+LayerCount: 2
+Fore
+Refer: 339 770 N 1 0 0 1 -107 0 2
+Refer: 410 567 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ccircumflex
+Encoding: 479 264 415
+Width: 673
+HStem: -12 132<262.343 422.671> 550 130<318.238 483.861> 746 152
+VStem: 32 168<184.508 403.902>
+LayerCount: 2
+Fore
+Refer: 339 770 N 1 0 0 1 153 172 2
+Refer: 17 67 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Gcircumflex
+Encoding: 480 284 416
+Width: 733
+HStem: -12 129<261.33 407.375> 0 21G<508.378 621.286> 250 128<386 509> 550 130<317.216 482.995> 746 152
+VStem: 31 168<181.577 404.598>
+LayerCount: 2
+Fore
+Refer: 339 770 N 1 0 0 1 165 172 2
+Refer: 21 71 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ubreve
+Encoding: 481 364 417
+Width: 679
+HStem: -12 129<213.053 383.145> 648 20G<115.691 281 535.733 701> 749 74<405.306 500.777>
+VStem: 26 162<141.238 333.125> 305 299
+LayerCount: 2
+Fore
+Refer: 333 774 N 1 0 0 1 175 172 2
+Refer: 35 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Scircumflex
+Encoding: 482 348 418
+Width: 642
+HStem: -12 126<222.695 398.252> 551 129<247.558 411.491> 746 152
+VStem: 61 163<446.46 530.811> 424 164<138.241 222.566>
+LayerCount: 2
+Fore
+Refer: 339 770 N 1 0 0 1 95 172 2
+Refer: 33 83 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ccircumflex
+Encoding: 483 265 419
+Width: 531
+HStem: -12 117<181.144 313.492> 392 118<229.343 355.158> 574 152
+VStem: 2 154<129.52 302.365>
+LayerCount: 2
+Fore
+Refer: 339 770 N 1 0 0 1 43 0 2
+Refer: 43 99 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: gcircumflex
+Encoding: 484 285 420
+Width: 594
+HStem: -207 119<129.075 270.925> 17 114<163.5 272.974> 395 116<224.494 351.478> 476 20G<432.851 577> 574 152
+VStem: 6 158<160.205 327.368>
+LayerCount: 2
+Fore
+Refer: 339 770 N 1 0 0 1 42 0 2
+Refer: 47 103 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ubreve
+Encoding: 485 365 421
+Width: 578
+HStem: -12 118<131.5 256.097> 0 21G<319.438 460.234> 476 20G<81.7246 241 401.725 561> 577 74<313.306 408.777>
+VStem: 17 162<128.173 275.781> 213 299
+LayerCount: 2
+Fore
+Refer: 333 774 N 1 0 0 1 83 0 2
+Refer: 61 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: scircumflex
+Encoding: 486 349 422
+Width: 515
+HStem: -13 109<147.377 295.797> 399 111<185.659 324.373> 574 152
+VStem: 30 144<330.16 388.275> 306 148<110.215 168.743>
+LayerCount: 2
+Fore
+Refer: 339 770 N 1 0 0 1 -1 0 2
+Refer: 59 115 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Utilde
+Encoding: 487 360 423
+Width: 679
+HStem: -12 129<213.053 383.145> 648 20G<115.691 281 535.733 701> 740 80<455.584 560.578> 779 82<333.893 443.6>
+VStem: 26 162<141.238 333.125>
+LayerCount: 2
+Fore
+Refer: 365 771 N 1 0 0 1 148 172 2
+Refer: 35 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: utilde
+Encoding: 488 361 424
+Width: 578
+HStem: -12 118<131.5 256.097> 0 21G<319.438 460.234> 476 20G<81.7246 241 401.725 561> 568 80<363.584 468.578> 607 82<241.893 351.6>
+VStem: 17 162<128.173 275.781>
+LayerCount: 2
+Fore
+Refer: 365 771 N 1 0 0 1 56 0 2
+Refer: 61 117 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
