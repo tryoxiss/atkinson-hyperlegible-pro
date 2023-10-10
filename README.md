@@ -40,6 +40,18 @@ By default the zero remains as it is however you can flip the zero by adding
 
 And thats it the zero has been flipped!!
 
+## Change Log
+
+* Kern `v` `w` `y` pairs
+* Kern `Q` and `U` pairs
+* Kern `S` and `T V Y` pairs
+* Kern `K` and `c d e o g q` pairs
+* Kern `Y` and `c d e o g q m n p r` pairs
+* Kern `W` and `c d e o g q m n p r` pairs
+* Kern `V` and `c d e o g q m n p r` pairs
+* Kern `T` and `c d e o g q m n p r v w x y z` pairs
+* Fix t with cedilla `ţ` `U+0163` now showing correct glyph
+
 ## Added Characters and Glyphs
 
 * U with tilde `Ũ` `U+0168` and `ũ` `U+0169`
@@ -72,18 +84,6 @@ And thats it the zero has been flipped!!
 * Ligatures for `fi ff ffi fl ffl`
 * Copyleft `🄯` `U+1F12F`
 * Alternative reversed number zero `0`
-
-## Change Log
-
-* Kern `v` `w` `y` pairs
-* Kern `Q` and `U` pairs
-* Kern `S` and `T V Y` pairs
-* Kern `K` and `c d e o g q` pairs
-* Kern `Y` and `c d e o g q m n p r` pairs
-* Kern `W` and `c d e o g q m n p r` pairs
-* Kern `V` and `c d e o g q m n p r` pairs
-* Kern `T` and `c d e o g q m n p r v w x y z` pairs
-* Fix t with cedilla `ţ` `U+0163` now showing correct glyph
 
 ## Contribute
 
