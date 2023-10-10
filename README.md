@@ -42,6 +42,14 @@ And thats it the zero has been flipped!!
 
 ## Added Characters and Glyphs
 
+* U with tilde `Ũ` `U+0168` and `ũ` `U+0169`
+* U with breve `Ŭ` `U+016C` and `ŭ` `U+016D`
+* S with circumflex `Ŝ` `U+015C` and `ŝ` `U+015D`
+* H with circumflex `Ĥ` `U+0124` and `ĥ` `U+0125`
+* G with circumflex `Ĝ` `U+011C` and `ĝ` `U+011D`
+* C with circumflex `Ĉ` `U+0108` and `ĉ` `U+0109`
+* J with circumflex `Ĵ` `U+0134` and `ĵ` `U+0135`
+* Dottles J `ȷ` `U+0237`
 * Ligature Ij `Ij` `U+0132` and `ĳ` `U+0133`
 * L with acute `Ĺ` `U+0139` and `ĺ` `U+013A`
 * I with dot above `İ` `U+0130`
