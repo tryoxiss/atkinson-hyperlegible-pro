@@ -1,6 +1,6 @@
 # [Atkinson Hyperlegible Pro](https://jacobxperez.github.io/atkinson-hyperlegible-pro/)
 
-58 Extra Glyphs Including an Alternative Flipped Zero, Improved Kerning and Ligatures
+58 Extra Glyphs, Including an Alternative Flipped Zero, Improved Kerning and Ligatures
 
 ---
 
