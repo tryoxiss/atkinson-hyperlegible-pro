@@ -5,7 +5,7 @@ FamilyName: Atkinson Hyperlegible Pro
 Weight: Bold
 Copyright: Copyright 2020 Braille Institute of America, Inc.
 UComments: "Update by Jacob Perez+AAoA-https://jacobxperez.github.io/atkinson-hyperlegible-pro/"
-Version: 1.2.0
+Version: 1.3.0
 ItalicAngle: -12
 UnderlinePosition: -106
 UnderlineWidth: 57
@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1696919200
+ModificationTime: 1697010720
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -4039,7 +4039,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Bold Italic" "" "" "Version 1.2.0" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "Bold Italic" "" "" "Version 1.3.0" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: ISO8859-1
 UnicodeInterp: none
@@ -4047,11 +4047,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 228 19 14
+WinInfo: 247 19 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 3 subtable"
-BeginChars: 489 425
+BeginChars: 504 440
 
 StartChar: .notdef
 Encoding: 256 -1 0
@@ -28961,6 +28961,176 @@ LayerCount: 2
 Fore
 Refer: 365 771 N 1 0 0 1 56 0 2
 Refer: 61 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni2010
+Encoding: 489 8208 425
+Width: 336
+Flags: W
+HStem: 184 129<38 296>
+VStem: 10 314
+LayerCount: 2
+Fore
+SplineSet
+10 184 m 1,0,-1
+ 38 313 l 1,1,-1
+ 324 313 l 5,2,-1
+ 296 184 l 5,3,-1
+ 10 184 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: Ebreve
+Encoding: 490 276 426
+Width: 582
+HStem: 0 139<168 495> 274 139<226 414> 529 139<251 607> 749 74<372.306 467.777>
+VStem: 272 299
+LayerCount: 2
+Fore
+Refer: 333 774 N 1 0 0 1 142 172 2
+Refer: 19 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ebreve
+Encoding: 491 277 427
+Width: 567
+HStem: -12 118<179.264 339.37> 209 90<168 395.829> 399 111<227.801 368.979> 577 74<312.306 407.777>
+VStem: 3 149<132.733 208.554> 212 299 396 134<299.125 372.391>
+LayerCount: 2
+Fore
+Refer: 333 774 N 1 0 0 1 82 0 2
+Refer: 45 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Itilde
+Encoding: 492 296 428
+Width: 459
+HStem: 0 124<13 105 267 331> 544 124<129 195 355 447> 740 80<342.584 447.578> 779 82<220.893 330.6>
+LayerCount: 2
+Fore
+Refer: 365 771 N 1 0 0 1 35 172 2
+Refer: 23 73 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: itilde
+Encoding: 493 297 429
+Width: 326
+HStem: 0 21G<48 208.234> 380 116<51 129> 568 80<243.584 348.578> 607 82<121.893 231.6>
+VStem: 26 283
+LayerCount: 2
+Fore
+Refer: 365 771 N 1 0 0 1 -64 0 2
+Refer: 351 305 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ibreve
+Encoding: 494 300 430
+Width: 459
+HStem: 0 124<13 105 267 331> 544 124<129 195 355 447> 749 74<292.306 387.777>
+VStem: 192 299
+LayerCount: 2
+Fore
+Refer: 333 774 N 1 0 0 1 62 172 2
+Refer: 23 73 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ibreve
+Encoding: 495 301 431
+Width: 326
+HStem: 0 21G<48 208.234> 380 116<51 129> 577 74<193.306 288.777>
+VStem: 26 283 93 299
+LayerCount: 2
+Fore
+Refer: 333 774 N 1 0 0 1 -37 0 2
+Refer: 351 305 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ldot
+Encoding: 496 319 432
+Width: 543
+HStem: 0 139<168 458> 243 194<227.856 350.629> 648 20G<114.749 279>
+VStem: 191.434 195<279.743 400.868>
+LayerCount: 2
+Fore
+Refer: 99 183 N 1 0 0 1 153.434 92 2
+Refer: 26 76 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ldot
+Encoding: 497 320 433
+Width: 622
+HStem: 0 124<183.864 244> 151 194<391.422 514.195> 648 20G<116.758 277>
+VStem: 4 168<71.5 188.75> 355 195<187.743 308.868>
+LayerCount: 2
+Fore
+Refer: 99 183 N 1 0 0 1 317 0 2
+Refer: 52 108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Obreve
+Encoding: 498 334 434
+Width: 763
+HStem: -12 130<269.379 439.107> 550 130<326.561 491.661> 749 74<447.306 542.777>
+VStem: 32 169<191.242 401.645> 347 299 564 168<263.569 475.891>
+LayerCount: 2
+Fore
+Refer: 333 774 N 1 0 0 1 217 172 2
+Refer: 29 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: obreve
+Encoding: 499 335 435
+Width: 576
+HStem: -13 118<184.682 314.585> 392 118<223.273 355.81> 577 74<308.306 403.777>
+VStem: 5 154<131.351 314.243> 208 299 381 155<184.385 366.548>
+LayerCount: 2
+Fore
+Refer: 333 774 N 1 0 0 1 78 0 2
+Refer: 55 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: AEacute
+Encoding: 500 508 436
+Width: 1016
+HStem: 0 139<602 929> 119 128<354 437> 275 138<660 849> 529 139<685 1042> 740 153
+VStem: 766.017 234
+LayerCount: 2
+Fore
+Refer: 331 769 N 1 0 0 1 661.017 166 2
+Refer: 150 198 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: aeacute
+Encoding: 501 509 437
+Width: 886
+HStem: -13 104<160.082 273.312> -12 118<498.403 657.584> 209 90<168.864 332 487 715.754> 398 112<545.824 688.979> 407 103<211.742 339.57> 570 153
+VStem: 416.466 234 716 134<299.125 371.406>
+LayerCount: 2
+Fore
+Refer: 331 769 N 1 0 0 1 311.466 -4 2
+Refer: 182 230 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Oslashacute
+Encoding: 502 510 438
+Width: 761
+HStem: -12 130<268.79 435.313> 550 130<326.84 490.835> 746 153
+VStem: 30 169<232.615 401.807> 406.998 234 562 168<263.731 450.5>
+LayerCount: 2
+Fore
+Refer: 331 769 N 1 0 0 1 301.998 172 2
+Refer: 180 216 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: oslashacute
+Encoding: 503 511 439
+Width: 577
+HStem: -12 118<189.473 316.492> 392 118<227.513 350.068> 589 153
+VStem: 5 156<200.821 311.317> 282.376 234 382 156<182.838 305.529>
+LayerCount: 2
+Fore
+Refer: 331 769 N 1 0 0 1 177.376 15 2
+Refer: 179 248 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
