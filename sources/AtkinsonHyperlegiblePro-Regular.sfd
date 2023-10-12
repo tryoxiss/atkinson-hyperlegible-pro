@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1697089892
+ModificationTime: 1697096663
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -93,12 +93,12 @@ KernClass2: 43+ 32 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  47 C Ccedilla Cacute Cdotaccent Ccaron Ccircumflex
  47 c ccedilla cacute cdotaccent ccaron ccircumflex
  124 D O Eth Ograve Oacute Ocircumflex Otilde Odieresis Oslash eth Ohungarumlaut Dcroat Dcaron uni1E0A Omacron Obreve Oslashacute
- 92 E AE Egrave Eacute Ecircumflex Edieresis OE Emacron Edotaccent Eogonek Ecaron Ebreve AEacute
- 92 e ae egrave eacute ecircumflex edieresis oe emacron edotaccent eogonek ecaron ebreve aeacute
+ 100 E AE Egrave Eacute Ecircumflex Edieresis OE Emacron Edotaccent Eogonek Ecaron Ebreve AEacute uni1EBC
+ 100 e ae egrave eacute ecircumflex edieresis oe emacron edotaccent eogonek ecaron ebreve aeacute uni1EBD
  9 F uni1E1E
  32 f uni1E1F florin dcroat f_f dong
- 39 G Gbreve Gdotaccent uni0122 Gcircumflex
- 39 g gbreve gdotaccent uni0123 gcircumflex
+ 46 G Gbreve Gdotaccent uni0122 Gcircumflex Gcaron
+ 46 g gbreve gdotaccent uni0123 gcircumflex gcaron
  78 I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent Itilde Ibreve
  16 J IJ Jcircumflex
  24 j ij uni0237 jcircumflex
@@ -119,12 +119,12 @@ KernClass2: 43+ 32 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  87 U Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek Ubreve Utilde
  87 u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek ubreve utilde
  1 V
- 39 v y ygrave yacute ycircumflex ydieresis
+ 55 v y yacute ydieresis ygrave ycircumflex uni0233 uni1EF9
  25 W Wgrave Wacute Wdieresis
  25 w wgrave wacute wdieresis
  1 X
  1 x
- 37 Y Ygrave Ydieresis Yacute Ycircumflex
+ 53 Y Yacute Ydieresis Ycircumflex Ygrave uni0232 uni1EF8
  26 Z Zcaron Zacute Zdotaccent
  26 z zcaron zacute zdotaccent
  24 quoteright quotedblright
@@ -133,9 +133,9 @@ KernClass2: 43+ 32 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  10 AE AEacute
  84 a agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek aeacute
  185 C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash OE Ohungarumlaut Cacute Cdotaccent Gbreve Gdotaccent uni0122 Ccaron Omacron Ccircumflex Gcircumflex Obreve Oslashacute
- 269 c d e o q ccedilla egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash partialdiff oe emacron edotaccent eogonek ecaron ohungarumlaut cacute cdotaccent dcroat dcaron ccaron dong uni1E0B omacron ccircumflex ebreve obreve oslashacute
+ 277 c d e o q ccedilla egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash partialdiff oe emacron edotaccent eogonek ecaron ohungarumlaut cacute cdotaccent dcroat dcaron ccaron dong uni1E0B omacron ccircumflex ebreve obreve oslashacute uni1EBD
  33 f uni1E1F f_i f_f_i f_l f_f_l f_f
- 39 g gbreve gdotaccent uni0123 gcircumflex
+ 46 g gbreve gdotaccent uni0123 gcircumflex gcaron
  28 h k hbar uni0137 hcircumflex
  81 I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent IJ Itilde Ibreve
  79 i igrave iacute icircumflex idieresis imacron iogonek dotlessi ij itilde ibreve
@@ -150,12 +150,12 @@ KernClass2: 43+ 32 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  87 U Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek Ubreve Utilde
  87 u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek ubreve utilde
  1 V
- 39 v y ygrave yacute ycircumflex ydieresis
+ 55 v y yacute ydieresis ygrave ycircumflex uni0233 uni1EF9
  25 W Wgrave Wacute Wdieresis
  25 w wgrave wacute wdieresis
  1 X
  1 x
- 37 Y Yacute Ydieresis Ycircumflex Ygrave
+ 53 Y Yacute Ydieresis Ycircumflex Ygrave uni0232 uni1EF8
  26 Z Zcaron Zacute Zdotaccent
  26 z zcaron zacute zdotaccent
  24 quoteright quotedblright
@@ -4051,7 +4051,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 293601 146800 97867 519045 1048576 97867 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 3 subtable"
-BeginChars: 504 440
+BeginChars: 512 448
 
 StartChar: .notdef
 Encoding: 256 -1 0
@@ -29001,6 +29001,94 @@ LayerCount: 2
 Fore
 Refer: 332 769 N 1 0 0 1 229 0 2
 Refer: 178 248 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EBC
+Encoding: 504 7868 440
+Width: 567
+HStem: 0 81<170 529> 303 81<170 435> 587 81<170 529> 747 63<312.562 407.285> 790 63<209.685 302.92>
+VStem: 76 94<81 303 384 587> 139 65<749 784.883>
+LayerCount: 2
+Fore
+Refer: 365 771 N 1 0 0 1 139 172 2
+Refer: 19 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EBD
+Encoding: 505 7869 441
+Width: 539
+HStem: -12 74<202.004 366.328> 225 67<129 421> 432 72<193.941 356.518> 575 63<289.562 384.285> 618 63<186.685 279.92>
+VStem: 38 90<136.406 225 292 362.849> 116 65<577 612.883> 421 89<292 363.93>
+LayerCount: 2
+Fore
+Refer: 365 771 N 1 0 0 1 116 0 2
+Refer: 45 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Gcaron
+Encoding: 506 486 442
+Width: 710
+HStem: -12 79<264.472 463.329> 0 21G<582.048 642> 264 81<358 553> 499 21G<521 587.333> 601 79<264.995 453.332> 741 120
+VStem: 50 96<202.944 465.835> 197 323 553 89<149.752 264> 588 54<0 23.52>
+LayerCount: 2
+Fore
+Refer: 336 780 N 1 0 0 1 197 172 2
+Refer: 21 71 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: gcaron
+Encoding: 507 487 443
+Width: 560
+HStem: -192 74<195.502 362.951> 9 70<195.824 342.498> 432 72<195.019 341.891> 476 20G<423.103 490> 569 120
+VStem: 38 91<152.416 359.779> 106 323 406 84<-70.2194 94 144.578 367.414> 429 61<472.261 496>
+LayerCount: 2
+Fore
+Refer: 336 780 N 1 0 0 1 106 0 2
+Refer: 47 103 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0232
+Encoding: 508 562 444
+Width: 595
+HStem: 0 21G<251 345> 648 20G<10 124.455 470.607 585> 773 67<160 436>
+VStem: 160 276<773 840> 251 94<0 259>
+LayerCount: 2
+Fore
+Refer: 354 772 N 1 0 0 1 160 172 2
+Refer: 39 89 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0233
+Encoding: 509 563 445
+Width: 429
+HStem: -161 74<37 149.938> 475 20G<0 99.3874 330.613 429> 601 67<82 358>
+VStem: 82 276<601 668>
+LayerCount: 2
+Fore
+Refer: 354 772 N 1 0 0 1 82 0 2
+Refer: 65 121 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EF8
+Encoding: 510 7928 446
+Width: 595
+HStem: 0 21G<251 345> 648 20G<10 124.455 470.607 585> 747 63<306.562 401.285> 790 63<203.685 296.92>
+VStem: 133 65<749 784.883> 251 94<0 259>
+LayerCount: 2
+Fore
+Refer: 365 771 N 1 0 0 1 133 172 2
+Refer: 39 89 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EF9
+Encoding: 511 7929 447
+Width: 429
+HStem: -161 74<37 149.938> 475 20G<0 99.3874 330.613 429> 575 63<228.562 323.285> 618 63<125.685 218.92>
+VStem: 55 65<577 612.883>
+LayerCount: 2
+Fore
+Refer: 365 771 N 1 0 0 1 55 0 2
+Refer: 65 121 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
