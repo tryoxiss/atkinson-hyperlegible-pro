@@ -1,6 +1,6 @@
 # [Atkinson Hyperlegible Pro](https://jacobxperez.github.io/atkinson-hyperlegible-pro/)
 
-58 Extra Glyphs, Including an Alternative Flipped Zero, Improved Kerning and Ligatures
+81 Extra Glyphs, Including an Alternative Flipped Zero, Improved Kerning and Ligatures
 
 ---
 
@@ -11,8 +11,8 @@
 Atkinson Hyperlegible Pro is an update to the original typeface designed for The Braille Institute and named after its founder J. Robert Atkinson. What makes it different from traditional typography design is that it focuses on letterform distinction to increase character recognition, ultimately improving legibility and readability for low-vision readers. The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
 
 * Four fonts, including two weights (regular, italic, bold, bold italic)
-* An additional 58 glyphs supporting 86 languages
-* 1,700 total glyphs across all fonts, 425 per font
+* An additional 81 glyphs supporting 90 languages
+* 1,792 total glyphs across all fonts, 448 per font
 * Improve legibility and readability for low vision readers
 * Improve kerning for better body text
 * Includes ligatures for `fi ff ffi fl ffl`
@@ -89,9 +89,9 @@ And thats it the zero has been flipped!!
 
 Help us extend Atkinson Hyperlegible Pro to other languages, before you commit let me know the characters that you wish to add so that I can add the corresponding encoding slot. I am currently working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00)” this will also include new diacritic and marks.
 
-## Language Support (86)
+## Language Support (90)
 
-Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish Croatian Czech Danish Dutch English Esperanto Estonian Faroese Filipino Finnish French Friulian Galician German Gusii Hungarian Icelandic Indonesian Irish Italian Kabuverdianu Kalenjin Kinyarwanda Latvian Lithuanian Lower Sorbian Luo Luxembourgish Luyia Machame Makhuwa-Meetto Makonde Malagasy Maltese Manx Morisyen North Ndebele Norwegian Bokmål Norwegian Nynorsk Nyankole Oromo Polish Portuguese Quechua Romanian Romansh Rombo Rundi Rwa Samburu Sango Sangu Scottish Gaelic Sena Serbian Shambala Shona Slovak Soga Somali Spanish Swahili Swedish Swiss German Taita Teso Turkish Upper Sorbian Uzbek (Latin) Volapük Vunjo Walser Welsh Western Frisian Zulu.
+Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish Croatian Czech Danish Dutch Embu English Esperanto Estonian Faroese Filipino Finnish French Friulian Galician German Gusii Hungarian Icelandic Indonesian Irish Italian Kabuverdianu Kalenjin Kamba Kikuyu Kinyarwanda Latvian Lithuanian Lower Sorbian Luo Luxembourgish Luyia Machame Makhuwa-Meetto Makonde Malagasy Maltese Manx Meru Morisyen North Ndebele Norwegian Bokmål Norwegian Nynorsk Nyankole Oromo Polish Portuguese Quechua Romanian Romansh Rombo Rundi Rwa Samburu Sango Sangu Scottish Gaelic Sena Serbian Shambala Shona Slovak Soga Somali Spanish Swahili Swedish Swiss German Taita Teso Turkish Upper Sorbian Uzbek (Latin) Volapük Vunjo Walser Welsh Western Frisian Zulu.
 
 ## Unique design features
 
