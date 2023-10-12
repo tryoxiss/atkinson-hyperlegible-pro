@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1697010849
+ModificationTime: 1697090024
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -89,22 +89,22 @@ KernClass2: 43+ 32 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  131 h m n agrave aacute acircumflex atilde adieresis aring ntilde amacron abreve aogonek nacute ncaron hbar uni0146 uni1E41 hcircumflex
  73 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek
  9 B uni1E02
- 93 b o p ograve oacute ocircumflex otilde odieresis oslash ohungarumlaut uni1E03 uni1E57 omacron
+ 112 b o p ograve oacute ocircumflex otilde odieresis oslash ohungarumlaut uni1E03 uni1E57 omacron obreve oslashacute
  47 C Ccedilla Cacute Cdotaccent Ccaron Ccircumflex
  47 c ccedilla cacute cdotaccent ccaron ccircumflex
- 105 D O Eth Ograve Oacute Ocircumflex Otilde Odieresis Oslash eth Ohungarumlaut Dcroat Dcaron uni1E0A Omacron
- 77 E AE Egrave Eacute Ecircumflex Edieresis OE Emacron Edotaccent Eogonek Ecaron
- 77 e ae egrave eacute ecircumflex edieresis oe emacron edotaccent eogonek ecaron
+ 124 D O Eth Ograve Oacute Ocircumflex Otilde Odieresis Oslash eth Ohungarumlaut Dcroat Dcaron uni1E0A Omacron Obreve Oslashacute
+ 92 E AE Egrave Eacute Ecircumflex Edieresis OE Emacron Edotaccent Eogonek Ecaron Ebreve AEacute
+ 92 e ae egrave eacute ecircumflex edieresis oe emacron edotaccent eogonek ecaron ebreve aeacute
  9 F uni1E1E
  27 f uni1E1F florin dcroat f_f
  39 G Gbreve Gdotaccent uni0122 Gcircumflex
  39 g gbreve gdotaccent uni0123 gcircumflex
- 64 I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent
+ 78 I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent Itilde Ibreve
  13 J Jcircumflex
  21 j uni0237 jcircumflex
  9 K uni0136
  9 k uni0137
- 23 L Lslash uni013B Lacute
+ 28 L Lslash uni013B Lacute Ldot
  26 l uni013C f_l f_f_l lacute
  20 lcaron tcaron dcaron
  9 P uni1E56
@@ -130,18 +130,18 @@ KernClass2: 43+ 32 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  24 quoteright quotedblright
  49 quotesinglbase quotedblbase ellipsis comma period
  73 A Acircumflex Atilde Adieresis Aring Agrave Aacute Amacron Abreve Aogonek
- 2 AE
- 76 a agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek
- 166 C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash OE Ohungarumlaut Cacute Cdotaccent Gbreve Gdotaccent uni0122 Ccaron Omacron Ccircumflex Gcircumflex
- 243 c d e o q ccedilla egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash partialdiff oe emacron edotaccent eogonek ecaron ohungarumlaut cacute cdotaccent dcroat dcaron ccaron dong uni1E0B omacron ccircumflex
+ 10 AE AEacute
+ 84 a agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek aeacute
+ 185 C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash OE Ohungarumlaut Cacute Cdotaccent Gbreve Gdotaccent uni0122 Ccaron Omacron Ccircumflex Gcircumflex Obreve Oslashacute
+ 262 c d e o q ccedilla egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash partialdiff oe emacron edotaccent eogonek ecaron ohungarumlaut cacute cdotaccent dcroat dcaron ccaron dong uni1E0B omacron ccircumflex obreve oslashacute
  33 f uni1E1F f_i f_f f_f_i f_l f_f_l
  39 g gbreve gdotaccent uni0123 gcircumflex
  28 h k hbar uni0137 hcircumflex
- 67 I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent IJ
- 65 i igrave iacute icircumflex idieresis imacron iogonek dotlessi ij
+ 81 I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent IJ Itilde Ibreve
+ 79 i igrave iacute icircumflex idieresis imacron iogonek dotlessi ij itilde ibreve
  13 J Jcircumflex
  21 j uni0237 jcircumflex
- 30 l lslash uni013C lcaron lacute
+ 35 l lslash uni013C lcaron lacute ldot
  74 m n p r ntilde nacute ncaron uni0146 racute rcaron uni1E41 uni1E57 uni0157
  52 S Scaron Sacute Scedilla uni0218 uni1E60 Scircumflex
  52 s scaron sacute scedilla uni0219 uni1E61 scircumflex
@@ -18503,6 +18503,7 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-0" 698 668 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18528,7 +18529,6 @@ SplineSet
  481 453 l 1,18,-1
  341 247 l 1,16,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: florin
@@ -20979,6 +20979,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-0" 287 496 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21017,7 +21018,6 @@ SplineSet
  223 126 l 1,41,42
  249 106 249 106 287 106 c 0,34,35
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: Oslash
@@ -21102,6 +21102,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-0" 382 668 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21143,7 +21144,6 @@ SplineSet
  295 138 295 138 322 128 c 128,-1,45
  349 118 349 118 380 118 c 0,36,37
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: Thorn
@@ -21527,6 +21527,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
+AnchorPoint: "Anchor-0" 447 496 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21578,7 +21579,6 @@ SplineSet
  181 121 181 121 200 106 c 128,-1,61
  219 91 219 91 251 91 c 0,52,53
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: eth
@@ -29605,22 +29605,43 @@ EndChar
 StartChar: Ldot
 Encoding: 496 319 432
 Width: 537
-HStem: 0 139<202 522> 243 194<221.922 344.695> 648 20G<44 202>
-VStem: 44 158<139 668> 185.5 195<279.743 400.868>
+HStem: 0 139<202 522> 250 194<326.635 447.888> 648 20G<44 202>
+VStem: 44 158<139 668> 290 194<286.188 408.797>
 LayerCount: 2
 Fore
-Refer: 99 183 N 1 0 0 1 132.5 92 2
+SplineSet
+388 250 m 256,0,1
+ 348 251 348 251 318 279 c 0,2,3
+ 290 307 290 307 290 347 c 0,4,5
+ 290 388 290 388 318 416 c 0,6,7
+ 348 444 348 444 388 444 c 256,8,9
+ 428 444 428 444 456 416 c 0,10,11
+ 484 388 484 388 484 347 c 0,12,13
+ 484 307 484 307 456 279 c 0,14,15
+ 428 251 428 251 388 250 c 256,0,1
+EndSplineSet
 Refer: 26 76 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ldot
 Encoding: 497 320 433
-Width: 615
-HStem: 0 124<216.443 311> 151 194<403.422 526.195> 648 20G<50 202>
-VStem: 50 152<134.834 668> 367 195<187.743 308.868>
+Width: 485
+Flags: W
+HStem: 0 124<216.443 311> 250 194<306.422 429.195> 648 20G<50 202>
+VStem: 50 152<134.834 668> 270 195<286.743 407.868>
 LayerCount: 2
 Fore
-Refer: 99 183 N 1 0 0 1 314 0 2
+SplineSet
+368 250 m 256,0,1
+ 328 250 328 250 299 278.5 c 0,2,3
+ 270 307 270 307 270 347 c 0,4,5
+ 270 388 270 388 299 416 c 0,6,7
+ 328 444 328 444 368 444 c 256,8,9
+ 408 444 408 444 436.5 416 c 0,10,11
+ 465 388 465 388 465 347 c 0,12,13
+ 465 307 465 307 436.5 278.5 c 0,14,15
+ 408 250 408 250 368 250 c 256,0,1
+EndSplineSet
 Refer: 52 108 N 1 0 0 1 0 0 2
 EndChar
 
@@ -29649,44 +29670,44 @@ EndChar
 StartChar: AEacute
 Encoding: 500 508 436
 Width: 1016
-HStem: 0 139<639 994> 119 128<341 481> 275 138<639 857> 528 139<639 994> 740 153<731.876 766.882>
-VStem: 623.5 208
+HStem: 0 139<639 994> 119 128<341 481> 275 138<639 857> 528 139<639 994> 746 153<738.376 773.382>
+VStem: 630 208
 LayerCount: 2
 Fore
-Refer: 332 769 N 1 0 0 1 623.5 166 2
+Refer: 332 769 N 1 0 0 1 630 172 2
 Refer: 150 198 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: aeacute
 Encoding: 501 509 437
 Width: 883
-HStem: -12 103<196.66 322.128> -12 118<537.786 689.935> 209 90<201.026 353 493 719> 396 114<535.319 681.662> 407 103<206.417 333.445> 570 153<438.376 473.382>
-VStem: 24 157<105.793 188.364> 330 208
+HStem: -12 103<196.66 322.128> -12 118<537.786 689.935> 209 90<201.026 353 493 719> 396 114<535.319 681.662> 407 103<206.417 333.445> 574 153<487.376 522.382>
+VStem: 24 157<105.793 188.364> 379 208
 LayerCount: 2
 Fore
-Refer: 332 769 N 1 0 0 1 330 -4 2
+Refer: 332 769 N 1 0 0 1 379 0 2
 Refer: 181 230 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Oslashacute
 Encoding: 502 510 438
 Width: 763
-HStem: -12 130<297.415 465.092> 549 130<297.445 466.338> 740 153<375.876 410.882>
-VStem: 35 167<222.423 445.932> 267.5 208 560 168<221.765 445.742>
+HStem: -12 130<297.415 465.092> 549 130<297.445 466.338> 746 153<422.376 457.382>
+VStem: 35 167<222.423 445.932> 314 208 560 168<221.765 445.742>
 LayerCount: 2
 Fore
-Refer: 332 769 N 1 0 0 1 267.5 166 2
+Refer: 332 769 N 1 0 0 1 314 172 2
 Refer: 179 216 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: oslashacute
 Encoding: 503 511 439
 Width: 573
-HStem: -12 118<224.009 351.258> 392 118<221.997 341.356> 584 153<280.876 315.882>
-VStem: 24 155<194.39 347.63> 172.5 208 394 155<150.206 315.344>
+HStem: -12 118<224.009 351.258> 392 118<221.997 341.356> 574 153<327.376 362.382>
+VStem: 24 155<194.39 347.63> 219 208 394 155<150.206 315.344>
 LayerCount: 2
 Fore
-Refer: 332 769 N 1 0 0 1 172.5 10 2
+Refer: 332 769 N 1 0 0 1 219 0 2
 Refer: 178 248 N 1 0 0 1 0 0 3
 EndChar
 EndChars
