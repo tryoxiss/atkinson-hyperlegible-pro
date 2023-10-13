@@ -27,19 +27,15 @@ Differentiated letterforms: Similar letter pairs are differentiated from each ot
 
 > `Q vs G, E vs F, p vs q, i vs r, O vs 0`
 
-Unambiguous Characters: designed to increase legibility and distinction
+Unambiguous Characters: designed to increase legibility and distinction.
 
 > `ER79jr Vsa36`
 
-Exaggerated forms: Shaping of letters is exaggerated to provide better clarity
-
-Opened Counterspace: Open areas of certain letters are expanded to provide greater distinction
+Exaggerated forms: Shaping of letters is exaggerated to provide better clarity. Opened Counterspace: Open areas of certain letters are expanded to provide greater distinction.
 
 > `aGbgrpqu Åö8ij%?¡:`
 
-Angled spurs and differentiated tails: Increase recognition and define distinctive style
-
-Circular Details: Links to the history of Braille Institute and braille dots
+Angled spurs and differentiated tails: Increase recognition and define distinctive style. Circular Details: Links to the history of Braille Institute and braille dots.
 
 ## Installing the Font
 
