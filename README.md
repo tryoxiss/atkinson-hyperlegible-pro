@@ -11,8 +11,8 @@
 Atkinson Hyperlegible Pro is an update to the original typeface designed for The Braille Institute and named after its founder J. Robert Atkinson. What makes it different from traditional typography design is that it focuses on letterform distinction to increase character recognition, ultimately improving legibility and readability for low-vision readers. The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
 
 * Four fonts, including two weights (regular, italic, bold, bold italic)
-* An additional 81 glyphs supporting 90 languages
-* 1,792 total glyphs across all fonts, 448 per font
+* An additional 88 glyphs supporting 90 languages
+* 1,820 total glyphs across all fonts, 455 per font
 * Improve legibility and readability for low vision readers
 * Improve kerning for better body text
 * Includes ligatures for `fi ff ffi fl ffl`
@@ -54,6 +54,22 @@ And thats it the zero has been flipped!!
 
 ## Added Characters and Glyphs
 
+* Modifier letter apostrophe `ʼ` `U+02BC`
+* U with caron `Ǔ` `U+01D3` and `ǔ` `U+01D4`
+* H with caron `Ȟ` `U+021E` and `ȟ` `U+021F`
+* A with caron `Ǎ` `U+01CD` and `ǎ` `U+01CE`
+* Y with tilde `Ỹ` `U+1EF8` and `ỹ` `U+1EF9`
+* Y with macron `Ȳ` `U+0232` and `ȳ` `U+0233`
+* G with caron `Ǧ` `U+01E6` and `ǧ` `U+01E7`
+* E with tilde `Ẽ` `U+1EBC` and `ẽ` `U+1EBD`
+* O with stroke and acute `Ǿ` `U+01FE` and `ǿ` `U+01FF`
+* Ae with acute `Ǽ` `U+01FC` and `ǽ` `U+01FD`
+* O with breve `Ŏ` `U+014E` and `ŏ` `U+014F`
+* L with middle dot `Ŀ` `U+013F` and `ŀ` `U+0140`
+* I with breve `Ĭ` `U+012C` and `ĭ` `U+012D`
+* I with tilde `Ĩ` `U+0128` and `ĩ` `U+0129`
+* E with breve `Ĕ` `U+0114` and `ĕ` `U+0115`
+* Hyphen `‐` `U+2010`
 * U with tilde `Ũ` `U+0168` and `ũ` `U+0169`
 * U with breve `Ŭ` `U+016C` and `ŭ` `U+016D`
 * S with circumflex `Ŝ` `U+015C` and `ŝ` `U+015D`
