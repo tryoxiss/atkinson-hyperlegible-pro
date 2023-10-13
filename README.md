@@ -117,13 +117,13 @@ And thats it the zero has been flipped!!
 * Copyleft `🄯` `U+1F12F`
 * Alternative reversed number zero `0`
 
-## Contribute
-
-Help us extend Atkinson Hyperlegible Pro to other languages, before you commit let me know the characters that you wish to add so that I can add the corresponding encoding slot. I am currently working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00)” this will also include new diacritic and marks.
-
 ## Language Support (90)
 
 Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish Croatian Czech Danish Dutch Embu English Esperanto Estonian Faroese Filipino Finnish French Friulian Galician German Gusii Hungarian Icelandic Indonesian Irish Italian Kabuverdianu Kalenjin Kamba Kikuyu Kinyarwanda Latvian Lithuanian Lower Sorbian Luo Luxembourgish Luyia Machame Makhuwa-Meetto Makonde Malagasy Maltese Manx Meru Morisyen North Ndebele Norwegian Bokmål Norwegian Nynorsk Nyankole Oromo Polish Portuguese Quechua Romanian Romansh Rombo Rundi Rwa Samburu Sango Sangu Scottish Gaelic Sena Serbian Shambala Shona Slovak Soga Somali Spanish Swahili Swedish Swiss German Taita Teso Turkish Upper Sorbian Uzbek (Latin) Volapük Vunjo Walser Welsh Western Frisian Zulu.
+
+## Contribute
+
+Help us extend Atkinson Hyperlegible Pro to other languages, before you commit let me know the characters that you wish to add so that I can add the corresponding encoding slot. I am currently working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00)” this will also include new diacritic and marks.
 
 ## License
 
