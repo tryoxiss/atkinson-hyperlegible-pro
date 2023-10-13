@@ -20,8 +20,7 @@ Atkinson Hyperlegible Pro is an update to the original typeface designed for The
 
 ## Unique design features
 
-For Low vision readers, certain letters and numbers can be hard to distinguish from one another.
-Atkinson Hyperlegible differentiates common misinterpreted letters and numbers using various design techniques: B vs 8, 1 vs L vs l vs I. Recognizable Footprints: Character boundaries clearly defined, ensuring understanding across the visual-ability spectrum.
+Designed for low-vision readers, certain letters and numbers can be hard to distinguish from one another. Atkinson Hyperlegible Pro differentiates common misinterpreted letters and numbers using various design techniques: B vs. 8, 1 vs. L vs. l vs. I. Recognizable Footprints: Character boundaries are clearly defined, ensuring understanding across the visual-ability spectrum.
 
 > `Q vs G, E vs F, p vs q, i vs r, O vs 0`
 
