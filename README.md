@@ -3,8 +3,19 @@
 88 Extra Glyphs, Including an Alternative Flipped Zero, Improved Kerning and Ligatures
 
 ---
-
 ![Brochure Overview](docs/BIA_Brochure-Overview.jpg)
+
+## Table of Contents
+
+* [Overview](#overview)
+* [Features](#unique-design-features)
+* [Installing](#installing-the-font)
+* [Language Support](#language-support)
+* [Flip the Zero](#flipping-the-zero)
+* [Change Log](#change-log)
+  * [Characters and Glyphs](#added-characters-and-glyphs)
+* [Contribute](#contribute)
+* [License](#license)
 
 ## Overview
 
