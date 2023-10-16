@@ -5,7 +5,7 @@ FamilyName: Atkinson Hyperlegible Pro
 Weight: Bold
 Copyright: Copyright 2020 Braille Institute of America, Inc.
 UComments: "Update by Jacob Perez+AAoA-https://jacobxperez.github.io/atkinson-hyperlegible-pro/"
-Version: 1.3.0
+Version: 1.3.1
 ItalicAngle: 0
 UnderlinePosition: -106
 UnderlineWidth: 57
@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1615339189
-ModificationTime: 1697427199
+ModificationTime: 1697427898
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -925,7 +925,7 @@ ShortTable: maxp 16
   2
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 1.3.0" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "Version 1.3.1" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: ISO8859-1
 UnicodeInterp: none
@@ -933,7 +933,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 19 14
+WinInfo: 57 19 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 335544 167772 111848 520094 1048576 111848 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -24592,7 +24592,7 @@ StartChar: Acircumflex
 Encoding: 194 194 188
 Width: 690
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 807 91<299.5 390.5>
 DStem2: 258 668 344 501 0.35419 0.935173<-393 -125.714> 432 668 344 501 0.35419 -0.935173<125.005 393> 685 0 430 247 0.35419 -0.935173<-589.301 -321.306 -186.374 -146.515>
 AnchorPoint: "Anchor-2" 654 0 basechar 0
@@ -24608,7 +24608,7 @@ StartChar: Atilde
 Encoding: 195 195 189
 Width: 690
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 741 79<353.82 452.706> 779 82<253.346 346.822>
 DStem2: 258 668 344 501 0.35419 0.935173<-393 -125.714> 432 668 344 501 0.35419 -0.935173<125.005 393> 685 0 430 247 0.35419 -0.935173<-589.301 -321.306 -186.374 -146.515>
 AnchorPoint: "Anchor-2" 654 0 basechar 0
@@ -24624,7 +24624,7 @@ StartChar: Adieresis
 Encoding: 196 196 190
 Width: 690
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 750 141<199.658 297.857 393.658 491.373>
 VStem: 178 141<771.143 869.342> 372 140<771.143 869.342>
 DStem2: 258 668 344 501 0.35419 0.935173<-393 -125.714> 432 668 344 501 0.35419 -0.935173<125.005 393> 685 0 430 247 0.35419 -0.935173<-589.301 -321.306 -186.374 -146.515>
@@ -24880,7 +24880,7 @@ StartChar: Agrave
 Encoding: 192 192 192
 Width: 690
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 746 154<270.618 305.719>
 VStem: 206 208
 DStem2: 258 668 344 501 0.35419 0.935173<-393 -125.714> 432 668 344 501 0.35419 -0.935173<125.005 393> 685 0 430 247 0.35419 -0.935173<-589.301 -321.306 -186.374 -146.515>
@@ -24897,7 +24897,7 @@ StartChar: Aacute
 Encoding: 193 193 193
 Width: 690
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 746 153<385.376 420.382>
 VStem: 277 208
 DStem2: 258 668 344 501 0.35419 0.935173<-393 -125.714> 432 668 344 501 0.35419 -0.935173<125.005 393> 685 0 430 247 0.35419 -0.935173<-589.301 -321.306 -186.374 -146.515>
@@ -24914,7 +24914,7 @@ StartChar: Amacron
 Encoding: 308 256 194
 Width: 690
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 742 98<195 494>
 VStem: 195 299<742 840>
 DStem2: 258 668 344 501 0.35419 0.935173<-393 -125.714> 432 668 344 501 0.35419 -0.935173<125.005 393> 685 0 430 247 0.35419 -0.935173<-589.301 -321.306 -186.374 -146.515>
@@ -24931,7 +24931,7 @@ StartChar: amacron
 Encoding: 309 257 195
 Width: 553
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 104<194.267 302.333> 0 21G<373 520> 220 90<228.876 353> 407 103<206.417 335.926> 570 98<135 434>
 VStem: 24 157<106.385 186.02> 135 299<570 668> 356 147<124.574 220 308.591 386.597>
 AnchorPoint: "Anchor-2" 518 0 basechar 0
@@ -24947,7 +24947,7 @@ StartChar: agrave
 Encoding: 224 224 196
 Width: 553
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 104<194.267 302.333> 0 21G<373 520> 220 90<228.876 353> 407 103<206.417 335.926> 574 154<210.618 245.719>
 VStem: 24 157<106.385 186.02> 146 208 356 147<124.574 220 308.591 386.597>
 AnchorPoint: "Anchor-2" 518 0 basechar 0
@@ -24963,7 +24963,7 @@ StartChar: acircumflex
 Encoding: 226 226 197
 Width: 553
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 104<194.267 302.333> 0 21G<373 520> 220 90<228.876 353> 407 103<206.417 335.926> 635 91<239.5 330.5>
 VStem: 24 157<106.385 186.02> 356 147<124.574 220 308.591 386.597>
 AnchorPoint: "Anchor-2" 518 0 basechar 0
@@ -24979,7 +24979,7 @@ StartChar: atilde
 Encoding: 227 227 198
 Width: 553
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 104<194.267 302.333> 0 21G<373 520> 220 90<228.876 353> 407 103<206.417 335.926> 569 79<293.82 392.706> 607 82<193.346 286.822>
 VStem: 24 157<106.385 186.02> 356 147<124.574 220 308.591 386.597>
 AnchorPoint: "Anchor-2" 518 0 basechar 0
@@ -24995,7 +24995,7 @@ StartChar: adieresis
 Encoding: 228 228 199
 Width: 553
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 104<194.267 302.333> 0 21G<373 520> 220 90<228.876 353> 407 103<206.417 335.926> 578 141<139.658 237.857 333.658 431.373>
 VStem: 24 157<106.385 186.02> 118 141<599.143 697.342> 312 140<599.143 697.342> 356 147<124.574 220 308.591 386.597>
 AnchorPoint: "Anchor-2" 518 0 basechar 0
@@ -25011,7 +25011,7 @@ StartChar: aring
 Encoding: 229 229 200
 Width: 553
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 104<194.267 302.333> 0 21G<373 520> 220 90<228.876 353> 407 103<206.417 335.926> 535 86<244.974 320.243> 715 85<247.91 320.243>
 VStem: 24 157<106.385 186.02> 152 85<628.895 704.164> 331 86<631.826 704.164> 356 147<124.574 220 308.591 386.597>
 AnchorPoint: "Anchor-2" 518 0 basechar 0
@@ -25027,7 +25027,7 @@ StartChar: aacute
 Encoding: 225 225 201
 Width: 553
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 104<194.267 302.333> 0 21G<373 520> 220 90<228.876 353> 407 103<206.417 335.926> 574 153<325.376 360.382>
 VStem: 24 157<106.385 186.02> 217 208 356 147<124.574 220 308.591 386.597>
 AnchorPoint: "Anchor-2" 518 0 basechar 0
@@ -25401,7 +25401,7 @@ StartChar: Egrave
 Encoding: 200 200 204
 Width: 580
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 746 154<228.618 263.719>
 VStem: 44 158<139 274 413 529> 164 208
 AnchorPoint: "Anchor-2" 522 0 basechar 0
@@ -25417,7 +25417,7 @@ StartChar: Eacute
 Encoding: 201 201 205
 Width: 580
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 746 153<343.376 378.382>
 VStem: 44 158<139 274 413 529> 235 208
 AnchorPoint: "Anchor-2" 522 0 basechar 0
@@ -25433,7 +25433,7 @@ StartChar: Ecircumflex
 Encoding: 202 202 206
 Width: 580
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 807 91<257.5 348.5>
 VStem: 44 158<139 274 413 529>
 AnchorPoint: "Anchor-2" 522 0 basechar 0
@@ -25449,7 +25449,7 @@ StartChar: Edieresis
 Encoding: 203 203 207
 Width: 580
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 750 141<157.658 255.857 351.658 449.373>
 VStem: 44 158<139 274 413 529> 136 141<771.143 869.342> 330 140<771.143 869.342>
 AnchorPoint: "Anchor-2" 522 0 basechar 0
@@ -25465,7 +25465,7 @@ StartChar: egrave
 Encoding: 232 232 208
 Width: 566
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.438 373.818> 210 90<177 403> 397 113<220.239 366.039> 574 154<209.618 244.719>
 VStem: 145 208
 AnchorPoint: "Anchor-2" 509 10 basechar 0
@@ -25481,7 +25481,7 @@ StartChar: eacute
 Encoding: 233 233 209
 Width: 566
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.438 373.818> 210 90<177 403> 397 113<220.239 366.039> 574 153<324.376 359.382>
 VStem: 216 208
 AnchorPoint: "Anchor-2" 509 10 basechar 0
@@ -25497,7 +25497,7 @@ StartChar: ecircumflex
 Encoding: 234 234 210
 Width: 566
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.438 373.818> 210 90<177 403> 397 113<220.239 366.039> 635 91<238.5 329.5>
 AnchorPoint: "Anchor-2" 509 10 basechar 0
 AnchorPoint: "Anchor-1" 283 0 basechar 0
@@ -25512,7 +25512,7 @@ StartChar: edieresis
 Encoding: 235 235 211
 Width: 566
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.438 373.818> 210 90<177 403> 397 113<220.239 366.039> 578 141<138.658 236.857 332.658 430.373>
 VStem: 117 141<599.143 697.342> 311 140<599.143 697.342>
 AnchorPoint: "Anchor-2" 509 10 basechar 0
@@ -25528,7 +25528,7 @@ StartChar: Igrave
 Encoding: 204 204 212
 Width: 458
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 746 154<156.618 191.719>
 VStem: 57 344<0 124 544 668> 92 208
 AnchorPoint: "Anchor-2" 331 0 basechar 0
@@ -25544,7 +25544,7 @@ StartChar: Iacute
 Encoding: 205 205 213
 Width: 458
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 746 153<271.376 306.382>
 VStem: 57 344<0 124 544 668> 163 208
 AnchorPoint: "Anchor-2" 331 0 basechar 0
@@ -25560,7 +25560,7 @@ StartChar: Icircumflex
 Encoding: 206 206 214
 Width: 458
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 807 91<185.5 276.5>
 VStem: 57 344<0 124 544 668>
 AnchorPoint: "Anchor-2" 331 0 basechar 0
@@ -25576,7 +25576,7 @@ StartChar: Idieresis
 Encoding: 207 207 215
 Width: 458
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 750 141<85.6582 183.857 279.658 377.373>
 VStem: 57 344<0 124 544 668> 64 141<771.143 869.342> 258 140<771.143 869.342>
 AnchorPoint: "Anchor-2" 331 0 basechar 0
@@ -25592,7 +25592,7 @@ StartChar: igrave
 Encoding: 236 236 216
 Width: 301
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<118 271> 381 115<24 118> 574 154<86.6177 121.719>
 VStem: 22 208 118 153<0 381>
 AnchorPoint: "Anchor-2" 271 10 basechar 0
@@ -25608,7 +25608,7 @@ StartChar: iacute
 Encoding: 237 237 217
 Width: 301
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<118 271> 381 115<24 118> 574 153<201.376 236.382>
 VStem: 93 208 118 153<0 381>
 AnchorPoint: "Anchor-2" 271 10 basechar 0
@@ -25624,7 +25624,7 @@ StartChar: icircumflex
 Encoding: 238 238 218
 Width: 301
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<118 271> 381 115<24 118> 635 91<115.5 206.5>
 VStem: 118 153<0 381>
 AnchorPoint: "Anchor-2" 271 10 basechar 0
@@ -25640,7 +25640,7 @@ StartChar: idieresis
 Encoding: 239 239 219
 Width: 301
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<118 271> 381 115<24 118> 578 141<15.6582 113.857 209.658 307.373>
 VStem: -6 141<599.143 697.342> 118 153<0 381> 188 140<599.143 697.342>
 AnchorPoint: "Anchor-2" 271 10 basechar 0
@@ -25656,7 +25656,7 @@ StartChar: Ntilde
 Encoding: 209 209 220
 Width: 700
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<44 196 443.16 656> 648 20G<44 255.84 503 656> 741 79<373.82 472.706> 779 82<273.346 366.822>
 VStem: 44 152<0 476> 503 153<192 668>
 DStem2: 245 668 196 476 0.476521 -0.879163<145.45 541.424>
@@ -25672,7 +25672,7 @@ StartChar: Ograve
 Encoding: 210 210 221
 Width: 764
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 746 154<307.618 342.719>
 VStem: 35 167<221.765 446.235> 243 208 561 168<221.765 446.235>
 AnchorPoint: "Anchor-2" 688 10 basechar 0
@@ -25688,7 +25688,7 @@ StartChar: Oacute
 Encoding: 211 211 222
 Width: 764
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 746 153<422.376 457.382>
 VStem: 35 167<221.765 446.235> 314 208 561 168<221.765 446.235>
 AnchorPoint: "Anchor-2" 688 10 basechar 0
@@ -25704,7 +25704,7 @@ StartChar: Ocircumflex
 Encoding: 212 212 223
 Width: 764
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 807 91<336.5 427.5>
 VStem: 35 167<221.765 446.235> 561 168<221.765 446.235>
 AnchorPoint: "Anchor-2" 688 10 basechar 0
@@ -25720,7 +25720,7 @@ StartChar: Otilde
 Encoding: 213 213 224
 Width: 764
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 741 79<390.82 489.706> 779 82<290.346 383.822>
 VStem: 35 167<221.765 446.235> 561 168<221.765 446.235>
 AnchorPoint: "Anchor-2" 688 10 basechar 0
@@ -25736,7 +25736,7 @@ StartChar: Odieresis
 Encoding: 214 214 225
 Width: 764
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 750 141<236.658 334.857 430.658 528.373>
 VStem: 35 167<221.765 446.235> 215 141<771.143 869.342> 409 140<771.143 869.342> 561 168<221.765 446.235>
 AnchorPoint: "Anchor-2" 688 10 basechar 0
@@ -25752,7 +25752,7 @@ StartChar: Ugrave
 Encoding: 217 217 226
 Width: 663
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 746 154<257.618 292.719>
 VStem: 44 158<164.983 668> 193 208 461 158<164.983 668>
 AnchorPoint: "Anchor-2" 440 0 basechar 0
@@ -25768,7 +25768,7 @@ StartChar: Uacute
 Encoding: 218 218 227
 Width: 663
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 746 153<372.376 407.382>
 VStem: 44 158<164.983 668> 264 208 461 158<164.983 668>
 AnchorPoint: "Anchor-2" 440 0 basechar 0
@@ -25784,7 +25784,7 @@ StartChar: Ucircumflex
 Encoding: 219 219 228
 Width: 663
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 807 91<286.5 377.5>
 VStem: 44 158<164.983 668> 461 158<164.983 668>
 AnchorPoint: "Anchor-2" 440 0 basechar 0
@@ -25800,7 +25800,7 @@ StartChar: Udieresis
 Encoding: 220 220 229
 Width: 663
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 750 141<186.658 284.857 380.658 478.373>
 VStem: 44 158<164.983 668> 165 141<771.143 869.342> 359 140<771.143 869.342> 461 158<164.983 668>
 AnchorPoint: "Anchor-2" 440 0 basechar 0
@@ -25816,7 +25816,7 @@ StartChar: Yacute
 Encoding: 221 221 230
 Width: 687
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<265 422> 648 20G<10 205.595 480.405 677> 746 153<384.376 419.382>
 VStem: 10 184<484 668> 265 157<0 260> 276 208 492 185<483 668>
 DStem2: 194 668 10 668 0.529999 -0.847998<0 296.905> 343 411 422 260 0.529999 0.847998<0 296.905>
@@ -25832,7 +25832,7 @@ StartChar: ntilde
 Encoding: 241 241 231
 Width: 572
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<50 202 370 522> 392 118<265.68 403> 476 20G<50 188.758> 569 79<313.82 412.706> 607 82<213.346 306.822>
 VStem: 50 152<0 357.493> 370 152<0 371.07>
 AnchorPoint: "Anchor-1" 286 0 basechar 0
@@ -25847,7 +25847,7 @@ StartChar: ograve
 Encoding: 242 242 232
 Width: 573
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.21 351.258> 392 118<221.997 351.15> 574 154<212.618 247.719>
 VStem: 24 155<151.169 347.944> 148 208 394 155<150.538 347.944>
 AnchorPoint: "Anchor-2" 516 10 basechar 0
@@ -25863,7 +25863,7 @@ StartChar: oacute
 Encoding: 243 243 233
 Width: 573
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.21 351.258> 392 118<221.997 351.15> 574 153<327.376 362.382>
 VStem: 24 155<151.169 347.944> 219 208 394 155<150.538 347.944>
 AnchorPoint: "Anchor-2" 516 10 basechar 0
@@ -25879,7 +25879,7 @@ StartChar: ocircumflex
 Encoding: 244 244 234
 Width: 573
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.21 351.258> 392 118<221.997 351.15> 635 91<241.5 332.5>
 VStem: 24 155<151.169 347.944> 394 155<150.538 347.944>
 AnchorPoint: "Anchor-2" 516 10 basechar 0
@@ -25895,7 +25895,7 @@ StartChar: otilde
 Encoding: 245 245 235
 Width: 573
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.21 351.258> 392 118<221.997 351.15> 569 79<295.82 394.706> 607 82<195.346 288.822>
 VStem: 24 155<151.169 347.944> 394 155<150.538 347.944>
 AnchorPoint: "Anchor-2" 516 10 basechar 0
@@ -25911,7 +25911,7 @@ StartChar: odieresis
 Encoding: 246 246 236
 Width: 573
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.21 351.258> 392 118<221.997 351.15> 578 141<141.658 239.857 335.658 433.373>
 VStem: 24 155<151.169 347.944> 120 141<599.143 697.342> 314 140<599.143 697.342> 394 155<150.538 347.944>
 AnchorPoint: "Anchor-2" 516 10 basechar 0
@@ -25927,7 +25927,7 @@ StartChar: ugrave
 Encoding: 249 249 237
 Width: 570
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<189 310.392> 0 21G<381 519> 476 20G<50 202 366 519> 574 154<210.618 245.719>
 VStem: 50 152<127.216 496> 146 208 366 153<134.154 496>
 AnchorPoint: "Anchor-2" 513 10 basechar 0
@@ -25943,7 +25943,7 @@ StartChar: uacute
 Encoding: 250 250 238
 Width: 570
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<189 310.392> 0 21G<381 519> 476 20G<50 202 366 519> 574 153<325.376 360.382>
 VStem: 50 152<127.216 496> 217 208 366 153<134.154 496>
 AnchorPoint: "Anchor-2" 513 10 basechar 0
@@ -25959,7 +25959,7 @@ StartChar: ucircumflex
 Encoding: 251 251 239
 Width: 570
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<189 310.392> 0 21G<381 519> 476 20G<50 202 366 519> 635 91<239.5 330.5>
 VStem: 50 152<127.216 496> 366 153<134.154 496>
 AnchorPoint: "Anchor-2" 513 10 basechar 0
@@ -25975,7 +25975,7 @@ StartChar: udieresis
 Encoding: 252 252 240
 Width: 570
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<189 310.392> 0 21G<381 519> 476 20G<50 202 366 519> 578 141<139.658 237.857 333.658 431.373>
 VStem: 50 152<127.216 496> 118 141<599.143 697.342> 312 140<599.143 697.342> 366 153<134.154 496>
 AnchorPoint: "Anchor-2" 513 10 basechar 0
@@ -25991,7 +25991,7 @@ StartChar: yacute
 Encoding: 253 253 241
 Width: 518
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -161 110<65 175.442> 476 20G<0 169.258 348.871 518> 574 153<300.376 335.382>
 VStem: 192 208
 AnchorPoint: "Anchor-1" 259 0 basechar 0
@@ -26006,7 +26006,7 @@ StartChar: ydieresis
 Encoding: 255 255 242
 Width: 518
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -161 110<65 175.442> 476 20G<0 169.258 348.871 518> 578 141<114.658 212.857 308.658 406.373>
 VStem: 93 141<599.143 697.342> 287 140<599.143 697.342>
 AnchorPoint: "Anchor-1" 259 0 basechar 0
@@ -26021,7 +26021,7 @@ StartChar: Scaron
 Encoding: 310 352 243
 Width: 619
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 127<224.575 406.838> 553 127<217.01 383.598> 740 91<258.5 349.5>
 VStem: 28 162<445.579 530.707> 434 162<141.117 230.914>
 DStem2: 266 421 231 285 0.980581 -0.196116<-69.6636 188.025>
@@ -26037,7 +26037,7 @@ StartChar: scaron
 Encoding: 311 353 244
 Width: 534
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 111<182.142 349.241> 399 111<184.3 339.623> 568 91<222.5 313.5>
 VStem: 33 145<332.714 389.612> 361 146<114.221 174.02>
 DStem2: 331 302 195 205 0.983353 -0.181706<-142.103 55.3046>
@@ -26053,7 +26053,7 @@ StartChar: Ydieresis
 Encoding: 312 376 245
 Width: 687
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<265 422> 648 20G<10 205.595 480.405 677> 750 141<198.658 296.857 392.658 490.373>
 VStem: 10 184<484 668> 177 141<771.143 869.342> 265 157<0 260> 371 140<771.143 869.342> 492 185<483 668>
 DStem2: 194 668 10 668 0.529999 -0.847998<0 296.905> 343 411 422 260 0.529999 0.847998<0 296.905>
@@ -26069,7 +26069,7 @@ StartChar: Zcaron
 Encoding: 313 381 246
 Width: 621
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<240 589> 529 139<47 369> 740 91<265.5 356.5>
 DStem2: 32 121 240 139 0.636833 0.771002<146.339 529.181>
 AnchorPoint: "Anchor-1" 311 0 basechar 0
@@ -26084,7 +26084,7 @@ StartChar: zcaron
 Encoding: 314 382 247
 Width: 516
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 121<226 496> 375 121<44 287> 568 91<222.5 313.5>
 DStem2: 30 121 226 121 0.711246 0.702943<139.404 361.338>
 AnchorPoint: "Anchor-1" 258 0 basechar 0
@@ -26494,7 +26494,7 @@ StartChar: Abreve
 Encoding: 325 258 259
 Width: 690
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<5 183.723 506.277 685> 119 128<260 430> 648 20G<250.425 439.575> 741 77<298.046 391.551>
 VStem: 201 287
 DStem2: 258 668 344 501 0.35419 0.935173<-393 -125.714> 432 668 344 501 0.35419 -0.935173<125.005 393> 685 0 430 247 0.35419 -0.935173<-589.301 -321.306 -186.374 -146.515>
@@ -26511,7 +26511,7 @@ StartChar: abreve
 Encoding: 326 259 260
 Width: 553
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 104<194.267 302.333> 0 21G<373 520> 220 90<228.876 353> 407 103<206.417 335.926> 569 77<238.046 331.551>
 VStem: 24 157<106.385 186.02> 141 287 356 147<124.574 220 308.591 386.597>
 AnchorPoint: "Anchor-2" 518 0 basechar 0
@@ -26926,7 +26926,7 @@ StartChar: Emacron
 Encoding: 329 274 263
 Width: 580
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 742 98<153 452>
 VStem: 44 158<139 274 413 529> 153 299<742 840>
 AnchorPoint: "Anchor-2" 522 0 basechar 0
@@ -26942,7 +26942,7 @@ StartChar: emacron
 Encoding: 330 275 264
 Width: 566
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.438 373.818> 210 90<177 403> 397 113<220.239 366.039> 570 98<134 433>
 VStem: 134 299<570 668>
 AnchorPoint: "Anchor-2" 509 10 basechar 0
@@ -26958,7 +26958,7 @@ StartChar: Edotaccent
 Encoding: 331 278 265
 Width: 580
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 750 141<253.658 351.857>
 VStem: 44 158<139 274 413 529> 232 141<771.143 869.342>
 AnchorPoint: "Anchor-2" 522 0 basechar 0
@@ -26974,7 +26974,7 @@ StartChar: edotaccent
 Encoding: 332 279 266
 Width: 566
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.438 373.818> 210 90<177 403> 397 113<220.239 366.039> 578 141<234.658 332.857>
 VStem: 213 141<599.143 697.342>
 AnchorPoint: "Anchor-2" 509 10 basechar 0
@@ -27282,7 +27282,7 @@ StartChar: Ecaron
 Encoding: 335 282 269
 Width: 580
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<202 558> 274 139<202 419> 529 139<202 558> 740 91<257.5 348.5>
 VStem: 44 158<139 274 413 529>
 AnchorPoint: "Anchor-2" 522 0 basechar 0
@@ -27298,7 +27298,7 @@ StartChar: ecaron
 Encoding: 336 283 270
 Width: 566
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.438 373.818> 210 90<177 403> 397 113<220.239 366.039> 568 91<238.5 329.5>
 AnchorPoint: "Anchor-2" 509 10 basechar 0
 AnchorPoint: "Anchor-1" 283 0 basechar 0
@@ -27313,7 +27313,7 @@ StartChar: Ohungarumlaut
 Encoding: 337 336 271
 Width: 764
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<296.748 466.092> 550 130<296.748 466.092> 746 153<333.003 338 536.003 541>
 VStem: 35 167<221.765 446.235> 561 168<221.765 446.235>
 AnchorPoint: "Anchor-2" 688 10 basechar 0
@@ -27329,7 +27329,7 @@ StartChar: ohungarumlaut
 Encoding: 338 337 272
 Width: 573
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<222.21 351.258> 392 118<221.997 351.15> 574 153<238.003 243 441.003 446>
 VStem: 24 155<151.169 347.944> 394 155<150.538 347.944>
 AnchorPoint: "Anchor-2" 516 10 basechar 0
@@ -27345,7 +27345,7 @@ StartChar: Imacron
 Encoding: 339 298 273
 Width: 458
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 124<57 151 309 401> 544 124<57 151 309 401> 742 98<81 380>
 VStem: 57 344<0 124 544 668> 81 299<742 840>
 AnchorPoint: "Anchor-2" 331 0 basechar 0
@@ -27361,7 +27361,7 @@ StartChar: imacron
 Encoding: 340 299 274
 Width: 301
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<118 271> 381 115<24 118> 570 98<11 310>
 VStem: 11 299<570 668> 118 153<0 381>
 AnchorPoint: "Anchor-2" 271 10 basechar 0
@@ -27677,7 +27677,7 @@ StartChar: Cacute
 Encoding: 343 262 277
 Width: 673
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<291.107 460.991> 550 130<290.443 454.592> 746 153<397.376 432.382>
 VStem: 35 167<215.231 450.159> 289 208
 AnchorPoint: "Anchor-1" 357 0 basechar 0
@@ -27692,7 +27692,7 @@ StartChar: cacute
 Encoding: 344 263 278
 Width: 520
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<223.861 354.393> 392 118<223.3 351.673> 574 153<320.376 355.382>
 VStem: 24 155<154.371 344.993> 212 208
 AnchorPoint: "Anchor-1" 275 0 basechar 0
@@ -27707,7 +27707,7 @@ StartChar: Cdotaccent
 Encoding: 345 266 279
 Width: 673
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<291.107 460.991> 550 130<290.443 454.592> 750 141<307.658 405.857>
 VStem: 35 167<215.231 450.159> 286 141<771.143 869.342>
 AnchorPoint: "Anchor-1" 357 0 basechar 0
@@ -27722,7 +27722,7 @@ StartChar: cdotaccent
 Encoding: 346 267 280
 Width: 520
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<223.861 354.393> 392 118<223.3 351.673> 578 141<230.658 328.857>
 VStem: 24 155<154.371 344.993> 209 141<599.143 697.342>
 AnchorPoint: "Anchor-1" 275 0 basechar 0
@@ -27737,7 +27737,7 @@ StartChar: Sacute
 Encoding: 347 346 281
 Width: 619
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 127<224.575 406.838> 553 127<217.01 383.598> 746 153<344.376 379.382>
 VStem: 28 162<445.579 530.707> 236 208 434 162<141.117 230.914>
 DStem2: 266 421 231 285 0.980581 -0.196116<-69.6636 188.025>
@@ -27753,7 +27753,7 @@ StartChar: sacute
 Encoding: 348 347 282
 Width: 534
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 111<182.142 349.241> 399 111<184.3 339.623> 574 153<308.376 343.382>
 VStem: 33 145<332.714 389.612> 200 208 361 146<114.221 174.02>
 DStem2: 331 302 195 205 0.983353 -0.181706<-142.103 55.3046>
@@ -27769,7 +27769,7 @@ StartChar: Umacron
 Encoding: 349 362 283
 Width: 663
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 742 98<182 481>
 VStem: 44 158<164.983 668> 182 299<742 840> 461 158<164.983 668>
 AnchorPoint: "Anchor-2" 440 0 basechar 0
@@ -27785,7 +27785,7 @@ StartChar: umacron
 Encoding: 350 363 284
 Width: 570
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<189 310.392> 0 21G<381 519> 476 20G<50 202 366 519> 570 98<135 434>
 VStem: 50 152<127.216 496> 135 299<570 668> 366 153<134.154 496>
 AnchorPoint: "Anchor-2" 513 10 basechar 0
@@ -27801,7 +27801,7 @@ StartChar: Uring
 Encoding: 351 366 285
 Width: 663
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 707 86<291.974 367.243> 887 85<294.91 367.243>
 VStem: 44 158<164.983 668> 199 85<800.895 876.164> 378 86<803.826 876.164> 461 158<164.983 668>
 AnchorPoint: "Anchor-2" 440 0 basechar 0
@@ -27817,7 +27817,7 @@ StartChar: uring
 Encoding: 352 367 286
 Width: 570
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<189 310.392> 0 21G<381 519> 476 20G<50 202 366 519> 535 86<244.974 320.243> 715 85<247.91 320.243>
 VStem: 50 152<127.216 496> 152 85<628.895 704.164> 331 86<631.826 704.164> 366 153<134.154 496>
 AnchorPoint: "Anchor-2" 513 10 basechar 0
@@ -27833,7 +27833,7 @@ StartChar: Uhungarumlaut
 Encoding: 353 368 287
 Width: 663
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 129<248.364 414.911> 648 20G<44 202 461 619> 746 153<283.003 288 486.003 491>
 VStem: 44 158<164.983 668> 461 158<164.983 668>
 AnchorPoint: "Anchor-2" 440 0 basechar 0
@@ -27849,7 +27849,7 @@ StartChar: uhungarumlaut
 Encoding: 354 369 288
 Width: 570
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<189 310.392> 0 21G<381 519> 476 20G<50 202 366 519> 574 153<236.003 241 439.003 444>
 VStem: 50 152<127.216 496> 366 153<134.154 496>
 AnchorPoint: "Anchor-2" 513 10 basechar 0
@@ -28173,7 +28173,7 @@ StartChar: Nacute
 Encoding: 357 323 291
 Width: 700
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<44 196 443.16 656> 648 20G<44 255.84 503 656> 746 153<405.376 440.382>
 VStem: 44 152<0 476> 297 208 503 153<192 668>
 DStem2: 245 668 196 476 0.476521 -0.879163<145.45 541.424>
@@ -28189,7 +28189,7 @@ StartChar: nacute
 Encoding: 358 324 292
 Width: 572
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<50 202 370 522> 392 118<265.68 403> 476 20G<50 188.758> 574 153<345.376 380.382>
 VStem: 50 152<0 357.493> 237 208 370 152<0 371.07>
 AnchorPoint: "Anchor-1" 286 0 basechar 0
@@ -28204,7 +28204,7 @@ StartChar: Ncaron
 Encoding: 359 327 293
 Width: 700
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<44 196 443.16 656> 648 20G<44 255.84 503 656> 740 91<319.5 410.5>
 VStem: 44 152<0 476> 503 153<192 668>
 DStem2: 245 668 196 476 0.476521 -0.879163<145.45 541.424>
@@ -28220,7 +28220,7 @@ StartChar: ncaron
 Encoding: 360 328 294
 Width: 572
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<50 202 370 522> 392 118<265.68 403> 476 20G<50 188.758> 568 91<259.5 350.5>
 VStem: 50 152<0 357.493> 370 152<0 371.07>
 AnchorPoint: "Anchor-1" 286 0 basechar 0
@@ -28235,7 +28235,7 @@ StartChar: Zacute
 Encoding: 361 377 295
 Width: 621
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<240 589> 529 139<47 369> 746 153<351.376 386.382>
 VStem: 243 208
 DStem2: 32 121 240 139 0.636833 0.771002<146.339 529.181>
@@ -28251,7 +28251,7 @@ StartChar: zacute
 Encoding: 362 378 296
 Width: 516
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 121<226 496> 375 121<44 287> 574 153<308.376 343.382>
 VStem: 200 208
 DStem2: 30 121 226 121 0.711246 0.702943<139.404 361.338>
@@ -28267,7 +28267,7 @@ StartChar: Zdotaccent
 Encoding: 363 379 297
 Width: 621
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<240 589> 529 139<47 369> 750 141<261.658 359.857>
 VStem: 240 141<771.143 869.342>
 DStem2: 32 121 240 139 0.636833 0.771002<146.339 529.181>
@@ -28283,7 +28283,7 @@ StartChar: zdotaccent
 Encoding: 364 380 298
 Width: 516
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 121<226 496> 375 121<44 287> 578 141<218.658 316.857>
 VStem: 197 141<599.143 697.342>
 DStem2: 30 121 226 121 0.711246 0.702943<139.404 361.338>
@@ -28600,7 +28600,7 @@ StartChar: Gbreve
 Encoding: 367 286 301
 Width: 719
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<291.336 472.04> 0 21G<573.054 683> 250 128<375 525> 550 130<290.994 463.09> 741 77<323.046 416.551>
 VStem: 35 167<216.912 451.58> 226 287 525 158<164.005 250>
 AnchorPoint: "Anchor-1" 350 0 basechar 0
@@ -28615,7 +28615,7 @@ StartChar: gbreve
 Encoding: 368 287 302
 Width: 597
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -203 116<216.877 363.693> 18 118<227.523 327.001> 392 119<225.005 324.738> 476 20G<409.118 546> 569 77<250.046 343.551>
 VStem: 24 158<181.567 349.293> 153 287 395 151<-55.8784 96 168.32 359.35>
 AnchorPoint: "Anchor-1" 299 -251 basechar 0
@@ -28630,7 +28630,7 @@ StartChar: Gdotaccent
 Encoding: 369 288 303
 Width: 719
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<291.336 472.04> 0 21G<573.054 683> 250 128<375 525> 550 130<290.994 463.09> 750 141<320.658 418.857>
 VStem: 35 167<216.912 451.58> 299 141<771.143 869.342> 525 158<164.005 250>
 AnchorPoint: "Anchor-1" 350 0 basechar 0
@@ -28645,7 +28645,7 @@ StartChar: gdotaccent
 Encoding: 370 289 304
 Width: 597
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -203 116<216.877 363.693> 18 118<227.523 327.001> 392 119<225.005 324.738> 476 20G<409.118 546> 578 141<247.658 345.857>
 VStem: 24 158<181.567 349.293> 226 141<599.143 697.342> 395 151<-55.8784 96 168.32 359.35>
 AnchorPoint: "Anchor-1" 299 -251 basechar 0
@@ -28660,7 +28660,7 @@ StartChar: uni0123
 Encoding: 371 291 305
 Width: 597
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -203 116<216.877 363.693> 18 118<227.523 327.001> 392 119<225.005 324.738> 476 20G<409.118 546> 729 45<360.364 382>
 VStem: 24 158<181.567 349.293> 214 118<629.229 709.134> 395 151<-55.8784 96 168.32 359.35>
 AnchorPoint: "Anchor-1" 324 774 basechar 0
@@ -28676,7 +28676,7 @@ StartChar: uni013B
 Encoding: 372 315 306
 Width: 537
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -251 45<188 209.636> 0 139<202 522> 648 20G<44 202>
 VStem: 44 158<139 668> 238 118<-186.134 -106.229>
 AnchorPoint: "Anchor-1" 246 -251 basechar 0
@@ -28691,7 +28691,7 @@ StartChar: uni013C
 Encoding: 373 316 307
 Width: 314
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -251 45<86 107.636> 0 124<216.443 311> 648 20G<50 202>
 VStem: 50 152<134.834 668> 136 118<-186.134 -106.229>
 AnchorPoint: "Anchor-1" 144 -251 basechar 0
@@ -28706,7 +28706,7 @@ StartChar: Tcaron
 Encoding: 374 356 308
 Width: 617
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<230 387> 529 139<15 230 387 602> 740 91<263.5 354.5>
 VStem: 230 157<0 529>
 AnchorPoint: "Anchor-1" 309 0 basechar 0
@@ -28721,7 +28721,7 @@ StartChar: lcaron
 Encoding: 375 318 309
 Width: 330
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 124<216.443 311> 498 192<268.064 313> 648 20G<50 202>
 VStem: 50 152<134.834 668> 257 111<573.921 670.922>
 AnchorPoint: "Anchor-1" 167 0 basechar 0
@@ -28737,7 +28737,7 @@ StartChar: Lcaron
 Encoding: 376 317 310
 Width: 537
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<202 522> 500 192<362.064 407> 648 20G<44 202>
 VStem: 44 158<139 668> 351 111<575.921 672.922>
 AnchorPoint: "Anchor-1" 269 0 basechar 0
@@ -28752,7 +28752,7 @@ StartChar: tcaron
 Encoding: 377 357 311
 Width: 379
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 124<260.928 355> 380 116<13 95 247 355> 551 192<314.064 359>
 VStem: 95 152<134.834 380 496 620> 303 111<626.921 723.922>
 AnchorPoint: "Anchor-1" 239 0 basechar 0
@@ -28767,7 +28767,7 @@ StartChar: uni0145
 Encoding: 378 325 312
 Width: 700
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -251 45<241 262.636> 0 21G<44 196 443.16 656> 648 20G<44 255.84 503 656>
 VStem: 44 152<0 476> 291 118<-186.134 -106.229> 503 153<192 668>
 DStem2: 245 668 196 476 0.476521 -0.879163<145.45 541.424>
@@ -28783,7 +28783,7 @@ StartChar: uni0146
 Encoding: 379 326 313
 Width: 572
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -251 45<205 226.636> 0 21G<50 202 370 522> 392 118<265.68 403> 476 20G<50 188.758>
 VStem: 50 152<0 357.493> 255 118<-186.134 -106.229> 370 152<0 371.07>
 AnchorPoint: "Anchor-1" 263 -251 basechar 0
@@ -28798,7 +28798,7 @@ StartChar: Racute
 Encoding: 380 340 314
 Width: 654
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<44 202 439.635 637> 252 132<202 273> 535 133<202 411.881> 746 153<347.376 382.382>
 VStem: 44 158<0 252 384 535> 239 208 437 167<407.418 511.648> 454 183<0 183>
 DStem2: 443 269 273 252 0.58494 -0.811077<0 224.614>
@@ -28814,7 +28814,7 @@ StartChar: racute
 Encoding: 381 341 315
 Width: 372
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<50 202> 476 20G<50 175.934> 574 153<261.376 296.382>
 VStem: 50 152<0 327.035> 153 208
 AnchorPoint: "Anchor-1" 128 0 basechar 0
@@ -28829,7 +28829,7 @@ StartChar: Rcaron
 Encoding: 382 344 316
 Width: 654
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<44 202 439.635 637> 252 132<202 273> 535 133<202 411.881> 740 91<261.5 352.5>
 VStem: 44 158<0 252 384 535> 437 167<407.418 511.648> 454 183<0 183>
 DStem2: 443 269 273 252 0.58494 -0.811077<0 224.614>
@@ -28845,7 +28845,7 @@ StartChar: rcaron
 Encoding: 383 345 317
 Width: 372
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<50 202> 476 20G<50 175.934> 568 91<175.5 266.5>
 VStem: 50 152<0 327.035>
 AnchorPoint: "Anchor-1" 128 0 basechar 0
@@ -29091,7 +29091,7 @@ StartChar: Dcaron
 Encoding: 386 270 320
 Width: 686
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 133<202 396.444> 537 131<202 394.188> 740 91<280.5 371.5>
 VStem: 44 158<133 537> 488 163<221.226 447.903>
 AnchorPoint: "Anchor-1" 343 0 basechar 0
@@ -29106,7 +29106,7 @@ StartChar: dcaron
 Encoding: 387 271 321
 Width: 643
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<231.329 333.157> 0 21G<412.03 563> 392 118<230.222 329.591> 495 192<613.064 658> 648 20G<394 546>
 VStem: 24 158<159.579 341.684> 394 152<428 668> 401 145<152.922 344.443> 602 111<570.921 667.922>
 AnchorPoint: "Anchor-1" 298 0 basechar 0
@@ -29121,7 +29121,7 @@ StartChar: uni0136
 Encoding: 388 310 322
 Width: 659
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -251 45<238 259.636> 0 21G<44 202 451.588 649> 648 20G<44 202 424.811 636>
 VStem: 44 158<0 197 403 668> 288 118<-186.134 -106.229> 443 193<475 668> 466 183<0 183>
 DStem2: 202 403 372 382 0.677631 0.735402<99.7539 358.191> 372 382 270 272 0.587037 -0.80956<29.1738 364.433>
@@ -29137,7 +29137,7 @@ StartChar: uni0137
 Encoding: 389 311 323
 Width: 567
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -251 45<203 224.636> 0 21G<50 202 368.667 563> 476 20G<350.34 548> 648 20G<50 202>
 VStem: 50 152<0 125 308 668> 253 118<-186.134 -106.229> 368 180<316 496> 383 180<0 180>
 DStem2: 354 289 254 180 0.586002 -0.810309<29.7235 251.173>
@@ -29153,7 +29153,7 @@ StartChar: uni0122
 Encoding: 390 290 324
 Width: 719
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -251 45<269 290.636> -12 130<291.336 472.04> 0 21G<573.054 683> 250 128<375 525> 550 130<290.994 463.09>
 VStem: 35 167<216.912 451.58> 319 118<-186.134 -106.229> 525 158<164.005 250>
 AnchorPoint: "Anchor-1" 327 -251 basechar 0
@@ -29168,7 +29168,7 @@ StartChar: Ccaron
 Encoding: 391 268 325
 Width: 673
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<291.107 460.991> 550 130<290.443 454.592> 740 91<311.5 402.5>
 VStem: 35 167<215.231 450.159>
 AnchorPoint: "Anchor-1" 357 0 basechar 0
@@ -29183,7 +29183,7 @@ StartChar: ccaron
 Encoding: 392 269 326
 Width: 520
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<223.861 354.393> 392 118<223.3 351.673> 568 91<234.5 325.5>
 VStem: 24 155<154.371 344.993>
 AnchorPoint: "Anchor-1" 275 0 basechar 0
@@ -29714,7 +29714,7 @@ StartChar: uni0218
 Encoding: 395 536 329
 Width: 619
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -251 45<248 269.636> -12 127<224.575 406.838> 553 127<217.01 383.598>
 VStem: 28 162<445.579 530.707> 298 118<-186.134 -106.229> 434 162<141.117 230.914>
 DStem2: 266 421 231 285 0.980581 -0.196116<-69.6636 188.025>
@@ -29893,7 +29893,7 @@ StartChar: uni021A
 Encoding: 397 538 331
 Width: 617
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -251 45<228 249.636> 0 21G<230 387> 529 139<15 230 387 602>
 VStem: 230 157<0 529> 278 118<-186.134 -106.229>
 AnchorPoint: "Anchor-1" 286 -251 basechar 0

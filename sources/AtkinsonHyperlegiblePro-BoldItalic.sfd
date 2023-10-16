@@ -5,7 +5,7 @@ FamilyName: Atkinson Hyperlegible Pro
 Weight: Bold
 Copyright: Copyright 2020 Braille Institute of America, Inc.
 UComments: "Update by Jacob Perez+AAoA-https://jacobxperez.github.io/atkinson-hyperlegible-pro/"
-Version: 1.3.0
+Version: 1.3.1
 ItalicAngle: -12
 UnderlinePosition: -106
 UnderlineWidth: 57
@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1618935638
-ModificationTime: 1697427148
+ModificationTime: 1697427857
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -936,7 +936,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Bold Italic" "" "" "Version 1.3.0" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "Bold Italic" "" "" "Version 1.3.1" "" "" "Braille Institute" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Jacob Perez" "" "https://www.BrailleInstitute.org/" "http://helloapplied.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: ISO8859-1
 UnicodeInterp: none
@@ -944,7 +944,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 19 14
+WinInfo: 57 19 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 3 subtable"
@@ -28566,7 +28566,7 @@ StartChar: Acircumflex
 Encoding: 194 194 189
 Width: 698
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<-65 132.092 455.311 623> 119 128<255 427> 648 20G<317.204 515.323> 746 152
 DStem2: -65 0 121 0 0.508034 0.861337<94.4943 230.524 375.321 522.352> 329 668 395 501 0.508034 0.861337<-400.217 -110.313> 512 668 395 501 0.16392 -0.986474<145.562 401.372> 623 0 427 247 0.16392 -0.986474<-531.597 -275.787 -147.06 -109.6>
 AnchorPoint: "Anchor-2" 577 10 basechar 0
@@ -28582,7 +28582,7 @@ StartChar: Atilde
 Encoding: 195 195 190
 Width: 698
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<-65 132.092 455.311 623> 119 128<255 427> 648 20G<317.204 515.323> 740 80<468.584 573.578> 779 82<346.893 456.6>
 DStem2: -65 0 121 0 0.508034 0.861337<94.4943 230.524 375.321 522.352> 329 668 395 501 0.508034 0.861337<-400.217 -110.313> 512 668 395 501 0.16392 -0.986474<145.562 401.372> 623 0 427 247 0.16392 -0.986474<-531.597 -275.787 -147.06 -109.6>
 AnchorPoint: "Anchor-2" 577 10 basechar 0
@@ -28937,7 +28937,7 @@ StartChar: acircumflex
 Encoding: 226 226 198
 Width: 545
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 103<111 234.634> 0 21G<295.305 441> 407 103<200.164 329.572> 574 152
 VStem: -18 161<103.038 182.612> 344 150<314.683 395.628>
 AnchorPoint: "Anchor-2" 446 0 basechar 0
@@ -28953,7 +28953,7 @@ StartChar: atilde
 Encoding: 227 227 199
 Width: 545
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 103<111 234.634> 0 21G<295.305 441> 407 103<200.164 329.572> 568 80<339.584 444.578> 607 82<217.893 327.6>
 VStem: -18 161<103.038 182.612> 344 150<314.683 395.628>
 AnchorPoint: "Anchor-2" 446 0 basechar 0
@@ -28985,7 +28985,7 @@ StartChar: aring
 Encoding: 229 229 201
 Width: 545
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 103<111 234.634> 0 21G<295.305 441> 407 103<200.164 329.572> 535 86<275.974 351.243> 715 85<278.91 351.243>
 VStem: -18 161<103.038 182.612> 183 85<628.895 704.164> 344 150<314.683 395.628> 362 86<631.826 704.164>
 AnchorPoint: "Anchor-2" 446 0 basechar 0
@@ -29408,7 +29408,7 @@ StartChar: Ecircumflex
 Encoding: 202 202 207
 Width: 582
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<168 495> 274 139<226 414> 529 139<251 607> 746 152
 DStem2: -23 0 138.455 0 0.207912 0.978148<175.674 313.753 455.745 574.408>
 AnchorPoint: "Anchor-2" 463 -12 basechar 0
@@ -29473,7 +29473,7 @@ StartChar: ecircumflex
 Encoding: 234 234 211
 Width: 567
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<179.264 339.37> 209 90<168 395.829> 399 111<227.801 368.979> 574 152
 VStem: 3 149<132.733 208.554> 396 134<299.125 372.391>
 AnchorPoint: "Anchor-2" 333 2 basechar 0
@@ -29539,7 +29539,7 @@ StartChar: Icircumflex
 Encoding: 206 206 215
 Width: 459
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 124<13 105 267 331> 544 124<129 195 355 447> 746 152
 DStem2: 78.643 0 240.643 0 0.207912 0.978148<160.452 556.304>
 AnchorPoint: "Anchor-2" 242 0 basechar 0
@@ -29572,7 +29572,7 @@ StartChar: igrave
 Encoding: 236 236 217
 Width: 326
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<48 208.234> 380 116<51 129> 574 153<157 177.568>
 VStem: 48 156<0 156> 78 187
 DStem2: 48 0 204 0 0.207912 0.978148<32.4342 388.537>
@@ -29589,7 +29589,7 @@ StartChar: iacute
 Encoding: 237 237 218
 Width: 326
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<48 208.234> 380 116<51 129> 574 153
 VStem: 48 156<0 156> 145 234
 DStem2: 48 0 204 0 0.207912 0.978148<32.4342 388.537>
@@ -29606,7 +29606,7 @@ StartChar: icircumflex
 Encoding: 238 238 219
 Width: 326
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<48 208.234> 380 116<51 129> 574 152
 VStem: 48 156<0 156>
 DStem2: 48 0 204 0 0.207912 0.978148<32.4342 388.537>
@@ -29623,7 +29623,7 @@ StartChar: idieresis
 Encoding: 239 239 220
 Width: 326
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<48 208.234> 380 116<51 129> 578 141<78.6582 176.857 272.658 370.373>
 VStem: 48 156<0 156> 57 141<599.143 697.342> 251 140<599.143 697.342>
 DStem2: 48 0 204 0 0.207912 0.978148<32.4342 388.537>
@@ -29640,7 +29640,7 @@ StartChar: Ntilde
 Encoding: 209 209 221
 Width: 715
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<-23 137.247 389.402 599.251> 648 20G<114.749 324.598 577.711 737> 740 80<497.584 602.578> 779 82<375.893 485.6>
 VStem: -23 156<0 156> 582 155<513 668>
 DStem2: -23 0 133 0 0.207912 0.978148<32.4342 528.251> 318 668 236 485 0.313289 -0.949658<148.098 510.71> 439.102 0 595 0 0.207912 0.978148<187.088 683.113>
@@ -29688,7 +29688,7 @@ StartChar: Ocircumflex
 Encoding: 212 212 224
 Width: 763
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<269.379 439.107> 550 130<326.561 491.661> 746 152
 VStem: 32 169<191.242 401.645> 564 168<263.569 475.891>
 AnchorPoint: "Anchor-2" 636 10 basechar 0
@@ -29704,7 +29704,7 @@ StartChar: Otilde
 Encoding: 213 213 225
 Width: 763
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<269.379 439.107> 550 130<326.561 491.661> 740 80<497.584 602.578> 779 82<375.893 485.6>
 VStem: 32 169<191.242 401.645> 564 168<263.569 475.891>
 AnchorPoint: "Anchor-2" 636 10 basechar 0
@@ -29770,7 +29770,7 @@ StartChar: Ucircumflex
 Encoding: 219 219 229
 Width: 679
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 129<213.053 383.145> 648 20G<115.691 281 535.733 701> 746 152
 VStem: 26 162<141.14 333.414> 120 161<507 668> 540 161<507 668>
 DStem2: -25.6172 -12 137.542 -12 0.207912 0.978148<256.214 695.416> 395.146 -12 556.383 -12 0.207912 0.978148<175.693 695.257>
@@ -29820,7 +29820,7 @@ StartChar: ntilde
 Encoding: 241 241 232
 Width: 579
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<-20 140.252 303 463.27> 392 118<294.734 426.5> 476 20G<80.7661 222.562> 568 80<385.584 490.578> 607 82<263.893 373.6>
 VStem: -20 156<0 156> 303 156<0 156> 368 161<227.164 379.425>
 DStem2: -20 0 136 0 0.207912 0.978148<32.4342 400.17> 303 0 459 0 0.207912 0.978148<32.4342 333.548>
@@ -29868,7 +29868,7 @@ StartChar: ocircumflex
 Encoding: 244 244 235
 Width: 576
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -13 118<184.682 314.585> 392 118<223.273 355.81> 574 152
 VStem: 5 154<131.351 314.243> 381 155<184.385 366.548>
 AnchorPoint: "Anchor-2" 467 10 basechar 0
@@ -29884,7 +29884,7 @@ StartChar: otilde
 Encoding: 245 245 236
 Width: 576
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -13 118<184.682 314.585> 392 118<223.273 355.81> 568 80<358.584 463.578> 607 82<236.893 346.6>
 VStem: 5 154<131.351 314.243> 381 155<184.385 366.548>
 AnchorPoint: "Anchor-2" 467 10 basechar 0
@@ -29950,7 +29950,7 @@ StartChar: ucircumflex
 Encoding: 251 251 240
 Width: 578
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<131.5 256.097> 0 21G<319.438 460.234> 476 20G<81.7246 241 401.725 561> 574 152
 VStem: 17 162<121.508 275.922> 86 155<341 496> 406 155<341 496>
 DStem2: -22.3131 -12 133.499 -12 0.207912 0.978148<225.289 519.419> 298.021 -12 453.021 -12 0.207912 0.978148<151.661 519.349>
@@ -31491,7 +31491,7 @@ StartChar: Ohungarumlaut
 Encoding: 338 336 272
 Width: 763
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 130<269.379 439.107> 550 130<326.561 491.661> 744 154
 VStem: 32 169<191.242 401.645> 564 168<263.569 475.891>
 AnchorPoint: "Anchor-2" 636 10 basechar 0
@@ -31507,7 +31507,7 @@ StartChar: ohungarumlaut
 Encoding: 339 337 273
 Width: 576
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -13 118<184.682 314.585> 392 118<223.273 355.81> 572 154
 VStem: 5 154<131.351 314.243> 381 155<184.385 366.548>
 AnchorPoint: "Anchor-2" 467 10 basechar 0
@@ -31540,7 +31540,7 @@ StartChar: imacron
 Encoding: 341 299 275
 Width: 326
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<48 208.234> 380 116<51 129> 570 98<89 367>
 VStem: 48 156<0 156> 68 320
 DStem2: 48 0 204 0 0.207912 0.978148<32.4342 388.537>
@@ -32165,7 +32165,7 @@ StartChar: Uhungarumlaut
 Encoding: 355 368 289
 Width: 679
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 129<213.053 383.145> 648 20G<115.691 281 535.733 701> 744 154
 VStem: 26 162<141.14 333.414> 120 161<507 668> 540 161<507 668>
 DStem2: -25.6172 -12 137.542 -12 0.207912 0.978148<256.214 695.416> 395.146 -12 556.383 -12 0.207912 0.978148<175.693 695.257>
@@ -32182,7 +32182,7 @@ StartChar: uhungarumlaut
 Encoding: 356 369 290
 Width: 578
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 118<131.5 256.097> 0 21G<319.438 460.234> 476 20G<81.7246 241 401.725 561> 572 154
 VStem: 17 162<121.508 275.922> 86 155<341 496> 406 155<341 496>
 DStem2: -22.3131 -12 133.499 -12 0.207912 0.978148<225.289 519.419> 298.021 -12 453.021 -12 0.207912 0.978148<151.661 519.349>
@@ -33562,7 +33562,7 @@ StartChar: lcaron
 Encoding: 374 318 308
 Width: 345
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 124<183.864 244> 496 192<330.43 352> 648 20G<116.758 277>
 VStem: 4 168<71.5 188.75> 121 156<512 668> 322 108<585.422 670.983>
 DStem2: -20.7579 0 135.846 0 0.207912 0.978148<195.878 682.876>
@@ -33578,7 +33578,7 @@ StartChar: Lcaron
 Encoding: 375 317 309
 Width: 543
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 139<168 458> 503 192<416.43 438> 648 20G<114.749 279>
 VStem: 119 160<508 668> 408 108<592.422 677.983>
 DStem2: -23 0 138.455 0 0.207912 0.978148<175.674 682.926>
@@ -33594,7 +33594,7 @@ StartChar: tcaron
 Encoding: 376 357 310
 Width: 396
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 124<228.864 289> 380 116<53 106 286 370> 553 192<409.43 431>
 VStem: 50 167<70.5 218.477> 401 108<642.422 727.983>
 DStem2: 25.1165 0 180.634 0 0.207912 0.978148<196.674 388.513 539.402 633.872>
@@ -33890,7 +33890,7 @@ StartChar: dcaron
 Encoding: 386 271 320
 Width: 652
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -12 117<146 273.432> 0 21G<337.413 488.5> 392 118<223.7 347.961> 496 192<669.43 691> 648 20G<453.709 613>
 VStem: 3 159<138.088 319.225> 661 108<585.422 670.983>
 DStem2: 312.963 -12 467.622 -12 0.207912 0.978148<442.673 695.295>
