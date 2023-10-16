@@ -13,6 +13,7 @@
 * [Language Support](#language-support)
 * [Flip the Zero](#flipping-the-zero)
 * [Change Log](#change-log)
+  * [Kern Log](#kern-log)
   * [Characters and Glyphs](#added-characters-and-glyphs)
 * [Contribute](#contribute)
 * [License](#license)
@@ -76,6 +77,9 @@ And thats it the zero has been flipped!!
 * Fix t with cedilla `ţ` `U+0163` now showing correct glyph
 * Added auto-hint and auto-instruct with fontforge
 * [Curvatura](https://github.com/linusromer/curvatura): Harmonize the joint tangent-ially for continuous curvature
+
+## Kern Log
+
 * Kern `v` `w` `y` pairs
 * Kern `Q` and `U` pairs
 * Kern `S` and `T V Y` pairs
