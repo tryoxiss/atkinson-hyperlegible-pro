@@ -27,7 +27,7 @@
 }
 
 [data-text~="h0"] {
-    font-size: clamp(3.15rem, 8vw + 1rem, 7.7rem);
+    font-size: clamp(3.15rem, 8vw + 1rem, 7.8rem);
     line-height: 1;
 }
 
