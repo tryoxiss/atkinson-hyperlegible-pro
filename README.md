@@ -8,9 +8,9 @@
 ## Table of Contents
 
 * [Overview](#overview)
-* [Features](#unique-design-features)
-* [Installing](#installing-the-font)
-* [Language Support](#language-support)
+  * [Features](#unique-design-features)
+  * [Installing](#installing-the-font)
+  * [Language Support](#language-support)
 * [Flip the Zero](#flipping-the-zero)
 * [Change Log](#change-log)
   * [Kern Log](#kern-log)
@@ -30,7 +30,7 @@ Atkinson Hyperlegible Pro is an update to the original typeface designed for The
 * Includes ligatures for `fi ff ffi fl ffl`
 * Alternative reversed number zero `0`
 
-## Unique Design Features
+### Unique Design Features
 
 Designed for low-vision readers, certain letters and numbers can be hard to distinguish from one another. Atkinson Hyperlegible Pro differentiates common misinterpreted letters and numbers using various design techniques: B vs. 8, 1 vs. L vs. l vs. I. Recognizable Footprints: Character boundaries are clearly defined, ensuring understanding across the visual-ability spectrum.
 
@@ -46,7 +46,7 @@ Exaggerated forms: Shaping of letters is exaggerated to provide better clarity. 
 
 Angled spurs and differentiated tails: Increase recognition and define distinctive style. Circular Details: Links to the history of Braille Institute and braille dots.
 
-## Installing the Font
+### Installing the Font
 
 * **[Download](https://github.com/jacobxperez/atkinson-hyperlegible-pro/archive/refs/heads/main.zip)** the font from this Github repository.
 * Extract the file to reveal additional folders inside. Find the Open Type Format (.otf) files for the four Atkinson Hyperlegible Pro fonts (regular, italic, bold, bold italic) inside the “[fonts/otf](https://github.com/jacobxperez/atkinson-hyperlegible-pro/tree/main/fonts/otf)” folder.
@@ -54,7 +54,7 @@ Angled spurs and differentiated tails: Increase recognition and define distincti
 * On Windows 10: Double-click the font file, then click the “Install” button in the font preview window that opens. The font will be installed. Alternatively, right-click on the file and choose “Install” from the pop-up menu.
 * On Mac: Double-click the font file in the Finder, then click “Install Font” in the font preview window that opens. After your Mac validates the font and opens the Font Book app, the font is installed and available for use.
 
-## Language Support
+### Language Support
 
 Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish Croatian Czech Danish Dutch Embu English Esperanto Estonian Faroese Filipino Finnish French Friulian Galician German Gusii Hungarian Icelandic Indonesian Irish Italian Kabuverdianu Kalenjin Kamba Kikuyu Kinyarwanda Latvian Lithuanian Lower Sorbian Luo Luxembourgish Luyia Machame Makhuwa-Meetto Makonde Malagasy Maltese Manx Meru Morisyen North Ndebele Norwegian Bokmål Norwegian Nynorsk Nyankole Oromo Polish Portuguese Quechua Romanian Romansh Rombo Rundi Rwa Samburu Sango Sangu Scottish Gaelic Sena Serbian Shambala Shona Slovak Soga Somali Spanish Swahili Swedish Swiss German Taita Teso Turkish Upper Sorbian Uzbek (Latin) Volapük Vunjo Walser Welsh Western Frisian Zulu.
 
@@ -78,7 +78,7 @@ And thats it the zero has been flipped!!
 * Added auto-hint and auto-instruct with fontforge
 * [Curvatura](https://github.com/linusromer/curvatura): Harmonize the joint tangent-ially for continuous curvature
 
-## Kern Log
+### Kern Log
 
 * Kern `v` `w` `y` pairs
 * Kern `Q` and `U` pairs
@@ -89,7 +89,7 @@ And thats it the zero has been flipped!!
 * Kern `V` and `c d e o g q m n p r` pairs
 * Kern `T` and `c d e o g q m n p r v w x y z` pairs
 
-## Added Characters and Glyphs
+### Added Characters and Glyphs
 
 * Modifier letter apostrophe `ʼ` `U+02BC`
 * U with caron `Ǔ` `U+01D3` and `ǔ` `U+01D4`
