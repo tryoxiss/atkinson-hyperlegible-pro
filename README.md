@@ -3,7 +3,7 @@
 88 Extra Glyphs, Including an Alternative Flipped Zero, Improved Kerning and Ligatures
 
 ---
-![Brochure Overview](docs/BIA_Brochure-Overview.jpg)
+![Brochure Overview](docs/banner.jpg)
 
 ## Table of Contents
 
