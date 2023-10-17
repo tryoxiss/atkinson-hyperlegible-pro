@@ -74,9 +74,9 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
-* Fix t with cedilla `ţ` `U+0163` now showing correct glyph
-* Added auto-hint and auto-instruct with fontforge
 * [Curvatura](https://github.com/linusromer/curvatura): Harmonize the joint tangent-ially for continuous curvature
+* Added auto-hint and auto-instruct with fontforge
+* Fix t with cedilla `ţ` `U+0163` now showing correct glyph
 
 ## Kern Log
 
