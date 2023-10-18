@@ -3,7 +3,7 @@
 88 Extra Glyphs, Including an Alternative Flipped Zero, Improved Kerning and Ligatures
 
 ---
-![Brochure Overview](docs/banner.jpg)
+![banner](docs/banner.jpg)
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@
 
 ## Overview
 
-Atkinson Hyperlegible Pro is an update to the original typeface designed for The Braille Institute and named after its founder J. Robert Atkinson. What makes it different from traditional typography design is that it focuses on letterform distinction to increase character recognition, ultimately improving legibility and readability for low-vision readers. The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
+Atkinson Hyperlegible Pro is an updated and extended version of the original typeface designed for The Braille Institute and named after its founder J. Robert Atkinson. This new typeface is designed to improve character recognition and legibility for low-vision readers by incorporating distinctive and unambiguous letterforms, breaking away from traditional typographic design. The typeface won Fast Company's 2019 Innovation By Design Award.
 
 * Four fonts, including two weights (regular, italic, bold, bold italic)
 * An additional 88 glyphs supporting 90 languages
