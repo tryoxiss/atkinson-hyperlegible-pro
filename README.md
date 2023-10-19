@@ -140,7 +140,7 @@ And thats it the zero has been flipped!!
 
 ## Contribute
 
-Help us extend Atkinson Hyperlegible Pro to other languages, before you commit let me know the changes that you wish to add. Visit the [issues](https://github.com/jacobxperez/atkinson-hyperlegible-pro/issues) page and the [project](https://github.com/jacobxperez/atkinson-hyperlegible-pro/projects?query=is%3Aopen) page to get started. I am currently working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00)” this will also include new diacritic and marks. Any contribution or feedback is welcome.
+Help us improve Atkinson Hyperlegible Pro for everyone, any contribution or feedback is welcome. Before you commit let me know by submitting an [issue](https://github.com/jacobxperez/atkinson-hyperlegible-pro/issues) or a [pull-request](https://github.com/jacobxperez/atkinson-hyperlegible-pro/pulls). There might be a cupule of [projects](https://github.com/jacobxperez/atkinson-hyperlegible-pro/projects?query=is%3Aopen) that need your help. I am currently working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00)” this will also include new diacritic and marks.
 
 ## License
 
