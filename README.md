@@ -3,8 +3,20 @@
 88 Extra Glyphs, Including an Alternative Flipped Zero, Improved Kerning and Ligatures
 
 ---
+![banner](docs/banner.jpg)
 
-![Brochure Overview](docs/BIA_Brochure-Overview.jpg)
+## Table of Contents
+
+* [Overview](#overview)
+  * [Features](#unique-design-features)
+  * [Installing](#installing-the-font)
+  * [Language Support](#language-support)
+* [Flip the Zero](#flipping-the-zero)
+* [Change Log](#change-log)
+  * [Kern Log](#kern-log)
+  * [Characters and Glyphs](#added-characters-and-glyphs)
+* [Contribute](#contribute)
+* [License](#license)
 
 ## Overview
 
@@ -14,17 +26,37 @@ Atkinson Hyperlegible Pro is an updated and extended version of the original typ
 * An additional 88 glyphs supporting 90 languages
 * 1,820 total glyphs across all fonts, 455 per font
 * Improve legibility and readability for low vision readers
-* Improve kerning for better body text
+* Improve kerning for visual aesthetics
 * Includes ligatures for `fi ff ffi fl ffl`
 * Alternative reversed number zero `0`
+
+## Unique Design Features
+
+Designed for low-vision readers, certain letters and numbers can be hard to distinguish from one another. Atkinson Hyperlegible Pro differentiates common misinterpreted letters and numbers using various design techniques: B vs. 8, 1 vs. L vs. l vs. I. Recognizable Footprints: Character boundaries are clearly defined, ensuring understanding across the visual-ability spectrum.
+
+> `Q vs G, E vs F, p vs q, i vs r, O vs 0`
+
+Differentiated letterforms: Similar letter pairs are differentiated from each other to dramatically increase legibility. Unambiguous Characters: designed to increase legibility and distinction.
+
+> `ER79jr Vsa36`
+
+Exaggerated forms: Shaping of letters is exaggerated to provide better clarity. Opened Counterspace: Open areas of certain letters are expanded to provide greater distinction.
+
+> `aGbgrpqu Åö8ij%?¡:`
+
+Angled spurs and differentiated tails: Increase recognition and define distinctive style. Circular Details: Links to the history of Braille Institute and braille dots.
 
 ## Installing the Font
 
 * **[Download](https://github.com/jacobxperez/atkinson-hyperlegible-pro/archive/refs/heads/main.zip)** the font from this Github repository.
-* Extract the file to reveal additional folders inside. Find the Open Type Format (.otf) files for the four Atkinson Hyperlegible Pro fonts (regular, italic, bold, bold italic) inside the “fonts/otf” folder.
-* Note that only the otf files are needed to install the font on a computer.
+* Extract the file to reveal additional folders inside. Find the Open Type Format (.otf) files for the four Atkinson Hyperlegible Pro fonts (regular, italic, bold, bold italic) inside the “[fonts/otf](https://github.com/jacobxperez/atkinson-hyperlegible-pro/tree/main/fonts/otf)” folder.
+* Note: Only the otf files are needed to install the font on a computer.
 * On Windows 10: Double-click the font file, then click the “Install” button in the font preview window that opens. The font will be installed. Alternatively, right-click on the file and choose “Install” from the pop-up menu.
 * On Mac: Double-click the font file in the Finder, then click “Install Font” in the font preview window that opens. After your Mac validates the font and opens the Font Book app, the font is installed and available for use.
+
+## Language Support
+
+Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish Croatian Czech Danish Dutch Embu English Esperanto Estonian Faroese Filipino Finnish French Friulian Galician German Gusii Hungarian Icelandic Indonesian Irish Italian Kabuverdianu Kalenjin Kamba Kikuyu Kinyarwanda Latvian Lithuanian Lower Sorbian Luo Luxembourgish Luyia Machame Makhuwa-Meetto Makonde Malagasy Maltese Manx Meru Morisyen North Ndebele Norwegian Bokmål Norwegian Nynorsk Nyankole Oromo Polish Portuguese Quechua Romanian Romansh Rombo Rundi Rwa Samburu Sango Sangu Scottish Gaelic Sena Serbian Shambala Shona Slovak Soga Somali Spanish Swahili Swedish Swiss German Taita Teso Turkish Upper Sorbian Uzbek (Latin) Volapük Vunjo Walser Welsh Western Frisian Zulu.
 
 ## Flipping the Zero
 
@@ -42,6 +74,12 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
+* [Curvatura](https://github.com/linusromer/curvatura): Harmonize the joint tangent-ially for continuous curvature
+* Added auto-hint and auto-instruct with fontforge
+* Fix t with cedilla `ţ` `U+0163` now showing correct glyph
+
+## Kern Log
+
 * Kern `v` `w` `y` pairs
 * Kern `Q` and `U` pairs
 * Kern `S` and `T V Y` pairs
@@ -50,7 +88,6 @@ And thats it the zero has been flipped!!
 * Kern `W` and `c d e o g q m n p r` pairs
 * Kern `V` and `c d e o g q m n p r` pairs
 * Kern `T` and `c d e o g q m n p r v w x y z` pairs
-* Fix t with cedilla `ţ` `U+0163` now showing correct glyph
 
 ## Added Characters and Glyphs
 
@@ -103,38 +140,11 @@ And thats it the zero has been flipped!!
 
 ## Contribute
 
-Help us extend Atkinson Hyperlegible Pro to other languages, before you commit let me know the characters that you wish to add so that I can add the corresponding encoding slot. I am currently working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00)” this will also include new diacritic and marks.
-
-## Language Support (90)
-
-Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish Croatian Czech Danish Dutch Embu English Esperanto Estonian Faroese Filipino Finnish French Friulian Galician German Gusii Hungarian Icelandic Indonesian Irish Italian Kabuverdianu Kalenjin Kamba Kikuyu Kinyarwanda Latvian Lithuanian Lower Sorbian Luo Luxembourgish Luyia Machame Makhuwa-Meetto Makonde Malagasy Maltese Manx Meru Morisyen North Ndebele Norwegian Bokmål Norwegian Nynorsk Nyankole Oromo Polish Portuguese Quechua Romanian Romansh Rombo Rundi Rwa Samburu Sango Sangu Scottish Gaelic Sena Serbian Shambala Shona Slovak Soga Somali Spanish Swahili Swedish Swiss German Taita Teso Turkish Upper Sorbian Uzbek (Latin) Volapük Vunjo Walser Welsh Western Frisian Zulu.
-
-## Unique design features
-
-For Low vision readers, certain letters and numbers can be hard to distinguish from one another.
-Atkinson Hyperlegible differentiates common misinterpreted letters and numbers using various design techniques: B vs 8, 1 vs L vs l vs I. Recognizable Footprints: Character boundaries clearly defined, ensuring understanding across the visual-ability spectrum.
-
-Differentiated letterforms: Similar letter pairs are differentiated from each other to dramatically increase legibility.
-
-> `Q vs G, E vs F, p vs q, i vs r, O vs 0`
-
-Unambiguous Characters: designed to increase legibility and distinction
-
-> `ER79jr Vsa36`
-
-Exaggerated forms: Shaping of letters is exaggerated to provide better clarity
-
-Opened Counterspace: Open areas of certain letters are expanded to provide greater distinction
-
-> `aGbgrpqu Åö8ij%?¡,:`
-
-Angled spurs and differentiated tails: Increase recognition and define distinctive style
-
-Circular Details: Links to the history of Braille Institute and braille dots
+Help us improve Atkinson Hyperlegible Pro for everyone, any contribution or feedback is welcome. Before you commit let me know by submitting an [issue](https://github.com/jacobxperez/atkinson-hyperlegible-pro/issues) or a [pull-request](https://github.com/jacobxperez/atkinson-hyperlegible-pro/pulls). There might be a cupule of [projects](https://github.com/jacobxperez/atkinson-hyperlegible-pro/projects?query=is%3Aopen) that need your help. I am currently working on adding more glyphs to cover the unicode block of “[latin extended additional](https://www.compart.com/en/unicode/block/U+1E00)” this will also include new diacritic and marks.
 
 ## License
 
-SIL Open Font License, v1.1. See [OFL.txt](OFL.txt) for details.
+SIL Open Font License, v1.1. See [LICENSE.txt](LICENSE.txt) for details.
 
 ---
 
