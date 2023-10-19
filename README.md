@@ -144,7 +144,7 @@ Help us extend Atkinson Hyperlegible Pro to other languages, before you commit l
 
 ## License
 
-SIL Open Font License, v1.1. See [OFL.txt](LICENSE.txt) for details.
+SIL Open Font License, v1.1. See [LICENSE.txt](LICENSE.txt) for details.
 
 ---
 
