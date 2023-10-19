@@ -1,7 +1,5 @@
 # [Atkinson Hyperlegible Pro](https://jacobxperez.github.io/atkinson-hyperlegible-pro/)
 
-88 Extra Glyphs, Including an Alternative Flipped Zero, Improved Kerning and Ligatures
-
 ![banner](docs/banner.jpg)
 
 ## Getting Started
@@ -14,7 +12,6 @@ Install devDependencies on your machine with [npm](https://www.npmjs.com/)
 
 On your terminal run these scripts to compile
 
-- `npm run docs` locally runs documentation
 - `npm run dev` serve current development build
 - `npm run watch` watch for changes but does not start server
 - `npm run build` makes current build and sets url to "/" can be changed on [package.json](https://github.com/jacobxperez/rams/blob/master/package.json)
