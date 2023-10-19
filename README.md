@@ -1,6 +1,6 @@
 # [Atkinson Hyperlegible Pro](https://jacobxperez.github.io/atkinson-hyperlegible-pro/)
 
-An updated and extended version of [Atkinson Hyperlegible](https://brailleinstitute.org/freefont).
+An updated and extended version of [Atkinson Hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible).
 
 ---
 ![banner](docs/banner.jpg)
