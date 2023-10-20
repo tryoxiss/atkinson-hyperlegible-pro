@@ -20,7 +20,7 @@ An updated and extended version of [Atkinson Hyperlegible](https://github.com/go
 
 ## Overview
 
-Atkinson Hyperlegible Pro is an updated and extended version of the original typeface, which was initially designed for The Braille Institute and named after its founder, J. Robert Atkinson. It was specifically designed to improve character recognition and legibility for low-vision readers by incorporating distinctive and unambiguous letterforms. The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
+Atkinson Hyperlegible Pro is an updated and extended version of the original typeface, which was initially designed for The Braille Institute and named after its founder, J. Robert Atkinson. It was specifically designed to improve character recognition and legibility for low-vision readers by incorporating distinctive and unambiguous letterform’s. The typeface was a Winner of Fast Company’s 2019 Innovation By Design Award.
 
 * Four fonts, including two weights (regular, italic, bold, bold italic)
 * An additional 88 glyphs supporting 90 languages
@@ -36,7 +36,7 @@ Designed for low-vision readers, certain letters and numbers can be hard to dist
 
 > `Q vs G, E vs F, p vs q, i vs r, O vs 0`
 
-Differentiated letterforms: Similar letter pairs are differentiated from each other to dramatically increase legibility. Unambiguous Characters: designed to increase legibility and distinction.
+Differentiated letterform’s: Similar letter pairs are differentiated from each other to dramatically increase legibility. Unambiguous Characters: designed to increase legibility and distinction.
 
 > `ER79jr Vsa36`
 
@@ -74,8 +74,9 @@ And thats it the zero has been flipped!!
 
 ## Change Log
 
-* [Curvatura](https://github.com/linusromer/curvatura): Harmonize the joint tangent-ially for continuous curvature
-* Added auto-hint and auto-instruct with fontforge
+* Added auto hint using FontForge AutoHint tool
+* Harmonized curves using FontForge balance tool
+* Change curve type from quadratic to cubic
 * Fix t with cedilla `ţ` `U+0163` now showing correct glyph
 
 ## Kern Log
