@@ -63,14 +63,16 @@ Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish 
 By default the zero remains as it is however you can flip the zero by adding
 `font-variant-numeric: slashed-zero;` to your CSS file.
 
-    body {
-      font-size: 100%;
-      font-family: "Atkinson Hyperlegible Pro", sans-serif;
-      font-weight: 400;
-      font-variant-numeric: slashed-zero;
-    }
+```css
+body {
+  font-family: "Atkinson Hyperlegible Pro", "Atkinson Hyperlegible", Helvetica, Arial, sans-serif;
+  font-size: 100%;
+  font-weight: 400;
+  font-variant-numeric: slashed-zero;
+}
+```
 
-And thats it the zero has been flipped!!
+And that’s it the zero has been flipped!!
 
 ## Change Log
 
