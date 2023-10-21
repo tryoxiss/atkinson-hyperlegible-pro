@@ -71,8 +71,6 @@ body {
 }
 ```
 
-And that’s it the zero has been flipped!!
-
 ## Change Log
 
 * Added auto hint using FontForge AutoHint tool
