@@ -15,7 +15,7 @@ An updated and extended version of [Atkinson Hyperlegible](https://github.com/go
 * [Change Log](#change-log)
   * [Kern Log](#kern-log)
   * [Characters and Glyphs](#added-characters-and-glyphs)
-* [Contribute](#contribute)
+* [Contributing](#contributing)
 * [License](#license)
 
 ## Overview
@@ -138,7 +138,7 @@ body {
 * Copyleft `🄯` `U+1F12F`
 * Alternative reversed number zero `0`
 
-## Contribute
+## Contributing
 
 Help us improve Atkinson Hyperlegible Pro for everyone, any contribution or feedback is welcome. Before starting any change to this project let me know by submitting an [issue](https://github.com/jacobxperez/atkinson-hyperlegible-pro/issues) or starting a [discussion](https://github.com/jacobxperez/atkinson-hyperlegible-pro/discussions).
 
