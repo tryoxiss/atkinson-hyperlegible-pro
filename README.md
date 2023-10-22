@@ -140,7 +140,7 @@ body {
 
 ## Contribute
 
-Help us improve Atkinson Hyperlegible Pro for everyone, any contribution or feedback is welcome. Before you commit let me know by submitting an [issue](https://github.com/jacobxperez/atkinson-hyperlegible-pro/issues), starting a [discussion](https://github.com/jacobxperez/atkinson-hyperlegible-pro/discussions) or a [pull-request](https://github.com/jacobxperez/atkinson-hyperlegible-pro/pulls). There might be a cupule of [projects](https://github.com/jacobxperez/atkinson-hyperlegible-pro/projects?query=is%3Aopen) that need your help.
+Help us improve Atkinson Hyperlegible Pro for everyone, any contribution or feedback is welcome. Before starting any change to this project let me know by submitting an [issue](https://github.com/jacobxperez/atkinson-hyperlegible-pro/issues) or starting a [discussion](https://github.com/jacobxperez/atkinson-hyperlegible-pro/discussions).
 
 ## License
 
