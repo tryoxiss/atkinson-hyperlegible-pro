@@ -15,7 +15,7 @@ An updated and extended version of [Atkinson Hyperlegible](https://github.com/go
 * [Change Log](#change-log)
   * [Kern Log](#kern-log)
   * [Characters and Glyphs](#added-characters-and-glyphs)
-* [Contribute](#contribute)
+* [Contributing](#contributing)
 * [License](#license)
 
 ## Overview
@@ -26,7 +26,7 @@ Atkinson Hyperlegible Pro is an updated and extended version of the original typ
 * An additional 88 glyphs supporting 90 languages
 * 1,820 total glyphs across all fonts, 455 per font
 * Improve legibility and readability for low vision readers
-* Improve kerning for visual aesthetics
+* Updated kerning for visual aesthetics and readability
 * Includes ligatures for `fi ff ffi fl ffl`
 * Alternative reversed number zero `0`
 
@@ -60,7 +60,7 @@ Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish 
 
 ## Flipping the Zero
 
-By default the zero remains with a backslash `\` this was done to prevent a confusion with the danish `Ø` however, when paring the typeface with a monospace that only supports a forwardslash `/` zero this may create a cognitive dissonance problem. In that occasion you might want to flip the zero by adding `font-variant-numeric: slashed-zero;` to your CSS file.
+By default the zero remains with a backslash `\` this was done to prevent confusion with the Danish Ø however, when pairing the typeface with a monospace that only supports a forwardslash `/` zero, this may create a cognitive dissonance problem. On that occasion you might want to flip the zero by adding `font-variant-numeric: slashed-zero;` to your CSS file.
 
 ```css
 body {
@@ -138,9 +138,9 @@ body {
 * Copyleft `🄯` `U+1F12F`
 * Alternative reversed number zero `0`
 
-## Contribute
+## Contributing
 
-Help us improve Atkinson Hyperlegible Pro for everyone, any contribution or feedback is welcome. Before you commit let me know by submitting an [issue](https://github.com/jacobxperez/atkinson-hyperlegible-pro/issues), starting a [discussion](https://github.com/jacobxperez/atkinson-hyperlegible-pro/discussions) or a [pull-request](https://github.com/jacobxperez/atkinson-hyperlegible-pro/pulls). There might be a cupule of [projects](https://github.com/jacobxperez/atkinson-hyperlegible-pro/projects?query=is%3Aopen) that need your help.
+Help us improve Atkinson Hyperlegible Pro for everyone, any contribution or feedback is welcome. Before starting any change to this project let me know by submitting an [issue](https://github.com/jacobxperez/atkinson-hyperlegible-pro/issues) or starting a [discussion](https://github.com/jacobxperez/atkinson-hyperlegible-pro/discussions).
 
 ## License
 
