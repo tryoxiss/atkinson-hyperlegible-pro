@@ -60,7 +60,7 @@ Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish 
 
 ## Flipping the Zero
 
-By default the zero remains with a backslash `\` this was done to prevent a confusion with the danish `Ø` however, when paring the typeface with a monospace that only supports a forwardslash `/` zero this may create a cognitive dissonance problem. In that occasion you might want to flip the zero by adding `font-variant-numeric: slashed-zero;` to your CSS file.
+By default the zero remains with a backslash `\` this was done to prevent confusion with the Danish Ø however, when pairing the typeface with a monospace that only supports a forwardslash `/` zero, this may create a cognitive dissonance problem. On that occasion you might want to flip the zero by adding `font-variant-numeric: slashed-zero;` to your CSS file.
 
 ```css
 body {
