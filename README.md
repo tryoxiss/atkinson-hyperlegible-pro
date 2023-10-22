@@ -26,7 +26,7 @@ Atkinson Hyperlegible Pro is an updated and extended version of the original typ
 * An additional 88 glyphs supporting 90 languages
 * 1,820 total glyphs across all fonts, 455 per font
 * Improve legibility and readability for low vision readers
-* Improve kerning for visual aesthetics
+* Updated kerning for visual aesthetics and readability
 * Includes ligatures for `fi ff ffi fl ffl`
 * Alternative reversed number zero `0`
 
