@@ -26,7 +26,7 @@ Atkinson Hyperlegible Pro is an updated and extended version of the original typ
 * An additional 88 glyphs supporting 90 languages
 * 1,820 total glyphs across all fonts, 455 per font
 * Improve legibility and readability for low vision readers
-* Updated kerning for visual aesthetics and readability
+* Updated kerning for visual harmony and readability
 * Includes ligatures for `fi ff ffi fl ffl`
 * Alternative reversed number zero `0`
 
@@ -140,7 +140,7 @@ body {
 
 ## Contributing
 
-Help us improve Atkinson Hyperlegible Pro for everyone, any contribution or feedback is welcome. Before starting any change to this project let me know by submitting an [issue](https://github.com/jacobxperez/atkinson-hyperlegible-pro/issues) or starting a [discussion](https://github.com/jacobxperez/atkinson-hyperlegible-pro/discussions).
+Help us improve Atkinson Hyperlegible Pro for everyone, any contribution or feedback is welcome. Before starting any change to this project let me know by submitting an [issue](https://github.com/jacobxperez/atkinson-hyperlegible-pro/issues) or starting a [discussion](https://github.com/jacobxperez/atkinson-hyperlegible-pro/discussions). If you don't know what to contribute there might be a couple of [projects](https://github.com/jacobxperez/atkinson-hyperlegible-pro/projects?query=is%3Aopen) that need your help.
 
 ## License
 
