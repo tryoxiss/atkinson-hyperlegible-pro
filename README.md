@@ -138,7 +138,7 @@ body {
 * Copyleft `🄯` `U+1F12F`
 * Alternative reversed number zero `0`
 
-## Contributing
+## [Contributing](https://github.com/jacobxperez/atkinson-hyperlegible-pro/blob/main/.github/CONTRIBUTING.md)
 
 Help us improve Atkinson Hyperlegible Pro for everyone, any contribution or feedback is welcome. Before starting any change to this project let me know by submitting an [issue](https://github.com/jacobxperez/atkinson-hyperlegible-pro/issues) or starting a [discussion](https://github.com/jacobxperez/atkinson-hyperlegible-pro/discussions). If you don't know what to contribute there might be a couple of [projects](https://github.com/jacobxperez/atkinson-hyperlegible-pro/projects?query=is%3Aopen) that need your help.
 
