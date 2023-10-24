@@ -16,7 +16,7 @@ On your terminal run these scripts to compile
 
 - `npm run dev` serve current development build
 - `npm run watch` watch for changes but does not start server
-- `npm run build` makes current build and sets url to "/" can be changed on [package.json](https://github.com/jacobxperez/rams/blob/master/package.json)
+- `npm run build` makes current build
 
 ## Framework
 
