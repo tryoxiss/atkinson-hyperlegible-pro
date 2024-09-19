@@ -1,5 +1,12 @@
 # [Atkinson Hyperlegible Pro](https://jacobxperez.github.io/atkinson-hyperlegible-pro/)
 
+> **Important**
+> I am NOT the maintainer. Github crowned this the new upstream repository after Jacob made the repository private following a failed attempt to get permission to use the name "atkinson hyperlegible" as part of the font name.
+>
+> Once the font is renamed and the new repository is up I will update this to redirect there. In the meantime you are welcome to star or watch this so you know when that happens.
+> 
+> https://github.com/tryoxiss/atkinson-hyperlegible-pro/issues/2#issuecomment-2359924049
+
 An updated and extended version of [Atkinson Hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible).
 
 ---
