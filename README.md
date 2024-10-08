@@ -1,4 +1,4 @@
-# [Atkinson Hyperlegible Pro](https://jacobxperez.github.io/atkinson-hyperlegible-pro/)
+# Atkinson Hyperlegible Pro
 
 > **Important**
 > The font repository is now back up, under the name [Lexia Ultralegible](https://github.com/jacobxperez/lexica-ultralegible).
@@ -51,8 +51,8 @@ Angled spurs and differentiated tails: Increase recognition and define distincti
 
 ## Installing the Font
 
-* **[Download](https://github.com/jacobxperez/atkinson-hyperlegible-pro/archive/refs/heads/main.zip)** the font from this Github repository.
-* Extract the file to reveal additional folders inside. Find the Open Type Format (.otf) files for the four Atkinson Hyperlegible Pro fonts (regular, italic, bold, bold italic) inside the “[fonts/otf](https://github.com/jacobxperez/atkinson-hyperlegible-pro/tree/main/fonts/otf)” folder.
+* **[Download](https://github.com/tryoxiss/atkinson-hyperlegible-pro/archive/refs/heads/main.zip)** the font from this Github repository.
+* Extract the file to reveal additional folders inside. Find the Open Type Format (.otf) files for the four Atkinson Hyperlegible Pro fonts (regular, italic, bold, bold italic) inside the “[fonts/otf](https://github.com/tryoxiss/atkinson-hyperlegible-pro/tree/main/fonts/otf)” folder.
 * Note: Only the otf files are needed to install the font on a computer.
 * On Windows 10: Double-click the font file, then click the “Install” button in the font preview window that opens. The font will be installed. Alternatively, right-click on the file and choose “Install” from the pop-up menu.
 * On Mac: Double-click the font file in the Finder, then click “Install Font” in the font preview window that opens. After your Mac validates the font and opens the Font Book app, the font is installed and available for use.
@@ -141,9 +141,9 @@ body {
 * Copyleft `🄯` `U+1F12F`
 * Alternative reversed number zero `0`
 
-## [Contributing](https://github.com/jacobxperez/atkinson-hyperlegible-pro/blob/main/.github/CONTRIBUTING.md)
+## [Contributing](https://github.com/tryoxiss/atkinson-hyperlegible-pro/blob/main/.github/CONTRIBUTING.md)
 
-Help us improve Atkinson Hyperlegible Pro for everyone, any contribution or feedback is welcome. Before starting any change to this project let me know by submitting an [issue](https://github.com/jacobxperez/atkinson-hyperlegible-pro/issues) or starting a [discussion](https://github.com/jacobxperez/atkinson-hyperlegible-pro/discussions). If you don't know what to contribute there might be a couple of [projects](https://github.com/jacobxperez/atkinson-hyperlegible-pro/projects?query=is%3Aopen) that need your help.
+Help us improve Atkinson Hyperlegible Pro for everyone, any contribution or feedback is welcome.
 
 ## License
 
