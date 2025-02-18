@@ -1,6 +1,6 @@
 # [Atkinson Hyperlegible Pro](https://jacobxperez.github.io/atkinson-hyperlegible-pro/)
 
-> **Important**
+> [!important]
 > The font repository is now back up, under the name [Lexia Ultralegible](https://github.com/jacobxperez/lexica-ultralegible).
 
 An updated and extended version of [Atkinson Hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible).
