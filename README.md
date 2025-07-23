@@ -1,4 +1,4 @@
-# This repository exists only as an archive. The font has been renamed to  [Lexia Ultralegible](https://github.com/jacobxperez/lexica-ultralegible).
+# This repository exists only as an archive. The font has been renamed to  [Lexica Ultralegible](https://github.com/jacobxperez/lexica-ultralegible).
 
 This repository exists to direct people who found of this font under the old name to the new font name and repository.
 
